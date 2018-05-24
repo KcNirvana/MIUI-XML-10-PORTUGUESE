@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Sincronização Mi Cloud</string>
+  <string name="error_data_in_transfer">A sincronização vai ser concluída em %s horas</string>
+  <string name="error_data_in_transfer_title">Mi Cloud indisponível</string>
+  <string name="error_forbidden">A sincronização foi desactivada devido a problemas com a sua Conta Mi</string>
+  <string name="error_not_acceptable">A sincronização foi desactivada</string>
+  <string name="error_title">Não foi possível sincronizar</string>
+  <string name="error_unauthorized">A sincronização foi desactivada devido a demasiadas tentativas de início de sessão</string>
+</resources>

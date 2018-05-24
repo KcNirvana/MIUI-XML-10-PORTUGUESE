@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="about_preference_screen_title">Acerca</string>
+  <string name="about_preference_title">Acerca</string>
+  <string name="acknowledge_btn">Tomei conhecimento</string>
+  <string name="action_settings">Definições</string>
+  <string name="activation_page">Não activado</string>
+  <string name="activation_page_btn_txt">Activar</string>
+  <string name="activation_page_info">Iniciar sessão na sua Conta Mi para activar o início de sessão segura</string>
+  <string name="add_account_menu_item">Adicionar conta</string>
+  <string name="app_name">Autenticador Xiaomi</string>
+  <string name="app_name_lockpattern">Padrão de Bloqueio</string>
+  <string name="app_name_short">Autenticador</string>
+  <string name="authenticator_invalid_tip">É possível que esta funcionalidade tenha sido desligada através do navegador do seu computador ou tenha sido activo outro token de segurança Mi</string>
+  <string name="authenticator_invalid_title">Conta %1$s o token de segurança expirou</string>
+  <string name="authenticator_page_reactivation">Reactivar</string>
+  <string name="button_add_account">Adicionar uma conta</string>
+  <string name="button_add_account_manual_entry">Adicionar uma conta manualmente</string>
+  <string name="button_add_account_scan_barcode">Digitalizar código de barras</string>
+  <string name="button_back">Voltar</string>
+  <string name="button_exit_howitworks_flow">Sair</string>
+  <string name="button_how_it_works">Ver como funciona</string>
+  <string name="button_next">Seguinte</string>
+  <string name="button_uninstall_old_app">Desinstalar</string>
+  <string name="cancel">Cancelar</string>
+  <string name="change_security_lock">Mais ecrãs de bloqueio</string>
+  <string name="check_code">Para verificar que tem a chave correcta para %1$s verifique se o valor corresponde ao valor de verificação de integridade fornecido pelo servidor:&lt;br/&gt;</string>
+  <string name="check_code_menu_item">Verificar valor da chave</string>
+  <string name="check_code_title">Valor de verificação de integridade</string>
+  <string name="continue_btn">Continuar</string>
+  <string name="copy_to_clipboard">Copiar para a área de transferência</string>
+  <string name="correct_enter_password">O padrão que desenhou está correcto</string>
+  <string name="correct_enter_update_password">O padrão que desenhou está correcto</string>
+  <string name="counter_pin">Obter código</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Os dados foram importados com sucesso a partir da aplicação Autenticador Xiaomi. Agora é seguro desinstalar a versão anterior da aplicação clicando em baixo</string>
+  <string name="dataimport_import_succeeded_uninstall_dialog_title">Importação com sucesso</string>
+  <string name="decoding_exception">Descodificar excepção</string>
+  <string name="details_patternforgotten">"Reactivar: 
+Inicie sessão em account.xiaomi.com e toque Reactivar"</string>
+  <string name="empty_pin">_ _ _ _ _ _</string>
+  <string name="enter_account_label">Introduza o nome da conta</string>
+  <string name="enter_key_hint">Introduza a sua chave</string>
+  <string name="enter_key_illegal_char">A chave tem caracteres ilegais</string>
+  <string name="enter_key_page_add_button">Adicionar</string>
+  <string name="enter_key_title">Entrada de conta manual</string>
+  <string name="enter_key_too_short">A chave é demasiado pequena</string>
+  <string name="enter_pin">Introduza este código de verificação se for pedido durante o início de sessão:</string>
+  <string name="error_empty_secret">Não é possível guardar código vazio</string>
+  <string name="error_exists">Aviso: Este nome já está a ser utilizado</string>
+  <string name="error_qr">Não foi possível interpretar o código QR</string>
+  <string name="error_title">Erro</string>
+  <string name="error_uri">Chave não reconhecida</string>
+  <string name="forget_password"><u>Esqueceu o padrão?</u></string>
+  <string name="general_security_exception">Excepção de segurança geral</string>
+  <string name="gif_not_support_camera_msg">O seu dispositivo não suporta gravação de vídeo</string>
+  <string name="how_it_works_menu_item">Como funciona</string>
+  <string name="howitworks_page_enter_code_details">Esta aplicação vai gerar o código necessário para proceder ao início de sessão</string>
+  <string name="howitworks_page_enter_code_title">Se estiver num novo computador, introduza o código no seu telefone</string>
+  <string name="howitworks_page_enter_password_details">Se estiver num novo computador ou dispositivo, a Xiaomi vai pedir um código especial para certificação de utilizador</string>
+  <string name="howitworks_page_enter_password_title">Para iniciar sessão tem de introduzir a sua palavra-passe</string>
+  <string name="howitworks_page_verify_device_details">Também pode optar por guardar a ligação a este computador e a Xiaomi não voltará a pedir um código quando a usar o mesmo computador</string>
+  <string name="howitworks_page_verify_device_title">Depois fica com a sessão iniciada</string>
+  <string name="install_button">Instalar</string>
+  <string name="install_dialog_message">Para digitalizar códigos de barras que contenham chaves, tem de instalar o digitalizador de códigos de barras ZXing</string>
+  <string name="install_dialog_title">Instalar digitalizador de Código de Barras?</string>
+  <string name="jump_createpattern_tip">Desenhe um padrão de segurança para proteger a sua conta</string>
+  <string name="jump_lockpattern_title">Atenção</string>
+  <string name="jump_updatepattern_tip">Desenhe um padrão de bloqueio para proteger a sua conta</string>
+  <string name="lockpassword_choose_your_pattern_header">Desenhe o seu padrão</string>
+  <string name="lockpassword_confirm_your_pattern_header">Confirme o seu padrão</string>
+  <string name="lockpassword_input_your_pattern_header">Confirme o seu padrão</string>
+  <string name="lockpattern_confirm_button_text">Confirmar</string>
+  <string name="lockpattern_continue_button_text">Continuar</string>
+  <string name="lockpattern_need_to_confirm">Desenhar novamente o padrão para confirmar</string>
+  <string name="lockpattern_need_to_confirm_wrong">O padrão desenhado não coincide. Tente novamente</string>
+  <string name="lockpattern_need_to_unlock_footer"/>
+  <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red&gt;Padrão incorrecto. Tem mais %d tentativas&lt;/font&gt;</string>
+  <string name="lockpattern_need_to_unlock_wrong_footer"/>
+  <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
+  <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
+  <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente</string>
+  <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
+  <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio</string>
+  <string name="lockpattern_redraw_button_text">Redesenhar</string>
+  <string name="lockpattern_retry_text">Reiniciar padrão</string>
+  <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Aguarde pelo menos %d segundos e tente novamente</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red&gt;Demasiadas tentativas incorrectas!&lt;/font&gt;</string>
+  <string name="lockpattern_tutorial_cancel_label">Voltar</string>
+  <string name="lockpattern_tutorial_close_label">Fechar</string>
+  <string name="lockpattern_tutorial_continue_label">Seguinte</string>
+  <string name="lockpattern_tutorial_jump_label">Ignorar</string>
+  <string name="lockscreen_forgot_pattern_button_text"><u>Esqueceu o padrão?</u></string>
+  <string name="login">Entrar</string>
+  <string name="main_preference_screen_title">Definições</string>
+  <string name="mycard_scan_barcode">Digitalizador de Código ID Mi</string>
+  <string name="new_pattern_tip">O padrão tem de ser maior que 4 pontos</string>
+  <string name="ok">OK</string>
+  <string name="ok_button">OK</string>
+  <string name="open_camera_exception_dialog_content">Erro inesperado na câmara. Poderá ser necessário reiniciar o dispositivo ou limpar os dados da aplicação câmara</string>
+  <string name="open_camera_exception_dialog_title">Erro inesperado na câmara</string>
+  <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
+  <string name="opensource_preference_title">Projecto open source</string>
+  <string name="original_pattern_tip">Desenhe o seu padrão de desbloqueio</string>
+  <string name="password_error">A palavra-passe que introduziu está incorrecta</string>
+  <string name="password_forget">Esqueceu a palavra-passe?</string>
+  <string name="password_hint">Introduza a sua palavra-passe da Conta Mi</string>
+  <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
+  <string name="privacy_preference_title">Políticas de Privacidade</string>
+  <string name="progress_loading">A carregar…</string>
+  <string name="remove_Xiaomi_account_dialog_message">Remover esta conta vai &lt;b&gt;remover a sua capacidade&lt;/b&gt; de gerar códigos, no entanto, &lt;b&gt;não&lt;/b&gt; vai desligar a verificação em 2 passos. Isto pode impedir o início de sessão na sua conta. &lt;p&gt;Antes de remover: &lt;ul&gt; &lt;li&gt;Desligar a verificação em 2 passos, ou&lt;/li&gt; &lt;li&gt;Certifique-se que tem um método alternativo para gerar códigos.&lt;/li&gt; &lt;/ul&gt;&lt;/p&gt;</string>
+  <string name="remove_account">Remover conta</string>
+  <string name="remove_account_dialog_message">"Remover esta conta vai remover a sua capacidade de gerar códigos. Isto pode impedir o início sessão na sua conta.
+
+Antes de remover:
+—Desligar a verificação em 2 passos para esta conta ou
+—Certifique-se que tem um método alternativo para gerar códigos"</string>
+  <string name="remove_account_dialog_title">Remover conta?</string>
+  <string name="rename">Mudar o nome</string>
+  <string name="rename_message">Mudar o nome de %1$s</string>
+  <string name="resetbtn_patternforgotten">Reiniciar</string>
+  <string name="save_key_message">Guardar chave para</string>
+  <string name="scan_barcode">Digitalizar ID Mi</string>
+  <string name="scan_barcode_info">Alinhar e digitalizar um código de barras ID Mi no interior do quadrado que surge no ecrã</string>
+  <string name="secret_saved">Código guardado</string>
+  <string name="security_setting">Definições de segurança</string>
+  <string name="settings_menu_item">Definições</string>
+  <string name="submit">Guardar</string>
+  <string name="success_copy_to_clipboard">Foi copiado para a área de transferência</string>
+  <string name="success_reset_password">Redefinição do padrão com sucesso</string>
+  <string name="success_set_password">Padrão criado com sucesso</string>
+  <string name="summary_lockpattern">Necessita de um padrão de desbloqueio único para o Crédito Mi</string>
+  <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
+  <string name="terms_preference_title">Termos do Serviço</string>
+  <string name="timesync_about_feature_preference_title">Acerca desta funcionalidade</string>
+  <string name="timesync_about_feature_screen_details">"Se premir &amp;quot;Sincronizar agora&amp;quot;, o Autenticador vai tentar sincronizar o seu relógio interno com os servidores do Google. A data do dispositivo &amp; Definições de data/hora não vão ser mudadas"</string>
+  <string name="timesync_about_feature_screen_title">Acerca desta funcionalidade</string>
+  <string name="timesync_preference_screen_summary">Sincronizar relógio interno do Autenticador com os servidores</string>
+  <string name="timesync_preference_screen_title">Correcção de hora para códigos</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">Ocorreu um problema de ligação ao servidor. Tente novamente mais tarde</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_title">Sincronizar agora</string>
+  <string name="timesync_sync_now_preference_title">Sincronizar agora</string>
+  <string name="timesync_sync_now_progress_dialog_details">A ligar ao servidor…</string>
+  <string name="timesync_sync_now_progress_dialog_title">Sincronizar agora</string>
+  <string name="timesync_sync_now_screen_title">Sincronizar agora</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"O relógio interno do Autenticador não foi corrigido porque já está sincronizado com os servidores"</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_title">Hora já está correcta</string>
+  <string name="timesync_sync_now_time_corrected_dialog_details">"O relógio interno do Autenticador foi ajustado para coincidir com o tempo fornecido pelos servidores. 
+
+As definições de Data e Hora neste dispositivo não foram alterados"</string>
+  <string name="timesync_sync_now_time_corrected_dialog_title">Hora corrigida</string>
+  <string name="tip1_patternforgotten">Reinstalar e reactivar</string>
+  <string name="tip2_patternforgotten">Toque em Reiniciar para limpar os dados da conta e reactivar</string>
+  <string name="tip_lockpattern">O padrão tem de ser maior que 4 pontos</string>
+  <string name="title_change_lockpattern">Definir padrão de bloqueio</string>
+  <string name="title_createpattern">Desenhar padrão de bloqueio</string>
+  <string name="title_forgetpattern">Esquecer o padrão</string>
+  <string name="title_gesture">Padrão de bloqueio</string>
+  <string name="title_lockpattern">Necessário padrão de bloqueio</string>
+  <string name="title_myaccount">Minha conta: %s</string>
+  <string name="title_nopassword">Não é necessário para pagamentos de baixo valor</string>
+  <string name="title_nopassword_dialog">Limite diário</string>
+  <string name="title_password">Padrão</string>
+  <string name="title_password_threshold">Limite diário = €%1$s</string>
+  <string name="title_patternforgotten">"Esqueceu o padrão?
+Pode: "</string>
+  <string name="title_updatepattern">Alterar padrão</string>
+  <string name="title_visible_pattern">Colocar padrão visível</string>
+  <string name="type_prompt">Tipo de chave</string>
+  <string name="update_pattern_jump"><u>Remover padrão</u></string>
+  <string name="version_preference_title">Versão</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Se eliminar o seu token de segurança Mi não vai ser possível iniciar sessão na sua conta"</string>
+  <string name="welcome_page_details">"- Mantenha a sua conta segura.
+- Proteja a sua conta de ser utilizada por estranhos"</string>
+  <string name="welcome_page_title">Utilizado para início de sessão segura</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Sincronizar dados</item>
+        <item>Copiar layout do ecrã inicial</item>
+        <item>Copiar definições do sistema</item>
+        <item>Localizar Dispositivo</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Sincronizar os seus contactos, mensagens, notas, etc.</item>
+        <item>Fazer cópia das aplicações, layout do ecrã inicial, etc.</item>
+        <item>Fazer cópia das definições de sistema</item>
+        <item>Bloquear o seu dispositivo remotamente se estiver perdido</item>
+    </string-array>
+</resources>

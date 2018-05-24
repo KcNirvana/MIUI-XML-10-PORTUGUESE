@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices">
+        <item>TD-SCDMA, LTE, CDMA, EvDo GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM/WCDMA, CDMA e EvDo</item>
+        <item>TD-SCDMA, GSM/WCDMA e LTE</item>
+        <item>TD-SCDMA, WCDMA e LTE</item>
+        <item>TD-SCDMA, GSM/WCDMA</item>
+        <item>TD-SCDMA, GSM e LTE</item>
+        <item>TD-SCDMA e GSM</item>
+        <item>TD-SCDMA e LTE</item>
+        <item>TD-SCDMA e WCDMA</item>
+        <item>Apenas TD-SCDMA</item>
+        <item>LTE/WCDMA</item>
+        <item>Apenas LTE</item>
+        <item>LTE/GSM/CDMA auto (PRL)</item>
+        <item>LTE/GSM auto (PRL)</item>
+        <item>LTE/CDMA auto (PRL)</item>
+        <item>GSM/CDMA auto (PRL)</item>
+        <item>Apenas EvDo</item>
+        <item>Apenas CDMA</item>
+        <item>CDMA auto (PRL)</item>
+        <item>GSM auto (PRL)</item>
+        <item>Apenas WCDMA</item>
+        <item>Apenas GSM</item>
+        <item>WCDMA preferido</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Inglês</item>
+        <item>Francês</item>
+        <item>Espanhol</item>
+        <item>Japonês</item>
+        <item>Coreano</item>
+        <item>Chinês</item>
+        <item>Hebraico</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Apenas casa</item>
+        <item>Automático</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Modo triplo</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Modo triplo</item>
+    </string-array>
+</resources>

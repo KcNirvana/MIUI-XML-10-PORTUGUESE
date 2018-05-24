@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_in_day">
+        <item quantity="other">%1$d dias atrás</item>
+        <item quantity="one">"%1$d dia atrás "</item>
+    </plurals>
+    <plurals name="time_in_hour">
+        <item quantity="other">%1$d horas atrás</item>
+        <item quantity="one">"%1$d hora atrás "</item>
+    </plurals>
+    <plurals name="time_in_minute">
+        <item quantity="other">%1$d minutos atrás</item>
+        <item quantity="one">%1$d minuto atrás</item>
+    </plurals>
+    <plurals name="time_in_second">
+        <item quantity="other">%1$d segundos atrás</item>
+        <item quantity="one">%1$d segundo atrás</item>
+    </plurals>
+</resources>

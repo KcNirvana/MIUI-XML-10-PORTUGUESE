@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Serviço Wfd</string>
+  <string name="notification_text">A duplicação de ecrã está ligada</string>
+  <string name="notification_title">Visualização sem fios</string>
+  <string name="perm_desc">Aceder as apis do monitor sem fio Qualcomm</string>
+  <string name="perm_label">Display sem fio Qualcomm</string>
+</resources>

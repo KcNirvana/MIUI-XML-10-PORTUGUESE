@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Hangouts</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Casa</item>
+        <item>Telemóvel</item>
+        <item>Trabalho</item>
+        <item>Fax do trabalho</item>
+        <item>Fax de casa</item>
+        <item>Pager</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+    </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>38707163</item>
+        <item>-9135517</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>4</item>
+    </integer-array>
+    <string-array name="imAddressTypes">
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizado</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>Dados móveis</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+</resources>

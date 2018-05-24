@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Refrigeração</item>
+        <item>Aquecimento</item>
+        <item>Desumidificação</item>
+        <item>Ventilação</item>
+    </string-array>
+    <string-array name="answer">
+        <item>O seu dispositivo apenas pode emparelhar com Mi TV, Mi Box e alguns outros dispositivos Android utilizando o Wi-Fi</item>
+        <item>Certifique-se que seleccionou o modelo A/C correcto no processo de emparelhamento. Siga as instruções no seu dispositivo até o emparelhamento ficar concluído</item>
+        <item>Não. Actualmente pode utilizar apenas o Mi 4, Mi4C e o Redmi Note 2 como controlo remoto IR</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="question">
+        <item>Porque é que o meu telefone continua a pesquisar por dispositivos sem fios?</item>
+        <item>Porque é que eu apenas consigo ligar o meu A/C  e não o consigo desligar?</item>
+        <item>Posso utilizar o Mi 3, Mi 2 e o Redmi como controlo remoto IR?</item>
+    </string-array>
+    <string-array name="assistant_tab">
+        <item>Vídeos</item>
+        <item>Capturas de ecrã</item>
+        <item>Aplicações</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Concluídos</item>
+        <item>Favoritos</item>
+        <item>CCTV</item>
+        <item>TV</item>
+        <item>HD</item>
+        <item>Recentes</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>Todos os canais</item>
+        <item>Canais favoritos</item>
+        <item>Canais CCTV</item>
+        <item>Canais por satélite</item>
+        <item>Canais HD</item>
+        <item>Visualizados recentemente</item>
+    </string-array>
+</resources>

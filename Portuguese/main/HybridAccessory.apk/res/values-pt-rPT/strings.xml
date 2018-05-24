@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Acessórios híbridos</string>
+  <string name="short_cut_dialog_cancel_button_text">Não</string>
+  <string name="short_cut_dialog_cotent">AS aplicações seguintes podem ser utilizadas sem instalação. Guardar atalhos?</string>
+  <string name="short_cut_dialog_create_button_text">Sim</string>
+  <string name="short_cut_dialog_not_tip_check_box">Não me lembrar novamente em 2 semanas</string>
+  <string name="short_cut_dialog_title">Criar atalho</string>
+</resources>

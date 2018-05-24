@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Definições SVI</string>
+  <string name="svi_enable_summary_off">A experiência visual não vai ser melhorada em condições ambiente</string>
+  <string name="svi_enable_summary_on">Melhorar experiência visual de acordo com as condições ambiente</string>
+  <string name="svi_enable_title">Activar ecrã SVI</string>
+  <string name="svi_settings_title">Definições de ecrã SVI</string>
+  <string name="svi_version_title">Versão SVI</string>
+</resources>

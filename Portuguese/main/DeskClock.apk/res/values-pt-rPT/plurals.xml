@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$d horas "</item>
+        <item quantity="one">"%1$d hora "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$d minutos "</item>
+        <item quantity="one">"%1$d minuto "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">1 segundo</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="snooze_message">
+       <item quantity="other">Suspender por %d minutos</item>
+       <item quantity="one">Suspender por %d minuto</item>
+    </plurals>
+    <plurals name="alarm_alert_snooze_set">
+       <item quantity="other">Suspender por %d minutos</item>
+       <item quantity="one">Suspender por %d minuto</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+       <item quantity="other">Os alarmes vão desligar após %d minutos</item>
+       <item quantity="one">Os alarmes vão desligar após %d minuto</item>
+    </plurals>
+    <plurals name="delete_alarm_confirm">
+       <item quantity="other">Eliminar os alarmes seleccionados?</item>
+       <item quantity="one">Eliminar este alarme?</item>
+    </plurals>
+    <plurals name="delete_timezone_confirm">
+        <item quantity="other">Eliminar o fuso horário seleccionado?</item>
+        <item quantity="one">Eliminar este fuso horário?</item>
+    </plurals>
+</resources>

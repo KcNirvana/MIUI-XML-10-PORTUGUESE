@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="folder_operations">
+        <item>Renomear</item>
+        <item>Eliminar</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Câmara</item>
+        <item>Galeria</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>Data de criação</item>
+        <item>Data de modificação</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nome</item>
+        <item>Apelido</item>
+        <item>Telefone</item>
+        <item>Email</item>
+        <item>Empresa</item>
+        <item>IM</item>
+        <item>Telefone SIP</item>
+        <item>Aniversário</item>
+        <item>Website</item>
+        <item>Endereço</item>
+        <item>Nota</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Pequena</item>
+        <item>Média</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Bem-vindo às Notas
+"</item>
+        <item>"Criar uma nota
+Toque no + para criar uma nota"</item>
+        <item>"Escolher templates
+Utilize templates para alterar o estilo das suas notas
+Toque no botão direito no fundo da nota para escolher um template"</item>
+        <item>"Criar pastas
+Organize as suas notas em pastas
+Existem 2 maneiras de criar uma pasta:
+1. Toque no ícone da pasta no canto superior direito e de seguida toque no +
+2. Segure uma nota até um menu aparecer e escolha \"Mover para\" - \"Nova pasta\""</item>
+        <item>"Ocultar notas
+Proteja as suas notas privadas com uma palavra-passe
+Existem 2 maneiras de ocultar uma nota:
+1. Toque no botão \"Mais\" no canto superior direito de uma nota e seleccione \"Ocultar\"
+2. Segure uma nota até um menu aparecer e escolha \"Ocultar\""</item>
+        <item>"E mais excelentes funcionalidades!
+  - Imagens, listas, lembretes
+
+Adicionar imagens
+Toque no ícone da imagem no fundo de uma nota para adicionar uma imagem
+Pode tirar uma foto ou escolher da galeria
+Quando uma nota contem uma imagem, ela vai ser utilizado como miniatura na lista de notas
+
+Criar listas
+As caixas de verificação são elementos essenciais numa lista de tarefas
+Toque no ícone da caixa de verificação no fundo de uma nota para adicionar uma caixa de verificação a um parágrafo do texto
+Coloque um pisco na caixa quando a tarefa estiver concluída
+
+Definir lembretes
+Defina lembretes directamente das notas
+Toque no botão \"Mais\" no canto superior direito de uma nota, seleccione \"Lembretes\" e defina a hora
+"</item>
+    </string-array>
+</resources>

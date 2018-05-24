@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Plugin do serviço de Segurança</string>
+  <string name="cancel_button">Cancelar</string>
+  <string name="fastboot_locked_answer_1">O fastboot é o método tradicional para flashar dispositivos Mi. Quando o dispositivo está no modo fastboot, todos os dados guardados nele podem ser facilmente conseguidos e eliminados. Nós bloqueamos o fastboot para certificar que os seus dados estão seguros em caso de perda do dispositivo</string>
+  <string name="fastboot_locked_answer_2">Em caso de perda do dispositivo, o fastboot garante a segurança dos dados guardados nele. Se desbloquear o fastboot, não vai conseguir bloquear o dispositivo remotamente ou eliminar os seus dados utilizando o Localizar Dispositivo. Por isso, não recomendamos o desbloqueio do fastboot no seu dispositivo</string>
+  <string name="fastboot_locked_answer_3">Deve utilizar a ferramenta de desbloqueio do site MIUI. Para desbloquear o dispositivo, necessitamos que o dispositivo seja seu. Por isso, deve iniciar sessão com a sua Conta Mi e ligar o Localizar Dispositivo</string>
+  <string name="fastboot_locked_question_1">Porque deve estar o fastboot bloqueado?</string>
+  <string name="fastboot_locked_question_2">Existe algum risco ligado ao desbloqueio do fastboot?</string>
+  <string name="fastboot_locked_question_3">Eu conheço os riscos mas necessito de desbloquear o meu dispositivo. O que devo fazer?</string>
+  <string name="fastboot_status_locked_info">O fastboot não está desbloqueado neste dispositivo</string>
+  <string name="fastboot_status_locked_summary">Não consigo ter acesso root</string>
+  <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
+  <string name="fastboot_unlock_web_title">Vá ao site oficial da MIUI para obter a ferramenta de desbloqueio</string>
+  <string name="game_booster">Acelerador de jogos</string>
+  <string name="gb_alipays_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
+  <string name="gb_weixinpay_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
+  <string name="main_toolbar_purchase">Comprar</string>
+  <string name="miuishare_title_more">Mais</string>
+  <string name="miuishare_title_share">Partilhar</string>
+  <string name="miuishare_wechat_timeline_title">Momentos WeChat</string>
+  <string name="miuishare_weibo_title">Weibo</string>
+  <string name="network_not_available">Não é possível ligar à rede</string>
+  <string name="no_network_btn">Tente novamente</string>
+  <string name="ok_button">OK</string>
+  <string name="open_browser">Abrir no navegador</string>
+  <string name="pm_lable_name">Acerca do acesso root</string>
+  <string name="privacy_declare_dialog_title">Termos de Serviço</string>
+  <string name="privacy_prompt_traffic_purchase_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
+  <string name="share">Partilhar</string>
+  <string name="title_share_link">Partilhar URL</string>
+  <string name="xunyou_pay_webview">Serviços Xunyou</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="available_networks">Redes disponíveis</string>
+  <string name="connect_later">Neste momento não é possível ligar a esta rede. Tente mais tarde</string>
+  <string name="dialog_message">Sair vai parar a pesquisa. Tem a certeza que quer sair?</string>
+  <string name="disconnect_data_confirm">O serviço de dados vai ser temporariamente desligado. Tem a certeza?</string>
+  <string name="network_forbidden">(Proibida)</string>
+  <string name="network_query_error">Erro ao pesquisar redes</string>
+  <string name="no_network">Sem redes</string>
+  <string name="not_allowed">O seu cartão SIM não permite ligar a esta rede</string>
+  <string name="progress_scanning">A pesquisar…</string>
+  <string name="quit_mention">Aviso!</string>
+  <string name="register_automatically">A registar automaticamente…</string>
+  <string name="register_on_network">A registar em %1$s…</string>
+  <string name="registration_done">Registado na rede</string>
+  <string name="roamingTextSearching">A pesquisar serviço</string>
+  <string name="search_networks">Pesquisar redes</string>
+  <string name="select_automatically">Escolher automaticamente</string>
+  <string name="sum_select_automatically">Escolher automaticamente a rede preferida</string>
+  <string name="timeout_message">Sem redes disponíveis</string>
+</resources>

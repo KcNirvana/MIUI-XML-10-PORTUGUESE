@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Música FX</string>
+  <string name="bass_boost_strength">Aumento de graves</string>
+  <string name="combo_device">Os efeitos apenas são suportados em auriculares</string>  
+  <string name="eq_custom">Para personalizar, seleccione Personalizado</string>
+  <string name="eq_dialog_title">Snapdragon Audio+</string>
+  <string name="headset_plug">Ligue os auriculares para estes efeitos</string>
+  <string name="largehall">Hall grande</string>
+  <string name="largeroom">Sala grande</string>
+  <string name="main_toggle_effects_title">Efeitos de áudio</string>
+  <string name="mediumhall">Hall médio</string>
+  <string name="mediumroom">Sala média</string>
+  <string name="new_app_name">Efeitos áudio</string>
+  <string name="no_effects">Efeitos não disponíveis</string>
+  <string name="none">Nenhum</string>
+  <string name="normal">Normal</string>
+  <string name="picker_title">Painel de efeitos sonoros</string>
+  <string name="power_on_prompt">Prima o botão Ligar/Desligar no topo direito</string>
+  <string name="pr_dialog_title">Reverbação</string>
+  <string name="pr_summary">Efeitos adicionais de reverberação da sala</string>
+  <string name="pr_title">Reverbação</string>
+  <string name="setup">Configuração</string>
+  <string name="smallroom">Sala pequena</string>
+  <string name="toggle_button_off">Desligado</string>
+  <string name="toggle_button_on">Ligado</string>
+  <string name="user">Personalizado</string>
+  <string name="virtualizer_strength">Som surround</string>
+</resources>

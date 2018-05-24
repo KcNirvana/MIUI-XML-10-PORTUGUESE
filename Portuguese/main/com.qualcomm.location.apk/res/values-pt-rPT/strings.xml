@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc">Permitir que uma aplicação aceda a serviços e recursos IZAT</string>
+    <string name="label">Aceder a serviços e recursos IZAT</string>
+</resources>

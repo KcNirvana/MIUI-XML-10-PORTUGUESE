@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d aplicações recentes</item>
+        <item quantity="one">%d aplicação recente</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Abriu os Recentes. Aplicações disponíveis: %d</item>
+        <item quantity="one">Abriu os Recentes. Aplicações disponíveis: %d</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Abriu os Recentes. Aplicações disponíveis: %d. Deslizar para cima para remover, deslizar para baixo para bloquear</item>
+        <item quantity="one">Abriu os Recentes. Aplicações disponíveis: %d. Deslizar para cima para remover, deslizar para baixo para bloquear</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d atalhos vão ser mostrados na área de notificações</item>
+        <item quantity="one">%1$d atalho vai ser mostrado na área de notificações</item>
+    </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Ocultar notificações de %d aplicações?</item>
+        <item quantity="one">Ocultar notificações desta aplicação?</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">A ocultar notificações de %1$s e %2$d aplicações</item>
+        <item quantity="one">A ocultar notificações de %1$s e %2$d aplicação</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Céu limpo</item>
+        <item quantity="one">Céu limpo</item>
+    </plurals>
+    <plurals name="notification_group_child_count">
+        <item quantity="other">%1$d notificações</item>
+        <item quantity="one">%1$d notificação</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">Mais %s notificações dentro</item>
+        <item quantity="one">Mais %s notificação dentro</item>
+    </plurals>
+    <plurals name="fold_tips_title">
+        <item quantity="other">%d notificações não importantes</item>
+        <item quantity="one">%d notificação não importante</item>
+    </plurals>
+</resources>

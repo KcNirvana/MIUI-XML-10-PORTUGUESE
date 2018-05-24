@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Definições</string>
+  <string name="application_desc">Aplicação</string>
+  <string name="search_label">Definições</string>
+  <string name="settings_description">Definições</string>
+</resources>

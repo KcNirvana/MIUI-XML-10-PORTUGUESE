@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_detail_title">
+        <item>Bom</item>
+        <item>Moderado</item>
+        <item>Pouco saudável para grupos sensíveis</item>
+        <item>Pouco saudável</item>
+        <item>Muito pouco saudável</item>
+        <item>Perigoso</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Grau 2</item>
+        <item>&lt;6.0 km/h</item>
+        <item>&lt;1.7 m/s</item>
+        <item>&lt;3.7 mph</item>
+        <item>&lt;3.2 kn</item>
+    </string-array>
+    <string-array name="hot_city">
+        <item>Beja</item>
+        <item>Evora</item>
+        <item>Santarem</item>
+        <item>Castelo Branco</item>
+        <item>Braganca</item>
+        <item>Portalegre</item>
+        <item>Guarda</item>
+        <item>Setubal</item>
+        <item>Viseu</item>
+        <item>Vila Real</item>
+        <item>Coimbra</item>
+        <item>Aveiro</item>
+        <item>Leiria</item>
+        <item>Lisboa</item>
+        <item>Braga</item>
+        <item>Porto</item>
+        <item>Faro</item>
+        <item>Viana do Castelo</item>
+        <item>Funchal</item>
+        <item>Angra do Heroismo</item>
+        <item>Ponta Delgada</item>
+        <item>Horta</item>
+        <item>Alverca</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Adequado</item>
+        <item>Impróprio</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Adequado</item>
+        <item>Impróprio</item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Baixo</item>
+        <item>Moderado</item>
+        <item>Alto</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Forte</item>
+        <item>Moderada</item>
+        <item>Leve</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Céu limpo</item>
+        <item>Céu nublado</item>
+        <item>Céu muito nublado</item>
+        <item>Nevoeiro</item>
+        <item>Tempestade forte</item>
+        <item>Aguaceiros</item>
+        <item>Tempestade</item>
+        <item>Trovoada</item>
+        <item>Chuva</item>
+        <item>Chuva forte</item>
+        <item>Chuva moderada</item>
+        <item>Chuva fraca</item>
+        <item>Chuva com neve</item>
+        <item>Tempestade de neve</item>
+        <item>Neve</item>
+        <item>Nevão</item>
+        <item>Neve moderada</item>
+        <item>Leve queda de neve</item>
+        <item>Forte tempestade de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Leve tempestade de areia</item>
+        <item>Ventoso</item>
+        <item>Granizo</item>
+        <item>Poeiras</item>
+        <item>Neblina</item>
+        <item>Chuva fria</item>
+        <item></item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Norte</item>
+        <item>Nordeste</item>
+        <item>Este</item>
+        <item>Sudeste</item>
+        <item>Sul</item>
+        <item>Sudoeste</item>
+        <item>Oeste</item>
+        <item>Noroeste</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+         <item>N</item>
+         <item>NE</item>
+         <item>E</item>
+         <item>SE</item>
+         <item>S</item>
+         <item>SO</item>
+         <item>O</item>
+         <item>NO</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Escala de Beaufort</item>
+        <item>Quilómetros por hora (km/h)</item>
+        <item>Metros por segundo (m/s)</item>
+        <item>Milhas por hora (mph)</item>
+        <item>Nós (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Escala de Beaufort</item>
+        <item>Km/h</item>
+        <item>M/s</item>
+        <item>Mph</item>
+        <item>Kn</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>Grau %1$s</item>
+        <item>%1$s km/h</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mph</item>
+        <item>%1$s kn</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="alarm_sound_default">Toque predefinido do alarme</string>
+  <string name="app_label">Armazenamento multimédia</string>
+  <string name="artist_label">Artista</string>
+  <string name="notification_sound_default">Toque de notificação predefinido</string>
+  <string name="ringtone_default">Toque predefinido</string>
+  <string name="root_audio">Áudio</string>
+  <string name="root_images">Imagens</string>
+  <string name="root_videos">Vídeos</string>
+  <string name="uid_label">Multimédia</string>
+</resources>

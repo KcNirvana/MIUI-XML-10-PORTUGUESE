@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="android_version">Versão Android</string>
+  <string name="app_name">Informação do dispositivo</string>
+  <string name="baseband_version">Versão da banda base</string>
+  <string name="device_info_unknown">Desconhecido</string>
+  <string name="eprl">EPRL ID</string>
+  <string name="esn">ESN</string>
+  <string name="hardware_version">Versão do hardware</string>
+  <string name="iccid">ICCID</string>
+  <string name="imei">IMEI</string>
+  <string name="imsi">IMSI</string>
+  <string name="meid">MEID</string>
+  <string name="meta_info">Versão do software</string>
+  <string name="mlpl">ID MLPL</string>
+  <string name="model_number">Modelo</string>
+  <string name="mspl">ID MSPL</string>
+  <string name="my_number">O meu número de telefone</string>
+  <string name="nid">NID</string>
+  <string name="prl_version">Versão PRL</string>
+  <string name="sid">SID</string>
+  <string name="software_version">Versão do software</string>
+  <string name="uim_id">ID UIM</string>
+</resources>

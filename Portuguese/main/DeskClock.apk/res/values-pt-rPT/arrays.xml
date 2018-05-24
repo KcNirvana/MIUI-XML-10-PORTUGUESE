@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_tips_value">
+        <item>Reduza as actividades ao ar livre</item>
+        <item>As estradas estão escorregadias</item>
+        <item>O tempo está de tempestade. Tenha cuidado</item>
+        <item>Está nevoeiro. Conduza com cuidado</item>
+        <item>O ar está poluído. Utilize uma máscara!</item>
+        <item>Leve um guarda-chuva quando sair</item>
+        <item>Tenha cuidado na estrada</item>
+        <item>Está a cair granizo. Tenha cuidado</item>
+        <item>Vem aí uma tempestade de areia. Utilize uma máscara!</item>
+        <item>Tenha um bom dia!</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+       <item>O alarme vai tocar em menos de 1 minuto</item>
+       <item>O alarme vai tocar em %1$s</item>
+       <item>O alarme vai tocar em %2$s</item>
+       <item>O alarme vai tocar em %1$s %2$s</item>
+       <item>O alarme vai tocar em %3$s</item>
+       <item>O alarme vai tocar em %1$s %3$s</item>
+       <item>O alarme vai tocar em %2$s %3$s</item>
+       <item>O alarme vai tocar em %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+       <item>Uma vez</item>
+       <item>Diariamente</item>
+       <item>Dias úteis</item>
+       <item>Dias não úteis</item>
+       <item>De seg. a sex.</item>
+       <item>Personalizar</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+       <item>Uma vez</item>
+       <item>Diariamente</item>
+       <item>De seg. a sex.</item>
+       <item>Personalizar</item>
+    </string-array>
+    <string-array name="alarm_set">
+       <item>Alarme vai tocar daqui a menos de um minuto</item>
+       <item>Alarme vai tocar daqui a %1$s</item>
+       <item>Alarme vai tocar daqui a %2$s</item>
+       <item>Alarme vai tocar daqui a %1$s e %2$s</item>
+       <item>Alarme vai tocar daqui a %3$s</item>
+       <item>Alarme vai tocar daqui a %1$s e %3$s</item>
+       <item>Alarme vai tocar daqui a %2$s e %3$s</item>
+       <item>Alarme vai tocar daqui a %1$s %2$s e %3$s</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+       <item>Nunca</item>
+       <item>1 minuto</item>
+       <item>5 minutos</item>
+       <item>10 minutos</item>
+       <item>15 minutos</item>
+       <item>20 minutos</item>
+       <item>25 minutos</item>
+       <item>30 minutos</item>
+    </string-array>
+    <string-array name="days">
+       <item>Ontem</item>
+       <item>Hoje</item>
+       <item>Amanhã</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+       <item>1 minuto</item>
+       <item>5 minutos</item>
+       <item>10 minutos</item>
+       <item>15 minutos</item>
+       <item>20 minutos</item>
+       <item>25 minutos</item>
+       <item>30 minutos</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+       <item>Nada</item>
+       <item>Suspender</item>
+       <item>Desligar</item>
+    </string-array>
+    <string-array name="stat_volume_button_behaviors">
+       <item>Não</item>
+       <item>Adiar</item>
+       <item>Eliminar</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="popular_language_locales">
+        <item>pt_PT</item>
+        <item>pt_BR</item>
+        <item>en_US</item>
+        <item>en_GB</item>
+    </string-array>
+    <string-array name="indian_popular_language_locales">
+        <item>pt_PT</item>
+        <item>pt_BR</item>
+        <item>en_US</item>
+        <item>en_GB</item>
+    </string-array>
+</resources>

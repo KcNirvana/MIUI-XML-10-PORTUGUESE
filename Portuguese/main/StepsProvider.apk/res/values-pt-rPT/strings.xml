@@ -1,0 +1,6 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Whetstone</string>
+  <string name="permstep_description">Permitir que a aplicação leia as informações dos passos do seu telefone</string>
+  <string name="permstep_label">ler passos</string>
+</resources>

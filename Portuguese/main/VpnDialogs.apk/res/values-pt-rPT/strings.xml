@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="configure">Configurar</string>
+  <string name="data_received">Recebido:</string>
+  <string name="data_transmitted">Enviado:</string>
+  <string name="disconnect">Desligar</string>
+  <string name="duration">Duração:</string>
+  <string name="legacy_title">VPN está ligado</string>
+  <string name="prompt">Pedido de ligação</string>
+  <string name="session">Sessão:</string>
+  <string name="warning">%s quer configurar uma ligação VPN que permita monitorizar o tráfego de rede. Apenas aceite se confiar na fonte. <br/><br/><img src="vpn_icon"/> aparece no topo no ecrã quando a VPN está activa</string>
+</resources>

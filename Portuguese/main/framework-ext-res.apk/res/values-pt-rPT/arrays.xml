@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>A preparar (0%)</item>
+        <item>A preparar (1%)</item>
+        <item>A preparar (2%)</item>
+        <item>A preparar (3%)</item>
+        <item>A preparar (4%)</item>
+        <item>A preparar (5%)</item>
+        <item>A preparar (6%)</item>
+        <item>A preparar (7%)</item>
+        <item>A preparar (8%)</item>
+        <item>A preparar (9%)</item>
+        <item>A preparar (10%)</item>
+        <item>A preparar (11%)</item>
+        <item>A preparar (12%)</item>
+        <item>A preparar (13%)</item>
+        <item>A preparar (14%)</item>
+        <item>A preparar (15%)</item>
+        <item>A preparar (16%)</item>
+        <item>A preparar (17%)</item>
+        <item>A preparar (18%)</item>
+        <item>A preparar (19%)</item>
+        <item>A preparar (20%)</item>
+        <item>A instalar (21%)</item>
+        <item>A instalar (22%)</item>
+        <item>A instalar (23%)</item>
+        <item>A instalar (24%)</item>
+        <item>A instalar (25%)</item>
+        <item>A instalar (26%)</item>
+        <item>A instalar (27%)</item>
+        <item>A instalar (28%)</item>
+        <item>A instalar (29%)</item>
+        <item>A instalar (30%)</item>
+        <item>A instalar (31%)</item>
+        <item>A instalar (32%)</item>
+        <item>A instalar (33%)</item>
+        <item>A instalar (34%)</item>
+        <item>A instalar (35%)</item>
+        <item>A instalar (36%)</item>
+        <item>A instalar (37%)</item>
+        <item>A instalar (38%)</item>
+        <item>A instalar (39%)</item>
+        <item>A instalar (40%)</item>
+        <item>A optimizar (41%)</item>
+        <item>A optimizar (42%)</item>
+        <item>A optimizar (43%)</item>
+        <item>A optimizar (44%)</item>
+        <item>A optimizar (45%)</item>
+        <item>A optimizar (46%)</item>
+        <item>A optimizar (47%)</item>
+        <item>A optimizar (48%)</item>
+        <item>A optimizar (49%)</item>
+        <item>A optimizar (50%)</item>
+        <item>A optimizar (51%)</item>
+        <item>A optimizar (52%)</item>
+        <item>A optimizar (53%)</item>
+        <item>A optimizar (54%)</item>
+        <item>A optimizar (55%)</item>
+        <item>A optimizar (56%)</item>
+        <item>A optimizar (57%)</item>
+        <item>A optimizar (58%)</item>
+        <item>A optimizar (59%)</item>
+        <item>A optimizar (60%)</item>
+        <item>A optimizar (61%)</item>
+        <item>A optimizar (62%)</item>
+        <item>A optimizar (63%)</item>
+        <item>A optimizar (64%)</item>
+        <item>A optimizar (65%)</item>
+        <item>A optimizar (66%)</item>
+        <item>A optimizar (67%)</item>
+        <item>A optimizar (68%)</item>
+        <item>A optimizar (69%)</item>
+        <item>A optimizar (70%)</item>
+        <item>A optimizar (71%)</item>
+        <item>A optimizar (72%)</item>
+        <item>A optimizar (73%)</item>
+        <item>A optimizar (74%)</item>
+        <item>A optimizar (75%)</item>
+        <item>A optimizar (76%)</item>
+        <item>A optimizar (77%)</item>
+        <item>A optimizar (78%)</item>
+        <item>A optimizar (79%)</item>
+        <item>A optimizar (80%)</item>
+        <item>A optimizar (81%)</item>
+        <item>A optimizar (82%)</item>
+        <item>A optimizar (83%)</item>
+        <item>A optimizar (84%)</item>
+        <item>A optimizar (85%)</item>
+        <item>A optimizar (86%)</item>
+        <item>A optimizar (87%)</item>
+        <item>A optimizar (88%)</item>
+        <item>A optimizar (89%)</item>
+        <item>A concluir a instalação (90%)</item>
+        <item>A concluir a instalação (91%)</item>
+        <item>A concluir a instalação (92%)</item>
+        <item>A concluir a instalação (93%)</item>
+        <item>A concluir a instalação (94%)</item>
+        <item>A concluir a instalação (95%)</item>
+        <item>A concluir a instalação (96%)</item>
+        <item>A concluir a instalação (97%)</item>
+        <item>A concluir a instalação (98%)</item>
+        <item>A concluir a instalação (99%)</item>
+        <item>A concluir a instalação (100%)</item>
+    </string-array>
+</resources>

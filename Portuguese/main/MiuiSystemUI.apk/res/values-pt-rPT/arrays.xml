@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>A pesquisar…</item>
+        <item>A ligar…</item>
+        <item>A autenticar…</item>
+        <item>A obter endereço IP…</item>
+        <item>Ligado</item>
+        <item>Suspenso</item>
+        <item>A desligar…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporariamente ligações fracas</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>A pesquisar…</item>
+        <item>A ligar a %1$s…</item>
+        <item>A autenticar %1$s…</item>
+        <item>A obter o endereço IP de %1$s…</item>
+        <item>Ligado a %1$s</item>
+        <item>Suspenso</item>
+        <item>A desligar de %1$s…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporariamente ligações fracas</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+       <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Céu limpo</item>
+        <item>Céu nublado</item>
+        <item>Céu muito nublado</item>
+        <item>Nevoeiro</item>
+        <item>Tempestade forte</item>
+        <item>Aguaceiros</item>
+        <item>Tempestade</item>
+        <item>Trovoada</item>
+        <item>Chuva</item>
+        <item>Chuva forte</item>
+        <item>Chuva moderada</item>
+        <item>Chuva fraca</item>
+        <item>Chuva com neve</item>
+        <item>Tempestade de neve</item>
+        <item>Neve</item>
+        <item>Nevão</item>
+        <item>Neve moderada</item>
+        <item>Leve queda de neve</item>
+        <item>Forte tempestade de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Leve tempestade de areia</item>
+        <item>Ventoso</item>
+        <item>Granizo</item>
+        <item>Poeiras</item>
+        <item>Neblina</item>
+        <item>Chuva fria</item>
+        <item></item>
+    </string-array>
+</resources>

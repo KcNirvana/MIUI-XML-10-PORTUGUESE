@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string-array name="cta_permission_names">
+        <item>aceder à rede</item>
+        <item>ler SMS</item>
+        <item>modificar SMS</item>
+        <item>recever SMS</item>
+        <item>enviar SMS</item>
+        <item>efectuar chamadas</item>
+        <item>ler contactos</item>
+        <item>modificar contactos</item>
+        <item>ler registos de chamadas</item>
+        <item>modificar registos de chamadas</item>
+        <item>aceder à câmara</item>
+        <item>aceder à localização</item>
+    </string-array>
+</resources>
