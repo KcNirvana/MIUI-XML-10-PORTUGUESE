@@ -78,6 +78,7 @@
   <string name="maml_component_customization_title">Definições</string>
   <string name="memory_clear_nothing_result">Nada para limpar na cache</string>
   <string name="memory_clear_result">%1$sB limpos</string>
+  <string name="miui_forbid_poweroff_when_device_locked">Não é possível desligar. Dispositivo bloqueado</string>
   <string name="miui_screen_ratio_hint">Problema de resolução do ecrã</string>
   <string name="miui_screen_ratio_hint_dont_show_again">Não mostrar novamente</string>
   <string name="miui_screen_ratio_hint_go_to_settings">Vá a Definições</string>
@@ -157,6 +158,7 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">PA Móvel</string>
   <string name="subinfo_default_name">SIM %d</string>
+  <string name="super_resolution_maintain_tips">A super resolução ainda não está disponível</string>
   <string name="switch_brand_desc_tv">Serviços de segurança fornecido por Graphite</string>
   <string name="switch_desc_tv">Dois espaços. Um dispositivo</string>
   <string name="switching_tv">A trocar…</string>
@@ -170,5 +172,7 @@
   <string name="twohours">1 hora</string>
   <string name="unknown_caller">Número privado</string>
   <string name="user_switching_dialog_text">A trocar…</string>
+  <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Finão tem acesso à Internet</string>
+  <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicação</string>
 </resources>

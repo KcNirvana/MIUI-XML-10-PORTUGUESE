@@ -362,6 +362,10 @@ Para activar a sua conta siga o
   <string name="passport_sms_verification_code_login">Iniciar sessão utilizando SMS</string>
   <string name="passport_sync_account_data">A sincronizar dados da conta…</string>
   <string name="passport_sync_account_data_failed_warning">Os dados da sua conta estão a ser sincronizados. Pode iniciar sessão utilizando o seu ID Conta Mi. Se quer utilizar o seu email ou telefonar para iniciar sessão, aguarde até acabar a sincronização</string>
+  <string name="passport_talkback_image_captcha">Verificação de imagem</string>
+  <string name="passport_talkback_switch_image_captcha">Trocar para verificação de imagem</string>
+  <string name="passport_talkback_switch_voice_captcha">Trocar para verificação de voz</string>
+  <string name="passport_talkback_voice_captcha">Reproduzir verificação de voz</string>
   <string name="passport_title_reg">Criar uma conta</string>
   <string name="passport_trust_device">Adicionar este dispositivo aos dispositivos verificados</string>
   <string name="passport_trying_read_verify_code_sms">A obter código de verificação…</string>

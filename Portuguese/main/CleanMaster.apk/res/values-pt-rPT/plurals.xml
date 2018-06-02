@@ -98,7 +98,19 @@
          <item quantity="one">Não utilizada há %d ano</item>
      </plurals>
      <plurals name="resutl_function_install_app_summary">
-         <item quantity="other">&lt;font color=#ff0000 >%d&lt;/font> aplicações que não são utilizadas há bastante tempo</item>
-         <item quantity="one">&lt;font color=#ff0000 >%d&lt;/font> aplicação que não é utilizada há bastante tempo</item>
+         <item quantity="other">%d aplicações que não são utilizadas há bastante tempo</item>
+         <item quantity="one">%d aplicação que não é utilizada há bastante tempo</item>
+     </plurals>
+     <plurals name="hour">
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">%1$d hora</item>
+     </plurals>
+     <plurals name="minute">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minuto</item>
+     </plurals>
+     <plurals name="second">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
      </plurals>
 </resources>

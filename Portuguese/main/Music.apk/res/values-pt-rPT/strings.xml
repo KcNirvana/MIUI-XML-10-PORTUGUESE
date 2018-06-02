@@ -13,6 +13,7 @@
   <string name="action_item_hide">Ocultar</string>
   <string name="action_item_hifi">Auriculares e efeitos de áudio</string>
   <string name="action_item_play_all">Reproduzir tudo</string>
+  <string name="action_item_play_next">Reproduzir mais tarde</string>
   <string name="action_item_remove">Remover</string>
   <string name="action_item_remove_from_favorite">Remover dos favoritos</string>
   <string name="action_item_share">Partilhar</string>
@@ -108,6 +109,7 @@
   <string name="create_order_fail">Não foi possível criar encomenda. Tente novamente</string>
   <string name="create_playlist">Criar nova lista de reprodução</string>
   <string name="create_playlist_failure">Não foi possível criar lista de reprodução</string>
+  <string name="current_album">Capa do álbum actual</string>
   <string name="current_version">Versão actual</string>
   <string name="data_usage_warning">Utilização de dados movéis</string>
   <string name="data_usage_warning_summary">Se utilizar a sua ligação de dados móveis para transmitir música de alta qualidade pode aumentar o consumo de dados</string>
@@ -306,7 +308,7 @@
   <string name="global_search_title_radar">Reconhecimento de música</string>
   <string name="go_to_settings">Ir para definições</string>
   <string name="handle_later">Agora não</string>
-  <string name="hide_album">Oculta capa do álbum</string>
+  <string name="hide_album">Ocultar capa do álbum</string>
   <string name="hide_lyric">Ocultar letra</string>
   <string name="higher_quality_music">Música de alta qualidade</string>
   <string name="higher_quality_music_summary">Streaming e transferências de música a taxas de bits mais elevadas</string>
@@ -341,6 +343,7 @@
   <string name="local_page_custom_subtitle">Músicas diárias</string>
   <string name="local_page_playlist">Listas de reprodução</string>
   <string name="local_page_custom_title">Personalizadas</string>
+  <string name="long_press_to_select_lyric">Prima e segure para escolher a letra</string>
   <string name="lrc_search_failed">A letra não foi encontrada</string>
   <string name="lrc_searching">A pesquisar a letra da música…</string>
   <string name="lyric_is_empty">A letra não está disponível</string>
@@ -411,7 +414,7 @@
   <string name="no_local_songs_selected">Não é possível enviar músicas, que não tenham sido transferidas</string>
   <string name="no_local_source_find">Não é possível localizar a música</string>
   <string name="no_online_song_selected">Não foi seleccionada nenhuma música</string>
-  <string name="no_results_return">Sem resultados de pesquisa</string>
+  <string name="no_results_return">Sem resultados</string>
   <string name="no_scanned_songs">Vazio</string>
   <string name="no_song">Sem músicas</string>
   <string name="no_song_downloaded">Não foi possível ligar ao servidor</string>
@@ -531,7 +534,9 @@
   <string name="select_device">Seleccionar dispositivo</string>
   <string name="select_displayed_folders">Escolher as pastas a mostrar</string>
   <string name="select_local_album">Escolher álbum</string>
+  <string name="select_local_cover">Escolher capa de álbum</string>
   <string name="select_local_lyric">Escolher letra</string>
+  <string name="select_local_lyric_file">Escolher letra</string>
   <string name="select_lyric">Escolher letra</string>
   <string name="select_none">Desmarcar tudo</string>
   <string name="selected_count">Seleccionados %1$d de %2$d</string>

@@ -38,20 +38,20 @@
         <item>Atol Midway</item>
         <item>Havaí</item>
         <item>Alasca</item>
-        <item>Pacific Time</item>
+        <item>Hora do Pacífico</item>
         <item>Tijuana</item>
         <item>Arizona</item>
         <item>Chihuahua</item>
-        <item>Mountain Time</item>
-        <item>Central America</item>
-        <item>Central Time</item>
+        <item>Hora Montanhas Rochosas</item>
+        <item>América Central</item>
+        <item>Hora Central</item>
         <item>Cidade do México</item>
         <item>Saskatchewan</item>
         <item>Bogotá</item>
-        <item>Eastern Time</item>
+        <item>Hora Europa Oriental</item>
         <item>Venezuela</item>
-        <item>Atlantic Time (Barbados)</item>
-        <item>Atlantic Time (Canadá)</item>
+        <item>Hora Atlântico (Barbados)</item>
+        <item>Hora Atlântico (Canadá)</item>
         <item>Manaus</item>
         <item>Santiago</item>
         <item>Terra Nova</item>
@@ -69,7 +69,7 @@
         <item>Bruxelas</item>
         <item>Sarajevo</item>
         <item>Windhoek</item>
-        <item>W. Africa Time</item>
+        <item>Hora África Ocidental</item>
         <item>Amã, Jordânia</item>
         <item>Atenas, Istambul</item>
         <item>Beirute, Líbano</item>
@@ -100,6 +100,8 @@
         <item>Banguecoque</item>
         <item>Pequim</item>
         <item>Hong Kong</item>
+        <item>Macau</item>
+        <item>Singapura</item>
         <item>Irkutsk</item>
         <item>Kuala Lumpur</item>
         <item>Perth</item>

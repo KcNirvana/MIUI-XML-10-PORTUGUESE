@@ -1,6 +1,6 @@
 # MIUI V10 Portuguese Translation
 <dl>
-  <dt><a href="https://xiaomi.eu/" target="_blank"><img src="https://i.imgur.com/5MxEJKN.png" border="0" alt="MIUI10_logo"></a></dt>
+  <dt><a href="https://xiaomi.eu/" target="_blank"><img src="https://i.imgur.com/s5PsCYM.png" border="0" alt="MIUI10_logo"></a></dt>
   <dd>
     MIUI-v10 translation for all supported devices. MIUI Translation: <b>Efex, KcNirvana, Lippe35</b>
   </dd>

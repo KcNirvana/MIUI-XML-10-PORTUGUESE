@@ -798,6 +798,8 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gamebooster_main_activity_back">Voltar</string>
   <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades de Acelerador de jogos?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
+  <string name="gamebox_qq_not_find">Instale o QQ e tente novamente</string>
+  <string name="gamebox_wechat_not_find">Instale o WeChat e tente novamente</string>
   <string name="gateway_exception_summary">Verifique o seu router e tente novamente</string>
   <string name="gateway_exception_summary2">Não é possível ligar ao servidor</string>
   <string name="gateway_exception_title">Testar router</string>
@@ -808,6 +810,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_description_image_button_video_answer">Videochamada</string>
   <string name="gb_msg_completely_shielded">Ocultar mensagens</string>
   <string name="gb_msg_completely_shielded_summary">Ocultar</string>
+  <string name="gb_msg_not_shielded_summary">Mostrar</string>
   <string name="gb_msg_quickly_answer">Permitir respostas rápidas</string>
   <string name="gb_msg_quickly_answer_summary">Respostas rápidas</string>
   <string name="gb_msg_transparent_dispaly">Notificações com fundo transparente</string>
@@ -840,6 +843,8 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gs_game_net_priority_detail">Limitar a velocidade de transferências para ter banda suficiente para jogar</string>
   <string name="gs_game_performance">Desempenho</string>
   <string name="gs_game_shortcut">Melhore a sua experiência de jogo</string>
+  <string name="gs_gamebox">Atalhos</string>
+  <string name="gs_gamebox_detail">Mostrar painel de atalhos</string>
   <string name="gs_only_self_start_for_list">Restringir processos em segundo plano para poupar bateria para jogar</string>
   <string name="gs_open_game_booster">Optimizar velocidade</string>
   <string name="gs_open_game_booster_summary">Aumentar a velocidade de rede para jogos</string>
@@ -1135,6 +1140,8 @@ da operadora"</string>
   <string name="mi_service_app_detail">Detalhes de utilização de dados</string>
   <string name="mi_service_traffic_detail">Detalhes da Framework</string>
   <string name="mian_page_primary_txt">Roaming</string>
+  <string name="midrop_post_notification_contentText">Tente o Mi Drop. É rápido e não tem anúncios</string>
+  <string name="midrop_post_notification_contentTitle">Necessita de transferir ficheiros?</string>
   <string name="modify_password_mode"><u>Alterar tipo de palavra-passe</u></string>
   <string name="mixed_need_to_confirm">Introduza novamente para confirmar</string>
   <string name="mixed_password_confirmed_header_confirm">Definido com sucesso. Toque para confirmar</string>
@@ -1667,6 +1674,7 @@ do seu dispositivo"</string>
   <string name="scan_status_safe">Seguro</string>
   <string name="scanning_bar_number">%d%%</string>
   <string name="score_pts">%</string>
+  <string name="screenrecord_not_find">Instale a versão mais recente do Gravador de Ecrã e tente novamente</string>
   <string name="search_input_txt_na"><font color="#ff0000">%s</font></string>
   <string name="search_result_text">Não foram encontradas aplicações</string>
   <string name="section_clear_acc_item_title">%s. Se ainda não houver espaço suficiente, tente utilizar a Limpeza</string>
@@ -2047,7 +2055,7 @@ do seu dispositivo"</string>
   <string name="timeshow_s">%ds</string>
   <string name="tips_dialog_title">Não sabe o seu limite</string>
   <string name="tips_message">Para ver o detalhe do seu plano de dados, marque %2$s (%1$s)</string>
-  <string name="tips_of_app_manage">Eliminar aplicações raramente utilizadas para poupar espaço</string>
+  <string name="tips_of_app_manage">Desinstalar aplicações raramente utilizadas para poupar espaço</string>
   <string name="tips_of_auto_launch_manage">Prevenir aplicações raramente utilizadas de iniciar automaticamente</string>
   <string name="title_app_lock_disable">Bloquear aplicações</string>
   <string name="title_app_update">Actualizações disponíveis</string>

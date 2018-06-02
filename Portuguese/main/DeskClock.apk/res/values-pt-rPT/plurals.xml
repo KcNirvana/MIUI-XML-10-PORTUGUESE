@@ -40,4 +40,8 @@
         <item quantity="other">Eliminar o fuso horário seleccionado?</item>
         <item quantity="one">Eliminar este fuso horário?</item>
     </plurals>
+    <plurals name="second">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%d segundo</item>
+    </plurals>
 </resources>

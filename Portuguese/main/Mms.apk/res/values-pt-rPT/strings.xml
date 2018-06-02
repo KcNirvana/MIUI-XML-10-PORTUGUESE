@@ -365,6 +365,9 @@
   <string name="no_subject_view">(Sem assunto)</string>
   <string name="non_english_subject_limit">Limite de 13 caracteres</string>
   <string name="nosend_message">Não enviar</string>
+  <string name="notification_channel_description">Notificações de Mensagens</string>
+  <string name="notification_channel_name">Mensagens</string>
+  <string name="notification_copy">Copiar OTP</string>
   <string name="notification_failed_multiple">%s mensagens não puderam ser enviadas</string>
   <string name="notification_failed_multiple_title">Mensagens não enviadas</string>
   <string name="notification_multiple">"[%s] "</string>
@@ -633,6 +636,7 @@
   <string name="to_address_label">"Para: "</string>
   <string name="to_label">"Para "</string>
   <string name="to_send_wrapper">Vai ser enviada às %s</string>
+  <string name="toast_pending_hangup_msg">A mensagem vai ser entregue após terminar a chamada</string>
   <string name="today">Hoje</string>
   <string name="too_many_attachments">Existe um limite de %1$s anexos. Apenas o primeiro %2$s vai ser adicionado</string>
   <string name="too_many_recipients">Esta mensagem tem demasiados destinatários (%1$s). Existe um limite de %2$s destinatários</string>
@@ -663,6 +667,7 @@ Tentativas efectuadas: %s"</string>
   <string name="url_fraud_visit"><u>Visitar mesmo assim</u></string>
   <string name="url_result_safe">Este URL é seguro</string>
   <string name="url_scanning">A verificar URL…</string>
+  <string name="url_scan_again">Verificar novamente</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Códigos de verificação</string>
   <string name="view">Ver</string>

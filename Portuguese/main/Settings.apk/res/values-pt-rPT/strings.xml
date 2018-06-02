@@ -51,6 +51,7 @@ Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de
   <string name="accessibility_long_press_timeout_preference_title">Atraso de tocar sem largar</string>
   <string name="accessibility_menu_item_settings">Definições</string>
   <string name="accessibility_no_services_installed">Sem serviços instalados</string>
+  <string name="accessibility_no_service_selected">Sem serviços seleccionados</string>
   <string name="accessibility_no_wifi">Desligado do Wi-Fi</string>
   <string name="accessibility_personal_account_title">Conta pessoal - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Botão Ligar/Desligar termina chamada</string>
@@ -70,6 +71,9 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="accessibility_services_title">Serviços</string>
   <string name="accessibility_settings">Acessibilidade</string>
   <string name="accessibility_settings_title">Definições de acessibilidade</string>
+  <string name="accessibility_shortcut_description">Quando o atalho estiver ligado, pode premir os dois botões de volume por 3 segundos para iniciar uma funcão de acessibilidade</string>
+  <string name="accessibility_shortcut_service_on_lock_screen_title">Permitir do ecrã de bloqueio</string>
+  <string name="accessibility_shortcut_service_title">Atalho de serviços</string>
   <string name="accessibility_sync_disabled">Sincronização desactivada</string>
   <string name="accessibility_sync_enabled">Sincronização activada</string>
   <string name="accessibility_sync_error">Erro de sincronização</string>
@@ -838,7 +842,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="change_password">Alterar bloqueio de ecrã</string>
   <string name="change_security_lock">Experimente outras formas de desbloqueio</string>
   <string name="change_storage">Alterar armazenamento</string>
-  <string name="charging_sounds_title">Sons de carregamento</string>
+  <string name="charging_sounds_title">Som de carregamento</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_importance">Importância</string>
   <string name="check_update">Verificar actualizações</string>
@@ -1171,10 +1175,11 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_build_id">Número de versão</string>
   <string name="device_complete_parameters">Especificações</string>
   <string name="device_cpu">CPU</string>
-  <string name="device_cpu2_info">"Dual-core "</string>
-  <string name="device_cpu4_info">"Quad-core "</string>
-  <string name="device_cpu6_info">"Hexa-core "</string>
-  <string name="device_cpu8_info">"Octa-core "</string>
+  <string name="device_cpu2_info">Dual-Core</string>
+  <string name="device_cpu4_info">Quad-Core</string>
+  <string name="device_cpu6_info">Hexa-Core</string>
+  <string name="device_cpu8_info">Octa-Core</string>
+  <string name="device_cpu10_info">Deca-Core</string>
   <string name="device_display_layout_title">Funcionalidades</string>
   <string name="device_edit_title">Mudar o nome do telefone</string>
   <string name="device_feedback">Enviar comentários acerca do dispositivo</string>
@@ -1520,6 +1525,9 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="filter_with_domain_urls_apps">Com URLs de domínio</string>
   <string name="filter_work_apps">De trabalho</string>
   <string name="filter_write_settings_apps">Podem modificar as definições do sistema</string>
+  <string name="find_my_device">Localizar Dispositivo</string>
+  <string name="find_my_device_disable">Desligado</string>
+  <string name="find_my_device_enable">Ligado</string>
   <string name="fingerprint_add_max">Pode adicionar até %d impressões digitais</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_and_password_entrance_title">Bloqueio de ecrã e impressão digital</string>
@@ -2036,7 +2044,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="lock_settings_title">Segurança do ecrã</string>
   <string name="lock_settings_with_fingerprint">Ecrã de bloqueio e impressões digitais</string>
   <string name="lock_setup">Configuração concluída</string>
-  <string name="lock_sounds_enable_title">Sons de bloqueio de ecrã</string>
+  <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
   <string name="lockpassword_choose_for_second_user">Definir palavra-passe do Segundo espaço</string>
   <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de ecrã</string>
@@ -2199,9 +2207,11 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="master_clear_summary">Eliminar todos os dados do telefone</string>
   <string name="master_clear_title">Reposição de definições de fábrica</string>
   <string name="max_aspect_settings_all_app_display_loading">Aguarde…</string>
-  <string name="max_cpu4_info">"Quad-core "</string>
-  <string name="max_cpu6_info">"Hexa-core "</string>
-  <string name="max_cpu8_info">"Octa-core Max "</string>
+  <string name="max_cpu10_info">"Deca-Core, "</string>
+  <string name="max_cpu2_info">"Dual-Core, "</string>
+  <string name="max_cpu4_info">"Quad-Core, "</string>
+  <string name="max_cpu6_info">"Hexa-core, "</string>
+  <string name="max_cpu8_info">"Octa-core, "</string>
   <string name="max_fingerprint_number_reached">Não é possível adicionar mais do que 5 impressões digitais. Para adicionar uma nova impressão digital, elimine primeiro uma impressão digital existente</string>
   <string name="maximum_memory_use">Utilização máxima da memória</string>
   <string name="media_button">Botão multimédia</string>
@@ -2440,7 +2450,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="mvno_match_data">Valor MVNO</string>
   <string name="mvno_type">Tipo MVNO</string>
   <string name="my_device">O meu dispositivo</string>
-  <string name="my_device_disclaimer">Nota: A informações de hardware, incluíndo CPU, capacidade de bateria, tamanho de ecrã e resolução e câmara são fornecidas pela Xiaomi</string>
+  <string name="my_device_disclaimer">Nota: As informações de hardware, incluíndo CPU, capacidade de bateria, tamanho de ecrã, resolução e câmara são fornecidas pela Xiaomi</string>
   <string name="navigation_guide_app_summary">Deslizar para a esquerda ou direita desde o limite do ecrã na parte superior</string>
   <string name="navigation_guide_app_title">Activar acções das aplicações</string>
   <string name="navigation_guide_back_anim_summary">Mostrar animações enquanto está a deslizar</string>
@@ -3163,7 +3173,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_key_long_press_timeout">Definir tempo de espera do botão</string>
   <string name="screen_key_press">Pressão nos botões de navegação</string>
   <string name="screen_key_press_action">Activar função</string>
-  <string name="screen_locking_sounds_title">Sons de bloqueio de ecrã</string>
+  <string name="screen_locking_sounds_title">Som de bloqueio de ecrã</string>
   <string name="screen_max_aspect_ratio_desc">Permitir que as aplicações seleccionadas funcionem em modo ecrã inteiro</string>
   <string name="screen_max_aspect_ratio_title">Modo ecrã inteiro</string>
   <string name="screen_monochrome_mode_apps_loading">Aguarde…</string>
@@ -3342,7 +3352,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_local_backup_section_title">Cópias locais</string>
   <string name="search_location_settings_title">Localização;Serviços de localização;GPS</string>
   <string name="search_lock_settings">Ecrã de bloqueio e segurança;Desbloquear com Bluetooth;Desbloquear com dispositivo Bluetooth</string>
-  <string name="search_lock_sounds_enable_title">Sons de bloqueio de ecrã;Ligar ons de bloqueio de ecrã</string>
+  <string name="search_lock_sounds_enable_title">Som de bloqueio de ecrã;Ligar som de bloqueio de ecrã</string>
   <string name="search_manage_device_admin">Administradores do dispositivo;Admin;Administrador</string>
   <string name="search_manage_notification_access_title">Acesso a notificações;Notificações;Permissão de notificação</string>
   <string name="search_master_clear_title">Repor definições de fábrica</string>
@@ -3521,6 +3531,9 @@ Para utilizar a fixação no ecrã:
   <string name="security_settings_premium_sms_desc">Enviar SMS premium</string>
   <string name="security_settings_summary">Definir a minha localização, bloqueio de ecrã, bloqueio do cartão SIM, credencial de bloqueio do armazenamento</string>
   <string name="security_settings_title">Segurança</string>
+  <string name="security_status">Estado da segurança</string>
+  <string name="security_status_title">Estado da segurança</string>
+  <string name="security_update">Actualização de segurança</string>
   <string name="select_all">Seleccionar tudo</string>
   <string name="select_application">Seleccionar aplicação</string>
   <string name="select_device_admin_msg">Administradores do dispositivo</string>
@@ -3619,7 +3632,7 @@ Para utilizar a fixação no ecrã:
   <string name="silent_duration">Duração</string>
   <string name="silent_mode">Modo silêncio</string>
   <string name="silent_mode_title">Modo silêncio</string>
-  <string name="silent_off">Desligar</string>
+  <string name="silent_off">Desligado</string>
   <string name="silent_settings">Silêncio/Não incomodar</string>
   <string name="silent_standard">Silêncio</string>
   <string name="silent_time">Duração do modo silêncio</string>
@@ -3861,7 +3874,7 @@ Para utilizar este ^1 com o dispositivo, tem de o configurar primeiro"</string>
   <string name="storage_format">Formatar</string>
   <string name="storage_format_failure">Não foi possível formatar %1$s</string>
   <string name="storage_format_success">%1$s está formatado</string>
-  <string name="storage_internal_forget_confirm">Todas as aplicações, as fotos e os dados armazenados neste ^1 são eliminados definitivamente</string>
+  <string name="storage_internal_forget_confirm">Todas as aplicações, as fotos e os dados armazenados neste ^1 vão ser eliminados definitivamente</string>
   <string name="storage_internal_forget_confirm_title">Esquecer ^1?</string>
   <string name="storage_internal_forget_details">"Para utilizar as aplicações, as fotos ou os dados incluídos em ^1, insira-o novamente 
 
@@ -3919,10 +3932,10 @@ Este ^1 está formatado para funcionar apenas neste dispositivo. Não funciona e
 
 Após a formatação, este ^1 apenas vai funcionar neste dispositivo.
 
-"&lt;b&gt;A formatação vai eliminar todos os dados actualmente armazenados no ^1.&lt;/b&gt;" Para evitar perder os dados, considere fazer uma cópia de segurança"</string>
+<b>A formatação vai eliminar todos os dados actualmente armazenados no ^1.</b> Para evitar perder os dados, considere fazer uma cópia de segurança"</string>
   <string name="storage_wizard_format_confirm_next">Eliminar e formatar</string>
   <string name="storage_wizard_format_confirm_public_body">"Isto exige que o ^1 seja formatado.
-"&lt;b&gt;A formatação vai eliminar todos os dados actualmente armazenados no ^1.&lt;/b&gt;" Para evitar perder os dados, considere fazer uma cópia de segurança"</string>
+<b>A formatação vai eliminar todos os dados actualmente armazenados no ^1.</b> Para evitar perder os dados, considere fazer uma cópia de segurança"</string>
   <string name="storage_wizard_format_confirm_public_title">Formatar como armazenamento portátil</string>
   <string name="storage_wizard_format_confirm_third_body">O ^1 está a ser formatado</string>
   <string name="storage_wizard_format_confirm_title">Formatar como armazenamento interno</string>
@@ -3955,7 +3968,7 @@ Não remova o ^2 no decorrer da mesma"</string>
 A aplicação ^2 neste dispositivo não está disponível até terminar a transferência"</string>
   <string name="storage_wizard_move_progress_cancel">Cancelar transferência</string>
   <string name="storage_wizard_move_progress_title">A mover…</string>
-  <string name="storage_wizard_ready_external_body">O seu ^1 está configurado para a utilização com fotos e outros conteúdos multimédia</string>
+  <string name="storage_wizard_ready_external_body">O seu ^1 está configurado para utilizar com fotos e outros conteúdos multimédia</string>
   <string name="storage_wizard_ready_internal_body">"O seu novo ^1 está a funcionar 
 
 Para mover fotos, ficheiros e dados das aplicações para este dispositivo, aceda a Definições &gt; Armazenamento"</string>
