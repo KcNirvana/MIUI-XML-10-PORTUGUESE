@@ -27,7 +27,7 @@ Contacte o seu comercial para mais detalhes"</string>
   <string name="find_device_error_server">Erro de servidor (%s)</string>
   <string name="find_device_error_unknown">Erro desconhecido (%s)</string>
   <string name="find_device_noise_title">Alarme de Localizar Dispositivo</string>
-  <string name="find_device_notice">Vá a <br/><b><font color='#e84700'>i.mi.com</font></b><br/> para localizar, bloquear ou restaurar o seu dispositivo</string>
+  <string name="find_device_notice">"Vá a <br/><b><font color='#e84700'>i.mi.com</font></b><br/> para localizar, bloquear ou restaurar o seu dispositivo"</string>
   <string name="find_device_notice_p1">Vá a</string>
   <string name="find_device_notice_p3">para localizar, bloquear ou restaurar o seu dispositivo</string>
   <string name="find_device_notice_sms_alert">Se trocar de cartões SIM, outra SMS vai ser enviada automaticamente para reactivar esta funcionalidade</string>
