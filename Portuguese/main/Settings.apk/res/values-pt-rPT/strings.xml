@@ -204,6 +204,10 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="animator_duration_scale_title">Escala de duração da animação</string>
   <string name="anti_spam">Lista de bloqueio</string>
   <string name="another_migration_already_in_progress">Já existe outra migração em curso</string>
+  <string name="aod_mode_time_summary">Programar hora em que o seu dispositivo deve mudar para o modo Sempre ligado</string>
+  <string name="aod_mode_time_title">Programar</string>
+  <string name="aod_mode_turn_off">Desligado</string>
+  <string name="aod_mode_turn_on">Ligado</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -2327,6 +2331,9 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_data_usage_menu_metered">Pontos de Acesso Móvel</string>
   <string name="miui_enable_service_title">O serviço vai executar estas acções:</string>
   <string name="miui_experience_optimization">Ligar optimização MIUI</string>
+  <string name="miui_lab_drive_mode_desc">Utilizar controlos de voz e ouvir as mensagens WeChat</string>
+  <string name="miui_lab_drive_mode_title">Modo Condução</string>
+  <string name="miui_lab_super_resolution_desc">Tornar as imagens mais nítidas</string>
   <string name="miui_lab_feature_applied">Aplicado</string>
   <string name="miui_lab_feature_off">Desligado</string>
   <string name="miui_lab_feature_on">On</string>
@@ -2335,6 +2342,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_lab_gallery_search_title">Encontrar fotos na Galeria</string>
   <string name="miui_lab_settings">Laboratório MIUI</string>
   <string name="miui_lab_slogan">Aprender. Explorar. Descobrir.</string>
+  <string name="miui_lab_super_resolution_title">Super resolução</string>
   <string name="miui_lab_taplus_desc">Prima e segure para iniciar atalhos</string>
   <string name="miui_lab_taplus_title">Iniciar aplicações</string>
   <string name="miui_updater">Actualizações</string>
@@ -2452,6 +2460,8 @@ Seleccione o seu sistema operativo:"</string>
   <string name="my_device">O meu dispositivo</string>
   <string name="my_device_disclaimer">Nota: As informações de hardware, incluíndo CPU, capacidade de bateria, tamanho de ecrã, resolução e câmara são fornecidas pela Xiaomi</string>
   <string name="navigation_guide_app_summary">Deslizar para a esquerda ou direita desde o limite do ecrã na parte superior</string>
+  <string name="navigation_guide_appswitch_summary">Deslizar para a esquerda ou direita desde o limite do ecrã e segurar por um bocado</string>
+  <string name="navigation_guide_appswitch_title">Voltar à aplicação anterior</string>
   <string name="navigation_guide_app_title">Activar acções das aplicações</string>
   <string name="navigation_guide_back_anim_summary">Mostrar animações enquanto está a deslizar</string>
   <string name="navigation_guide_back_anim_title">Animar o gesto \"Voltar\"</string>
@@ -2699,6 +2709,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Ir para as Definições</string>
   <string name="paper_mode_get_location_dlg_title">Definir localização</string>
   <string name="paper_mode_start_time_title">Ligar</string>
+  <string name="paper_mode_side_effect_hint">Uma intensidade mais alta pode afectar a maneira como o conteúdo é mostrado</string>
   <string name="passpoint_content">Credenciais de %1$s</string>
   <string name="passpoint_label">Guardada através de</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
@@ -3630,7 +3641,7 @@ Para utilizar a fixação no ecrã:
   <string name="shut_down_find_device_network_failure_title">Não foi possível ligar à rede</string>
   <string name="shuting_down_find_device">A desligar Localizar Dispositivo…</string>
   <string name="silent_duration">Duração</string>
-  <string name="silent_mode">Modo silêncio</string>
+  <string name="silent_mode">Modo de silêncio</string>
   <string name="silent_mode_title">Modo silêncio</string>
   <string name="silent_off">Desligado</string>
   <string name="silent_settings">Silêncio/Não incomodar</string>
@@ -3771,6 +3782,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_app_enable_floating">Notificações flutuantes</string>
   <string name="status_bar_app_enable_keyguard">Ecrã de bloqueio</string>
   <string name="status_bar_app_enable_message">Ícones</string>
+  <string name="status_bar_carrier_settings_no_sim_card">Sem SIM</string>
   <string name="status_bar_key_position_custom">Alterar a posição dos botões</string>
   <string name="status_bar_screen_button_desc">Deslizar para baixo para ocultar os botões do ecrã</string>
   <string name="status_bar_screen_button_force_immersive_desc">Deslizar para cima para mostrar os botões do ecrã</string>
@@ -3801,6 +3813,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_notification_vibrate">Vibração</string>
   <string name="status_bar_settings_show_carrier">Mostrar nome da operadora</string>
   <string name="status_bar_settings_show_carrier_summary">O nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
+  <string name="status_bar_settings_show_carrier_under_keyguard">Mostrar o nome da operador quando o dispositivo estiver bloqueado</string>
   <string name="status_bar_settings_show_floating_notification">Notificações flutuantes</string>
   <string name="status_bar_settings_show_floating_notification_summary">As notificações flutuantes vão desaparecer automaticamente depois de aparecerem no topo do ecrã</string>
   <string name="status_bar_settings_show_flow_info">Mostrar utilização de dados</string>
@@ -3982,11 +3995,18 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="storageuse_settings_title">Armazenamento utilizado</string>
   <string name="strict_mode">Modo restrito ligado</string>
   <string name="strict_mode_summary">Intermitência do ecrã quando aplicações executam operações longas na tarefa principal</string>
+  <string name="structure_add_facerecoginition_text">Adicionar dados de rosto 3D</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Esta aplicações funcionam melhor em modo ecrã inteiro</string>
   <string name="suggestion_for_phone_recycled">Adicionar um número de telefone diferente</string>
   <string name="sum_carrier_select">Escolher uma operadora de rede</string>
   <string name="summary_divider_text">", "</string>
   <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
+  <string name="super_resolution_access_title">Aplicações acessíveis</string>
+  <string name="super_resolution_desc">Torne as imagens mais nítidas utilizando um algoritmo de IA</string>
+  <string name="super_resolution_maintain">A super resolução ainda não está disponível</string>
+  <string name="super_resolution_no_app_tips">Transfira o WeChat e Toutiao primeiro</string>
+  <string name="super_resolution_reboot_tips">Reinicie as aplicações para que esta funcionalidade trabalhe após a ligar</string>
+  <string name="super_resolution_title">Super resolução</string>
   <string name="supl_not_set">&lt;Não definido&gt;</string>
   <string name="supplicant_state_label">Estado suplicante:</string>
   <string name="sure_sync_now">Sincronizar itens agora?</string>
@@ -4615,6 +4635,27 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
   <string name="wifi_api_test">Wi-Fi API</string>
+  <string name="wifi_assistant">Assistente Wi-Fi</string>
+  <string name="wifi_assistant_auto_confirm_data_message">Esta rede Wi-Fi não tem acesso à Internet. O seu dispositivo vai utilizar dados móveis. Pode desligar o assistente de Wi-Fi nas Definições</string>
+  <string name="wifi_assistant_confirm_always">Não mostrar novamente</string>
+  <string name="wifi_assistant_confirm_connection_title">Confirmar</string>
+  <string name="wifi_assistant_data_prompt">Mostrar aviso de utilização de dados</string>
+  <string name="wifi_assistant_data_prompt_summary">Mostrar aviso de utilização de dados quando o assistente Wi-Fi mudar para dados móveis</string>
+  <string name="wifi_assistant_description">"O assistente Wi-Fi funciona assim:
+1. Quando uma ligação Wi-Fi for fraca, o assistente Wi-Fi vai tentar ligar o seu dispositivo a outras redes Wi-Fi disponíveis.
+2. Se todas as redes Wi-Fi disponíveis forem fracas e os dados móveis estiverem ligado, o assistente Wi-Fi trocar para dados móveis"</string>
+  <string name="wifi_assistant_disconnect">Desligar</string>
+  <string name="wifi_assistant_explicitly_confirm_data_message">Esta rede Wi-Fi não tem acesso à Internet. Utilizar dados móveis?</string>
+  <string name="wifi_assistant_explicitly_confirm_disconnect">Esta rede Wi-Fi não tem acesso à Internet. Desligar agora?</string>
+  <string name="wifi_assistant_explicitly_confirm_wifi_message">Esta rede Wi-Fi não tem acesso à Internet. Estão disponíveis outras redes Wi-Fi. Trocar redes?</string>
+  <string name="wifi_assistant_keep_connection">Manter ligado</string>
+  <string name="wifi_assistant_off">Desligado</string>
+  <string name="wifi_assistant_ok">OK</string>
+  <string name="wifi_assistant_on">Ligado</string>
+  <string name="wifi_assistant_setup_wifi_assistant">Configurar</string>
+  <string name="wifi_assistant_summary">Alterar para dados móveis quando a ligação Wi-Fi for fraca</string>
+  <string name="wifi_assistant_switch_data">Utilizar dados móveis</string>
+  <string name="wifi_assistant_switch_wifi">Trocar redes</string>
   <string name="wifi_assistant_title">Assistente Wi-Fi</string>
   <string name="wifi_auto_connect">Ligação automática</string>
   <string name="wifi_automatically_connect_summary">Permitir que um Assistente de Wi-Fi ligue automaticamente a redes abertas de alta qualidade</string>
@@ -4641,6 +4682,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_connect_cmcc_dialog_title">CMCC ligado</string>
   <string name="wifi_connect_failed_message">Não foi possível ligar à rede Wi-Fi</string>
   <string name="wifi_connected_no_internet">Ligado, sem Internet</string>
+  <string name="wifi_connection_management">Gerir ligações Wi-Fi</string>
   <string name="wifi_context_menu_change_password">Alterar palavra-passe</string>
   <string name="wifi_context_menu_change_wapi_certificate">Alterar certificado WAPI</string>
   <string name="wifi_context_menu_connect">Ligar</string>
@@ -4683,6 +4725,8 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_eap_ca_cert">Certificado CA</string>
   <string name="wifi_eap_identity">Identidade</string>
   <string name="wifi_eap_method">Método EAP</string>
+  <string name="wifi_eap_options_advanced">Opções avançadas</string>
+  <string name="wifi_eap_options_simple">Opções simples</string>
   <string name="wifi_eap_sim_simcard">Escolher SIM</string>
   <string name="wifi_eap_user_cert">Certificado do utilizador</string>
   <string name="wifi_empty_list_user_restricted">Não tem permissões para mudar esta rede</string>
@@ -4732,6 +4776,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_menu_wps_pin">PIN de entrada WPS</string>
   <string name="wifi_menu_write_to_nfc">Escrever na etiqueta NFC</string>
   <string name="wifi_more">Mais</string>
+  <string name="wifi_network_optimization">Ligação optimizada</string>
   <string name="wifi_network_prefix_length">Compr. do prefixo de rede</string>
   <string name="wifi_no_internet">Sem acesso à Internet. Não vai ligar automaticamente</string>
   <string name="wifi_not_in_range">Fora do alcance</string>
@@ -4745,6 +4790,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_off_airplane_on_not_remind">Não mostrar novamente</string>
   <string name="wifi_off_airplane_on_title">Atenção</string>
   <string name="wifi_on_time">Tempo de ligação Wi-Fi</string>
+  <string name="wifi_other_connection_mode">Outras opções de ligação</string>
   <string name="wifi_other_network">Adicionar outra rede</string>
   <string name="wifi_p2p_cancel_connect_message">Deseja cancelar o convite para se ligar com %1$s?</string>
   <string name="wifi_p2p_cancel_connect_title">Cancelar convite?</string>
@@ -4773,9 +4819,11 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_priority_settings_title">Definições de prioridade do PA</string>
   <string name="wifi_priority_type_summary">Definir prioridade para cada ponto de acesso manualmente</string>
   <string name="wifi_priority_type_title">Definir prioridade do PA manualmente</string>
+  <string name="wifi_property">Propriedades Wi-Fi</string>
   <string name="wifi_quick_toggle_summary">Ligar Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Guardada</string>
+  <string name="wifi_remembered_disabled_auto_connect">Guardar. A ligação auto. está desligada</string>
   <string name="wifi_required_info_text">Para finalizar a instalação, o seu dispositivo necessita de aceder ao Wi-Fi. Depois da instalação, pode alternar entre os dados móveis e o Wi-Fi</string>
   <string name="wifi_sap_no_channel_error">Banda de 5 GHz não disponível neste país</string>
   <string name="wifi_save">Guardar</string>
@@ -4904,6 +4952,14 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_tether_settings_title">Ponto de Acesso Móvel</string>
   <string name="wifi_tether_starting">A ligar PA Móvel…</string>
   <string name="wifi_tether_stopping">A desligar PA Móvel…</string>
+  <string name="wifi_traffic_priority">Modo de velocidade Wi-Fi</string>
+  <string name="wifi_traffic_priority_extreme">Modo extremo</string>
+  <string name="wifi_traffic_priority_extreme_summary">Dar a maior parte da banda para a aplicação em primeiro plano. Os processos em segundo plano podem não conseguir ligar à rede</string>
+  <string name="wifi_traffic_priority_off">Desligado</string>
+  <string name="wifi_traffic_priority_on">Ligado</string>
+  <string name="wifi_traffic_priority_regular">Modo normal</string>
+  <string name="wifi_traffic_priority_regular_summary">Partilhar banda entre processos em segundo plano e aplicações em primeiro plano</string>
+  <string name="wifi_traffic_priority_summary">Priorizar a velocidade de ligação automaticamente</string>
   <string name="wifi_type_approval_dialog_title">Informações de Regulamentação</string>
   <string name="wifi_type_approval_title">Tipo de aprovação</string>
   <string name="wifi_unchanged">(não alterado)</string>
@@ -4934,7 +4990,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wifi_wps_available_first_item">WPS disponível</string>
   <string name="wifi_wps_available_second_item">" (WPS disponível)"</string>
   <string name="wifi_wps_complete">A instalação WPS foi bem sucedida. A Ligar à rede…</string>
-  <string name="wifi_wps_connected">Ligado à rede WiFi %s</string>
+  <string name="wifi_wps_connected">Ligado à rede Wi-Fi %s</string>
   <string name="wifi_wps_failed_auth">Erro de autenticação. Por favor, tente novamente</string>
   <string name="wifi_wps_failed_generic">WPS falhou. Por favor, tente novamente dentro de alguns minutos</string>
   <string name="wifi_wps_failed_overlap">Foi detectada outra sessão de WPS. Por favor, tente novamente daqui a uns minutos</string>

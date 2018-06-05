@@ -167,6 +167,7 @@
   <string name="app_manager_defaults_setting">Predefinições</string>
   <string name="app_manager_details_electric_title">Bateria</string>
   <string name="app_manager_details_storage_title">Armazenamento</string>
+  <string name="app_manager_details_title">Informação da aplicação</string>
   <string name="app_manager_details_traffic_title">Utilização de dados</string>
   <string name="app_manager_disable">Não permitir</string>
   <string name="app_manager_disable_dlg_text">Se desactivar esta aplicação, outras podem não funcionar correctamente</string>
