@@ -2,7 +2,7 @@
 <resources>
   <string name="access_sd_fail">Não foi possível aceder ao armazenamento USB</string>
   <string name="accessibility_ai_scene_off">Câmara IA desligada</string>
-  <string name="accessibility_ai_scene_on">Câmara IA</string>
+  <string name="accessibility_ai_scene_on">Câmara IA ligada</string>
   <string name="accessibility_audio_shutter_bg">Som do disparo</string>
   <string name="accessibility_camera_picker">Trocar câmara frontal e traseira</string>
   <string name="accessibility_effect_mode_button">Botão de efeitos</string>

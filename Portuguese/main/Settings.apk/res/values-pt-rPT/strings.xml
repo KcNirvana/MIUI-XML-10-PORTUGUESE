@@ -4092,7 +4092,8 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
   <string name="total">Não incomodar</string>
-  <string name="total_info">Silenciar sons e desligar vibração excepto para os alarmes</string>
+  <string name="total_info">Silenciar sons %1$s excepto para os alarmes</string>
+  <string name="total_info_sub">e desligar vibração</string>
   <string name="total_memory">Memória total</string>
   <string name="total_size">Total: %s</string>
   <string name="total_size_label">Total</string>

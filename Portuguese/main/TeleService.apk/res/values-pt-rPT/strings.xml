@@ -1188,6 +1188,19 @@ Contacte a sua operadora se este problema persistir"</string>
   <string name="voice_privacy_summary"/>
   <string name="voice_report_incoming_call">A chamar</string>
   <string name="voice_report_unknown_num">Número desconhecido</string>
+  <string name="voice_service_cannot_call_notification_content">Pode encontrar problemas de ligação ao tentar fazer chamadas</string>
+  <string name="voice_service_cannot_call_notification_title">Não é possível fazer chamadas na rede actual</string>
+  <string name="voice_service_switch_summary">Ligar para poder utilizar a funcionalidade VoLTE em redes VoLTE</string>
+  <string name="voice_service_switch_title">Serviços de chamada VoLTE</string>
+  <string name="voice_service_warning_dialog_body">"Este tablet suporta chamadas VoLTE em redes 4G. Certifique-se que as redes a que o seu dispositivo está ligado suportam esta funcionalidade.
+
+Se vir _ na sua barra de estado, as chamadas VoLTE não estão disponíveis. Se não conseguir fazer ou receber chamadas, certifique-se que a sua rede é compatível com VoLTE.
+
+Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou utilizar auriculares para fazer chamadas"</string>
+  <string name="voice_service_warning_dialog_cancel">Cancelar</string>
+  <string name="voice_service_warning_dialog_ok">Percebi</string>
+  <string name="voice_service_warning_dialog_ok_timer">Percebi (%d)</string>
+  <string name="voice_service_warning_dialog_title">Chamadas VoLTE</string>
   <string name="voicemail">Voice Mail</string>
   <string name="voicemail_abbreviated">VM:</string>
   <string name="voicemail_default">A sua operadora</string>

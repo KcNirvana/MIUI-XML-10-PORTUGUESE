@@ -1,5 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="battery_options">
+        <item>Mostrar sempre percentagem</item>
+        <item>Mostrar percentagem a carregar (predefinido)</item>
+        <item>Não mostrar</item>
+    </string-array>
+    <string-array name="clock_options">
+        <item>Mostrar horas, minutos e segundos</item>
+        <item>Mostrar horas e minutos (predefinido)</item>
+        <item>Não mostrar</item>
+    </string-array>
+    <string-array name="miui_volume_timer_segments_title">
+        <item>Desligado</item>
+        <item>Meia hora</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>8 horas</item>
+    </string-array>
+    <string-array name="nav_bar_buttons">
+        <item>Área de transferências</item>
+        <item>Código-chave</item>
+        <item>Troca de teclado</item>
+        <item>Nenhum</item>
+    </string-array>
+    <string-array name="nav_bar_layouts">
+        <item>Normal</item>
+        <item>Compacto</item>
+        <item>Inclinação à esquerda</item>
+        <item>Inclinação à direita</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>A pesquisar…</item>
@@ -27,33 +83,6 @@
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
         <item>Evitar temporariamente ligações fracas</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-        <item>IQA %1$s</item>
-    </string-array>
-    <string-array name="aqi_title_append">
-       <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
         <item>Céu limpo</item>

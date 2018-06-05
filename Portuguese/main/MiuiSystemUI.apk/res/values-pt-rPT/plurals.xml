@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d aplicações recentes</item>
-        <item quantity="one">%d aplicação recente</item>
-    </plurals>
     <plurals name="accessibility_recent_task_enter">
         <item quantity="other">Abriu os Recentes. Aplicações disponíveis: %d</item>
         <item quantity="one">Abriu os Recentes. Aplicações disponíveis: %d</item>
@@ -12,21 +8,93 @@
         <item quantity="other">Abriu os Recentes. Aplicações disponíveis: %d. Deslizar para cima para remover, deslizar para baixo para bloquear</item>
         <item quantity="one">Abriu os Recentes. Aplicações disponíveis: %d. Deslizar para cima para remover, deslizar para baixo para bloquear</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">%1$d atalhos vão ser mostrados na área de notificações</item>
-        <item quantity="one">%1$d atalho vai ser mostrado na área de notificações</item>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">A ocultar notificações de %1$s e %2$d aplicações</item>
+        <item quantity="one">A ocultar notificações de %1$s e %2$d aplicação</item>
     </plurals>
     <plurals name="disable_notification_confirm_title">
         <item quantity="other">Ocultar notificações de %d aplicações?</item>
         <item quantity="one">Ocultar notificações desta aplicação?</item>
     </plurals>
-    <plurals name="block_record_notification_more_text">
-        <item quantity="other">A ocultar notificações de %1$s e %2$d aplicações</item>
-        <item quantity="one">A ocultar notificações de %1$s e %2$d aplicação</item>
+    <plurals name="fold_tips_title">
+        <item quantity="other">%d notificações não importantes</item>
+        <item quantity="one">%d notificação não importante</item>
     </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Céu limpo</item>
-        <item quantity="one">Céu limpo</item>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Código PIN incorrecto. Tem %d tentativas restantes</item>
+        <item quantity="one">Código PIN incorrecto. Tem %d tentativas restante</item>
+    </plurals>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Código PUK incorrecto. Tem %d tentativas restantes</item>
+        <item quantity="one">Código PUK incorrecto. Tem %d tentativas restante</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">%d horas até estar carregada</item>
+        <item quantity="one">%d hora até estar carregada</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">%d minutos até estar carregada​</item>
+        <item quantity="one">%d minuto até estar carregada​</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">%1$d h e %2$d m até estar carregada​</item>
+        <item quantity="one">%1$d h e %2$d m até estar carregada</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">%d horas restantes</item>
+        <item quantity="one">%d hora restantes</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">%d minutos restantes</item>
+        <item quantity="one">%d minuto restante</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">%1$d h e %2$d m restantes</item>
+        <item quantity="one">%1$d h e %2$d m restante</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d h %2$d m</item>
+        <item quantity="one">%1$d h %2$d m</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="other">Introduza o PIN do SIM. Tem %d tentativas restantes</item>
+        <item quantity="one">Introduza o PIN do SIM. Tem %d tentativa restante</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="other">O SIM está desactivado. Introduza o código PUK para continuar. Tem %d tentativas restantes antes do SIM ficar inutilizável</item>
+        <item quantity="one">O SIM está desactivado. Introduza o código PUK para continuar. Tem %d tentativa restante antes do SIM ficar inutilizável</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">Código PIN do SIM incorrecto. Tem %d tentativas restantes</item>
+        <item quantity="one">Código PIN do SIM incorrecto. Tem %d tentativa restante</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">Código PUK do SIM incorrecto. Tem %d tentativas restantes antes do SIM ficar inutilizável</item>
+        <item quantity="one">Código PUK do SIM incorrecto. Tem %d tentativa restante antes do SIM ficar inutilizável</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">O dispositivo não é desbloqueado há %d horas. Confirme a palavra-passe</item>
+        <item quantity="one">O dispositivo não é desbloqueado há %d hora. Confirme a palavra-passe</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">O dispositivo não é desbloqueado há %d horas. Confirme o padrão</item>
+        <item quantity="one">O dispositivo não é desbloqueado há %d hora. Confirme o padrão</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">O dispositivo não é desbloqueado há %d horas. Confirme o PIN</item>
+        <item quantity="one">O dispositivo não é desbloqueado há %d hora. Confirme o PIN</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d novas notificações</item>
+        <item quantity="one">%d nova notificação</item>
     </plurals>
     <plurals name="notification_group_child_count">
         <item quantity="other">%1$d notificações</item>
@@ -36,8 +104,24 @@
         <item quantity="other">Mais %s notificações dentro</item>
         <item quantity="one">Mais %s notificação dentro</item>
     </plurals>
-    <plurals name="fold_tips_title">
-        <item quantity="other">%d notificações não importantes</item>
-        <item quantity="one">%d notificação não importante</item>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Tente novamente em %d segundos</item>
+        <item quantity="one">Tente novamente em %d segundo</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Tente novamente em %d minutos</item>
+        <item quantity="one">Tente novamente em %d minuto</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d atalhos vão ser mostrados na área de notificações</item>
+        <item quantity="one">%1$d atalho vai ser mostrado na área de notificações</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">%d aplicações recentes</item>
+        <item quantity="one">%d aplicação recente</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Céu limpo</item>
+        <item quantity="one">Céu limpo</item>
     </plurals>
 </resources>

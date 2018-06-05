@@ -85,6 +85,9 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s mais tarde</string>
   <string name="daily_forcast_whirl_wind">Furacão</string>
   <string name="daily_forcast_wind_connect">%2$s %1$s</string>
+  <string name="daily_forecast_add_city_add">Seguir</string>
+  <string name="daily_forecast_add_city_message">Seguir o tempo em %1$s para uma previsão mais detalhada</string>
+  <string name="daily_forecast_add_city_title">Seguir o tempo em %1$s</string>
   <string name="daily_forecast_detail">Detalhes da previsão</string>
   <string name="daily_forecast_detail_date">d/MM</string>
   <string name="daily_forecast_no_data">"Não foi possível obter informação do tempo.

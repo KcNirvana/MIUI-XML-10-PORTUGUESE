@@ -4,6 +4,9 @@
         <item quantity="other">A arrastar %1$d itens</item>
         <item quantity="one">A arrastar %1$d item</item>
     </plurals>
+    <plurals name="announce_for_unread">
+        <item quantity="other">%2$s não lidas de %1$s</item>
+    </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">Eliminar %1$d papéis de parede?</item>
         <item quantity="one">Eliminar %1$d papel de parede?</item>

@@ -306,6 +306,7 @@
   <string name="toast_feedback_submitting">A enviar…</string>
   <string name="toast_feedbackservice_in_submit">A enviar informação anterior…</string>
   <string name="toast_fill_brackets">No relatório está a faltar alguma informação</string>
+  <string name="toast_loading_app_id">A obter informações…</string>
   <string name="toast_log_not_exists">O relatório pretendido foi eliminado ou não existe</string>
   <string name="toast_log_too_large">Não é possível carregar. O ficheiro é demasiado grande</string>
   <string name="toast_module_required">Seleccionar item</string>

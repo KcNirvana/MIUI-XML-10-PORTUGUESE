@@ -31,6 +31,20 @@
         <item>Grande</item>
         <item>Enorme</item>
     </string-array>
+    <string-array name="first_guide_contents">
+        <item>Bem-vindo às Notas</item>
+        <item>Tire notas</item>
+        <item>Pode utilizar texto, imagens e gravações de voz nas suas notas. Vários estilos e tipos de letra vão fazer das suas notas uma maravilha</item>
+        <item>Listas de verificação e lembretes vão lhe ajudar a planear a próxima viagem ou fazer uma lista de compras</item>
+        <item>Partilhe notas</item>
+        <item>Pode gerar capturas de ecrã nas Notas automaticamente e partilhá-las com os amigos</item>
+        <item>Crie e mude entre pastas</item>
+        <item>Prima a seta para criar uma nova pasta ou mudar entre as existentes</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>Notas de voz</item>
+        <item>Crie notas utilizando a ferrmamenta de voz para texto para anexar as suas gravações de voz às suas notas</item>
+    </string-array>
     <string-array name="welcome_notes_content">
         <item>"Bem-vindo às Notas
 "</item>

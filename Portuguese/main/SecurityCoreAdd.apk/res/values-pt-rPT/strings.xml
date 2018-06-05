@@ -351,6 +351,7 @@ para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="switching_files">A mover ficheiros…</string>
   <string name="switching_photos">A mover fotos…</string>
   <string name="temporary_no_set">Agora não</string>
+  <string name="this_function_can_not_use_in_second_space">Esta funcionalidade apenas pode ser utilizada no Primeiro espaço</string>
   <string name="title_choose_app_status">Seleccionar o tipo de aplicação</string>
   <string name="title_switch_file">Eliminar estes ficheiros?</string>
   <string name="title_switch_photo">Eliminar estas fotos?</string>
