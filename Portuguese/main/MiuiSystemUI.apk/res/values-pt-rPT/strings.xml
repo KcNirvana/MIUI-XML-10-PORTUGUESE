@@ -318,7 +318,6 @@ Contacte o administrador para obter mais informações"</string>
   <string name="monitoring_description_personal_profile_named_vpn">O seu perfil pessoal está ligado à rede %1$s, que pode monitorizar a sua atividade de rede, incluindo emails, aplicações e sites</string>
   <string name="monitoring_description_two_named_vpns">Está ligado às redes %1$s e %2$s, que podem monitorizar a sua actividade de rede, incluindo emails, aplicações e sites</string>
   <string name="monitoring_description_vpn_settings">Abrir as definições de VPN</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_subtitle_ca_certificate">Certificados da AC</string>
   <string name="monitoring_subtitle_network_logging">Registos de rede</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
