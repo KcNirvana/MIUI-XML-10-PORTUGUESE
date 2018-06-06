@@ -156,12 +156,6 @@
   <string name="search_title_notes">Notas</string>
   <string name="select_account_prompt">Sincronizar notas</string>
   <string name="set_alarm_description">Definir alarme</string>
-  <string name="sina_share_fail">Não foi possível enviar</string>
-  <string name="sina_share_fail_content_repeat">Já partilhou isto</string>
-  <string name="sina_share_pendding">A enviar…</string>
-  <string name="sina_share_success">Enviado</string>
-  <string name="sina_token_expired_warning">A conta Weibo expirou. Adicione-a novamente</string>
-  <string name="sina_token_invalid_warning">A conta Weibo é inválida. Adicione-a novamente</string>
   <string name="snippet_audio_stub">Nota de voz</string>
   <string name="snippet_image_stub">[Image]</string>
   <string name="snippet_image_template">[Imagem %1$s]</string>

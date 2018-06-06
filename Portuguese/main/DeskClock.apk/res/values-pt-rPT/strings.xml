@@ -125,6 +125,7 @@
   <string name="more_settings">Definições</string>
   <string name="never">Uma vez</string>
   <string name="oneshot_alarm">Eliminar após desligado</string>
+  <string name="open_keep_screen">O ecrã vai permanecer ligado</string>
   <string name="pause">Pausar</string>
   <string name="percentage_sign">%</string>
   <string name="remind_ringtone">Toque</string>
@@ -143,6 +144,7 @@
   <string name="setting_alarm_arriving_summary">Enviar uma notificação antes de tocar</string>
   <string name="setting_alarm_arriving_title">Notificação antes de tocar</string>
   <string name="settings">Definições</string>
+  <string name="shut_down_keep_screen">O ecrã não vai permanecer ligado</string>
   <string name="shutdown_alarm_disable_summary">O alarme não vai tocar com o telefone desligado</string>
   <string name="shutdown_alarm_enable_summary">O alarme vai tocar com o telefone desligado</string>
   <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
@@ -206,7 +208,7 @@
   <string name="volume_button_setting_summary">Definir a função dos botões de volume durante o alarme</string>
   <string name="volume_button_setting_title">Botões de volume</string>
   <string name="workday_alarm_clock">Alarme em dias úteis</string>
-  <string name="worldclock_input_hint_text">Introduza país ou cidade</string>
+  <string name="worldclock_input_hint_text">Introduzir cidade</string>
   <string name="worldclock_empty_text">Sem relógios</string>
   <string name="worldclock_search_city">Seleccionar cidade</string>
   <string name="worldclock_title">Relógio</string>

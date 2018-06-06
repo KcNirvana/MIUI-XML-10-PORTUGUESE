@@ -79,6 +79,7 @@
   <string name="close_camera_requesting">A desligar a câmara…</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
   <string name="conference_call_number">%s pessoas</string>
+  <string name="conference_call_recorder_title">Chamada de conferência</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">Chamada de conferência de %1$s</string>
   <string name="conference_callers_exceeded">Não é possível adicionar mais pessoas</string>

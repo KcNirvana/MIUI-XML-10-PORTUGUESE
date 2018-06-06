@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Recomendações de impressão</string>
+  <string name="plugin_vendor_google_cloud_print">Impressão na Cloud</string>
+</resources>

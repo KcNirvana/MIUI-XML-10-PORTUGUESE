@@ -47,7 +47,6 @@
   <string name="account_settings_notify_summary">Mostrar notificações quando chegarem novos emails</string>
   <string name="account_settings_param">Definições da conta</string>
   <string name="account_settings_policies">Políticas de segurança</string>
-  <string name="account_settings_preference_add_account">Adicionar conta</string>
   <string name="account_settings_preference_att_save_path">Localização predefinida dos anexos</string>
   <string name="account_settings_preference_head_icon">Fotos de perfil</string>
   <string name="account_settings_preference_notify">Notificar</string>
@@ -544,6 +543,7 @@
   <string name="login139">Iniciar sessão com China Mobile</string>
   <string name="login_failed_ticker">Não é possível iniciar sessão em %s</string>
   <string name="login_failed_title">Não é possível iniciar a sessão</string>
+  <string name="login_mail">Início de sessão</string>
   <string name="login_support_tip_text">Suporta todos as contas de email mais comuns</string>
   <string name="long_press_to_select_tip">Toque e segure para seleccionar uma conversa e depois toque para seleccionar mais conversas</string>
   <string name="long_string">loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooongo</string>
@@ -554,7 +554,6 @@
   <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
   <string name="mailbox_list_account_selector_combined_view">Vista combinada</string>
   <string name="mailbox_name_display_ad">Anúncios</string>
-  <string name="mailbox_name_display_add_account">Adicionar conta</string>
   <string name="mailbox_name_display_circular">Notificações</string>
   <string name="mailbox_name_display_drafts">Rascunhos</string>
   <string name="mailbox_name_display_inbox">Caixa de entrada</string>
@@ -640,6 +639,7 @@
   <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
   <string name="mute">Silenciar</string>
   <string name="navigation_menu">Menu de navegação</string>
+  <string name="need_get_qq_mail">É necessário Email QQ</string>
   <string name="network_error">Sem ligação</string>
   <string name="network_invaild">Não é possível ligar à rede</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
@@ -687,6 +687,10 @@
   <string name="open_external_storage_and_calendar_permission">Permitir que o Email aceda ao armazenamento e calendário nas Definições</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Permitir que o Email aceda ao armazenamento, contactos e calendário nas Definições</string>
   <string name="open_external_storage_and_contacts_permission">Permitir que o Email aceda ao armazenamento e contactos nas Definições</string>
+  <string name="open_notification_kingagent">Open the notice of the burial point</string>
+  <string name="optimization_suggestion">Sugestão de optimização</string>
+  <string name="others_mail">Outros</string>
+  <string name="others_mail_des">(converter mais de 600000 emails)</string>
   <string name="outbox_alert_button_no_resend">Não enviar</string>
   <string name="outbox_alert_button_resend">Reenviar</string>
   <string name="outbox_alert_certificate_error">Contacte o seu administrador de sistemas de email e actualize o seu certificado</string>
@@ -974,6 +978,7 @@
   <string name="tap_to_configure">Toque para configurar</string>
   <string name="tap_to_enable_sync">Toque para activar</string>
   <string name="three_day">3 dias</string>
+  <string name="title_activity_about">Acerca de</string>
   <string name="to">Para</string>
   <string name="to_heading">"Para: "</string>
   <string name="toast_bar_fail_synchronization">Não é possível ligar à rede</string>
@@ -1014,9 +1019,8 @@ Remover conta?"</string>
   <string name="unread_string">conversa não lida</string>
   <string name="unzip_file_failed">Não foi possível descompactar ficheiro</string>
   <string name="update_date_format_templete">HH:mm \'do dia\' d \'de\' MMMM</string>
-  <string name="update_to_wps_mail">Disfrute de mais funcionalidades com WPS-Mail</string>
   <string name="updated_at">Actualizado às %1$s</string>
-  <string name="upload_log">Enviar registos</string>
+  <string name="upload_log">Submeter registos</string>
   <string name="upload_log_failed">Não foi possível enviar registos</string>
   <string name="upload_log_no">Cancelar</string>
   <string name="upload_log_success">Enviados com sucesso. Entraremos em contacto brevemente</string>
@@ -1030,6 +1034,8 @@ Remover conta?"</string>
   <string name="veiled_alternate_text"/>
   <string name="veiled_alternate_text_unknown_person"/>
   <string name="veiled_summary_unknown_person"/>
+  <string name="verify_code">Código de verificação</string>
+  <string name="version_string">Versão: %s</string>
   <string name="via_domain">via %1$s</string>
   <string name="view_more_conversations">Ver mais conversas</string>
   <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
@@ -1046,6 +1052,7 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definiç�
   <string name="widget_other_views">Outros</string>
   <string name="wipe_account_fail_description">Toque aqui para obter permissões</string>
   <string name="wipe_account_fail_title">Erro ao eliminar informações pessoais</string>
+  <string name="wps_title">Email WPS</string>
   <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="yes">Sim</string>
   <string name="you_are_in_mobile_network">Utilizar dados móveis para enviar registos?</string>
