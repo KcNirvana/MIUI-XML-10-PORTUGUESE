@@ -30,6 +30,7 @@ Os dados não vão ser eliminados"</string>
   <string name="menu_title_current_version_log">O que há de novo?</string>
   <string name="menu_title_pick_rom_file">Escolher pacote de actualização</string>
   <string name="menu_title_recovery">Reiniciar no modo restauro</string>
+  <string name="message">%1$s</string>
   <string name="message_checkbox">Ocultar mensagens futuras da equipa Xiaomi.eu</string>
   <string name="message_title">Aviso</string>
   <string name="new_version">Nova versão encontrada</string>

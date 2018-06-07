@@ -6,7 +6,6 @@
   <string name="activity_parse_video_title">Colar o link do vídeo</string>
   <string name="ad_download">Transferir</string>
   <string name="ad_downloading">Aguarde…</string>
-  <string name="add_one">+1</string>
   <string name="add_private">Ocultar ficheiros agora</string>
   <string name="add_private_files">Adicionar ficheiros</string>
   <string name="album_creator">Criado por %s</string>
@@ -648,9 +647,7 @@
   <string name="video_publish_hint2">Descrição</string>
   <string name="video_status_reject">Rejeitado</string>
   <string name="video_status_review">A ser analisado</string>
-  <string name="video_tag">\# %s #</string>
   <string name="video_tag_search_hint">Personalizar tópico</string>
-  <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Seleccionar tópico</string>
   <string name="video_topic_hint">Pesquisar tópicos</string>
   <string name="video_upload_btn">Seguinte</string>

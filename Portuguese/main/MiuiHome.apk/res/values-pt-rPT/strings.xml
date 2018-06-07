@@ -62,7 +62,7 @@
   <string name="aqi_quality_index_light_pollution">Com cuidado</string>
   <string name="aqi_quality_index_moderate">Moderado</string>
   <string name="aqi_quality_index_unhealthy">Nocivo</string>
-  <string name="backup_fail">Erro ao fazer cópia do launcher</string>
+  <string name="backup_fail">Não foi possível fazer cópia do launcher</string>
   <string name="bad_wallpaper_source_prompt">Não é possível carregar o papel de parede</string>
   <string name="buffering">A armazenar…</string>
   <string name="cancel_action">Cancelar</string>
@@ -229,9 +229,7 @@
   <string name="normal_wallpaper">Papel de parede</string>
   <string name="notification_installed">Instalado com sucesso</string>
   <string name="notification_open_button">Abrir</string>
-  <string name="notification_reset_description">%1$s%1$s Pode repor o launcher para %2$s</string>
-  <string name="notification_reset_duration">Em duas horas,</string>
-  <string name="notification_reset_title">Limpeza automática concluída</string>
+  <string name="notification_reset_title">Ícones organizados com sucesso</string>
   <string name="online_wallpaper">Online</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Desligar</string>
@@ -269,7 +267,7 @@
   <string name="preferences_title">Definições do launcher</string>
   <string name="preferred_app_settings_not_selected">Não seleccionada</string>
   <string name="process"/>
-  <string name="quick_app">Aplicação rápida</string>
+  <string name="quick_app">Aplicações rápidas</string>
   <string name="recents_config_title">Recentes</string>
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_apps_default_title">Vazio</string>
@@ -280,9 +278,11 @@
   <string name="recommend_apps_tips">Esta funcionalidade necessita de estar ligada à Internet para funcionar normalmente. Para desligar esta funcionalidade toque no nome desta pasta</string>
   <string name="recommend_loading">A carregar</string>
   <string name="refresh">Actualizar</string>
-  <string name="reset_fail">Erro na reposição</string>
+  <string name="reset_description_first_time">Pode restaurar o layout de %1$s em 2 horas</string>
+  <string name="reset_description_others">Pode restaurar o layout de %1$s</string>
+  <string name="reset_fail">Não foi possível restaurar</string>
   <string name="reset_scene_prompt">O ecrã vai ser reiniciado para o layout predefinido</string>
-  <string name="reset_title">Repor</string>
+  <string name="reset_title">Restaurar</string>
   <string name="screen_cells_config_title">Disposição do ecrã inicial</string>
   <string name="screen_locked_toast">O layout do ecrã inicial está bloqueado</string>
   <string name="screen_number">%d ecrã</string>

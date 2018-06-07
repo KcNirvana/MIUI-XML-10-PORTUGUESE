@@ -101,9 +101,9 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="front_camera_hint_text_place">"Tirar selfies vai ser mais fácil
 se rodar o seu telefone"</string>
   <string name="front_camera_hint_text_rotate">Rode o seu telefone</string>
-  <string name="hibernate_hint">Toque no ecrã para ligar a Câmara</string>
   <string name="groupshot_mode_use_hint">"Vão ser tiradas várias fotos para seleccionar a melhor
 expressão facial para construir uma foto"</string>
+  <string name="hibernate_hint">Toque no ecrã para ligar a Câmara</string>
   <string name="hint_ae_af_lock">Focagem / Exposição auto foram bloqueadas</string>
   <string name="hine_hht">"Com luz fraca, a câmara vai tirar várias fotos
 e criar uma com o mínimo de ruído"</string>
