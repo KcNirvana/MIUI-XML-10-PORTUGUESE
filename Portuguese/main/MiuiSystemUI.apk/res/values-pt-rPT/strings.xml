@@ -786,7 +786,6 @@ Tente novamente dentro de %2$d segundos"</string>
   <string name="left_keycode">Código de tecla esquerdo</string>
   <string name="left_nav_bar_button_type">Tipo de botão esquerdo adicional</string>
   <string name="legacy_vpn_name">VPN</string>
-  <string name="list_delimeter">", "</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Aguarde…</string>
   <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
@@ -867,7 +866,6 @@ Contacte o administrador para obter mais informações"</string>
   <string name="monitoring_description_personal_profile_named_vpn">O seu perfil pessoal está ligado à rede %1$s, que pode monitorizar a sua atividade de rede, incluindo emails, aplicações e sites</string>
   <string name="monitoring_description_two_named_vpns">Está ligado às redes %1$s e %2$s, que podem monitorizar a sua actividade de rede, incluindo emails, aplicações e sites</string>
   <string name="monitoring_description_vpn_settings">Abrir as definições de VPN</string>
-  <string name="monitoring_description_vpn_settings_separator">" "</string>
   <string name="monitoring_subtitle_ca_certificate">Certificados da AC</string>
   <string name="monitoring_subtitle_network_logging">Registos de rede</string>
   <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1090,7 +1088,6 @@ Deslize para baixo para bloquear"</string>
   <string name="user_guide_for_toggle_list">Gerir atalhos</string>
   <string name="v7_preference_off">Desligado</string>
   <string name="v7_preference_on">Ligado</string>
-  <string name="velocity_tracker_impl">Plataforma</string>
   <string name="voice_assist_label">Abrir assistente de voz</string>
   <string name="voice_hint">Deslizar a partir do ícone para ligar o assistente de voz</string>
   <string name="volume_and_do_not_disturb">Não incomodar</string>

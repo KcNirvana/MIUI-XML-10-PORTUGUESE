@@ -78,7 +78,7 @@
   <string name="query_error">Não é possível carregar o conteúdo</string>
   <string name="rename_error">Erro ao mudar nome do documento</string>
   <string name="root_available_bytes">%1$s livres</string>
-  <string name="root_recent">Recente</string>
+  <string name="root_recent">Recentes</string>
   <string name="root_type_apps">Mais aplicações</string>
   <string name="root_type_device">Dispositivos</string>
   <string name="root_type_service">Serviços de armazenamento</string>
