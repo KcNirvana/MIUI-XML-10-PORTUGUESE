@@ -2744,11 +2744,11 @@ Seleccione o seu sistema operativo:"</string>
   <string name="picture_color_mode">Modo de cor da imagem</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
   <string name="picture_in_picture_app_detail_summary">Permitir que esta aplicação crie uma janela de ecrã no ecrã enquanto a aplicação está aberta ou depois de sair da mesma (por exemplo, para continuar a ver um vídeo). Esta janela é apresentada sobre as outras aplicações que estiver a utilizar</string>
-  <string name="picture_in_picture_app_detail_switch">Permitir imagem na imagem</string>
-  <string name="picture_in_picture_app_detail_title">Imagem na imagem</string>
-  <string name="picture_in_picture_empty_text">Nenhuma aplicação instalada é compatível com imagem na imagem</string>
-  <string name="picture_in_picture_keywords">pip imagem na</string>
-  <string name="picture_in_picture_title">Imagem na imagem</string>
+  <string name="picture_in_picture_app_detail_switch">Permitir ecrã no ecrã</string>
+  <string name="picture_in_picture_app_detail_title">Ecrã no ecrã</string>
+  <string name="picture_in_picture_empty_text">Nenhuma aplicação instalada é compatível com ecrã no ecrã</string>
+  <string name="picture_in_picture_keywords">pip ecrã no</string>
+  <string name="picture_in_picture_title">Ecrã no ecrã</string>
   <string name="pico_installed">Instalado</string>
   <string name="pico_languages_and_voices">Linguagens e vozes</string>
   <string name="pico_not_installed">Não instalado</string>
