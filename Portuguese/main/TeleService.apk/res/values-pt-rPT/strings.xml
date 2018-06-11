@@ -907,6 +907,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tipo de rede preferida</string>
   <string name="preferred_phone_account">Conta de chamadas preferida</string>
+  <string name="preferred_wificall_title">Preferências da rede</string>
   <string name="private_num">Número privado</string>
   <string name="progress_dialog_exiting_ecm">A sair do Modo de Emergência</string>
   <string name="prompt_to_turnoff_volte_when_failed">Os serviços VoLTE não estão disponíveis. Desligue o VoLTE para fazer uma chamada</string>
@@ -1229,8 +1230,13 @@ Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou uti
   <string name="volte_tips_when_turn_on">Os serviços VoLTE China Telecom apenas são fornecidos em áreas com rede 4G</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>
+  <string name="wfcmode_mobile_preferred">Dados móveis</string>
+  <string name="wfcmode_wifi_only">Apenas Wi-Fi</string>
+  <string name="wfcmode_wifi_preferred">Wi-Fi</string>
   <string name="wifi_call_setting">Definições de chamadas Wi-Fi</string>
   <string name="wifi_calling">Chamadas Wi-Fi</string>
+  <string name="wificall_switch_summary">O seu dispositivo pode trocar entre Wi-Fi e VoLTE quando a ligação for fraca</string>
+  <string name="wificall_switch_title">Chamadas Wi-Fi</string>
   <string name="wild_prompt_str">Substituir o caracter universal por</string>
   <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="xdivert_summary">Definições CFNRc</string>

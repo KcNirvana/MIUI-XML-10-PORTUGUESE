@@ -172,7 +172,7 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_main_multi_user_error_message">"Iniciou sessão com a mesma conta do Primeiro espaço que causou um erro na Mi Cloud.  
 Utilize uma conta diferente"</string>
   <string name="micloud_main_multi_user_error_title">Erro da Mi Cloud</string>
-  <string name="micloud_main_network_abnormal">Não é possível ligar à rede</string>
+  <string name="micloud_main_network_abnormal">Verifique as definições de rede</string>
   <string name="micloud_main_network_error">Não é possível ligar à rede</string>
   <string name="micloud_main_query_again">Envie outro pedido</string>
   <string name="micloud_main_query_error_message">Não é possível assegurar se a sincronização está concluída</string>

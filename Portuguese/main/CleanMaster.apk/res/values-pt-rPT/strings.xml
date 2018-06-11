@@ -99,7 +99,7 @@
   <string name="buy_traffic_pack">Comprar mais dados</string>
   <string name="cache_title_empty_folder">Pastas vazias (%d)</string>
   <string name="cache_title_empty_folder2">Pastas vazias</string>
-  <string name="cache_title_system_cache">Cache do sistema</string>
+  <string name="cache_title_system_cache">Cache de dados</string>
   <string name="cached_garbage">Cache</string>
   <string name="call_log">Registos de chamadas</string>
   <string name="cancel">Cancelar</string>
@@ -108,8 +108,6 @@
   <string name="clean_content_three">3 itens</string>
   <string name="clean_content_two">2 itens</string>
   <string name="clean_content_zero">Nenhum</string>
-  <string name="clean_long_msg">"A limpar %1$d ficheiros: %2$d concluídos 
-%3$d%% itens/segundos restantes: %4$s"</string>
   <string name="clear_bigfiles">Eliminar ficheiros grandes, fotos duplicadas ou outros itens desnecessários</string>
   <string name="clear_immediately">Limpar agora</string>
   <string name="clear_safe_notify">Widget de notificação</string>
