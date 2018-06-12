@@ -727,13 +727,19 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bootloader_apply_step_5">Certifique-se que sabe utilizar o modo Fastboot antes de o ligar</string>
   <string name="bootloader_apply_title">Aviso importante</string>
   <string name="bootloader_device_bind_already">Adicionado com sucesso. A Conta Mi está agora associada ao seu dispositivo</string>
+  <string name="bootloader_device_bind_exceed_sim_limit">Não é possível adicionar mais contas a este cartão SIM</string>
   <string name="bootloader_device_bind_fail">Não foi possível verificar. Aguarde alguns minutos e tente novamente</string>
   <string name="bootloader_device_bind_msg">A preparar para adicionar conta e dispositivo…</string>
   <string name="bootloader_device_bind_no_account">Inicie sessão na sua Conta Mi primeiro</string>
   <string name="bootloader_device_bind_no_network">Ligue-se à rede e tente novamente</string>
+  <string name="bootloader_device_bind_no_sim">Insira cartão SIM e tente novamente</string>
+  <string name="bootloader_device_bind_server_code">Não foi possível adicionar. Código do erro:</string>
+  <string name="bootloader_device_bind_sim_invalid">O cartão SIM é inválido. Substitua-o e tente novamente</string>
   <string name="bootloader_locked_answer_1">Nós bloqueamos os dispositivos para garantir que são seguros. Se precisar de entrar no modo Fastboot e flashar o seu dispositivo, pode desbloqueá-lo</string>
   <string name="bootloader_locked_answer_1_warning">Lembre-se: Não vai poder utilizar \"Localizar Dispositivo\" depois do dispositivo estar desbloqueado</string>
-  <string name="bootloader_locked_answer_2">Toque no botão abaixo para associar a sua Conta Mi com este dispositivo. Depois vá ao site da MIUI para transferir a ferramenta de desbloqueio e instale-a no seu computador. Aqui está o site:"</string>
+  <string name="bootloader_locked_answer_2">"1. Certifique-se que já inseriu um cartão SIM no seu dispositivo
++2. Toque \"Adicionar conta\" para associar a sua Conta Mi a este dispositivo
++3. Transfira a ferramenta de desbloqueio do nosso site. Note que deve desbloquear dispositivos utilizando um computador. Transfira aqui:"</string>
   <string name="bootloader_locked_check_status">Adicionar conta e dispositivo</string>
   <string name="bootloader_locked_question_1">Porque é que os dispositivos devem estar bloqueados?</string>
   <string name="bootloader_locked_question_2">Eu compreendo os riscos mas ainda quero desbloquear o meu dispositivo</string>
@@ -741,6 +747,11 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bootloader_status_locked">Bloqueado</string>
   <string name="bootloader_status_locked_info">Este dispositivo está bloqueado</string>
   <string name="bootloader_status_locked_summary">O telefone está seguro</string>
+  <string name="bootloader_status_privacy_dialog_message">O Mi Unlock necessita de aceder à sua Conta Mi, ID do CPU, IMEI e IMSI para funcionar. Nós utilizamos os seus dados de acordo com a nossa %s. Concorda?</string>
+  <string name="bootloader_status_privacy_dialog_no">Cancelar</string>
+  <string name="bootloader_status_privacy_dialog_title">Necessário permissões</string>
+  <string name="bootloader_status_privacy_dialog_url_text">Política de Privacidade</string>
+  <string name="bootloader_status_privacy_dialog_yes">Concordar</string>
   <string name="bootloader_status_summary">Verificar se o dispositivo está bloqueado</string>
   <string name="bootloader_status_unlocked">Desbloqueado</string>
   <string name="bootloader_status_unlocked_info">Este dispositivo está desbloqueado</string>
@@ -1195,6 +1206,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_more">Ver mais</string>
   <string name="device_miui_version">Versão MIUI</string>
+  <string name="device_miui_version_for_POCO">Versão MIUI (para POCO)</string>
   <string name="device_miui_version_update">Actualização MIUI disponível</string>
   <string name="device_name">Nome do dispositivo</string>
   <string name="device_name_input_error">Erro ao guardar o nome do dispositivo</string>
@@ -2343,8 +2355,6 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_lab_settings">Laboratório MIUI</string>
   <string name="miui_lab_slogan">Aprender. Explorar. Descobrir.</string>
   <string name="miui_lab_super_resolution_title">Super resolução</string>
-  <string name="miui_lab_taplus_desc">Prima e segure para iniciar atalhos</string>
-  <string name="miui_lab_taplus_title">Iniciar aplicações</string>
   <string name="miui_updater">Actualizações</string>
   <string name="miui_userguide">Guia do utilizador</string>
   <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
@@ -4060,6 +4070,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="system_update_settings_list_item_title">Actualizar sistema</string>
   <string name="tap_to_wake">Tocar para activar</string>
   <string name="tap_to_wake_summary">Tocar duas vezes em qualquer ponto do ecrã para activar o dispositivo</string>
+  <string name="taplus_title">Taplus</string>
   <string name="terms_title">Termos e Condições</string>
   <string name="testing">A testar</string>
   <string name="testing_phone_info">Informações do telefone</string>

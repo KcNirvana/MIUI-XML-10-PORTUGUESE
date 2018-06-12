@@ -86,31 +86,41 @@
         <item quantity="one">(%1$d ficheiro vazio)</item>
     </plurals>
     <plurals name="app_usage_day">
-         <item quantity="other">Não utilizada há %d dias</item>
-         <item quantity="one">Não utilizada há %d dia</item>
-     </plurals>
-     <plurals name="app_usage_month">
-         <item quantity="other">Não utilizada há %d meses</item>
-         <item quantity="one">Não utilizada há %d mês</item>
-     </plurals>
-     <plurals name="app_usage_year">
-         <item quantity="other">Não utilizada há %d anos</item>
-         <item quantity="one">Não utilizada há %d ano</item>
-     </plurals>
-     <plurals name="resutl_function_install_app_summary">
-         <item quantity="other">%d aplicações que não são utilizadas há bastante tempo</item>
-         <item quantity="one">%d aplicação que não é utilizada há bastante tempo</item>
-     </plurals>
-     <plurals name="hour">
-        <item quantity="other">%1$d horas</item>
-        <item quantity="one">%1$d hora</item>
-     </plurals>
-     <plurals name="minute">
-        <item quantity="other">%1$d minutos</item>
-        <item quantity="one">%1$d minuto</item>
-     </plurals>
-     <plurals name="second">
-        <item quantity="other">%1$d segundos</item>
-        <item quantity="one">%1$d segundo</item>
-     </plurals>
+        <item quantity="other">Não utilizada há %d dias</item>
+        <item quantity="one">Não utilizada há %d dia</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Não utilizada há %d meses</item>
+        <item quantity="one">Não utilizada há %d mês</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Não utilizada há %d anos</item>
+        <item quantity="one">Não utilizada há %d ano</item>
+    </plurals>
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">%d aplicações que não são utilizadas há bastante tempo</item>
+        <item quantity="one">%d aplicação que não é utilizada há bastante tempo</item>
+    </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"A limpar %1$d ficheiros: %2$d concluídos 
+"</item>
+        <item quantity="one">"A limpar %1$d ficheiro: %2$d concluído 
+"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d%% itens/segundos restantes: %2$s</item>
+        <item quantity="one">%1$d%% item/segundo restante: %2$s</item>
+    </plurals>
+    <plurals name="hour">
+       <item quantity="other">%1$d horas</item>
+       <item quantity="one">%1$d hora</item>
+    </plurals>
+    <plurals name="minute">
+       <item quantity="other">%1$d minutos</item>
+       <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="second">
+       <item quantity="other">%1$d segundos</item>
+       <item quantity="one">%1$d segundo</item>
+    </plurals>
 </resources>

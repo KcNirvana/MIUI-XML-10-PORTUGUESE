@@ -25,10 +25,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="config_suggest_suffix_title">Poupança de bateria (recomendado)</string>
   <string name="confirm">OK</string>
   <string name="current_cloud_addr_is">O servidor de controlo da nuvem é:</string>
-  <string name="disable_hide_mode">Desligar a poupança de bateria</string>
-  <string name="disable_hide_mode_warning">Desligar a poupança de bateria pode aumentar o consumo de bateria</string>
   <string name="empty_title_apps_container_list">Sem aplicações</string>
-  <string name="enable_hide_mode">Ligar poupança de bateria</string>
   <string name="enable_sleep_mode">Ligar o Modo Inactivo para optimizar a utilização de bateria à noite</string>
   <string name="error_filename_too_long">O nome do ficheiro introduzido é demasiado longo</string>
   <string name="extreme_power_config_mode_category">Modo Extremo</string>
