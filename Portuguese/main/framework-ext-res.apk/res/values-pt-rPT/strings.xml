@@ -100,6 +100,7 @@
   <string name="reboot_progress">A reiniciar…</string>
   <string name="remain">Restantes: %s</string>
   <string name="replace">Substituir</string>
+  <string name="resolver_app_recommend_flag">Recomendar</string>
   <string name="resource_select">Seleccionar</string>
   <string name="screen_button_notification_text">Para activar, prima os botões Início e Ligar/Desligar simultaneamente</string>
   <string name="screen_button_notification_title">Botões de navegação desligados</string>

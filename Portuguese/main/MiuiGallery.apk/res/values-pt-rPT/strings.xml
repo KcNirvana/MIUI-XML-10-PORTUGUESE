@@ -206,6 +206,8 @@
   <string name="change_to_face_mode">Mostrar apenas pessoas</string>
   <string name="change_to_photo_mode">Mostrar pré-visualizações completas</string>
   <string name="change_to_visible">Restaurar esta pessoa?</string>
+  <string name="checked">Seleccionado</string>
+  <string name="checked_something">%s seleccionado</string>
   <string name="choose_baby_sexy">Género</string>
   <string name="choose_owner_relation">Relação</string>
   <string name="choose_people">Escolher o álbum de uma pessoa</string>
@@ -366,6 +368,7 @@
   <string name="enable_face_album_summary">Ordenar fotos automaticamente pelas pessoas que estão nelas</string>
   <string name="enable_face_album_title">Ordenar por pessoas</string>
   <string name="enabling_face_feature">Aguarde…</string>
+  <string name="enter_choice_mode">Abriu opções de partilha</string>
   <string name="enter_email_hint">Inserir endereço de email</string>
   <string name="error_album_not_exist">O álbum não existe</string>
   <string name="error_build_thumbnail_action">Transferir ficheiro original</string>
@@ -429,6 +432,7 @@
   <string name="error_unknown_msg">Ocorreu um erro. Envie-nos o seu comentário</string>
   <string name="error_unknown_tip">Ocorreu um erro</string>
   <string name="exit">Sair</string>
+  <string name="exit_choice_mode">Saiu das opções de partilha</string>
   <string name="exit_share">Sair do álbum</string>
   <string name="exit_share_failed">Não foi possível sair de %1$s</string>
   <string name="exit_share_in_process">A sair do álbum \"%s\"…</string>
@@ -462,6 +466,7 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="fancy_color_desc">Cores</string>
   <string name="fast_share_auto_render">Embelezar</string>
   <string name="fast_share_auto_render_finish">Embelezada</string>
+  <string name="feature_guidance_photo_effects">Efeitos da foto</string>
   <string name="filter_bi_memory">Memória</string>
   <string name="filter_bi_mono">Mono</string>
   <string name="filter_bi_pink">Rosa</string>
@@ -564,6 +569,8 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="image_invalid_path">Caminho inválido</string>
   <string name="image_not_found">Não foi possível localizar imagem</string>
   <string name="image_quota_fulfiled">Demasiadas imagens. Elimine algumas imagens e tente novamente</string>
+  <string name="image_with_time">Foto tirada em %s</string>
+  <string name="image_with_time_and_location">Foto tirada em %1$s. Localização: %2$s.</string>
   <string name="impunity_declaration_settings">Notificação de ligação à Internet</string>
   <string name="impunity_declaration_summary">Mostrar notificação de ligação à Internet sempre que abrir a Galeria</string>
   <string name="initializing_cloud">A iniciar…</string>
@@ -1060,6 +1067,7 @@ para personalizar a galeria"</string>
   <string name="sticker_words">Words</string>
   <string name="storage_description_primary">Armazenamento interno</string>
   <string name="storage_description_sdcard">Cartão SD</string>
+  <string name="storage_description_usb">Armazenamento USB</string>
   <string name="storage_description_xspace">Dados das aplic. clonadas</string>
   <string name="storage_no_space">Sem espaço suficiente</string>
   <string name="sub_discard_confirm_message">Guardar alterações?</string>
@@ -1122,6 +1130,9 @@ para personalizar a galeria"</string>
   <string name="try_to_send">Enviar</string>
   <string name="turn_off_and_move">Desligar e mover</string>
   <string name="turn_on_and_remove">Ligar e mover</string>
+  <string name="turn_on_sync">Ligar sincronização</string>
+  <string name="unchecked">Desmarcado</string>
+  <string name="unchecked_something">%s desmarcado</string>
   <string name="unpublish_failed">Não foi possível anular a publicação</string>
   <string name="unpublish_succeeded">Publicação de álbum anulada</string>
   <string name="unpublishing">A cancelar…</string>
@@ -1228,6 +1239,8 @@ para personalizar a galeria"</string>
   <string name="video_editor_watermark">"Marca d'água"</string>
   <string name="video_err">Não é possível reproduzir o vídeo</string>
   <string name="video_not_exist">O vídeo não existe</string>
+  <string name="video_with_time">Vídeo gravado em %s</string>
+  <string name="video_with_time_and_location">Vídeo gravado em %1$s. Localização: %2$s.</string>
   <string name="view_by_gallery_tip">Galeria MIUI</string>
   <string name="view_face_album">Ver álbum</string>
   <string name="view_more_face_desc">Ver mais pessoas</string>

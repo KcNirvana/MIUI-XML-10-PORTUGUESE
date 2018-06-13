@@ -17,6 +17,7 @@
   <string name="accessibility_stereo_button">Modo Câmara Dupla</string>
   <string name="accessibility_zoom_button">Modo Zoom</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
+  <string name="back_bokeh_use_hint">Certifique-se que o objecto não está a mais de 1,5 metros</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Beleza</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">A remodelar</string>
   <string name="beauty_fragment_tab_name_beauty">Embelezar</string>

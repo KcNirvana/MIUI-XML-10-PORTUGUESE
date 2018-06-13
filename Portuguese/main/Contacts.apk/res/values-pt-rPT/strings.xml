@@ -901,6 +901,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_phone">Telefone</string>
   <string name="preference_phone_more_title">Definições das chamadas</string>
   <string name="preference_remove_duplicate">Unir contactos duplicados</string>
+  <string name="preference_show_firewall_calllog">Mostrar chamadas bloqueadas no registo de chamadas</string>
   <string name="preference_show_yellowpage_tab_description">As páginas amarelas podem não funcionar correctamente se esta funcionalidade estiver desligada</string>
   <string name="preference_show_yellowpage_tab_title">Mostrar as páginas amarelas</string>
   <string name="preference_simple_mode_description">Mostrar fotos e outras informações na lista de contactos</string>

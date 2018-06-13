@@ -2343,6 +2343,9 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_data_usage_menu_metered">Pontos de Acesso Móvel</string>
   <string name="miui_enable_service_title">O serviço vai executar estas acções:</string>
   <string name="miui_experience_optimization">Ligar optimização MIUI</string>
+  <string name="miui_lab_ai_cloud_closed">O pré-carregamento IA ainda não está disponível</string>
+  <string name="miui_lab_ai_preload_desc">O pré-carregamento IA aumenta a velocidade de execução da aplicação</string>
+  <string name="miui_lab_ai_preload_title">Pré-carregamento IA</string>
   <string name="miui_lab_drive_mode_desc">Utilizar controlos de voz e ouvir as mensagens WeChat</string>
   <string name="miui_lab_drive_mode_title">Modo Condução</string>
   <string name="miui_lab_super_resolution_desc">Tornar as imagens mais nítidas</string>

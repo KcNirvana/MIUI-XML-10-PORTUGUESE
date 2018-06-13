@@ -219,7 +219,7 @@
   <string name="guide_card_hint_text">Importar aniversários dos contactos</string>
   <string name="guide_card_import">Importar</string>
   <string name="guide_card_primary_text">Importar aniversário de amigos</string>
-  <string name="guide_card_second_text">Batch import, buddy birthday is not missing</string>
+  <string name="guide_card_second_text">Nunca se esqueça duma data importante</string>
   <string name="guide_card_title">Importar aniversários</string>
   <string name="hint_attendees">Convidados</string>
   <string name="hint_description">Descrição</string>

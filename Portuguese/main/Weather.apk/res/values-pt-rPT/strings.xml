@@ -172,7 +172,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="network_unavailable">Não é possível ligar à rede</string>
   <string name="night_not_disturb_settings_summary">Silenciar alertas entre as 23:00 e as 7:00</string>
   <string name="night_not_disturb_settings_title">Não incomodar à noite</string>
-  <string name="no_data">--</string>
+  <string name="no_data">Sem dados</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="open">Abrir</string>
   <string name="open_browser">Abrir no navegador</string>

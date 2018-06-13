@@ -14,6 +14,7 @@
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
   <string name="birthday">Aniversário</string>
+  <string name="cancel_description">Cancelar</string>
   <string name="check_phone_error_title">Sincronização desligada</string>
   <string name="check_phone_io_error">Não é possível ligar à rede</string>
   <string name="chinese_day_1">" "</string>
@@ -88,6 +89,7 @@
   <string name="chinese_symbol_animals_tiger">" "</string>
   <string name="clearable_edittext_clear_description">Limpar</string>
   <string name="close">Fechar</string>
+  <string name="confirm_description">Confirmar</string>
   <string name="copyright">Direitos de autor</string>
   <string name="country_name_ac">AC</string>
   <string name="country_name_ad">AD</string>
@@ -325,7 +327,9 @@
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Concluído</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
+  <string name="delete_description">Eliminar</string>
   <string name="deselect_all">Desmarcar tudo</string>
+  <string name="deselect_all_description">Desmarcar tudo</string>
   <string name="early_morning">AM</string>
   <string name="earthly_branches_chen">" "</string>
   <string name="earthly_branches_chou">" "</string>
@@ -475,6 +479,7 @@
   <string name="search_input_description">Pesquisar</string>
   <string name="search_mode_button_back_description">Voltar</string>
   <string name="select_all">Seleccionar tudo</string>
+  <string name="select_all_description">Seleccionar tudo</string>
   <string name="select_item">Seleccionar itens</string>
   <string name="send">Enviar</string>
   <string name="send_sms_for_sync_notice">A sua operadora pode cobrar por uma mensagem enviada para activar este serviço</string>

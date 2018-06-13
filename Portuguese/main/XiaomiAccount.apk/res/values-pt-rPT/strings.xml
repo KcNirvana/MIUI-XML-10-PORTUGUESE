@@ -21,6 +21,7 @@
   <string name="account_has_been_set">Alterar</string>
   <string name="account_limit_update_birthday">Não é possível actualizar a data de nascimento neste momento</string>
   <string name="account_mibi_center">Mi Credits</string>
+  <string name="account_mibi_charge">Carregamento de Mi Credits</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Nenhum</string>
   <string name="account_none">Nenhum</string>
@@ -186,6 +187,7 @@
   <string name="oauth_scopes_intro">%2$s vai obter as seguintes permissões: %3$s</string>
   <string name="oauth_title">Iniciar sessão com a Conta Mi</string>
   <string name="other_devices_title">Outros dispositivos</string>
+  <string name="passport_Resend">Reenviar</string>
   <string name="passport_access_denied">Acesso negado</string>
   <string name="passport_account_hint_text">Email/Número de telefone/ID da Conta Mi</string>
   <string name="passport_account_label">Conta Mi</string>
@@ -205,6 +207,7 @@
   <string name="passport_back">Voltar</string>
   <string name="passport_bad_authentication">Utilizador ou palavra-passe inválido</string>
   <string name="passport_barcode_add_account_prompt">Para associar uma conta digitalize novamente o código QR depois de iniciar sessão</string>
+  <string name="passport_btn_change_account">Alterar conta</string>
   <string name="passport_change_account"><u>Alterar conta</u></string>
   <string name="passport_change_phone_number">Trocar números</string>
   <string name="passport_checking_account">A verificar palavra-passe…</string>
@@ -235,6 +238,7 @@ Para activar a sua conta siga o
   <string name="passport_error_empty_pwd">Introduzir a sua palavra-passe</string>
   <string name="passport_error_empty_username">Introduzir o ID da sua Conta Mi</string>
   <string name="passport_error_empty_vcode">Introduzir código de verificação</string>
+  <string name="passport_error_empty_voice_code">Introduzir captcha</string>
   <string name="passport_error_illegal_pwd">Palavra-passe inválida</string>
   <string name="passport_error_invalid_dev_id">O seu ID de dispositivo é inválido</string>
   <string name="passport_error_invalid_phone_num">Número de telefone inválido</string>
@@ -271,8 +275,11 @@ Para activar a sua conta siga o
   <string name="passport_input_password_hint">Palavra-passe</string>
   <string name="passport_input_phone_hint">Número de telefone</string>
   <string name="passport_input_vcode_hint">Código de verificação</string>
-  <string name="passport_input_voice_captcha_hint">Introduza o código de verificação de voz</string>
+  <string name="passport_input_voice_captcha_hint">Código de verificação de voz</string>
+  <string name="passport_input_voice_hint">Código de voz</string>
   <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode ver esta página em %s</string>
+  <string name="passport_license_info_collapse">Fechar</string>
+  <string name="passport_license_info_open">Detalhes</string>
   <string name="passport_loading">A carregar…</string>
   <string name="passport_login">Iniciar sessão</string>
   <string name="passport_login_failed">Não é possível iniciar sessão</string>
@@ -285,6 +292,7 @@ Para activar a sua conta siga o
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
   <string name="passport_login_using_other_ways">Outros métodos de iniciar sessão</string>
   <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
+  <string name="passport_new_user_register">Criar uma conta</string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_no">Não</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
@@ -328,6 +336,7 @@ Para activar a sua conta siga o
   <string name="passport_register_by_email"><u>Criar uma conta utilizando um endereço de email</u></string>
   <string name="passport_register_restricted">Foram associadas demasiadas contas com este número, tente um diferente</string>
   <string name="passport_register_restricted_title">Não é possível utilizar este número de telefone</string>
+  <string name="passport_register_using_other_ways">Outros métodos de registo</string>
   <string name="passport_registered_phone_num">Telefone: %s</string>
   <string name="passport_registered_phone_user_ID">ID do utilizador:%s</string>
   <string name="passport_registered_phone_user_name">Nome do utilizador:%s</string>
@@ -392,6 +401,7 @@ Para activar a sua conta siga o
   <string name="passport_wrong_captcha">O código que introduziu está incorrecto</string>
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que introduziu é inválido</string>
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
+  <string name="passport_wrong_voice">O código que introduziu está incorrecto</string>
   <string name="passport_yes">Sim</string>
   <string name="phone_activated">%s activado</string>
   <string name="phone_num_use_for">Número de telefone utilizado para:</string>
