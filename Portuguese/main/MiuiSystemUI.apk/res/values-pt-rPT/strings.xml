@@ -1281,7 +1281,6 @@ d 'de' MMMM"</string>
   <string name="status_bar_network_flow_limit">"   Limite mensal: %1$s   "</string>
   <string name="status_bar_network_flow_purchase">"   Compra &gt;"</string>
   <string name="status_bar_network_flow_today">Hoje: %1$s</string>
-  <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_notifications_title">Sem notificações</string>
   <string name="status_bar_no_recent_apps">Sem aplicações recentes</string>
   <string name="status_bar_notification_app_settings_title">Definições do %s</string>
