@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>Desligado</item>
-        <item>Meia hora</item>
+        <item>30 minutos</item>
         <item>1 hora</item>
         <item>2 horas</item>
         <item>8 horas</item>

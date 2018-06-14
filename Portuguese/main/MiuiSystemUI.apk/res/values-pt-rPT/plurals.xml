@@ -104,6 +104,14 @@
         <item quantity="other">Mais %s notificações dentro</item>
         <item quantity="one">Mais %s notificação dentro</item>
     </plurals>
+    <plurals name="notification_num_channels">
+        <item quantity="other">%d categorias de notificações</item>
+        <item quantity="one">%d categoria de notificações</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">1 de %d categorias de notificações desta aplicação</item>
+        <item quantity="one">1 de %d categoria de notificações desta aplicação</item>
+    </plurals>
     <plurals name="phone_locked_timeout_seconds_string">
         <item quantity="other">Tente novamente em %d segundos</item>
         <item quantity="one">Tente novamente em %d segundo</item>

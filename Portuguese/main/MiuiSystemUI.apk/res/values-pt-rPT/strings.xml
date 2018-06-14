@@ -946,15 +946,16 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="notification_channel_location">Localização</string>
   <string name="notification_channel_screenshot">Capturas de ecrã</string>
   <string name="notification_channel_storage">Armazenamento</string>
-  <string name="notification_channel_screenbutton">Botões do ecrã</string>
+  <string name="notification_channel_screenbutton">Botões</string>
   <string name="notification_channel_switch_accessibility">Permitir notificações deste canal</string>
   <string name="notification_channel_tv_pip">Ecrã no ecrã</string>
+  <string name="notification_channel_usb">USB</string>
   <string name="notification_default_channel_desc">Esta aplicação não tem categorias de notificação</string>
   <string name="notification_done">Concluído</string>
   <string name="notification_group_collapse_button_text">Abrir</string>
   <string name="notification_header_default_channel">Notificações</string>
   <string name="notification_header_title">Notificações</string>
-  <string name="notification_hidden_by_policy_text">Conteúdo oculto por política</string>
+  <string name="notification_hidden_by_policy_text">Conteúdos ocultos</string>
   <string name="notification_hidden_text">Tem uma nova mensagem</string>
   <string name="notification_info_channel_disabled_text">Não vai receber %2$s notificações de %1$s</string>
   <string name="notification_info_channel_enabled_text">Vai receber %2$s notificações de %1$s</string>
@@ -972,7 +973,6 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="notification_menu_remove_from_filter_title">Importante</string>
   <string name="notification_menu_snooze_description">Opções de suspensão de notificações</string>
   <string name="notification_more_settings">Mais definições</string>
-  <string name="notification_num_channels">%d categorias de notificação</string>
   <string name="notification_otg_gamestick_in">Controlador de jogos ligado</string>
   <string name="notification_otg_gamestick_out">Controlador de jogos desligado</string>
   <string name="notification_otg_keyboard_in">Teclado ligado</string>
@@ -1116,6 +1116,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_done">Concluído</string>
   <string name="quick_settings_edit_label">Editar</string>
   <string name="quick_settings_flashlight_label">Lanterna</string>
+  <string name="quick_settings_gps_label">GPS</string>
   <string name="quick_settings_hotspot_label">PA Móvel</string>
   <string name="quick_settings_ime_label">Método de entrada</string>
   <string name="quick_settings_inversion_label">Inversão de cores</string>
