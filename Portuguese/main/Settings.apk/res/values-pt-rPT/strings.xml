@@ -3810,7 +3810,6 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
   <string name="status_bar_settings_app_notification_preferences">Definições da aplicação</string>
   <string name="status_bar_settings_basic_settings">Definições básicas</string>
-  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
   <string name="status_bar_settings_custom_carrier">Editar nome da operadora</string>
   <string name="status_bar_settings_custom_wifi_name">Editar nome do Wi-Fi</string>
   <string name="status_bar_settings_enable_notification">Mostrar notificações</string>
@@ -4394,6 +4393,8 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_confirm_remove_self_message">Vai perder os dados e espaço neste telefone. Não é possível anular esta acção</string>
   <string name="user_confirm_remove_self_title">Eliminar-se a si próprio?</string>
   <string name="user_confirm_remove_title">Remover este utilizador?</string>
+  <string name="user_credentials">Credenciais do utilizador</string>
+  <string name="user_credentials_summary">Ver e modificar as credenciais armazenadas</string>
   <string name="user_delete_button">Eliminar</string>
   <string name="user_delete_user_description">Eliminar utilizador</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
