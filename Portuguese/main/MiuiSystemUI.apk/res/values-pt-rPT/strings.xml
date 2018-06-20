@@ -103,7 +103,7 @@
   <string name="accessibility_desc_work_lock">Ecrã de bloqueio de trabalho</string>
   <string name="accessibility_divider">Divisor de ecrã dividido</string>
   <string name="accessibility_drag_hint_message">Arraste itens para o topo do ecrã</string>
-  <string name="accessibility_enter_lock_wallpaper">Toque para abrir os papéis de parede aleatórios</string>
+  <string name="accessibility_enter_lock_wallpaper">Toque para abrir Música</string>
   <string name="accessibility_ethernet_connected">Ethernet ligada</string>
   <string name="accessibility_ethernet_disconnected">Ethernet desligada</string>
   <string name="accessibility_gps_acquiring">A adquirir GPS</string>

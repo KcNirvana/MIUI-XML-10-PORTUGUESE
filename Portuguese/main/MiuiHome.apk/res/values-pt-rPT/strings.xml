@@ -90,6 +90,7 @@
   <string name="default_folder_title_game">Jogos</string>
   <string name="default_folder_title_recommend">Aplicações</string>
   <string name="default_folder_title_security">Sistema</string>
+  <string name="default_folder_title_services">Serviços</string>
   <string name="default_folder_title_tools">Ferramentas</string>
   <string name="default_screen_preview_title">Toque para definir o ecrã predefinido</string>
   <string name="delete">Eliminar</string>
@@ -234,8 +235,9 @@
   <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Desligar</string>
   <string name="open_personal_assistant_dialog_desc">Não vai poder utilizar o Assistente e receber as actualizações. Desligar agora?</string>
+  <string name="open_personal_assistant_dialog_desc_international">Não vai poder utilizar o Assistente e receber as actualizações após desligar esta funcionalidade</string>
   <string name="open_personal_assistant_dialog_title">Desligar Assistente</string>
-  <string name="open_personal_assistant_title">Ligar Assistente</string>
+  <string name="open_personal_assistant_title">Assistente</string>
   <string name="out_of_space">Não existe mais espaço neste ecrã inicial</string>
   <string name="permdesc_install_shortcut">Permite que uma aplicação adicione atalhos sem a intervenção do utilizador</string>
   <string name="permdesc_install_widget">Permite que uma aplicação adicione widgets sem a intervenção do utilizador</string>

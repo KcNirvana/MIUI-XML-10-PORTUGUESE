@@ -245,6 +245,8 @@
   <string name="close_profile">Fechar</string>
   <string name="close_volte">Desligar VoLTE</string>
   <string name="cloud_antispam_title">Identificar números desconhecidos</string>
+  <string name="cloud_sim_enabled_dual_4g_summary">Não é possível desligar o Duplo 4G ao utilizar o Mi Roaming</string>
+  <string name="cloud_sim_enabled_preferred_network_summary">Não é possível alterar as preferências de rede ao utilizar o Mi Roaming</string>
   <string name="cmcc_ut_data_enable_prompt">Este serviço necessita de uma ligação de dados móveis. Ligue-a para continuar</string>
   <string name="command_error_fdn_failure">Primeiro tem que desactivar FDN</string>
   <string name="config_default_data_sim">Definições</string>
@@ -277,6 +279,11 @@
   <string name="cursorError">Erro no cursor</string>
   <string name="data_enable_summary">Permitir a utilização de dados</string>
   <string name="data_enabled">Dados móveis</string>
+  <string name="data_plan">Plano de dados</string>
+  <string name="data_usage_uninstalled_apps">Aplicações removidas</string>
+  <string name="data_usage_uninstalled_apps_users">Aplicações e utilizadores removidos</string>
+  <string name="dc_alert_dialog_message">Algumas aplicações necessitam duma ligação de dados. Contacte a sua operadora para saber que %s estão disponíveis para si</string>
+  <string name="dc_alert_dialog_title">Aviso de utilização de dados</string>
   <string name="deactivate_all">Cancelar tudo</string>
   <string name="default_notification_description">Som predefinido (%1$s)</string>
   <string name="default_preference_summary">&lt;Não definido&gt;</string>
@@ -366,6 +373,7 @@
   <string name="disabled_by_admin">Desactivado pelo administrador</string>
   <string name="display_name_summary">&lt;O mesmo que o utilizador&gt;</string>
   <string name="display_name_title">Mostrar nome</string>
+  <string name="do_not_show_again">Não mostrar novamente</string>
   <string name="domain_address_title">Servidor</string>
   <string name="doneButton">Concluído</string>
   <string name="dtmf_tone_entries_long">Longo</string>
@@ -412,7 +420,7 @@
   <string name="enable_disable_retail_directory">Directório de retalho</string>
   <string name="enable_disable_stock_quotes">Cotação de acções</string>
   <string name="enable_disable_technology_news">Notícias sobre tecnologia</string>
-  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE necessita da conectividade para ambos os SIM. Trocar para Duplo VoLTE agora?</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE necessita da conectividade para ambos os SIM. Trocar para Duplo 4G agora?</string>
   <string name="enable_fdn">Activar FDN</string>
   <string name="enable_fdn_ok">Desactivar FDN</string>
   <string name="enable_in_progress">A definir o PIN…</string>
@@ -1159,8 +1167,8 @@ O período seguinte tem início dentro de %2$d dias (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">Não é permitido alterar o modo TTY durante uma videochamada</string>
   <string name="tty_mode_option_summary">Definir o modo TTY</string>
   <string name="tty_mode_option_title">Modo TTY</string>
-  <string name="turn_off_dual_4g_failed">Não é possível desligar o Duplo 4G</string>
-  <string name="turn_on_dual_4g_failed">Não é possível ligar o Duplo 4G</string>
+  <string name="turn_off_dual_4g_failed">Não é possível desligar o 4G Duplo</string>
+  <string name="turn_on_dual_4g_failed">Não é possível ligar o 4G Duplo</string>
   <string name="turnover_mute_summary">Virar o ecrã do telefone para baixo para silenciar</string>
   <string name="turnover_mute_title">Inverter para silenciar</string>
   <string name="undefined">Nada</string>

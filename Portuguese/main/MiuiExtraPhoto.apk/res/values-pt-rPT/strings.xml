@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="refocus_discard_confirm_message">Guardar alterações?</string>
+  <string name="refocus_discard_negative_btn">Rejeitar</string>
+  <string name="refocus_discard_positive_btn">Guardar</string>
+  <string name="refocus_photo_not_support">Não é possível aplicar o efeito blur a esta foto</string>
+  <string name="refocus_relighting_toast">Mova o círculo para ajustar o ângulo de iluminação</string>
+  <string name="refocus_save_cancel">Cancelar</string>
+  <string name="refocus_save_title">Seleccionar formato</string>
+  <string name="refocus_save_to_photo">Guardar como imagem</string>
+  <string name="refocus_save_to_video">Guardar como vídeo</string>
+  <string name="refocus_saving">A guardar…</string>
+  <string name="refocus_title">Blur</string>
+  <string name="refocus_type_relighting">Iluminação de estúdio</string>
+  <string name="refocus_type_relighting_no_face">Não foi possível encontrar rosto</string>
+  <string name="refocus_type_relighting_small_face">A iluminação 3D funciona em fotos em que os rostos ocupam mais espaço do que aqui</string>
+  <string name="refocus_type_static">Nível de blur</string>
+  <string name="refocus_type_video">Trilhas leves</string>
+</resources>

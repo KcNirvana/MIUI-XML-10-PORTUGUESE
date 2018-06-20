@@ -819,6 +819,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="cancel_action">Cancelar</string>
   <string name="cancel_alert">Rejeitar as suas alterações?</string>
   <string name="cancel_button">Cancelar</string>
+  <string name="cancel_description">Cancelar</string>
   <string name="cancel_download_buton_text">Cancelar</string>
   <string name="cant_sync_dialog_message">A sincronização para este item está desligada. Para alterar esta definição, active temporariamente os dados em segundo plano e a sincronização automática</string>
   <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
@@ -916,6 +917,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="configure_input_method">Configurar métodos de entrada</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Adicionar Conta Mi</string>
+  <string name="confirm_description">Confirmar</string>
   <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
   <string name="confirm_enable_multi_window_text">AVISO: esta é uma funcionalidade altamente experimental que permite múltiplas actividades no ecrã ao mesmo tempo através da IU de Aplicações recentes. Algumas aplicações podem falhar ou não funcionar correctamente quando utilizadas com esta funcionalidade</string>
   <string name="confirm_enable_multi_window_title">Activar o modo multi-janelas?</string>
@@ -1520,6 +1522,7 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="failed_to_open_app_settings_toast">Erro ao abrir definições para %1$s</string>
   <string name="failed_to_shut_down_find_device_content">Não foi possível desligar Localizar Dispositivo. Aguarde alguns minutos e tente novamente</string>
   <string name="failed_to_shut_down_find_device_title">Não foi possível desligar</string>
+  <string name="fallback_home_title">Aguarde…</string>
   <string name="fcc_equipment_id">ID do equipamento</string>
   <string name="file_privacy_password_role_instruction">Os seus ficheiros privados vão ser armazenados aqui</string>
   <string name="filter">Filtro</string>
@@ -1849,6 +1852,9 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="key_combination_power_back">Ligar/Desligar + Voltar</string>
   <string name="key_combination_power_home">Ligar/Desligar + Início</string>
   <string name="key_combination_power_menu">Ligar/Desligar + Menu</string>
+  <string name="key_fsg_dialog_message">Está a utilizar os gestos de ecrã inteiro para navegação. As funções relacionadas com botões não estão disponíveis. Trocar para botões?</string>
+  <string name="key_fsg_dialog_negative">Cancelar</string>
+  <string name="key_fsg_dialog_positive">Trocar para botões</string>
   <string name="key_gesture_function_dialog_message">%1$s é um atalho para %2$s. Substituir por %3$s</string>
   <string name="key_gesture_function_dialog_negative">Cancelar</string>
   <string name="key_gesture_function_dialog_positive">Substituir</string>

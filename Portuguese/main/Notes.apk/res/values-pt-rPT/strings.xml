@@ -56,7 +56,7 @@
   <string name="done">Concluído</string>
   <string name="edit_header_done_description">Concluído</string>
   <string name="edit_header_home_description">Voltar</string>
-  <string name="edit_header_lock_description">Nota secreta</string>
+  <string name="edit_header_lock_description">Nota oculta</string>
   <string name="empty_folder_import_notes">Importar notas</string>
   <string name="empty_folder_no_notes">Sem notas</string>
   <string name="enable_sync">Sincronizar</string>
@@ -86,7 +86,7 @@
   <string name="info_note_enter_desktop">Adicionada ao ecrã inicial</string>
   <string name="loading_text">Aguarde…</string>
   <string name="login_sync">Iniciar sessão e sincronizar</string>
-  <string name="menu_add_audio_description">Adicionar nota de áudio</string>
+  <string name="menu_add_audio_description">Adicionar nota de voz</string>
   <string name="menu_add_description">Adicionar nota</string>
   <string name="menu_add_folder">Adicionar à pasta</string>
   <string name="menu_add_folder_description">Adicionar pasta</string>
@@ -144,9 +144,9 @@
   <string name="rich_text_size_description">Tamanho</string>
   <string name="rich_text_underline_description">Sublinhado</string>
   <string name="root_folder_name">Notas rápidas</string>
-  <string name="save_to_gallery_failure_message">Não foi possível guardar na Galeria</string>
+  <string name="save_to_gallery_failure_message">Não foi possível guardar</string>
   <string name="save_to_gallery_icon_name">Guardar na Galeria</string>
-  <string name="save_to_gallery_success_message">Imagem guardada na Galeria com sucesso</string>
+  <string name="save_to_gallery_success_message">Imagem guardada com sucesso</string>
   <string name="search">Notas</string>
   <string name="search_hint">Pesquisar notas</string>
   <string name="search_keyword_notes">Notas;Memo</string>
