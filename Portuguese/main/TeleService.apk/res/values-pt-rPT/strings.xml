@@ -1243,7 +1243,7 @@ Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou uti
   <string name="wfcmode_wifi_preferred">Wi-Fi</string>
   <string name="wifi_call_setting">Definições de chamadas Wi-Fi</string>
   <string name="wifi_calling">Chamadas Wi-Fi</string>
-  <string name="wificall_switch_summary">O seu dispositivo pode trocar entre Wi-Fi e VoLTE quando a ligação for fraca</string>
+  <string name="wificall_switch_summary">O seu dispositivo vai trocar entre Wi-Fi e VoLTE quando a ligação for fraca</string>
   <string name="wificall_switch_title">Chamadas Wi-Fi</string>
   <string name="wild_prompt_str">Substituir o caracter universal por</string>
   <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>

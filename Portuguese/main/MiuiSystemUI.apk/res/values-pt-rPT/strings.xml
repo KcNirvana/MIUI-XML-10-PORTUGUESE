@@ -434,9 +434,9 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="drag_to_add_tiles">Arraste para adicionar atalhos</string>
   <string name="drag_to_remove_tiles">Arraste para aqui para remover</string>
   <string name="drive_mode_tip">Está no Modo Condução</string>
-  <string name="drive_mode_tip_idle">Toque para sair do Modo Condução</string>
-  <string name="drive_mode_tip_idle_notch">Sair do Modo Condução</string>
-  <string name="drive_mode_tip_notch">Modo Condução ligado</string>
+  <string name="drive_mode_tip_idle">O Modo Condução está ligado</string>
+  <string name="drive_mode_tip_idle_notch">Modo Condução</string>
+  <string name="drive_mode_tip_notch">Modo Condução</string>
   <string name="emergency_call_string">Emergência</string>
   <string name="empty_shade_text">Sem notificações</string>
   <string name="enable_bluetooth_confirmation_ok">Ligar</string>

@@ -21,7 +21,7 @@
   <string name="account_has_been_set">Alterar</string>
   <string name="account_limit_update_birthday">Não é possível actualizar a data de nascimento neste momento</string>
   <string name="account_mibi_center">Mi Credits</string>
-  <string name="account_mibi_charge">Carregamento de Mi Credits</string>
+  <string name="account_mibi_charge">Carregar</string>
   <string name="account_mipay_info">Mi Pay</string>
   <string name="account_no_set">Nenhum</string>
   <string name="account_none">Nenhum</string>
@@ -336,7 +336,7 @@ Para activar a sua conta siga o
   <string name="passport_register_by_email"><u>Criar uma conta utilizando um endereço de email</u></string>
   <string name="passport_register_restricted">Foram associadas demasiadas contas com este número, tente um diferente</string>
   <string name="passport_register_restricted_title">Não é possível utilizar este número de telefone</string>
-  <string name="passport_register_using_other_ways">Outros métodos de registo</string>
+  <string name="passport_register_using_other_ways">Outros métodos de criação de conta</string>
   <string name="passport_registered_phone_num">Telefone: %s</string>
   <string name="passport_registered_phone_user_ID">ID do utilizador:%s</string>
   <string name="passport_registered_phone_user_name">Nome do utilizador:%s</string>
