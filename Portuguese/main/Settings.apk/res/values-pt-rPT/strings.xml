@@ -2050,9 +2050,10 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="lock_immediately_summary_with_exception">Imediatamente após a suspensão, excepto quando mantido bloqueado por %1$s</string>
   <string name="lock_screen_notifications_interstitial_message">Como pretende que as notificações sejam apresentadas quando o dispositivo está bloqueado?</string>
   <string name="lock_screen_notifications_interstitial_title">Notificações</string>
-  <string name="lock_screen_notifications_summary_hide">Mostra todas as notificações mas oculta o conteúdo</string>
-  <string name="lock_screen_notifications_summary_show">Mostra todas as notificações e o seu conteúdo</string>
-  <string name="lock_screen_notifications_title">Com o dispositivo bloqueado</string>
+  <string name="lock_screen_notifications_summary_disable">Não mostrar notificações</string>
+  <string name="lock_screen_notifications_summary_hide">Mostrar todas as notificações mas ocultar o conteúdo</string>
+  <string name="lock_screen_notifications_summary_show">Mostrar todas as notificações e o seu conteúdo</string>
+  <string name="lock_screen_notifications_title">No ecrã de bloqueio</string>
   <string name="lock_screen_signature_summary">Mostrar mensagem no ecrã de bloqueio</string>
   <string name="lock_screen_signature_title">Info. do proprietário no ecrã de bloqueio</string>
   <string name="lock_screen_unlock_show">Ignorar ecrã de bloqueio</string>
