@@ -4,6 +4,8 @@
   <string name="action_mode_switcher_grid_description">Vista de grelha</string>
   <string name="action_mode_switcher_list_description">Vista de lista</string>
   <string name="action_settings_description">Abrir definições</string>
+  <string name="actionbar_close_description">Fechar</string>
+  <string name="actionbar_home_description">Voltar</string>
   <string name="add_account_desc">Sincronizar as suas notas com a sua Conta Mi?</string>
   <string name="alarm_bar_title">Lembrete</string>
   <string name="alert_action_edit_anyway">Continuar a editar</string>
@@ -55,7 +57,6 @@
   <string name="dlg_unhide_message">A mostrar…</string>
   <string name="done">Concluído</string>
   <string name="edit_header_done_description">Concluído</string>
-  <string name="edit_header_home_description">Voltar</string>
   <string name="edit_header_lock_description">Nota oculta</string>
   <string name="empty_folder_import_notes">Importar notas</string>
   <string name="empty_folder_no_notes">Sem notas</string>
@@ -95,6 +96,7 @@
   <string name="menu_delete_forever">Eliminar</string>
   <string name="menu_folders">Pastas</string>
   <string name="menu_hide">Ocultar</string>
+  <string name="menu_more_description">Mais</string>
   <string name="menu_move_parent_folder">Pasta acima</string>
   <string name="menu_move_to">Mover para</string>
   <string name="menu_new_folder">Nova pasta</string>
@@ -202,10 +204,10 @@
   <string name="toast_reach_text_limit_checkbox">Não é possível adicionar a caixa de verificação porque a nota é demasiado longa</string>
   <string name="toast_reach_text_limit_truncate">A nota é muito longa. Algum texto vai ser cortado no fim</string>
   <string name="toast_refuse_to_record_when_in_call">Não é possível utilizar esta função durante as chamadas</string>
+  <string name="toast_refuse_to_record_when_in_multi_window">Não é possível utilizar no modo ecrã dividido</string>
   <string name="toolbar_check_description">Adicionar caixa de verificação</string>
   <string name="toolbar_delete_description">Eliminar esta nota</string>
   <string name="toolbar_gallery_description">Adicionar imagem</string>
-  <string name="toolbar_more_description">Mais</string>
   <string name="toolbar_redo_description">Avançar</string>
   <string name="toolbar_share_description">Partilhar esta nota</string>
   <string name="toolbar_text_description">Estilo do texto</string>

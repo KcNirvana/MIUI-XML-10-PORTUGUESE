@@ -2072,12 +2072,14 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="lockpassword_choose_for_second_user">Definir palavra-passe do Segundo espaço</string>
   <string name="lockpassword_choose_lock_generic_header">Escolher bloqueio de ecrã</string>
   <string name="lockpassword_choose_your_password_header">Definir palavra-passe</string>
-  <string name="lockpassword_choose_your_password_second_space">"Definir palavra-passe 
- para o Segundo espaço"</string>
+  <string name="lockpassword_choose_your_password_second_space">"Definir PIN para o Segundo espaço.
+Este PIN tem de conter os mesmo dígitos
+que o PIN do Primeiro espaço"</string>
   <string name="lockpassword_choose_your_pattern_header">Definir padrão</string>
   <string name="lockpassword_choose_your_pin_header">Definir PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Definir PIN 
- para o Segundo espaço"</string>
+para o Segundo espaço"</string>
+  <string name="lockpassword_choose_your_pin_title">Introduza entre 4 a 16 caracteres</string>
   <string name="lockpassword_confirm_for_second_user">Confirmar a sua palavra-passe do Segundo espaço</string>
   <string name="lockpassword_confirm_passwords_dont_match">As palavras-passe não correspondem</string>
   <string name="lockpassword_confirm_pins_dont_match">Os PINs não correspondem</string>
