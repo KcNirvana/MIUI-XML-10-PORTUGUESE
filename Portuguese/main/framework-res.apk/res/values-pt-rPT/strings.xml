@@ -475,7 +475,6 @@ Visite <b>google.com/accounts/recovery</b>"</string>
   <string name="kg_reordering_delete_drop_target_text">Remover</string>
   <string name="kg_sim_pin_instructions">Introduzir PIN do SIM</string>
   <string name="kg_sim_unlock_progress_dialog_message">A desbloquear o cartão SIM…</string>
-  <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">Tente novamente dentro de %1$d segundos</string>
   <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Introduziu a sua palavra-passe incorrectamente %d vezes. 
 
