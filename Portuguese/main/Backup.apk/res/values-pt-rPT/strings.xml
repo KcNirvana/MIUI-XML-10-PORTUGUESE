@@ -126,6 +126,7 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="enable_encrypt_summery2">As suas cópias de segurança vão ser encriptadas automaticamente. Para as aceder tem que iniciar sessão na sua Conta Mi</string>
   <string name="enable_encrypt_title">Encriptar cópias</string>
   <string name="enable_encrypt_xiaomi_account">Esta cópia foi criada por %1$s. Para restaurar, elimine esta conta e inicie sessão em %2$s para restaurar</string>
+  <string name="err_acquire_system_service">Não é possível iniciar o serviço de sistema</string>
   <string name="err_authentication_failed">A autenticação falhou</string>
   <string name="err_bakfile_broken">Não pode utilizar esta cópia</string>
   <string name="err_bakfile_not_exist">O ficheiro de cópia não existe</string>

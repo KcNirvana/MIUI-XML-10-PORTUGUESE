@@ -3706,7 +3706,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sim_lock_settings_category">Configurar bloqueio do cartão SIM</string>
   <string name="sim_lock_settings_title">Bloqueio do cartão SIM</string>
   <string name="sim_management_title">Cartões SIM e redes móveis</string>
-  <string name="sim_management_title_cr_kolbi">Cartões SIM e redes móveis</string>
+  <string name="sim_management_title_singlesim">Cartões SIM e redes móveis</string>
   <string name="sim_multi_sims_summary">Escolha o SIM que prefere para dados móveis</string>
   <string name="sim_multi_sims_title">Vários SIMs encontrados</string>
   <string name="sim_name_hint">Introduzir nome do SIM</string>

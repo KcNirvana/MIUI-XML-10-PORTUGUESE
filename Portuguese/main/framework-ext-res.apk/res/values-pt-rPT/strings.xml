@@ -55,10 +55,6 @@
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Desligar</string>
   <string name="global_actions_silent_mode">Silêncio</string>
-  <string name="group_name_contacts">Contactos</string>
-  <string name="group_name_coworkers">Colegas</string>
-  <string name="group_name_family">Família</string>
-  <string name="group_name_friends">Amigos</string>
   <string name="handy_mode_enter_dlg_msg">Entrar no Modo Uma Mão?</string>
   <string name="handy_mode_enter_dlg_title">Entrar no Modo Uma Mão</string>
   <string name="handy_mode_summary">Para sair toque na área escurecida</string>

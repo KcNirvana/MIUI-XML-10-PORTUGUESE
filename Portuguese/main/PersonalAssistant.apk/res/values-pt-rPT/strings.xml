@@ -376,9 +376,12 @@
   <string name="scan_parent">Digitalizador</string>
   <string name="scan_trans">Tradução</string>
   <string name="search">Favoritos</string>
+  <string name="search_add_header">Adicionar imagem de capa</string>
   <string name="search_category_article">Articles</string>
   <string name="search_category_shopping">Shopping</string>
   <string name="search_category_video">Videos</string>
+  <string name="search_change_header">Substituir imagem de capa</string>
+  <string name="search_clear_header">Remover imagem de capa</string>
   <string name="search_hint">Search in favorites</string>
   <string name="search_label">Searching…</string>
   <string name="search_setting_description">Títulos nos favoritos</string>

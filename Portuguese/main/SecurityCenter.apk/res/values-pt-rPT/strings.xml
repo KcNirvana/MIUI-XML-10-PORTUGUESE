@@ -1237,6 +1237,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="notification_masked_item">Ocultar notificações</string>
   <string name="notification_masked_subtitle">Ocultar notificações de aplicações protegidas com o Bloqueio de aplicações</string>
   <string name="notification_summary_cmcc_app_check">Toque para ver detalhes</string>
+  <string name="notify_channel_name_security">Segurança do sistema</string>
   <string name="notify_daily_data_usage_body">Para limitar a utilização de dados automaticamente, defina um plano de dados mensal</string>
   <string name="notify_daily_limit_body">Toque para definir limite de dados</string>
   <string name="notify_daily_limit_title">Utilizados %s hoje</string>
