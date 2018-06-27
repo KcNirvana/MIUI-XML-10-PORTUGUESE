@@ -115,6 +115,8 @@
   <string name="accessibility_location_active">Pedidos de localização activos</string>
   <string name="accessibility_managed_profile">Perfil de trabalho</string>
   <string name="accessibility_menu">Menu</string>
+  <string name="accessibility_menu_item_split_disable">A aplicação não suporta ecrã dividido</string>
+  <string name="accessibility_menu_item_split_enable">A aplicação suporta ecrã dividido</string>
   <string name="accessibility_multi_user_switch_inactive">Utilizador actual %s</string>
   <string name="accessibility_multi_user_switch_quick_contact">Mostrar perfil</string>
   <string name="accessibility_multi_user_switch_switcher">Trocar utilizador</string>
@@ -231,6 +233,8 @@
   <string name="accessibility_settings">Definições</string>
   <string name="accessibility_settings_button">Definições de sistema</string>
   <string name="accessibility_signal_full">Sinal cheio</string>
+  <string name="accessibility_splite_screen_primary">Adicionar à aplicação principal do ecrã dividido</string>
+  <string name="accessibility_splite_screen_secondary">Adicionar à aplicação secundária do ecrã dividido</string>
   <string name="accessibility_status_bar_headphones">Auscultadores ligados</string>
   <string name="accessibility_status_bar_headset">Auriculares ligados</string>
   <string name="accessibility_status_bar_hotspot">PA Móvel</string>

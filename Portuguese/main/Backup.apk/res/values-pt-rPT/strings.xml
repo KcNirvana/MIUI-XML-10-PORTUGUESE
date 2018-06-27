@@ -395,11 +395,15 @@ Liberte pelo menos %s"</string>
   <string name="trans_backingup">A copiar…</string>
   <string name="trans_backingup_no_items">A sincronizar…</string>
   <string name="trans_button_cancel">Cancelar</string>
+  <string name="trans_button_exit">Sair</string>
+  <string name="trans_button_stay">Ficar</string>
   <string name="trans_calculating">A calcular…</string>
   <string name="trans_calculating_app_sd_description">Dados no cartão SD</string>
   <string name="trans_calculating_media_description">Ficheiros multimédia</string>
   <string name="trans_calculating_tip">A calcular %s…</string>
   <string name="trans_cancel_confirm">Transferência em curso. Parar agora?</string>
+  <string name="trans_cancel_selection_message">Se sair do Mi Mover, a transferência em curso vai ser interrompida. Aguarde até a transferência estar concluída</string>
+  <string name="trans_cancel_selection_title">Ficar no Mi Mover</string>
   <string name="trans_cancelling">A cancelar…</string>
   <string name="trans_connect_failed_device_incompatible">O dispositivo não é compatível. Cancele a transferência e tente novamente</string>
   <string name="trans_connect_failed_message">Não foi possível ligar. Tente novamente ou reinicie o dispositivo. No outro dispositivo, vá a Definições &gt; Definições adicionais &gt; Mi Mover e toque [Sou um remetente] ou execute Mi Mover depois de reiniciar</string>
@@ -540,6 +544,8 @@ Ficheiros iguais no novo dispositivo vão ser substituídos"</string>
 Seleccione apenas os itens importantes para ser mais rápido"</string>
   <string name="trans_select_device_receive">Seleccionar um dispositivo para receber dados</string>
   <string name="trans_select_device_send">Seleccionar um dispositivo para transferir dados</string>
+  <string name="trans_select_notification_message">Toque para ver</string>
+  <string name="trans_select_notification_title">Mi Mover está a processar…</string>
   <string name="trans_sender">Sou um remetente</string>
   <string name="trans_sender_connectting">Confirmar no novo dispositivo</string>
   <string name="trans_sender_searching">A pesquisar novos dispositivos</string>
