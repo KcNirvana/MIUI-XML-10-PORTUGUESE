@@ -125,7 +125,7 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_find_device_guide_alert_negtive">Não, obrigado</string>
   <string name="micloud_find_device_guide_alert_negtive_activate">Não, obrigado</string>
   <string name="micloud_find_device_guide_alert_positive">OK</string>
-  <string name="micloud_find_device_guide_alert_title">Memorizar o seu ID Conta Mi e palavra-passe</string>
+  <string name="micloud_find_device_guide_alert_title">Memorizar a sua palavra-passe</string>
   <string name="micloud_find_device_guide_button">Ligar Localizar Dispositivo</string>
   <string name="micloud_find_device_guide_content">Pode ser necessário enviar uma SMS para activar este serviço. Quando troca de cartões SIM, uma mensagem vai ser enviada automaticamente para reactivar esta funcionalidade</string>
   <string name="micloud_find_device_guide_fail_reopen">Pode ligar Localizar Dispositivo em Conta Mi - Mi Cloud</string>

@@ -30,6 +30,10 @@
   <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Mi Cloud para sincronizar notas</string>
   <string name="cloud_trash_bin_title">Eliminar notas na Mi Cloud</string>
   <string name="cta_reminder">Esta aplicação necessita de ligar à Internet para copiar notas para a Mi Cloud, assim como, ler os seus contactos para etiquetar as notas que tira durante as chamadas</string>
+  <string name="date_time_picker_alarm_reminder">Alarmes</string>
+  <string name="date_time_picker_dialog_title">Definir data e hora</string>
+  <string name="date_time_picker_has_not_set_alarm">O alarme não está definido</string>
+  <string name="date_time_picker_has_set_alarm">Alarme definido com sucesso</string>
   <string name="db_downgrade_clear_button">Limpar dados da aplicação</string>
   <string name="db_downgrade_clear_date_reminder">Para trocar para uma versão diferente de MIUI é necessário limpar os dados da aplicação Notas. Antes de fazer isso, certifique-se que fez uma cópia das suas notas para a Mi Cloud</string>
   <string name="default_folder_name">Pasta sem nome</string>
