@@ -3506,6 +3506,9 @@ Para utilizar a fixação no ecrã:
   <string name="second_space">Segundo espaço</string>
   <string name="secondspace_category">Segundo espaço</string>
   <string name="secondspace_delete_space_title">Eliminar Segundo espaço</string>
+  <string name="secspace_fod_finger_tips">Não foi possível verificar. Tente novamente</string>
+  <string name="secspace_fod_finger_title">Verificar a sua impressão digital</string>
+  <string name="secspace_fod_use_password">Introduzir palavra-passe</string>
   <string name="secure_keyguard_business_title">Bloqueio de ecrã</string>
   <string name="secure_lock_encryption_warning">Uma vez que activou um serviço de acessibilidade, o dispositivo não vai utilizar o bloqueio de ecrã para optimizar a encriptação de dados</string>
   <string name="security_enable_widgets_disabled_summary">Desactivado pelo administrador</string>
