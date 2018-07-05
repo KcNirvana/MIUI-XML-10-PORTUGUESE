@@ -401,7 +401,7 @@
   <string name="pref_show_blocked_messages_summary">Mostrar SMS bloqueadas na lista de conversas</string>
   <string name="pref_show_list_avatar_summary">Mostrar foto e outras informações na lista de contactos</string>
   <string name="pref_show_photo_word_summary">Atribuir fotos aos contactos automaticamente</string>
-  <string name="pref_show_sms_template_entry_summary">Detectar OTPs em SMS</string>
+  <string name="pref_show_sms_template_entry_summary">Detectar OTPs e mostrar menu</string>
   <string name="pref_show_sms_template_summary">Ligar para utilizar funcionalidades inteligentes do Mi Message tais como copiar códigos, verificar o saldo, etc.</string>
   <string name="pref_show_sms_template_in_summary">Detectar automaticamente OTP nas mensagens SMS</string>
   <string name="pref_smart_messages_settings">Mensagens inteligentes</string>
@@ -629,7 +629,7 @@
   <string name="title_show_blocked_messages">Mostrar SMS bloqueadas</string>
   <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
   <string name="title_show_photo_word">Atribuir fotos aos contactos</string>
-  <string name="title_show_sms_template">Verificar SMS por códigos de verificação</string>
+  <string name="title_show_sms_template">Mensagens inteligentes</string>
   <string name="title_show_sms_template_in">Verificar SMS por OTP</string>
   <string name="title_timed_message_dialog">Definir hora de envio</string>
   <string name="title_use_gsm_alphabet">Utilizar alfabeto GSM</string>

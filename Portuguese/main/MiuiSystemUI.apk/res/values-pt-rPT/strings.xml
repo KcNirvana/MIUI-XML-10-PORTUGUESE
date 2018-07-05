@@ -837,6 +837,9 @@ Tente novamente dentro de %d segundos"</string>
   <string name="memory_clear_result_giga">%1$sGB limpos</string>
   <string name="memory_clear_result_mega">%1$sMB limpos</string>
   <string name="menu_ime">Comutador de teclado</string>
+  <string name="miui_guide_dialog_button_negative_text">Definições</string>
+  <string name="miui_guide_dialog_button_positive_text">Percebi</string>
+  <string name="miui_guide_dialog_message">Os sons multimédia (música, vídeos, etc.) ainda vão ser reproduzido no modo Silêncio. Pode alterar isto nas Definições</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
   <string name="miui_ringer_count_down">Contagem</string>
   <string name="miui_ringer_count_down_time">Contagem: %s</string>
@@ -846,8 +849,10 @@ Tente novamente dentro de %d segundos"</string>
   <string name="miui_ringer_total_description">Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
   <string name="miui_toast_zen_dnd_to_off">Os sons e vibração voltaram ao normal</string>
   <string name="miui_toast_zen_standard_to_off">Os toques voltaram ao normal</string>
+  <string name="miui_toast_zen_standard_to_off_when_shield_media">Os toques, notificações e sons multimédia vão ser reproduzidos</string>
   <string name="miui_toast_zen_to_dnd">Os sons e vibração foram silenciados</string>
   <string name="miui_toast_zen_to_standard">Os toques de chamadas e notificações foram silenciados</string>
+  <string name="miui_toast_zen_to_standard_when_shield_media">Os toques, notificações e sons multimédia vão ser silenciados</string>
   <string name="mland">Marshmallow Land</string>
   <string name="mobile_data">Dados móveis</string>
   <string name="monitoring_description_app">Está associado à aplicação %1$s, que pode monitorizar a sua actividade de rede, incluindo emails, aplicações e sites</string>

@@ -1602,6 +1602,8 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">A aplicação instalada não vai poder ligar à Internet utilizando Wi-Fi quando isto estiver desligado</string>
   <string name="firmware_version">Versão Android</string>
+  <string name="flash_drive_backup_restore">Fazer cópia ou restaurar utilizando USB</string>
+  <string name="flash_drive_backup_restore_summary">Ligue um armazenamento USB</string>
   <string name="floating_window_switch_label">Activar janelas flutuantes</string>
   <string name="floating_window_switch_label_disable">Desactivar janelas flutuantes</string>
   <string name="fluency_mode">Animações de sistema</string>
@@ -3837,10 +3839,11 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_show_carrier_summary">O nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Mostrar o nome da operador quando o dispositivo estiver bloqueado</string>
   <string name="status_bar_settings_show_floating_notification">Notificações flutuantes</string>
-  <string name="status_bar_settings_show_floating_notification_summary">As notificações flutuantes vão desaparecer automaticamente depois de aparecerem no topo do ecrã</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Permitir notificações importantes no topo do ecrã</string>
   <string name="status_bar_settings_show_flow_info">Mostrar utilização de dados</string>
   <string name="status_bar_settings_show_home_message">Ícone da aplicação</string>
   <string name="status_bar_settings_show_keyguard_notification">Notificações no ecrã de bloqueio</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Permitir notificações importantes no ecrã de bloqueio</string>
   <string name="status_bar_settings_show_network_speed">Mostrar velocidade da ligação</string>
   <string name="status_bar_settings_show_notification_icon">Mostrar ícones das notificações</string>
   <string name="status_bar_settings_show_wifi_name">Mostrar Wi-Fi</string>

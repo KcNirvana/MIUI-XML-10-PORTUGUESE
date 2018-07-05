@@ -759,6 +759,12 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">A aplicação instalada não vai poder ligar à Internet utilizando Wi-Fi</string>
   <string name="five_percent_total_pkg">%s (5%% dos dados mensais)</string>
+  <string name="fod_authentication_shift_button">Cancelar</string>
+  <string name="fod_button_finger">Utilizar impressão digital</string>
+  <string name="fod_button_password">Introduzir palavra-passe</string>
+  <string name="fod_finger_notice_title">Meta o seu dedo no ecrã</string>
+  <string name="fod_finger_windows_tips">Verifique a sua impressão digital</string>
+  <string name="fod_tips_split_screen_more_than_half">Introduzir palavra-passe</string>
   <string name="forbid_autobright_summary">O brilho do ecrã vai-se manter enquanto estiver a jogar</string>
   <string name="forbid_autobright_title">Corrigir brilho de ecrã</string>
   <string name="foreground_traffic">Primeiro plano %s</string>
