@@ -1511,6 +1511,7 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="error_name_empty">Campo Nome não pode ficar vazio</string>
   <string name="every_day">Todos os dias</string>
   <string name="experimental_preference">(Experimental)</string>
+  <string name="extended_power_menu">Menu de reinicialização avançado</string>
   <string name="external_code_size_label">Aplicação no armazenamento USB</string>
   <string name="external_data_size_label">Dados no armazenamento USB</string>
   <string name="extreme_threats_summary">Receber alertas de ameaças extremas à vida e à propriedade</string>
