@@ -177,6 +177,7 @@
   <string name="timer_alert_type_rain">Chuviscos</string>
   <string name="timer_alert_type_stove_fire">Forno</string>
   <string name="timer_alert_type_summer_night">Noite de verão</string>
+  <string name="timer_cancel_hint">Parar</string>
   <string name="timer_alarm_cancel_pad">Toque no ecrã para parar de tocar</string>
   <string name="timer_alarm_dot_matrix_label">Temporizador</string>
   <string name="timer_alert_alert_silenced">O temporizador desliga após %d minutos</string>
@@ -184,6 +185,8 @@
   <string name="timer_clock_alert_text">Definir temporizador</string>
   <string name="timer_continue">Continuar</string>
   <string name="timer_continue_timer">Continuar temporizador</string>
+  <string name="timer_end_time">O temporizador vai parar às %s</string>
+  <string name="timer_end_time_format">dd MMM HH:mm</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_item_duration_display">%1$d min. %2$d seg.</string>
   <string name="timer_item_label_hint">Nome do temporizador</string>
@@ -192,10 +195,8 @@
   <string name="timer_item_picker_second">S</string>
   <string name="timer_new_item">Adicionar temporizador</string>
   <string name="timer_notify_text">Suspender ou desactivar temporizador</string>
-  <string name="timer_pause_hint">Pausar</string>
   <string name="timer_pause_timer">Pausar temporizador</string>
   <string name="timer_running">O temporizador está a andar</string>
-  <string name="timer_running_hint">Continuar</string>
   <string name="timer_start_alarm">Acabou o tempo!</string>
   <string name="timer_start_timer">Iniciar temporizador</string>
   <string name="timer_title">Temporizador</string>

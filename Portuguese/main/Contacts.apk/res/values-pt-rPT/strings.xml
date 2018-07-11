@@ -1139,6 +1139,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="title_other_devices">Outros dispositivos disponíveis</string>
   <string name="title_paired_devices">Dispositivos emparelhados</string>
   <string name="toast_call_detail_error">Não foi possível ler os detalhes da chamada pedida</string>
+  <string name="toast_call_no_SoundRecorder">A aplicação Gravador não está disponível</string>
+  <string name="toast_call_no_notes">A aplicação Notas não está disponível</string>
   <string name="toast_copy_done">Concluído</string>
   <string name="toast_copying">A copiar…</string>
   <string name="toast_displaying_all_contacts">A mostrar todos os contactos</string>

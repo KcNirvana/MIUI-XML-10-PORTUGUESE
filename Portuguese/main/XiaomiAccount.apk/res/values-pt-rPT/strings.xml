@@ -394,7 +394,7 @@ Para activar a sua conta siga o
   <string name="passport_vcode_notification_title">A sua verificação de início de sessão está incompleta</string>
   <string name="passport_vcode_prompt_long">Introduzir código de verificação</string>
   <string name="passport_vcode_sms_send_prompt">Enviar código de verificação para %s</string>
-  <string name="passport_verification_failed">Autenticação falhou</string>
+  <string name="passport_verification_failed">Não foi possível verificar conta</string>
   <string name="passport_verify">Verificar</string>
   <string name="passport_verifying_activator_phone">A verificar a segurança do telefone…</string>
   <string name="passport_wait_for_sms_prompt">Começar de novo agora? As mensagens de verificação podem levar até 10 minutos a serem entregues quando o telefone está dentro do alcance da rede da sua operadora</string>

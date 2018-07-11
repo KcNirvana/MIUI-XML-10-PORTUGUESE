@@ -97,6 +97,7 @@
   <string name="record_downloading_notification">A transferir…</string>
   <string name="record_downloading_notification_complete">Transferência concluída</string>
   <string name="record_downloading_notification_count">%d transferir</string>
+  <string name="record_format_preference_title">Formato de gravação</string>
   <string name="record_list">Gravações</string>
   <string name="record_list_call">Chamadas gravadas</string>
   <string name="record_list_category_title_format">"MMMM 'de' yyyy"</string>

@@ -378,7 +378,7 @@ para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="xspace_default_guide_notification_content">Toque para alterar</string>
   <string name="xspace_default_guide_notification_main_title">A utilizar aplicação predefinida</string>
   <string name="xspace_default_guide_notification_xspace_title">A utilizar aplicação clonada</string>
-  <string name="xspace_default_setting_dialog_title">Predefinições</string>
+  <string name="xspace_default_setting_dialog_title"> predefinido</string>
   <string name="xspace_default_setting_label">Aplicação predefinida</string>
   <string name="xspace_description">"As aplicações clonadas cópias das aplicações que pode ser utilizadas separadamente com diferentes contas.
   

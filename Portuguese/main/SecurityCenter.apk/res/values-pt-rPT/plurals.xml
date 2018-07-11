@@ -158,6 +158,22 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">%s aplicações não estão protegidas</item>
         <item quantity="one">%s aplicação não está protegida</item>
     </plurals>
+    <plurals name="menu_text_antivirus_2">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="menu_text_antivirus_3">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="menu_text_antispam_2">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="menu_text_app_manager_2">
+        <item quantity="other">%d aplicações</item>
+        <item quantity="one">%d aplicação</item>
+    </plurals>
     <plurals name="system_check_content">
         <item quantity="other">%1$d itens seguros</item>
         <item quantity="one">%1$d item seguro</item>
