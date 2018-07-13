@@ -3147,6 +3147,7 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="restriction_wifi_config_summary">Permitir modificações às definições de Wi-Fi e redes móveis</string>
   <string name="restriction_wifi_config_title">Wi-Fi e redes móveis</string>
   <string name="retry">Tentar novamente</string>
+  <string name="rgb_manage_facerecoginition_text">Gerir dados de rosto 2D</string>
   <string name="ring_volume_option_title">Volume do toque</string>
   <string name="ring_volume_title">Volume do toque</string>
   <string name="ringtone_mute">Nenhum</string>
@@ -4025,6 +4026,7 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="strict_mode">Modo restrito ligado</string>
   <string name="strict_mode_summary">Intermitência do ecrã quando aplicações executam operações longas na tarefa principal</string>
   <string name="structure_add_facerecoginition_text">Adicionar dados de rosto 3D</string>
+  <string name="structure_manage_facerecoginition_text">Gerir dados de rosto 3D</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Esta aplicações funcionam melhor em modo ecrã inteiro</string>
   <string name="suggestion_for_phone_recycled">Adicionar um número de telefone diferente</string>
   <string name="sum_carrier_select">Escolher uma operadora de rede</string>

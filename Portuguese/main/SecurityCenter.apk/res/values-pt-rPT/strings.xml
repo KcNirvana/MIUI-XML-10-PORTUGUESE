@@ -286,6 +286,7 @@
   <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Verificar a aplicação de mensagens</string>
   <string name="apps_list_header_title_sms_access">Restringir acesso a códigos de verificação</string>
+  <string name="ask_create_shortcut">Criar um atalho no ecrã inicial?</string>
   <string name="auto_atsk_condition_battery_level_text_down">Quando a bateria chegar a %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Quando a bateria estiver a %s</string>
   <string name="auto_back_booster">Parar aumento</string>
@@ -630,7 +631,6 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="dialog_roaming_warning_checkbox">Não mostrar novamente</string>
   <string name="dialog_roaming_warning_message">A operadora vai cobrar custos adicionais se ligar os dados móveis em roaming. Ligar mesmo assim?</string>
   <string name="dialog_roaming_warning_ok">Ligar</string>
-  <string name="dialog_text">Criar um atalho no ecrã inicial para o Acelerador de jogos</string>
   <string name="dialog_title_attention">Atenção</string>
   <string name="dialog_title_auto_start_declare">Acerca do início automático</string>
   <string name="dialog_title_stop_virus_scan">Parar a verificação de segurança</string>
@@ -688,8 +688,6 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="do_clean">A limpar…</string>
   <string name="domestic_roaming_setting">Roaming</string>
   <string name="dont_bore">Não deixe que os botões e as notificações o distraiam</string>
-  <string name="dont_bore_text">Silenciar notificações e desligar botões para remover distracções</string>
-  <string name="dont_bore_title">Não incomodar</string>
   <string name="download">Transferir</string>
   <string name="downloading">A transferir</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -793,13 +791,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="game_booster_tab_top">Topo</string>
   <string name="game_booster_title">Acelerador de jogos</string>
   <string name="game_bootser_tab_settings">Definições do acel. de jogos</string>
-  <string name="game_improve_text1">Limpar a cache em segundo plano para libertar a memória para jogar</string>
-  <string name="game_improve_text2">Limpar a cache em segundo plano para libertar a memória para jogar e melhorar o desempenho do CPU</string>
-  <string name="game_improve_title">Optimização de desempenho</string>
   <string name="game_more_improve">Restrinja actividades em segundo plano e velocidade de transferências para poupar bateria e banda para jogar</string>
-  <string name="game_net_text1">Limitar as transferências em segundo plano para reduzir o atraso da rede</string>
-  <string name="game_net_text2">Aumentar a velocidade de ligação do jogo enquanto limita a velocidade de transferências para reduzir o atraso de rede</string>
-  <string name="game_net_title">Optimização da velocidade da ligação</string>
   <string name="game_setting">Definições de jogos</string>
   <string name="gamebooster_lowbattery_notification_summary">Carregue a sua bateria antes que desligue</string>
   <string name="gamebooster_lowbattery_notification_title">A sua bateria é inferior a 5%%</string>
@@ -812,10 +804,20 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gateway_exception_summary2">Não é possível ligar ao servidor</string>
   <string name="gateway_exception_title">Testar router</string>
   <string name="gb_ad_game_size">MB</string>
-  <string name="gb_cutoff">|</string>
+  <string name="gb_create_icon_summary">Criar atalho no ecrã inicial</string>
   <string name="gb_description_image_button_answer">Atender</string>
   <string name="gb_description_image_button_reject">Rejeitar</string>
   <string name="gb_description_image_button_video_answer">Videochamada</string>
+  <string name="gb_first_window_antimsg_summary_quick_answer">Utilizar respostas rápidas</string>
+  <string name="gb_first_window_antimsg_summary_transparent_show">Ver texto em fundo transparente</string>
+  <string name="gb_first_window_antimsg_title">Notificações convenientes</string>
+  <string name="gb_first_window_gamebox_summary_four">Limpar cache, fazer gravações e capturas de ecrã</string>
+  <string name="gb_first_window_gamebox_summary_six">Utilizar respostas rápidas, fazer gravações e capturas de ecrã</string>
+  <string name="gb_first_window_handsfree_summary">Ligar o altifalante automaticamente</string>
+  <string name="gb_first_window_handsfree_title">Chamadas mãos-livres</string>
+  <string name="gb_first_window_start">Começar a jogar</string>
+  <string name="gb_first_window_summary">Boost speed and performance on a system level</string>
+  <string name="gb_first_window_title">Acelerador de jogos</string>
   <string name="gb_msg_completely_shielded">Ocultar mensagens</string>
   <string name="gb_msg_completely_shielded_summary">Ocultar</string>
   <string name="gb_msg_not_shielded_summary">Mostrar</string>
@@ -913,8 +915,6 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="installing">A instalar</string>
   <string name="international_Ad">Anúncios</string>
   <string name="international_roaming_setting">Dados em roaming</string>
-  <string name="intro_improve">Aumente a sua experiência de jogo a nível do sistema</string>
-  <string name="intro_skip">Ignorar</string>
   <string name="ip_address_exception_summary">Não foi possível obter o endereço IP. Se voltar novamente a ter este problema utilize um endereço IP estático</string>
   <string name="item_app_permission">Permissões de aplicação</string>
   <string name="item_dev_mode">Opções de programador</string>
@@ -1041,6 +1041,7 @@ da operadora"</string>
   <string name="main_toolbar_statistic">Estatísticas de utilização de dados</string>
   <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Adicionar aplicações de início automático manualmente</string>
+  <string name="manage_hybrid_permissions">Gerir permissões da aplicação</string>
   <string name="managed_user_title">Todas as aplicações de trabalho</string>
   <string name="manual_input_free_traffic">Definir a utilização de dados no período de menor tráfego</string>
   <string name="manual_input_traffic">Definir utilização de dados</string>
@@ -1690,8 +1691,6 @@ do seu dispositivo"</string>
   <string name="safe_result_item_info_system_version">A versão MIUI está actualizada</string>
   <string name="safepay_alert_dialog_button_continue">Continuar</string>
   <string name="safepay_alert_dialog_button_fix">Corrigir</string>
-  <string name="save_energy_text">Restringir início automático e sincronização das aplicações em segundo plano para obter o máximo de bateria</string>
-  <string name="save_energy_title">Optimizar bateria</string>
   <string name="sc_allow_network_dialog_message">Restringiu o acesso à rede e localização de Segurança. Conceda a Segurança as permissões necessárias para utilizar esta funcionalidade</string>
   <string name="sc_allow_network_dialog_tiltle">Não é possível utilizar esta funcionalidade</string>
   <string name="sc_system_risk_fix_info_xspace">Não é possível resolver isto no Segundo espaço. Tente novamente no Primeiro espaço</string>

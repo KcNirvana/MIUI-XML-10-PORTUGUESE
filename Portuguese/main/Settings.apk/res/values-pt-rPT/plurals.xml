@@ -117,6 +117,10 @@
         <item quantity="other">Está a %1$d passos de criar um relatório de erros</item>
         <item quantity="one">Está a %1$d passo de criar um relatório de erros</item>
     </plurals>
+    <plurals name="show_reset_countdown">
+        <item quantity="other">Está a %1$d passos de fazer uma reposição de fábrica</item>
+        <item quantity="one">Está a %1$d passo de fazer uma reposição de fábrica</item>
+    </plurals>
     <plurals name="auto_disable_screenbuttons_enabled_header_title">
         <item quantity="other">Desactivar sempre para %d aplicações</item>
         <item quantity="one">Desactivar sempre para 1 aplicação</item>

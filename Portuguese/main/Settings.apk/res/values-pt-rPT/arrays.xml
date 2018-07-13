@@ -703,6 +703,10 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Aumentar contraste do ecrã</item>
         <item>Contraste constante</item>
     </string-array>
+    <string-array name="notch_battery_indicator_style_entries">
+        <item>Gráfico</item>
+        <item>Percentagem</item>
+    </string-array>
     <string-array name="perm_hips_action">
         <item>Permitir</item>
         <item>Perguntar</item>

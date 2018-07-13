@@ -54,6 +54,7 @@
   <string name="album_name_people">Pessoas</string>
   <string name="album_name_recent_discovery">Recentes</string>
   <string name="album_name_tags">Etiquetas</string>
+  <string name="album_notes">Notas</string>
   <string name="album_others_share_baby_info_format">Álbum de bebé de %s</string>
   <string name="album_others_share_info_format">De %s</string>
   <string name="album_owner_share">Partilhado</string>
@@ -367,7 +368,6 @@
   <string name="enable_cloud_for_sharing">Ligar a Mi Cloud para ver as fotos partilhadas</string>
   <string name="enable_face_album_summary">Ordenar fotos automaticamente pelas pessoas que estão nelas</string>
   <string name="enable_face_album_title">Ordenar por pessoas</string>
-  <string name="enabling_face_feature">Aguarde…</string>
   <string name="enter_choice_mode">Abriu opções de partilha</string>
   <string name="enter_email_hint">Inserir endereço de email</string>
   <string name="error_album_not_exist">O álbum não existe</string>
@@ -448,7 +448,6 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="face_album_long_tap_tip">Para seleccionar várias pessoas ou alterar as definições de grupo, prima e segure uma foto de perfil</string>
   <string name="face_album_new_name_hint">Novo nome</string>
   <string name="face_album_not_named">Sem nome</string>
-  <string name="face_album_pending_enable_tip">Vai ordenar as fotos quando o dispositivo estiver ligado ao Wi-Fi</string>
   <string name="face_album_rename_hint">Inserir nome</string>
   <string name="face_album_title">Fotos com %s</string>
   <string name="face_album_use_tip">Ordenar fotos automaticamente pelas pessoas que estão nelas</string>
@@ -466,7 +465,9 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="fancy_color_desc">Cores</string>
   <string name="fast_share_auto_render">Embelezar</string>
   <string name="fast_share_auto_render_finish">Embelezada</string>
-  <string name="feature_guidance_photo_effects">Efeitos da foto</string>
+  <string name="feature_guidance_photo_effects">"Estão disponíveis novos
+efeitos de fotos"</string>
+  <string name="feature_guidance_video_editor_smart_effects">Estão disponíveis novos efeitos</string>
   <string name="filter_bi_memory">Memória</string>
   <string name="filter_bi_mono">Mono</string>
   <string name="filter_bi_pink">Rosa</string>
@@ -803,6 +804,10 @@ para personalizar a galeria"</string>
   <string name="photo_print_package_installing">A carregar plugin…</string>
   <string name="photo_save_to_msg">Guardado em %s</string>
   <string name="photomovie_audio_custom">Local</string>
+  <string name="photomovie_audio_default">Memórias</string>
+  <string name="photomovie_audio_kawaii">Romântico</string>
+  <string name="photomovie_audio_light">Baladas</string>
+  <string name="photomovie_audio_linear">Rock</string>
   <string name="photomovie_audio_none">Nenhum</string>
   <string name="photomovie_cancel_download">Cancelar</string>
   <string name="photomovie_delete_disable">É necessário pelo menos 3 fotos para criar um clipe</string>
@@ -825,6 +830,11 @@ para personalizar a galeria"</string>
   <string name="photomovie_tab_music">Música</string>
   <string name="photomovie_tab_template">Templates</string>
   <string name="photomovie_template_default">Lento</string>
+  <string name="photomovie_template_kawaii">Encantos</string>
+  <string name="photomovie_template_light">Brisa</string>
+  <string name="photomovie_template_linear">Viagens</string>
+  <string name="photomovie_template_soft">Juventude</string>
+  <string name="photomovie_template_sport">Vigor</string>
   <string name="pick_from_contact">Escolher dos contactos</string>
   <string name="pick_too_many_recipients">Demasiados destinatários</string>
   <string name="picker_cancel_download">Cancelar transferência</string>
@@ -837,6 +847,7 @@ para personalizar a galeria"</string>
   <string name="picker_image_will_download">%d das fotos seleccionadas não estão no dispositivo. A transferir</string>
   <string name="picker_no_network_message">Ligue à rede para transferir</string>
   <string name="picker_origin_need_download">%1$d das fotos seleccionadas não estão no dispositivo (%2$dMB). Transferir utilizando os dados móveis?</string>
+  <string name="picker_origin_request_progress_message">A preparar ficheiros originais (%1$d/%2$d)…</string>
   <string name="picker_title_format">Seleccione %1$d a %2$d fotos</string>
   <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
   <string name="picker_title_selection_format_multiple">Seleccionar %1$d para %2$d fotos (%3$d)</string>
@@ -962,12 +973,12 @@ para personalizar a galeria"</string>
   <string name="search_net_error">Ocorreu um erro de rede. Ligue-se a uma rede diferente e tente novamente</string>
   <string name="search_request_applied">Aplicado</string>
   <string name="search_request_open">Junte-se à equipa de testes</string>
+  <string name="search_request_requesting">Aplicado. Aguarde um momento antes de começar</string>
   <string name="search_result_empty">Sem resultados</string>
   <string name="search_retry">Tente novamente</string>
   <string name="search_select_network">Seleccionar rede</string>
   <string name="search_set_network_connection">Definições de rede</string>
   <string name="search_setting_sub_title">Pesquise por pessoas, lugares e objectos nas suas fotos</string>
-  <string name="search_setting_sub_title_open">Aplicado. Aguarde um bocado antes de começar</string>
   <string name="search_setting_title">Encontrar fotos na galeria</string>
   <string name="search_syncing">A sincronizar dados</string>
   <string name="search_title_album">Álbum</string>
@@ -997,6 +1008,7 @@ para personalizar a galeria"</string>
   <string name="secret_reason_too_large">Ficheiro demasiado grande</string>
   <string name="secret_reason_type_not_support">Este tipo de ficheiro não é suportado</string>
   <string name="secret_reason_unknow_reasons">Erro desconhecido</string>
+  <string name="secret_reason_video_not_support">Não é possível adicionar vídeos a álbuns ocultos</string>
   <string name="see_ignore_faces">Ver as pessoas que ignorou</string>
   <string name="select_item_face">"Isto é '%s'?"</string>
   <string name="select_origin_tip">Ficheiro original (%s)</string>
@@ -1208,7 +1220,7 @@ para personalizar a galeria"</string>
   <string name="video_editor_smart_effect_fastslow">Movimento</string>
   <string name="video_editor_smart_effect_freesze">Parar movimento</string>
   <string name="video_editor_smart_effect_halo">Halo</string>
-  <string name="video_editor_smart_effect_high_iframes_text">Este efeito funciona melhor com vídeos com frame rates altos</string>
+  <string name="video_editor_smart_effect_high_iframes_text">Este efeito funciona melhor com vídeos com 120 fps</string>
   <string name="video_editor_smart_effect_movie">Filme</string>
   <string name="video_editor_smart_effect_none">Nenhum</string>
   <string name="video_editor_smart_effect_radical">Upbeat</string>
@@ -1236,6 +1248,7 @@ para personalizar a galeria"</string>
   <string name="video_editor_unsupport_audio_file">Ficheiro de áudio não suportado</string>
   <string name="video_editor_unzip_file_fail">Não foi possível descompactar o vídeo</string>
   <string name="video_editor_video_is_short">Não é possível editar este vídeo</string>
+  <string name="video_editor_video_loading">A preparar vídeos. Aguarde um momento e tente novamente</string>
   <string name="video_editor_watermark">"Marca d'água"</string>
   <string name="video_err">Não é possível reproduzir o vídeo</string>
   <string name="video_not_exist">O vídeo não existe</string>
@@ -1244,7 +1257,6 @@ para personalizar a galeria"</string>
   <string name="view_by_gallery_tip">Galeria MIUI</string>
   <string name="view_face_album">Ver álbum</string>
   <string name="view_more_face_desc">Ver mais pessoas</string>
-  <string name="view_queuing_status">Verificar estado</string>
   <string name="voice_assistant">Entrada de voz</string>
   <string name="welcome">Bem-vindo à Mi Cloud</string>
   <string name="welcome_to_auto_backup">Bem-vindo à Mi Cloud</string>
