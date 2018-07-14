@@ -40,6 +40,7 @@
   <string name="app_label">Assistente</string>
   <string name="apps">Sugestões da aplicação</string>
   <string name="apps_label">Aplicações</string>
+  <string name="assistant_format_MMdd">dd/MM</string>
   <string name="assistant_place">Reconhecer lugares frequentes</string>
   <string name="assistant_summary">Tenha sugestões úteis quando precisar delas</string>
   <string name="ball_dialog_confirm">Instalar</string>
@@ -306,6 +307,8 @@
   <string name="miuishare_title_share">Share</string>
   <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="month_day_format">dd/MM</string>
+  <string name="month_day_hour_minute_format_en">MM/dd HH:mm</string>
   <string name="music">Música e rádio</string>
   <string name="music_open">Mostrar música e rádio</string>
   <string name="music_setting_brief">Connect earphones to continue listening to music or radio from the place you left off.</string>
@@ -477,6 +480,8 @@
   <string name="sport">Desportos</string>
   <string name="sport_open">Mostrar cartão Mi Fit</string>
   <string name="step_setting_tip">Origem da info. dos passos</string>
+  <string name="step_vip_action_bar">Passos</string>
+  <string name="steps">Passos</string>
   <string name="steps_auto_misport">Permitir início automático</string>
   <string name="steps_get_misport">Instalar Mi Fit</string>
   <string name="steps_misport">Mi Fit seleccionado</string>
@@ -558,4 +563,5 @@
   <string name="wx_timeline">Bateria</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicação</string>
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
+  <string name="year_month_day_format">dd/MM/yyyy</string>
 </resources>

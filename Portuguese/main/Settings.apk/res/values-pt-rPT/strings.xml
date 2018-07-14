@@ -1177,7 +1177,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="details_title">Detalhes de utilização</string>
   <string name="dev_settings_warning_message">Estas definições destinam-se apenas à utilização para desenvolvimento. Poderão causar comportamento instável do dispositivo e nas aplicações nele instaladas</string>
   <string name="dev_settings_warning_title">Permitir definições de desenvolvimento?</string>
-  <string name="developer_build"/>
+  <string name="developer_build">Beta</string>
   <string name="development_enable">Opções de programador</string>
   <string name="development_settings_not_available">As opções de programador não estão disponíveis</string>
   <string name="development_settings_summary">Definir as opções para o desenvolvimento da aplicação</string>
@@ -3302,6 +3302,11 @@ Para utilizar a fixação no ecrã:
   <string name="sd_mount">Montar armazenamento USB</string>
   <string name="sdcard_changes_instructions">As alterações têm efeito quando o cabo USB voltar a ser ligado</string>
   <string name="sdcard_format">Formatar armazenamento USB</string>
+  <string name="sdcard_optimization">Optimização de cartão SD</string>
+  <string name="sdcard_optimization_cancel">Cancelar</string>
+  <string name="sdcard_optimization_close">Desligar e reiniciar</string>
+  <string name="sdcard_optimization_open">Ligar</string>
+  <string name="sdcard_optimization_summary">Torne o seu cartão SD mais rápido</string>
   <string name="sdcard_setting">Armazenamento USB</string>
   <string name="sdcard_settings_available_bytes_label">Bytes disponíveis:</string>
   <string name="sdcard_settings_bad_removal_status">O armazenamento USB foi removido enquanto ainda estava em uso!</string>

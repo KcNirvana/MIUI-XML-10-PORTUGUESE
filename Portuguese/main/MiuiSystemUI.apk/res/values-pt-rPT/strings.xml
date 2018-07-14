@@ -1137,7 +1137,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_media_device_label">Dispositivo multimédia</string>
   <string name="quick_settings_midrop_label">Mi Drop</string>
   <string name="quick_settings_more_settings">Mais definições</string>
-  <string name="quick_settings_mute_label">Silenciar</string>
+  <string name="quick_settings_mute_label">Silêncio</string>
   <string name="quick_settings_nfc_label">NFC</string>
   <string name="quick_settings_nfc_off">NFC desactivado</string>
   <string name="quick_settings_nfc_on">NFC activado</string>
@@ -1318,7 +1318,7 @@ Deslize para baixo para bloquear"</string>
   <string name="status_bar_settings_airplane">Modo Avião</string>
   <string name="status_bar_settings_auto_brightness_label">Auto</string>
   <string name="status_bar_settings_auto_rotation">Rotação auto</string>
-  <string name="status_bar_settings_mute_label">Silenciar</string>
+  <string name="status_bar_settings_mute_label">Silêncio</string>
   <string name="status_bar_settings_notifications">Notificações</string>
   <string name="status_bar_settings_settings_button">Definições</string>
   <string name="status_bar_settings_signal_meter_disconnected">Sem ligação à Internet</string>

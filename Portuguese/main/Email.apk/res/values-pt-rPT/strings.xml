@@ -690,7 +690,7 @@
   <string name="open_notification_kingagent">Open the notice of the burial point</string>
   <string name="optimization_suggestion">Sugestão de optimização</string>
   <string name="others_mail">Outros</string>
-  <string name="others_mail_des">(converter mais de 600000 emails)</string>
+  <string name="others_mail_des">(converte mais de 600000 emails)</string>
   <string name="outbox_alert_button_no_resend">Não enviar</string>
   <string name="outbox_alert_button_resend">Reenviar</string>
   <string name="outbox_alert_certificate_error">Contacte o seu administrador de sistemas de email e actualize o seu certificado</string>
@@ -851,6 +851,7 @@
   <string name="quote_divider_qq_zh">------------------ Original ------------------</string>
   <string name="quoted_text">Incluir texto citado</string>
   <string name="quoted_text_label">Texto citado</string>
+  <string name="qq_verify_code">(Necessário código verificação QQ)</string>
   <string name="re_download_message_button">Toque para transferir novamente</string>
   <string name="re_download_message_info">Não foi possível transferir o email</string>
   <string name="read_string">conversa lida</string>
