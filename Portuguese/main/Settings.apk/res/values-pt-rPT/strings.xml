@@ -1160,6 +1160,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="default_phone_title">Aplicação Telefone</string>
   <string name="default_rule_name">Temporizador 1</string>
   <string name="default_sound">Som predefinido</string>
+  <string name="default_spell_checker">Verificador ortográfico predefinido</string>
   <string name="default_usb_mode">Ligação USB</string>
   <string name="delete">Eliminar</string>
   <string name="delete_fingerprint_confirm_msg">Remover impressão digital?</string>

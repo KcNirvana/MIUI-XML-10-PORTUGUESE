@@ -43,6 +43,12 @@
   <string name="from_migallerylockscreen">De papéis aleatórios MIUI</string>
   <string name="hour_1">A cada hora</string>
   <string name="hour_3">A cada 3 horas</string>
+  <string name="idbct_desc">Personalize o papel de parede dependendo do tipo de rede</string>
+  <string name="idbct_opt_auto_select_desc_text">Transferir imagens standard utilizando dados móveis e imagens HD via Wi-Fi</string>
+  <string name="idbct_opt_auto_select_main_text">Auto</string>
+  <string name="idbct_opt_high_def_desc_text">Transferir sempre imagens HD</string>
+  <string name="idbct_opt_high_def_main_text">HD</string>
+  <string name="idbct_title">Tipos de rede</string>
   <string name="like">Adicionar aos favoritos</string>
   <string name="liked">Adicionado aos favoritos</string>
   <string name="lockscreen_h5_back_tv">Voltar</string>

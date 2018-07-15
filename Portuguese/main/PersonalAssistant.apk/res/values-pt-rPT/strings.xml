@@ -480,8 +480,8 @@
   <string name="sport">Desportos</string>
   <string name="sport_open">Mostrar cartão Mi Fit</string>
   <string name="step_setting_tip">Origem da info. dos passos</string>
-  <string name="step_vip_action_bar">Passos</string>
-  <string name="steps">Passos</string>
+  <string name="step_vip_action_bar">passos</string>
+  <string name="steps">passos</string>
   <string name="steps_auto_misport">Permitir início automático</string>
   <string name="steps_get_misport">Instalar Mi Fit</string>
   <string name="steps_misport">Mi Fit seleccionado</string>
