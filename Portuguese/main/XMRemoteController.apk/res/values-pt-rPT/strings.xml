@@ -827,7 +827,7 @@ Para activar a sua conta, siga o
   <string name="pravicy_terms">Ler Política de Privacidade</string>
   <string name="press_to_continue_match">Toque para continuar</string>
   <string name="press_to_match">Toque para emparelhar</string>
-  <string name="privacy_content">Ler <a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto. É necessário acesso à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
+  <string name="privacy_content">Leia a <a href="http://www.miui.com/res/doc/privacy/en.html">Política de Privacidade</a> e os <a href="http://www.miui.com/res/doc/eula/en.html">Termos de Utilização</a> da Xiaomi antes de utilizar C.Remoto. É necessário acesso à Internet e aos serviços de localização para a aplicação funcionar normalmente</string>
   <string name="privacy_nohit">Não mostrar novamente</string>
   <string name="privacy_title">Termos e Condições</string>
   <string name="program_booking_book_filter_book_status">Estado da verificação</string>

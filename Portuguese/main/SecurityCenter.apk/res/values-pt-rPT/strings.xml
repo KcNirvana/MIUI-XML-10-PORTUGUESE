@@ -799,6 +799,9 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades de Acelerador de jogos?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
   <string name="gamebox_qq_not_find">Instale o QQ e tente novamente</string>
+  <string name="gamebox_type_close">Não mostrar</string>
+  <string name="gamebox_type_float">Atalho fixo</string>
+  <string name="gamebox_type_gesture">Deslizar para mostrar</string>
   <string name="gamebox_wechat_not_find">Instale o WeChat e tente novamente</string>
   <string name="gateway_exception_summary">Verifique o seu router e tente novamente</string>
   <string name="gateway_exception_summary2">Não é possível ligar ao servidor</string>
