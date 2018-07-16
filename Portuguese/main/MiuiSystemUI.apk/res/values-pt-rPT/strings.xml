@@ -969,8 +969,8 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="notification_header_title">Notificações</string>
   <string name="notification_hidden_by_policy_text">Conteúdos ocultos</string>
   <string name="notification_hidden_text">Tem uma nova mensagem</string>
-  <string name="notification_info_channel_disabled_text">Não vai receber %2$s notificações de %1$s</string>
-  <string name="notification_info_channel_enabled_text">Vai receber %2$s notificações de %1$s</string>
+  <string name="notification_info_channel_disabled_text">Não vai receber notificações de %1$s</string>
+  <string name="notification_info_channel_enabled_text">Vai receber notificações de %1$s</string>
   <string name="notification_low_battery_action_btn">Ligar</string>
   <string name="notification_low_battery_need_charge">Bateria fraca. Carregue o seu dispositivo</string>
   <string name="notification_low_battery_open_save_mode">Ligar a poupança de bateria</string>
@@ -1269,7 +1269,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="snooze_option_2_hour">2 horas</string>
   <string name="snooze_option_30_min">30 minutos</string>
   <string name="snooze_undo">Anular</string>
-  <string name="snoozed_for_time">Suspenso or %1$s</string>
+  <string name="snoozed_for_time">Suspenso por %1$s</string>
   <string name="special_mode_cancel">Cancelar</string>
   <string name="special_mode_ok">Reiniciar</string>
   <string name="speed_bump_explanation">Notificações menos urgentes abaixo</string>

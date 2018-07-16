@@ -377,6 +377,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_front_mirror_entry_on">Ligado</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Espelhar câmara frontal</string>
+  <string name="pref_google_lens">Lente do Google</string>
   <string name="pref_groupshot_with_primitive_title">Guardar também as fotos originais</string>
   <string name="pref_manual_exposure_title">Tempo de exposição</string>
   <string name="pref_priority_storage_title">Guardar no cartão SD</string>

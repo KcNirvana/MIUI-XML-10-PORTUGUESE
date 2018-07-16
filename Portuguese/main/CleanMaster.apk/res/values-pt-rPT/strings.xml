@@ -289,6 +289,7 @@
   <string name="low_memory_warning_dialog_ok_button">Limpar</string>
   <string name="low_memory_warning_dialog_title">Sem espaço suficiente</string>
   <string name="main_title_filesize">%1$s lixo</string>
+  <string name="main_total_garbage">Total de lixo</string>
   <string name="mainbtn_text_no_trash">Ignorar</string>
   <string name="mainbtn_text_quick_cleanup">Limpar %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Limpar</string>

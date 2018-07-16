@@ -264,6 +264,7 @@
   <string name="applock_add_account_setting">Contas e privacidade</string>
   <string name="applock_bind_account_title">Esqueceu a sua palavra-passe?</string>
   <string name="applock_close_dialog_summary">As aplicações não vão estar protegidas e a sua palavra-passe vai ser eliminada assim que desligar o Bloqueio de aplicações</string>
+  <string name="applock_close_dialog_summary">Todas as aplicações ocultas vão ser mostradas, os seus atalhos vão ser restaurados e a sua palavra-passe do Bloqueio de aplicações vai ser eliminada. Desligar o Bloqueio de aplicações?</string>
   <string name="applock_close_dialog_title">Desligar Bloqueio de aplicações?</string>
   <string name="applock_exit_account_info">A conta vai ser removida automaticamente assim que terminar sessão</string>
   <string name="applock_header_text_less_than_half">Demasiado pequeno. Arraste um bocado mais</string>
@@ -1589,6 +1590,20 @@ do seu dispositivo"</string>
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Mensagens</string>
   <string name="preferred_app_entries_music">Música</string>
+  <string name="privacy_apps">Aplicações ocultas</string>
+  <string name="privacy_apps_category_title">Aplicações ocultas</string>
+  <string name="privacy_apps_checkbox_remind_choice">Não mostrar novamente</string>
+  <string name="privacy_apps_close">Fechar</string>
+  <string name="privacy_apps_enable_summary">Mover aplicações para uma pasta oculta e ocultar os atalhos do ecrã inicial</string>
+  <string name="privacy_apps_go_to_use">Iniciar</string>
+  <string name="privacy_apps_manage">Gerir aplicações ocultas</string>
+  <string name="privacy_apps_manage_dialog_title">Acerca de aplicações ocultas</string>
+  <string name="privacy_apps_manager_dialog_message">Ocultar aplicações necessita de configurar o Bloqueio de aplicações. As notificações de aplicações ocultas vão ser desligadas. Ocultar esta aplicação?</string>
+  <string name="privacy_apps_tutorial">Tutorial</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">"Quando oculta uma aplicação, é movida para uma pasta oculta. O atalho no ecrã inicial é ocultado também.
+Esta funcionalidade não é suportada para aplicações de sistema"</string>
+  <string name="privacy_apps_tutorial_prompt_pagethree">Após introduzir a palavra-passe, a pasta com as aplicações ocultas vai aparecer</string>
+  <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste 2 dedos no ecrã para ver uma mensagem a pedir a sua palavra-passe do Bloqueio de aplicações</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_dialog_message">Quando ligar à Internet, esta mensagem assim como os dados da operadora vai ser encriptada e carregada para os servidores Mi para nos ajudar a melhorar a monitorização de utilização de dados</string>
   <string name="privacy_mode_dialog_title">Modo Convidado</string>
