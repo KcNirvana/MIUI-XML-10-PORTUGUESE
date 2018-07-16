@@ -263,7 +263,6 @@
   <string name="applock_add_account_info">Adicione a Conta Mi para poder repor a sua palavra-passe no caso de a esquecer</string>
   <string name="applock_add_account_setting">Contas e privacidade</string>
   <string name="applock_bind_account_title">Esqueceu a sua palavra-passe?</string>
-  <string name="applock_close_dialog_summary">As aplicações não vão estar protegidas e a sua palavra-passe vai ser eliminada assim que desligar o Bloqueio de aplicações</string>
   <string name="applock_close_dialog_summary">Todas as aplicações ocultas vão ser mostradas, os seus atalhos vão ser restaurados e a sua palavra-passe do Bloqueio de aplicações vai ser eliminada. Desligar o Bloqueio de aplicações?</string>
   <string name="applock_close_dialog_title">Desligar Bloqueio de aplicações?</string>
   <string name="applock_exit_account_info">A conta vai ser removida automaticamente assim que terminar sessão</string>
