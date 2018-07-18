@@ -157,7 +157,7 @@ no modo Retrato"</string>
   <string name="portrait_mode_depth_effect_success_hint">Efeito de profundidade</string>
   <string name="portrait_mode_lowlight_hint">Está demasiado escuro</string>
   <string name="portrait_mode_too_close_hint">Está demasiado perto do objecto</string>
-  <string name="portrait_mode_too_far_hint">Coloque o objecto a mais ou menos 2.5 metros</string>
+  <string name="portrait_mode_too_far_hint">Coloque o objecto a mais ou menos 2 metros</string>
   <string name="portrait_mode_use_hint">"O Modo Retrato desfoca o fundo
 e traz as pessoas que estão na frente"</string>
   <string name="portrait_with_facebeauty_hint">O Embelezar está agora disponível no Modo Retrato</string>

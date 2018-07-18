@@ -184,7 +184,7 @@
   <string name="card_title_dialing">A marcar</string>
   <string name="card_title_forwardcheckreceived">Verificação de reencaminhamento recebida</string>
   <string name="card_title_forwarded_MTcall">Reencaminhar chamada recebida</string>
-  <string name="card_title_hanging_up">A desligar</string>
+  <string name="card_title_hanging_up">"A desligar "</string>
   <string name="card_title_in_call">A chamar</string>
   <string name="card_title_incoming_barred">Chamadas recebidas barradas</string>
   <string name="card_title_incoming_call">Chamada recebida</string>

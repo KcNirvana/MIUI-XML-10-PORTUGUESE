@@ -18,6 +18,10 @@
   <string name="backup_successfully">Cópia feita com sucesso</string>
   <string name="backup_to_cloud">Copiar aplicações</string>
   <string name="btn_continue">Continuar</string>
+  <string name="btn_restore_abort">Cancelar</string>
+  <string name="btn_restore_cancel">Cancelar</string>
+  <string name="btn_restore_resume">Continuar</string>
+  <string name="btn_restore_retry">Repetir</string>
   <string name="btn_retry">Verificar novamente</string>
   <string name="btn_skip">Ignorar este passo</string>
   <string name="button_cancel">Cancelar</string>
@@ -116,6 +120,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="menu_item_sort_name">Nome</string>
   <string name="menu_item_sort_size">Tamanho</string>
   <string name="miui_device_name">Android</string>
+  <string name="msg_alert_cancel_restore">A cópia está a ser restaurada. Parar?</string>
+  <string name="msg_alert_restore_error">O restauro da cópia falhou. Tente novamente</string>
   <string name="name_model">%2$s de %1$s</string>
   <string name="network_error">Ligue-se à rede</string>
   <string name="no_account">Sem sessão iniciada na Conta Mi</string>
@@ -159,6 +165,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="start_backup_to_micloud">Fazer cópia das aplicações para a Mi Cloud</string>
   <string name="start_recover">Restaurar %s</string>
   <string name="success_open_cloudbackup">Foram ligadas as cópias para as aplicações do ecrã inicial</string>
+  <string name="title_alert_cancel_restore">Parar restauro</string>
+  <string name="title_alert_restore_error">Erro no restauro</string>
   <string name="total_space">Espaço total: %s</string>
   <string name="try_again">Toque para tentar novamente</string>
   <string name="wait_icon_download">A transferir os ícones da aplicação</string>

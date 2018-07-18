@@ -1831,7 +1831,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="install_unknown_applications_title">Permite-lhe instalar aplicações de fontes que não sejam o Google Play</string>
   <string name="install_whole_rom">Transferir ROM</string>
   <string name="instruction_privacy_password">Itens protegidos com este padrão</string>
-  <string name="instruction_title">Instruções</string>
+  <string name="instruction_title">Informações importantes</string>
   <string name="insufficient_storage">Não há espaço de armazenamento suficiente</string>
   <string name="intent_sender_account_label">Conta:</string>
   <string name="intent_sender_action_label">Acção:</string>
@@ -1872,6 +1872,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="key_settings_title">Gestos e botões</string>
   <string name="key_system_control">Controlo de sistema</string>
   <string name="keyboard_and_input_methods_category">Teclado</string>
+  <string name="keyboard_assistance_category">Assistente de teclado</string>
   <string name="keyboard_layout_default_label">Predefinido</string>
   <string name="keyboard_layout_dialog_setup_button">Definir disposição do teclado</string>
   <string name="keyboard_layout_dialog_switch_hint">Para trocar, prima Control-Barra de espaços</string>
@@ -1879,6 +1880,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="keyboard_layout_picker_title">Disposição de teclado</string>
   <string name="keyboard_settings_category">Métodos de entrada</string>
   <string name="keyboard_settings_title">Teclado Android</string>
+  <string name="keyboard_shortcuts_helper">Atalhos de teclado</string>
+  <string name="keyboard_shortcuts_helper_summary">Mostrar atalhos disponíveis</string>
   <string name="keyguard_advance_setting_title">Definições avançadas</string>
   <string name="keywords_accounts">conta</string>
   <string name="keywords_airplane">Avião;Modo Avião;Voo;Modo Voo;Para avião;Modo para avião</string>
@@ -3659,6 +3662,8 @@ Para utilizar a fixação no ecrã:
   <string name="show_hw_layers_updates_summary">Quando o hardware é actualizado fica verde</string>
   <string name="show_hw_screen_updates">Mostrar actualizações da GPU</string>
   <string name="show_hw_screen_updates_summary">Mostrar vistas dentro da janela quando desenhado com a GPU</string>
+  <string name="show_ime">Mostrar teclado virtual</string>
+  <string name="show_ime_summary">Manter no ecrã enquanto o teclado físico estiver activo</string>
   <string name="show_magnifier_when_input">Mostrar lupa</string>
   <string name="show_menu">Mostrar menu</string>
   <string name="show_non_rect_clip">Depuração de operações clipe não rectangulares</string>
@@ -4038,6 +4043,8 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="strict_mode">Modo restrito ligado</string>
   <string name="strict_mode_summary">Intermitência do ecrã quando aplicações executam operações longas na tarefa principal</string>
   <string name="structure_add_facerecoginition_text">Adicionar dados de rosto 3D</string>
+  <string name="structure_face_enroll_not_able_low_electric_itle">Não é possível utilizar devido a bateria fraca</string>
+  <string name="structure_face_enroll_not_able_low_electric_msg">A bateria tem de ter pelo menos 5% para iniciar a gravação</string>
   <string name="structure_manage_facerecoginition_text">Gerir dados de rosto 3D</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Esta aplicações funcionam melhor em modo ecrã inteiro</string>
   <string name="suggestion_for_phone_recycled">Adicionar um número de telefone diferente</string>
@@ -4822,7 +4829,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_in_airplane_mode">Em Modo Avião</string>
   <string name="wifi_info_reconnect">Erro na ligação. Tente novamente</string>
   <string name="wifi_install_credentials">Instalar certificados</string>
-  <string name="wifi_ip_address">Endereço IP:</string>
+  <string name="wifi_ip_address">Endereço IP</string>
   <string name="wifi_ip_settings">Definições de IP</string>
   <string name="wifi_ip_settings_invalid_dns">Introduza um endereço DNS válido</string>
   <string name="wifi_ip_settings_invalid_gateway">Introduza um endereço de gateway válido</string>

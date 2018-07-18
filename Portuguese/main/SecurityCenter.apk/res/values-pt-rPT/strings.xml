@@ -248,7 +248,7 @@
   <string name="app_manager_wakepath_dialog_title">Acerca de início sequencial</string>
   <string name="app_managere_not_have_app">Vazio</string>
   <string name="app_manger_des_separator">", "</string>
-  <string name="app_mobile">Móvel</string>
+  <string name="app_mobile">Dados móveis</string>
   <string name="app_name">Bloqueio de aplicações</string>
   <string name="app_name_na">Utilização de dados</string>
   <string name="app_name_securitycenter">Segurança</string>
@@ -289,8 +289,8 @@
   <string name="ask_create_shortcut">Criar um atalho no ecrã inicial?</string>
   <string name="auto_atsk_condition_battery_level_text_down">Quando a bateria chegar a %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Quando a bateria estiver a %s</string>
-  <string name="auto_back_booster">Parar aumento</string>
-  <string name="auto_booster_suc">Aumentado com sucesso</string>
+  <string name="auto_back_booster">Optimização parada</string>
+  <string name="auto_booster_suc">Optmizado com sucesso</string>
   <string name="auto_clean_close">A limpeza automática está desligada</string>
   <string name="auto_handle_title">Geral</string>
   <string name="auto_import_games">Ponha todos os seus jogos num único sítio</string>
@@ -417,9 +417,9 @@
   <string name="block_message_number">Mensagens: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Chamadas: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="boost_stop">Desligar acelerador</string>
-  <string name="boost_done">Aumentado com sucesso</string>
+  <string name="boost_done">Optmizado com sucesso</string>
   <string name="booster_immediately">Aumentar</string>
-  <string name="booster_suc">Aumentado com sucesso</string>
+  <string name="booster_suc">Optmizado com sucesso</string>
   <string name="boostering">A aumentar velocidade…</string>
   <string name="boosting">A aumentar velocidade…</string>
   <string name="boot_reminder">Ligar o dispositivo no horário definido</string>
@@ -814,8 +814,8 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_first_window_antimsg_summary_quick_answer">Utilizar respostas rápidas</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Ver texto em fundo transparente</string>
   <string name="gb_first_window_antimsg_title">Notificações convenientes</string>
-  <string name="gb_first_window_gamebox_summary_four">Limpar cache, fazer gravações e capturas de ecrã</string>
-  <string name="gb_first_window_gamebox_summary_six">Utilizar respostas rápidas, fazer gravações e capturas de ecrã</string>
+  <string name="gb_first_window_gamebox_summary_four">Utilizar respostas rápidas, fazer gravações e capturas de ecrã</string>
+  <string name="gb_first_window_gamebox_summary_six">Limpar cache, fazer gravações e capturas de ecrã</string>
   <string name="gb_first_window_handsfree_summary">Ligar o altifalante automaticamente</string>
   <string name="gb_first_window_handsfree_title">Chamadas mãos-livres</string>
   <string name="gb_first_window_start">Começar a jogar</string>
