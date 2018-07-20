@@ -57,8 +57,6 @@
   <string name="asset_sync_power_alert_title">Bateria fraca</string>
   <string name="artist_news">Notícias</string>
   <string name="audio_picker_title">Escolher uma música</string>
-  <string name="auto_payment">Renovação automática</string>
-  <string name="auto_payment_date">Próximo pagamento: %s</string>
   <string name="auto_upgrade">Actualizar automaticamente</string>
   <string name="available_playlist_name_format">Nova lista de reprodução %d</string>
   <string name="avoid_to_use_traffic_summary">Mostrar aviso de utilização de dados móveis</string>
@@ -68,8 +66,6 @@
   <string name="backup_empty_button">Sem músicas seleccionadas</string>
   <string name="backup_immediate">Copiar</string>
   <string name="backup_song_title">Seleccionar músicas para copiar</string>
-  <string name="being_disable_auto_payment">A desligar…</string>
-  <string name="being_enable_auto_payment">A ligar…</string>
   <string name="bluetooth_device">Dispositivo Áudio Bluetooth</string>
   <string name="buffering">Aguarde…</string>
   <string name="button_cancel_download">Cancelar</string>
@@ -158,10 +154,6 @@
   <string name="dialog_title_not_available">Erro na transferência</string>
   <string name="dialog_title_queued_body">Ficheiro ainda não disponível</string>
   <string name="dialog_title_remove_tracks">Remover</string>
-  <string name="disable_auto_payment_fail">Não foi possível desligar</string>
-  <string name="disable_auto_payment_fail_message">Não foi possível desligar a renovação automática</string>
-  <string name="disable_auto_payment_success">Desligado</string>
-  <string name="disable_auto_payment_success_message">Renovação automática desligada. Após a sua subscrição actual expirar, vai ter que subscrever novamente para transferir músicas</string>
   <string name="disallow_add_to_fm">Não é possível adicionar músicas ao Rádio FM</string>
   <string name="disallow_add_to_personal_radio">Não é possível adicionar músicas ao Rádio pessoal</string>
   <string name="download">Transferir</string>
@@ -220,10 +212,6 @@
   <string name="downloading_empty">Vazio</string>
   <string name="empty_page_no_album">Sem álbuns</string>
   <string name="empty_page_no_artist">Sem artistas</string>
-  <string name="enable_auto_payment_fail">Não foi possível ligar</string>
-  <string name="enable_auto_payment_fail_message">Não foi possível ligar a renovação automática</string>
-  <string name="enable_auto_payment_success">Renovar automaticamente</string>
-  <string name="enable_auto_payment_success_message">Renovação automática ligada. Próximo pagamento vence em %s</string>
   <string name="enabled">Ligado</string>
   <string name="enter_garbage_clean">Limpar armazenamento interno</string>
   <string name="eq_auto">Personalizado</string>
@@ -386,6 +374,7 @@
   <string name="modify_song_info">Editar informações da música</string>
   <string name="more">Mais</string>
   <string name="more_add_song_list">Adicionar à lista de reprodução</string>
+  <string name="more_milink">Mi Link</string>
   <string name="more_settings">Definições avançadas</string>
   <string name="more_settings_summary">Temporizador, filtrar ficheiros de áudio, etc.</string>
   <string name="more_share">Partilhar</string>

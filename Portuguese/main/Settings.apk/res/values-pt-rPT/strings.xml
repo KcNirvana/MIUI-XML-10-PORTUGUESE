@@ -1801,7 +1801,6 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="include_app_data_title">Incluir dados de aplicações</string>
   <string name="incoming_call_breathing_light_color_title">Cor do LED das chamadas</string>
   <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED das chamadas</string>
-  <string name="incoming_call_volume_title">Toques</string>
   <string name="infinity_display_settings">Ecrã inteiro</string>
   <string name="infinity_display_slogan">A inovação em ecrã inteiro</string>
   <string name="infinity_display_title">Ecrã em tamanho inteiro</string>
@@ -3854,6 +3853,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_notification_led_custom">Personalizar cor</string>
   <string name="status_bar_settings_notification_priority">Prioridades</string>
   <string name="status_bar_settings_notification_priority_summary">Mostrar notificações no topo da lista</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Atalho de notificações</string>
   <string name="status_bar_settings_notification_sound">Som</string>
   <string name="status_bar_settings_notification_sound_custom">Personalizar som</string>
   <string name="status_bar_settings_notification_vibrate">Vibração</string>

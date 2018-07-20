@@ -59,6 +59,10 @@
         <item>Bloqueado</item>
         <item>Evitar temporariamente ligações fracas</item>
     </string-array>
+    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
+        <item>Pesquisa</item>
+        <item>Definições</item>
+    </string-array>
     <string-array name="check_importance_entries">
         <item>Recomendada</item>
         <item>Importante</item>

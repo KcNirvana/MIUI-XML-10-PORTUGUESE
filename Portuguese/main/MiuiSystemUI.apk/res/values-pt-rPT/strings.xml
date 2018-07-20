@@ -397,6 +397,9 @@
   <string name="custom_lock_wallpaper_enter">Introduzir</string>
   <string name="data_connection_no_internet">Sem Internet</string>
   <string name="data_saver">Poupança de dados</string>
+  <string name="data_saver_description">Para ajudar a reduzir a utilização de dados, a poupança de dados previne algumas aplicações de enviar ou receber dados  em segundo plano</string>
+  <string name="data_saver_enable_button">Ligar</string>
+  <string name="data_saver_enable_title">Ligar poupança de dados?</string>
   <string name="data_usage_disabled_dialog">"Atingiu o limite de utilização de dados definido.
 
 Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>

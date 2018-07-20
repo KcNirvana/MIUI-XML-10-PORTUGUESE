@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Papéis de parede aleatórios</string>
+  <string name="app_self_upgrade_dlg_checkbox_ignore_version">Ignorar esta versão</string>
+  <string name="app_self_upgrade_dlg_content">Uma nova versão da aplicação está disponível. Actualizar imediatamente?</string>
+  <string name="app_self_upgrade_dlg_negative_btn">Lembrar me mais tarde</string>
+  <string name="app_self_upgrade_dlg_postive_btn">Actualizar</string>
+  <string name="app_self_upgrade_dlg_title">Actualização da aplicação</string>
+  <string name="app_self_upgrade_toast_downloading_install">Iniciar a transferência e instalar a nova versão</string>
   <string name="apply">Aplicar</string>
   <string name="at_least_one">Seleccionar pelo menos uma categoria</string>
   <string name="auto_interval">Automaticamente</string>
