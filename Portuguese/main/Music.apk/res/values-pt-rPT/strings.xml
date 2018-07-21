@@ -296,6 +296,9 @@
   <string name="global_search_title_radar">Reconhecimento de música</string>
   <string name="go_to_settings">Ir para definições</string>
   <string name="handle_later">Agora não</string>
+  <string name="headset_and_audio_effect_category">Auriculares e efeitos de áudio</string>
+  <string name="headset_and_audio_effect_summary">Auriculares e equalizador</string>
+  <string name="headset_and_audio_effect_title">Auriculares e efeitos de áudio</string>
   <string name="hide_album">Ocultar capa do álbum</string>
   <string name="hide_lyric">Ocultar letra</string>
   <string name="higher_quality_music">Música de alta qualidade</string>

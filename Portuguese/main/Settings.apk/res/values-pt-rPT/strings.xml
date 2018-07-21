@@ -1343,8 +1343,8 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="downloading_description">A transferir…</string>
   <string name="doze_summary">Activar o ecrã quando pega no dispositivo ou recebe notificações</string>
   <string name="doze_title">Visualização de ambiente</string>
-  <string name="draw_overlay">Sobrepor a outras aplicações</string>
-  <string name="draw_overlay_title">Aplicações que se podem sobrepor a outras aplicações</string>
+  <string name="draw_overlay">Sobreposição de aplicações</string>
+  <string name="draw_overlay_title">Aplicações que se podem sobrepor</string>
   <string name="dtmf_tone_enable_title">Tons de marcação</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
@@ -2672,7 +2672,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="other_relative">Outras</string>
   <string name="other_sound_settings">Outros sons</string>
   <string name="overlay_display_devices_title">Simular ecrãs secundários</string>
-  <string name="overlay_settings">Sobrepor a outras aplicações</string>
+  <string name="overlay_settings">Sobreposição a outras aplicações</string>
   <string name="owner_info_settings_edit_text_hint">Introduza o texto a apresentar no ecrã de bloqueio</string>
   <string name="owner_info_settings_summary">Nenhum</string>
   <string name="owner_info_settings_title">Mensagem no ecrã de bloqueio</string>
@@ -2772,6 +2772,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="physical_keyboard_title">Teclado físico</string>
   <string name="picture_color_mode">Modo de cor da imagem</string>
   <string name="picture_color_mode_desc">Utilizar sRGB</string>
+  <string name="pick_up_gesture_wakeup_title">Levantar dispositivo para ligar</string>
   <string name="picture_in_picture_app_detail_summary">Permitir que esta aplicação crie uma janela de ecrã no ecrã enquanto a aplicação está aberta ou depois de sair da mesma (por exemplo, para continuar a ver um vídeo). Esta janela é apresentada sobre as outras aplicações que estiver a utilizar</string>
   <string name="picture_in_picture_app_detail_switch">Permitir ecrã no ecrã</string>
   <string name="picture_in_picture_app_detail_title">Ecrã no ecrã</string>
@@ -3853,7 +3854,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_notification_led_custom">Personalizar cor</string>
   <string name="status_bar_settings_notification_priority">Prioridades</string>
   <string name="status_bar_settings_notification_priority_summary">Mostrar notificações no topo da lista</string>
-  <string name="status_bar_settings_notification_shade_shortcut">Atalho de notificações</string>
+  <string name="status_bar_settings_notification_shade_shortcut">Atalho nas notificações</string>
   <string name="status_bar_settings_notification_sound">Som</string>
   <string name="status_bar_settings_notification_sound_custom">Personalizar som</string>
   <string name="status_bar_settings_notification_vibrate">Vibração</string>
@@ -4093,11 +4094,11 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Apenas em Wi-Fi</string>
   <string name="system">Sistema</string>
-  <string name="system_alert_window_access_title">Sobrepor a outras aplicações</string>
+  <string name="system_alert_window_access_title">Sobreposição a outras aplicações</string>
   <string name="system_alert_window_apps_title">Aplicações</string>
   <string name="system_alert_window_off">Não</string>
   <string name="system_alert_window_on">Sim</string>
-  <string name="system_alert_window_settings">Sobrepor a outras aplicações</string>
+  <string name="system_alert_window_settings">Sobreposição a outras aplicações</string>
   <string name="system_alert_window_summary" formatted="false">%d de %d aplicações autorizadas a sobreporem-se a outras aplicações</string>
   <string name="system_and_device_section_title">Sistema e dispositivo</string>
   <string name="system_app_settings">Aplicações de sistema</string>
@@ -4320,7 +4321,7 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Definir um bloqueio de ecrã</string>
   <string name="unlock_setup_wizard_fingerprint_details">Assim que configurar um bloqueio de ecrã, também pode configurar a sua impressão digital em Definições &gt; Segurança</string>
-  <string name="unmute_sound_title">Restaurar som</string>
+  <string name="unmute_sound_title">Som de restauro do som</string>
   <string name="unmount_inform_text">O armazenamento USB vai ser desmontado</string>
   <string name="unrestrict_max_aspect_ratio_title">Estas aplicações estão optimizadas para o modo ecrã inteiro</string>
   <string name="untitled_apn">Sem título</string>
