@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accept">OK</string>
-  <string name="app_name">Serviço Xiaomi framework</string>
+  <string name="app_name">Serviços Xiaomi</string>
   <string name="error_device_id_message">"ID do dispositivo inválido: %s
 ID do dispositivo tem que ser um IMEI ou um endereço MAC válido. Sem o ID do dispositivo algumas funcionalidades da Conta Mi e da Mi Cloud vão estar indisponíveis"</string>
   <string name="error_device_id_title">Não é possível um ID de dispositivo válido</string>

@@ -57,15 +57,15 @@ Se o dispositivo tiver vários utilizadores, ao utilizar este atalho no ecrã de
   <string name="accessibility_power_button_ends_call_prerefence_title">Botão Ligar/Desligar termina chamada</string>
   <string name="accessibility_screen_magnification_enable">Gestos de ampliação</string>
   <string name="accessibility_screen_magnification_short_summary">Toque 3 vezes para utilizar o zoom</string>
-  <string name="accessibility_screen_magnification_summary"><b>Para utilizar o zoom</b>", toque rapidamente no ecrã três vezes.
-"<ul><li>Arraste dois ou mais dedos para se deslocar</li>"
-"<li>Junte dois ou mais dedos para ajustar o zoom</li></ul>"
+  <string name="accessibility_screen_magnification_summary">"<b>Para utilizar o zoom</b>, toque rapidamente no ecrã três vezes.
+<ul><li>Arraste dois ou mais dedos para se deslocar</li>
+<li>Junte dois ou mais dedos para ajustar o zoom</li></ul>
 
-"<b>Para utilizar o zoom temporariamente</b>", toque rapidamente no ecrã três vezes sem soltar ao terceiro toque.
-"<ul><li>Arraste para se mover no ecrã</li>"
-"<li>Levante o dedo para diminuir o zoom</li></ul>"
+<b>Para utilizar o zoom temporariamente</b>, toque rapidamente no ecrã três vezes sem soltar ao terceiro toque.
+<ul><li>Arraste para se mover no ecrã</li>
+<li>Levante o dedo para diminuir o zoom</li></ul>
 
-Não é possível utilizar o teclado ou a barra de navegação para aumentar o zoom."</string>
+Não é possível utilizar o teclado ou a barra de navegação para aumentar o zoom"</string>
   <string name="accessibility_screen_magnification_title">Gestos de ampliação</string>
   <string name="accessibility_service_default_description">Sem descrição fornecida</string>
   <string name="accessibility_services_title">Serviços</string>
@@ -2211,17 +2211,17 @@ Está actualmente com sessão iniciada nas seguintes contas:
   <string name="master_clear_apply_title">Atenção</string>
   <string name="master_clear_button_text">Repor telefone</string>
   <string name="master_clear_confirm_title">Repor telefone</string>
-  <string name="master_clear_desc">"Isto vai eliminar todos os dados da <b>memória interna</b>" do seu telefone, incluindo:
+  <string name="master_clear_desc">"Isto vai eliminar todos os dados da <b>memória interna</b> do seu telefone, incluindo:
 
-"<li>A sua conta do Google</li>"
-"<li>Sistema, dados de aplicações e definições</li>"
-"<li>Aplicações transferidas</li></string>
-  <string name="master_clear_desc_also_erases_external"><li>Música</li>"
-"<li>Fotos</li>"
-"<li>Outros dados do utilizador</li></string>
+<li>A sua conta do Google</li>
+<li>Sistema, dados de aplicações e definições</li>
+<li>Aplicações transferidas</li>"</string>
+  <string name="master_clear_desc_also_erases_external"><li>Música</li>
+<li>Fotos</li>"
+<li>Outros dados do utilizador</li></string>
   <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar músicas, imagens e outros dados de utilizador, o "<b>armazenamento USB</b> tem de ser eliminado</string>
+Para eliminar músicas, imagens e outros dados de utilizador, o <b>armazenamento USB</b> tem de ser eliminado"</string>
   <string name="master_clear_erase_application_progress">A eliminar aplicações…</string>
   <string name="master_clear_failed">Nenhum restauro foi executado porque o serviço System Clear não está disponível</string>
   <string name="master_clear_final_button_text">Eliminar tudo</string>
@@ -3050,6 +3050,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radio_info_call_status_label">Estado da chamada:</string>
   <string name="radio_info_cellinfo_label">Informação da célula:</string>
   <string name="radio_info_current_network_label">Rede actual:</string>
+  <string name="radio_info_data_connection_disable">Desactivar ligação de dados</string>
+  <string name="radio_info_data_connection_enable">Activar ligação de dados</string>
+  <string name="radio_info_data_network_type_label">Tipo de rede de dados:</string>
   <string name="radio_info_data_attempts_label">Tentativas de dados:</string>
   <string name="radio_info_data_successes_label">Dados a funcionar:</string>
   <string name="radio_info_dcrtinfo_label">DcRtInfo:</string>
@@ -3067,6 +3070,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radio_info_ppp_received_label">PPP recebido:</string>
   <string name="radio_info_ppp_resets_label">Restabelecer o número PPP desde o arranque:</string>
   <string name="radio_info_ppp_sent_label">PPP enviado:</string>
+  <string name="radio_info_radio_power">Rádio celular</string>
   <string name="radio_info_radio_resets_label">Redefinições de rádio:</string>
   <string name="radio_info_roaming_label">Roaming:</string>
   <string name="radio_info_set_perferred_label">Definir o tipo de rede preferida:</string>
@@ -3076,6 +3080,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="radio_info_smsc_refresh_label">Actualizar</string>
   <string name="radio_info_smsc_update_label">Actualizar</string>
   <string name="radio_info_toggle_dns_check_label">Alternar selecção DNS</string>
+  <string name="radio_info_voice_network_type_label">Tipo de rede de voz:</string>
   <string name="rank_title">Classificações</string>
   <string name="rarely_running">Raramente em execução (%s)</string>
   <string name="really_remove_account_message">Ao remover esta conta vai eliminar todas as suas mensagens, contactos e outros dados do telefone!</string>
@@ -4562,8 +4567,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="voice_recognizer_preference_summary">Serviço simples de voz para texto</string>
   <string name="voice_search_settings_title">Pesquisa por voz</string>
   <string name="voice_service_preference_section_title">Serviços de entrada de texto por voz</string>
-  <string name="volte_provisioned_flag_off">Desligar sinalizador fornecido VoLTE</string>
-  <string name="volte_provisioned_flag_on">Ligar sinalizador fornecido VoLTE</string>
+  <string name="volte_provisioned_switch_string">Sinalizador VoLTE</string>
   <string name="volume_alarm_description">Alarmes</string>
   <string name="volume_alarm_mute">Silenciar alarmes</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
