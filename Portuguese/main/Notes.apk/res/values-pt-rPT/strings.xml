@@ -126,7 +126,6 @@
   <string name="note_sort_way">Ordenar por</string>
   <string name="notealert_enter">Abrir nota</string>
   <string name="notealert_ok">Rejeitar</string>
-  <string name="notelist_string_info">…</string>
   <string name="notify_alarm_title">Lembrete de nota</string>
   <string name="permdesc_accessNote">Aplicações maliciosas podem utilizar esta funcionalidade para aceder aos seus dados pessoais</string>
   <string name="permlab_accessNote">Aceder a notas</string>
@@ -222,9 +221,6 @@
   <string name="trash_folder_reminder">As notas que eliminar vão ser eliminadas de vez em 30 dias</string>
   <string name="undo">Anular</string>
   <string name="unknown_source">Fonte desconhecida</string>
-  <string name="welcome_note_for_cm">"E mais grandes funcionalidades!
-    - Sincronizar com a Mi Cloud
-    - Definir lembretes"</string>
   <string name="widget_content_loading">Aguarde…</string>
   <string name="widget_havenot_content">Toque para criar uma nota. Segure no widget para redimensionar</string>
 </resources>

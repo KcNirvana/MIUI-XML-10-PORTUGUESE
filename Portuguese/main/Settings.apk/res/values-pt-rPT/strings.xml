@@ -820,7 +820,6 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="cancel_action">Cancelar</string>
   <string name="cancel_alert">Rejeitar as suas alterações?</string>
   <string name="cancel_button">Cancelar</string>
-  <string name="cancel_description">Cancelar</string>
   <string name="cancel_download_buton_text">Cancelar</string>
   <string name="cant_sync_dialog_message">A sincronização para este item está desligada. Para alterar esta definição, active temporariamente os dados em segundo plano e a sincronização automática</string>
   <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
@@ -918,7 +917,6 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="configure_input_method">Configurar métodos de entrada</string>
   <string name="confirm_action">OK</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Adicionar Conta Mi</string>
-  <string name="confirm_description">Confirmar</string>
   <string name="confirm_download_cancelation_dialog_message">Cancelar transferência?</string>
   <string name="confirm_enable_multi_window_text">AVISO: esta é uma funcionalidade altamente experimental que permite múltiplas actividades no ecrã ao mesmo tempo através da IU de Aplicações recentes. Algumas aplicações podem falhar ou não funcionar correctamente quando utilizadas com esta funcionalidade</string>
   <string name="confirm_enable_multi_window_title">Activar o modo multi-janelas?</string>
@@ -4170,6 +4168,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
   <string name="total">Não incomodar</string>
   <string name="total_info">Silenciar sons e desligar vibração excepto para os alarmes</string>
+  <string name="total_info_no_vibrator">Silenciar sons excepto para os alarmes</string>
   <string name="total_memory">Memória total</string>
   <string name="total_size">Total: %s</string>
   <string name="total_size_label">Total</string>

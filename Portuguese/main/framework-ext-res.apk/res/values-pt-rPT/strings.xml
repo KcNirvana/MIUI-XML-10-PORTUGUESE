@@ -169,6 +169,11 @@
   <string name="twohours">1 hora</string>
   <string name="unknown_caller">Número privado</string>
   <string name="user_switching_dialog_text">A trocar…</string>
+  <string name="voice_begin">Do que é que está à procura?</string>
+  <string name="voice_button_action_down">Solte para pesquisar</string>
+  <string name="voice_button_action_up">Prima para falar</string>
+  <string name="voice_input_error_network">Não foi possível ligar à rede. Verifique as suas definições e tente novamente</string>
+  <string name="voice_input_error_other">Ocorreu um erro. Aguarde um momento e tente novamente</string>
   <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Finão tem acesso à Internet</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicação</string>

@@ -153,6 +153,7 @@
   <string name="accessibility_quick_settings_airplane_off">Modo Avião desligado</string>
   <string name="accessibility_quick_settings_airplane_on">Modo Avião ligado</string>
   <string name="accessibility_quick_settings_alarm">Alarme definido para %s</string>
+  <string name="accessibility_quick_settings_alarm_on">Alarme ligado</string>
   <string name="accessibility_quick_settings_alarm_set">Alarme definido</string>
   <string name="accessibility_quick_settings_battery">Bateria %s</string>
   <string name="accessibility_quick_settings_bluetooth">Bluetooth</string>
@@ -160,6 +161,7 @@
   <string name="accessibility_quick_settings_bluetooth_changed_on">O Bluetooth foi ligado</string>
   <string name="accessibility_quick_settings_bluetooth_connected">Bluetooth ligado</string>
   <string name="accessibility_quick_settings_bluetooth_connecting">Bluetooth a ligar</string>
+  <string name="accessibility_quick_settings_bluetooth_handsfree_battery_level">Bateria do dispositivo Bluetooth a %d porcento</string>
   <string name="accessibility_quick_settings_bluetooth_off">Bluetooth desligado</string>
   <string name="accessibility_quick_settings_bluetooth_on">Bluetooth ligado</string>
   <string name="accessibility_quick_settings_close">Fechar painel</string>
@@ -847,8 +849,8 @@ Tente novamente dentro de %d segundos"</string>
   <string name="miui_guide_dialog_button_positive_text">Percebi</string>
   <string name="miui_guide_dialog_message">Os sons multimédia (música, vídeos, etc.) ainda vão ser reproduzido no modo Silêncio. Pode alterar isto nas Definições</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
-  <string name="miui_ringer_count_down">Contagem</string>
-  <string name="miui_ringer_count_down_time">Contagem: %s</string>
+  <string name="miui_ringer_count_down">Duração</string>
+  <string name="miui_ringer_count_down_time">Duração: %s</string>
   <string name="miui_ringer_standard">Silêncio</string>
   <string name="miui_ringer_standard_description">Silenciar os toques de chamadas e notificações</string>
   <string name="miui_ringer_total">Não incomodar</string>

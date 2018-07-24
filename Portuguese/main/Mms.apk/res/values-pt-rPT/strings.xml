@@ -365,11 +365,18 @@
   <string name="no_subject_view">(Sem assunto)</string>
   <string name="non_english_subject_limit">Limite de 13 caracteres</string>
   <string name="nosend_message">Não enviar</string>
-  <string name="notification_channel_description">Notificações de Mensagens</string>
-  <string name="notification_channel_name">Mensagens</string>
+  <string name="notification_channel_msg_description">Notificação de mensagem</string>
+  <string name="notification_channel_msg_name">Mensagem</string>
+  <string name="notification_channel_other_description">Notificação de outros</string>
+  <string name="notification_channel_other_name">Outros</string>
+  <string name="notification_channel_sim1_description">Notificação de mensagem do SIM1</string>
+  <string name="notification_channel_sim1_name">Mensagem do SIM1</string>
+  <string name="notification_channel_sim2_description">Notificação de mensagem do SIM2</string>
+  <string name="notification_channel_sim2_name">Mensagem do SIM2</string>
   <string name="notification_copy">Copiar OTP</string>
   <string name="notification_failed_multiple">%s mensagens não puderam ser enviadas</string>
   <string name="notification_failed_multiple_title">Mensagens não enviadas</string>
+  <string name="notification_group_name">Mensagens</string>
   <string name="notification_multiple">"[%s] "</string>
   <string name="notification_multiple_title">Novas mensagens</string>
   <string name="number_add_hint">Inserir número de telefone</string>
@@ -658,6 +665,7 @@ Tentativas efectuadas: %s"</string>
   <string name="unstick">Soltar</string>
   <string name="unstick_conversation">Soltar a conversa actual</string>
   <string name="unsticked_conversation">Já soltou a conversa actual</string>
+  <string name="unsubscribe">Cancelar subscrição</string>
   <string name="unsupported_media_format">Formato %1$s não suportado</string>
   <string name="url_fraud_dangerous_alert">"O Website que está a tentar visitar pode ser perigoso. Pode danificar o seu dispositivo. Visitar mesmo assim? 
 %s"</string>
