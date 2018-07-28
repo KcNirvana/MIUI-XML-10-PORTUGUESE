@@ -157,7 +157,6 @@ se rodar o seu telefone"</string>
   <string name="hint_ae_af_lock">Focagem / Exposição auto foram bloqueadas</string>
   <string name="hine_hht">"Com luz fraca, a câmara vai tirar várias fotos
 e criar uma com o mínimo de ruído"</string>
-  <string name="hint_ae_af_lock">O foco e a exposição auto foi bloqueada</string>
   <string name="hint_device_water_mark">A data e hora vão ser adicionadas automaticamente</string>
   <string name="hint_fast_motion">O vídeo que gravar vai ser reproduzido mais rápido</string>
   <string name="hint_groupshot">"A câmara vai tirar várias fotos
@@ -304,10 +303,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_front_ai_scene_entry_on">Câmara IA</string>
   <string name="pref_camera_front_bokeh_entry_off">Desligada</string>
   <string name="pref_camera_front_bokeh_entry_on">Ligada</string>
-  <string name="pref_camera_front_bokeh_entry_off">Desligado</string>
-  <string name="pref_camera_front_bokeh_entry_on">Ligado</string>
   <string name="pref_camera_gradienter_title">Endireitar</string>
-  <string name="pref_camera_groupshot_mode_title">Selfie de Grupo</string>
+  <string name="pref_camera_groupshot_mode_title">Selfie de grupo</string>
   <string name="pref_camera_hand_night_title">Nocturno</string>
   <string name="pref_camera_hdr_entry_off">Deslig.</string>
   <string name="pref_camera_hfr_entry_off">Deslig.</string>
