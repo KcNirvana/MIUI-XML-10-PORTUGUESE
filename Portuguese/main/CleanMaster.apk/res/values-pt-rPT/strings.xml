@@ -120,7 +120,7 @@
   <string name="deep_clean_completed_tips">Limpo com sucesso</string>
   <string name="deep_clean_data_path_clean_title">Limpar cache</string>
   <string name="deep_clean_uninstall_completed_tips">Desinstalado com sucesso</string>
-  <string name="deepclean_1_k_clean">Limpeza rápida</string>
+  <string name="deepclean_1_k_clean">Limpar memória</string>
   <string name="deepclean_apk_content">Eliminar APKs ou aplicações desnecessárias</string>
   <string name="deepclean_apk_summary_empty">Verificação concluída. Sem APKs para eliminar</string>
   <string name="deepclean_apk_version_error">Desconhecido</string>

@@ -59,6 +59,8 @@
   <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) do dispositivo</string>
   <string name="dialog_confirm_delete_downloads_message">Eliminar %d transferências?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Eliminar esta(s) transferência(s)?</string>
+  <string name="dialog_content_limit0">Restringido</string>
+  <string name="dialog_content_limit_max">Ilimitado</string>
   <string name="dialog_failed_body">Quer voltar a transferir o ficheiro mais tarde ou eliminá-lo das transferências pendentes?</string>
   <string name="dialog_file_already_exists">Não é possível transferir. O ficheiro de destino já existe</string>
   <string name="dialog_file_missing_body">O ficheiro transferido não foi encontrado</string>
@@ -69,6 +71,10 @@
   <string name="dialog_msg_disabled_net">%1$s transferências restritas na rede actual. Toque nas definições de rede para ir para a aplicação de Segurança</string>
   <string name="dialog_msg_recommend">Não vai poder ver anúncios depois de desligar</string>
   <string name="dialog_queued_body">Este ficheiro foi adicionado à lista de transferências pendentes</string>
+  <string name="dialog_speed_cancel">Cancelar</string>
+  <string name="dialog_speed_msg">Utilizar dados móveis para testar a rede pode consumir bastante dados. Continuar mesmo assim?</string>
+  <string name="dialog_speed_ok">Continuar</string>
+  <string name="dialog_speed_title">Aviso de utilização de dados</string>
   <string name="dialog_title_disabled_net">Acesso à Internet</string>
   <string name="dialog_title_not_available">A transferência falhou</string>
   <string name="dialog_title_queued_body">O ficheiro ainda não está disponível</string>
@@ -93,8 +99,8 @@
   <string name="download_list_get_hightspeed_flow_pay_ok">Pagamento concluído</string>
   <string name="download_list_get_hightspeed_flow_sucess_head">Sessão de teste gratuito Xunlei criado</string>
   <string name="download_list_get_hightspeed_flow_sucess_tail">Obtenha velocidades de transferências optimizadas com Xunlei</string>
-  <string name="download_list_intoAuth">Verifique a sua Conta</string>
-  <string name="download_list_intoAuthAlert">A carregar</string>
+  <string name="download_list_intoAuth">Verifique a sua conta</string>
+  <string name="download_list_intoAuthAlert">Aguarde…</string>
   <string name="download_list_open_xl_cancel">Cancelar</string>
   <string name="download_list_open_xl_message">Acelerador Xunlei vai optimizar a velocidade das transferências</string>
   <string name="download_list_open_xl_ok">OK</string>
@@ -230,9 +236,9 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="paused_waiting_for_network">A aguardar por rede</string>
   <string name="paused_waiting_to_retry">A aguardar para repetir</string>
   <string name="period_of_validity">Validade:</string>
-  <string name="pref_download_revert_default">Predefinido</string>
-  <string name="pref_download_settings_title">Limite do tamanho de transferências</string>
-  <string name="pref_download_storage_path">Criar uma nova pasta para transferências</string>
+  <string name="pref_download_revert_default">Guardar na localização predefinida</string>
+  <string name="pref_download_settings_title">Limite de transferências em dados móveis</string>
+  <string name="pref_download_storage_path">Guardar numa localização personalizada</string>
   <string name="pref_sniff_shortcut">Criar atalho no ecrã inicial para a pesquisa web</string>
   <string name="pref_summary_any_bytes_popup">Aguardar sempre por uma ligação Wi-Fi para transferir ficheiros</string>
   <string name="pref_summary_enable_max_bytes_popup">Mostrar notificação quando utilizar ligação de dados móveis para transferir conteúdo</string>

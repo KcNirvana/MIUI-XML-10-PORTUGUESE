@@ -850,7 +850,6 @@ Tente novamente dentro de %d segundos"</string>
   <string name="miui_guide_dialog_message">Os sons multimédia (música, vídeos, etc.) ainda vão ser reproduzido no modo Silêncio. Pode alterar isto nas Definições</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
   <string name="miui_ringer_count_down">Duração</string>
-  <string name="miui_ringer_count_down_time">Duração: %s</string>
   <string name="miui_ringer_standard">Silêncio</string>
   <string name="miui_ringer_standard_description">Silenciar os toques de chamadas e notificações</string>
   <string name="miui_ringer_total">Não incomodar</string>
