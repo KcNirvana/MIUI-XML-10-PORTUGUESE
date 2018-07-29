@@ -171,6 +171,7 @@
   <string name="high_speed_tryout_speedup_confirm">A preparar para optimizar a velocidade…</string>
   <string name="high_speed_tryout_time">Tempo gratuito restante: %1$s. Torne-se um membro Xunlei</string>
   <string name="hint">Atenção</string>
+  <string name="home_page_new_download_guide">Novas transferências</string>
   <string name="immediately_a_renewal">Renovar agora</string>
   <string name="info_flow_only_load_wifi">Carregar anúncios quando ligado ao Wi-Fi</string>
   <string name="info_flow_setting">Definições</string>
@@ -274,7 +275,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="retry_download">Repetir</string>
   <string name="revert_default">Restaurar as definições predefinidas</string>
   <string name="revert_download_path">Utilizar a localização das transferências predefinida?</string>
-  <string name="save_path">"Guardar transferências para: "</string>
+  <string name="save_path">"Guardar transferências em: "</string>
   <string name="save_text">Poupar ￥%1$s</string>
   <string name="search_clear_history_btn">Limpar histórico de pesquisa</string>
   <string name="search_clear_history_toast">Histórico limpo</string>

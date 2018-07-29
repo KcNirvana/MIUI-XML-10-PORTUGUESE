@@ -1455,7 +1455,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="eq_preset_rename">Mudar o nome</string>
   <string name="eq_preset_select">Escolher uma predefinição</string>
   <string name="eq_rock">Rock</string>
-  <string name="equalizer">Equalizer</string>
+  <string name="equalizer">Equalizador</string>
   <string name="enterprise_privacy_always_on_vpn_device">A opção VPN sempre ligada está activada</string>
   <string name="enterprise_privacy_always_on_vpn_personal">A opção VPN sempre ligada está activada no seu perfil pessoal</string>
   <string name="enterprise_privacy_always_on_vpn_work">A opção VPN sempre ligada está activada no seu perfil de trabalho</string>
