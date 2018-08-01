@@ -105,6 +105,9 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="activate_status_title_activating_msim">A activar cartão SIM %d</string>
   <string name="agree">Permitir</string>
   <string name="app_name">Serviço Activação SIM</string>
+  <string name="checking_client">A verificar o ambiente de activação</string>
+  <string name="error_checking_client">Ocorreu um erro durante a activação</string>
+  <string name="error_sim_not_in_service">Não é possível activar o cartão SIM. Certifique-se que tem saldo suficiente</string>
   <string name="explain_send_sms_permission_button">Verificar</string>
   <string name="explain_send_sms_permission_msg">Para ligar a %s, o Serviço Framework Xiaomi vai enviar uma SMS para verificar o seu número de telefone. Esta SMS vai ser cobrada pela sua operadora</string>
   <string name="explain_send_sms_permission_title">Verificar o seu número de telefone</string>
@@ -117,4 +120,5 @@ Introduza o número de telefone associado com o seu novo cartão SIM para reacti
   <string name="privacy_revoke_failed_msg">AA activação necessita de autorização para que as Mensagens possam obter o seu número de telefone</string>
   <string name="privacy_revoke_tips">Após revogar a autorização, a aplicação vai parar de reunir dados e eliminar todos os seus dados dos servidores. Revogar a autorização mesmo assim?</string>
   <string name="sim_unactivated_title">O seu cartão SIM não está activado</string>
+  <string name="waiting_sim_in_service">A aguardar pela activação do SIM</string>
 </resources>

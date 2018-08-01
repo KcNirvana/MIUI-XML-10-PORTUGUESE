@@ -269,7 +269,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="app_list_memory_use">Utilização da aplicação</string>
   <string name="app_list_preference_none">Nenhuma</string>
   <string name="app_memory_use">Memória utilizada</string>
-  <string name="app_mobile">Móvel</string>
+  <string name="app_mobile">Dados móveis</string>
   <string name="app_name_label">Aplicação</string>
   <string name="app_name_na">Utilização de dados</string>
   <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas</string>
@@ -322,7 +322,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="apply_now_button_text">Actualizar</string>
   <string name="apply_password_to_category_title">Desbloqueio necessário</string>
   <string name="apply_update_fail">Erro na actualização</string>
-  <string name="approve_title">Verificação</string>
+  <string name="approve_title">Certificação</string>
   <string name="apps_storage">Armazenamento de aplicações</string>
   <string name="apps_with_restrictions_header">Aplicações com restrições</string>
   <string name="apps_with_restrictions_settings_button">Expandir as definições para aplicação</string>
@@ -2369,6 +2369,9 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_lab_features">Funcões experimentais MIUI</string>
   <string name="miui_lab_gallery_search_desc">Pesquisa de imagens melhorada</string>
   <string name="miui_lab_gallery_search_title">Encontrar fotos na Galeria</string>
+  <string name="miui_lab_install_drive_mode_error">Não foi possível instalar. Tente novamente</string>
+  <string name="miui_lab_install_drive_mode_summary">O Modo Condução é uma aplicação de sistema. A instalação não necessita duma ligação à Internet</string>
+  <string name="miui_lab_install_drive_mode_title">Instalar Modo Condução</string>
   <string name="miui_lab_settings">Laboratório MIUI</string>
   <string name="miui_lab_slogan">Aprender. Explorar. Descobrir.</string>
   <string name="miui_lab_super_resolution_title">Super resolução</string>
@@ -3795,7 +3798,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sound_settings">Som</string>
   <string name="sound_settings_example_summary">Volume do toque a 80%</string>
   <string name="sound_settings_summary">Volume do toque a %1$s</string>
-  <string name="sound_stereo_mode_summary">Apenas disponível com som no altifalante</string>
+  <string name="sound_stereo_mode_summary">Apenas funciona com o altifalante</string>
   <string name="sound_stereo_mode_title">Som estéreo</string>
   <string name="sound_vibrate_settings">Sons e vibração</string>
   <string name="spellchecker_language">Idioma</string>
@@ -4659,7 +4662,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wapi_no">Não</string>
   <string name="wapi_no_vaild_cert">Sem certificados disponíveis. Instalar agora?</string>
   <string name="wapi_password_empty">Introduza uma palavra-passe</string>
-  <string name="wapi_password_hex_format_invalid">Caracteres hexadecimais inválidos</string>
+  <string name="wapi_password_hex_format_invalid">Formato de palavra-passe inválido</string>
   <string name="wapi_password_hex_length_invalid">A contagem de caracteres hexadecimais tem de ser par</string>
   <string name="wapi_password_length_invalid">A palavra-passe tem de ter entre 8 e 64 caracteres</string>
   <string name="wapi_psk_type">Tipo de palavra-passe</string>

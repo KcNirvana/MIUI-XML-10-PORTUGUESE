@@ -28,18 +28,6 @@
         <item quantity="other">Código PUK incorrecto. Tem %d tentativas restantes</item>
         <item quantity="one">Código PUK incorrecto. Tem %d tentativas restante</item>
     </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
-        <item quantity="other">%d horas até estar carregada</item>
-        <item quantity="one">%d hora até estar carregada</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
-        <item quantity="other">%d minutos até estar carregada​</item>
-        <item quantity="one">%d minuto até estar carregada​</item>
-    </plurals>
-    <plurals name="keyguard_charging_info_charging_full_need_time__text">
-        <item quantity="other">%1$d h e %2$d m até estar carregada​</item>
-        <item quantity="one">%1$d h e %2$d m até estar carregada</item>
-    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">%d horas restantes</item>
         <item quantity="one">%d hora restantes</item>

@@ -601,6 +601,7 @@ Assim que o telefone tiver arrefecido, vai funcionar normalmente"</string>
   <string name="incorrect_pukcode">Código PUK incorrecto</string>
   <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua palavra-passe</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de espaços durante uma chamada</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Não é possível trocar de espaços quando os controlos parentais estão ligados</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">É necessário introduzir a palavra-passe do Primeiro espaço depois do dispositivo ser reiniciado</string>
   <string name="input_password_handle_sdcard_fs">Não é possível entrar no Segundo espaço através do ecrã de bloqueio. Entre pelo Primeiro espaço</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
@@ -820,7 +821,6 @@ Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_unlock_left">O atalho esquerdo também desbloqueia</string>
   <string name="lockscreen_unlock_right">O atalho direito também desbloqueia</string>
   <string name="lockscreen_sim_error_message_short">Cartão inválido</string>
-  <string name="lockscreen_storage_locked">Desbloquear todos os dados e funcionalidades</string>
   <string name="long_screenshot_not_support_msg">A aplicação actual não suporta as capturas de ecrã extensas</string>
   <string name="long_screenshot_out_of_memory_error">A imagem é demasiado grande</string>
   <string name="long_screenshot_processing">A processar…</string>

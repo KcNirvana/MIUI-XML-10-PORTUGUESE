@@ -194,6 +194,8 @@
   <string name="select_sim_hint">Não é possível utilizar SIM %2$d, enquanto SIM %1$d estiver em utilização</string>
   <string name="select_voice_call_sim">Escolher cartão SIM</string>
   <string name="separate_from_conference">Separar chamada</string>
+  <string name="sim1_description">SIM 1</string>
+  <string name="sim2_description">SIM 2</string>
   <string name="sip_call_not_support_record">Não é possível gravar chamadas SIP</string>
   <string name="suspect_info">Tenha cuidado com as suas informações pessoais</string>
   <string name="unknown">Desconhecido</string>

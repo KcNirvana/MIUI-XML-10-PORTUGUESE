@@ -630,7 +630,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="mmiCancelled">Código MMI cancelado</string>
   <string name="mmiStarted">Código MMI iniciado</string>
   <string name="mobile_network_settings_not_available">As definições de rede móvel não estão disponíveis para este utilizador</string>
-  <string name="mobile_networks">Redes móveis</string>
+  <string name="mobile_networks">Definições de redes móveis</string>
   <string name="modem_dialog_body">A rede móvel está instável e a causar interrupções ou problemas de rede. Enviar o relatório do erro para a Mi para análise?</string>
   <string name="modem_dialog_title">Rede móvel instável</string>
   <string name="msim_apn_not_set">Não definido</string>

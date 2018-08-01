@@ -1221,7 +1221,7 @@ Pretende fechá-la?"</string>
   <string name="wifi_connect_alert_message">A aplicação %1$s pretende ligar à rede Wi-Fi %2$s</string>
   <string name="wifi_connect_alert_title">Permitir ligação?</string>
   <string name="wifi_connect_default_application">Uma aplicação</string>
-  <string name="wifi_no_internet">O Wi-Fi não tem acesso à Internet</string>
+  <string name="wifi_no_internet">Esta rede Wi-Fi não tem acesso à Internet</string>
   <string name="wifi_no_internet_detailed">Toque para ver opções</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Directo</string>
   <string name="wifi_p2p_enabled_notification_message">Toque para aceder às definições</string>

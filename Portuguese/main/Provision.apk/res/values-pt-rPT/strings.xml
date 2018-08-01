@@ -78,10 +78,11 @@ Ver Política de Privacidade do teclado seleccionado"</string>
   <string name="terms_of_use">Termos de Serviço</string>
   <string name="terms_of_use_label">"A sua privacidade é muito importante para nós. Leia os nossos Termos de Serviço e Política de Privacidade para compreender quais as informações que recolhemos, como as utilizamos e que opções estão disponíveis para si.
 
-Deve concordar com os Termos do nosso Serviço e Política de Privacidade antes de utilizar a MIUI. Os serviços Mi vão ligar à Internet e adquirir a sua localização"</string>
-  <string name="terms_of_use_label_gms">"A sua privacidade é muito importante para nós. Leia os nossos Termos de Serviço e Política de Privacidade para compreender quais as informações que recolhemos, como as utilizamos e que opções estão disponíveis para si.
-
-Deve concordar com os Termos do nosso Serviço e Política de Privacidade antes de utilizar a MIUI. Os serviços Mi vão ligar à Internet e adquirir a sua localização"</string>
+Tem de concordar com os nossos Termos de Serviço e Política de Privacidade antes de utilizar a MIUI. %s e a Conta Mi vão ligar à Internet e adquirir a sua localização"</string>
+  <string name="terms_of_use_label_systemhelper">, serviço de auto-registo</string>
+  <string name="terms_of_use_lable_apps">Serviços Mi, serviços de activação do SIM, Mi Cloud, Localizar Dispositivo, etc.</string>
+  <string name="terms_of_use_lable_gms">, serviços Google Play </string>
+  <string name="terms_of_use_lable_smart_cards">, Smart cards</string>
   <string name="title_fingerprint">Definir palavra-passe</string>
   <string name="user_agreement">Termos de Serviço</string>
   <string name="voice_assist_desp">Diga \"Mi AI\" para o seu telefone. Mi AI vai reconhecer a sua voz e vai poder controlar o seu dispositivo</string>

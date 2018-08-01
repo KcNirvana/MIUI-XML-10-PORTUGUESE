@@ -113,11 +113,11 @@
   <string name="minute">1 minuto</string>
   <string name="minutes">%d minutos</string>
   <string name="module_download_cancel">Não, obrigado</string>
-  <string name="module_download_data_msg">O Relógio necessita de ligar à Internet para transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes Está a utilizar dados móveis. Permitir?</string>
-  <string name="module_download_data_msg_golbal">O Relógio necessita de transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes Está a utilizar dados móveis. Permitir?</string>
+  <string name="module_download_data_msg">O Relógio necessita de ligar à Internet para transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes. Está a utilizar dados móveis. Permitir?</string>
+  <string name="module_download_data_msg_golbal">O Relógio necessita de transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes. Está a utilizar dados móveis. Permitir?</string>
   <string name="module_download_fail">Não foi possível transferir áudios adicionais</string>
-  <string name="module_download_msg">O Relógio necessita de ligar à Internet para transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes Está a utilizar dados móveis. Permitir?</string>
-  <string name="module_download_msg_golbal">O Relógio necessita de transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes Está a utilizar dados móveis. Permitir?</string>
+  <string name="module_download_msg">O Relógio necessita de ligar à Internet para transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes. Permitir?</string>
+  <string name="module_download_msg_golbal">O Relógio necessita de transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes. Permitir?</string>
   <string name="module_download_no_network">Não foi possível ligar à rede. Verifique as definições de rede e tente novamente</string>
   <string name="module_download_ok">Permitir</string>
   <string name="module_download_success">Áudios adicionais transferidos com sucesso</string>

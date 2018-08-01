@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_hide_mode">Acerca de poupança de bateria</string>
+  <string name="active_classify">Ordenar por estado de actividade</string>
   <string name="app_list_title">Escolher aplicações</string>
   <string name="app_name">Bateria e desempenho</string>
   <string name="app_preload_policies_summary">Utilize a IA para prever as aplicações que vai utilizar e carregar recursos para melhorar o início das mesmas</string>
   <string name="app_preload_policies_title">Pré-carregamento IA</string>
+  <string name="appconfig_active_app_dialog_title">Gerir aplicações activas</string>
   <string name="base_info">Informação de base</string>
   <string name="cloud_addr_info">Informação da nuvem</string>
   <string name="cloud_china_addr">Actualizar dados do servidor chinês</string>
   <string name="cloud_international_addr">Actualizar dados do servidor internacional</string>
   <string name="cloud_staging_addr">Actualizar dados do servidor desenvolvimento</string>
+  <string name="config_classify">Ordenar por definições da aplicação</string>
   <string name="config_description">A MIUI consegue identificar as aplicações com processos em segundo plano (p.e. aplicações de mensagens e navegação, leitores de música) e poupar bateria de modo a que não influencie as actividades mais importantes em segundo plano</string>
   <string name="config_mode_title">Definições de segundo plano</string>
   <string name="config_no_restrict_description">A poupança de bateria não vai restringir a actividade das aplicações</string>
