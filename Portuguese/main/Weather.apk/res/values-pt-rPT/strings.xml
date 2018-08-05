@@ -93,7 +93,6 @@
   <string name="daily_forecast_no_data">"Não foi possível obter informação do tempo.
  Puxe para actualizar ou verifique as definições de rede"</string>
   <string name="data_provided_by"/>
-  <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Gerir alertas</string>
   <string name="edit_city">Gerir localizações</string>
   <string name="eu_region_version_first_start_network_msg">Ao utilizar este produto, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao tocar em \"Concordar\", concorda com %1$s e %2$s da Xiaomi</string>
