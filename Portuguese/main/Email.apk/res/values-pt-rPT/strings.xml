@@ -794,11 +794,8 @@
   <string name="preview_attachment">Pré-visualizar</string>
   <string name="previous_action">Voltar</string>
   <string name="print">Imprimir</string>
+  <string name="privacy_policy">Política de Privacidade</string>
   <string name="prompt_title">Perguntar</string>
-  <string name="protocol_eas">eas</string>
-  <string name="protocol_imap">imap</string>
-  <string name="protocol_legacy_imap">imap</string>
-  <string name="protocol_pop3">pop3</string>
   <string name="protocol_setting_toast">Toque no canto superior direito para ir às definições depois de concordar</string>
   <string name="pull_to_refresh">Puxe para actualizar</string>
   <string name="push_wps_better_confirm_download">Transferir</string>

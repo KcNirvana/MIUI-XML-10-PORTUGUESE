@@ -1226,9 +1226,9 @@ para personalizar a galeria"</string>
   <string name="video_editor_smart_effect_radical">Upbeat</string>
   <string name="video_editor_smart_effect_rhythm">Pulsação</string>
   <string name="video_editor_smart_effect_street">Cidade</string>
-  <string name="video_editor_smart_effect_time_limit_txt_40">Pode aplicar este efeito em vídeos com duração até 40 segundos</string>
+  <string name="video_editor_smart_effect_time_limit_txt_40">Este efeito pode ser aplicado a vídeos com duração até 40 segundos</string>
   <string name="video_editor_smart_effect_time_limit_txt_6">Pode aplicar este efeito em vídeos com duração de pelo menos 6 segundos</string>
-  <string name="video_editor_smart_effect_time_limit_txt_60">Pode aplicar este efeito em vídeos com duração até 60 segundos</string>
+  <string name="video_editor_smart_effect_time_limit_txt_60">Este efeito pode ser aplicado a vídeos com duração até 60 segundos</string>
   <string name="video_editor_template_family">Família</string>
   <string name="video_editor_template_forbidden_tips">Não é possível fazer isto quando estiver a utilizar um template</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
@@ -1248,7 +1248,7 @@ para personalizar a galeria"</string>
   <string name="video_editor_unsupport_audio_file">Ficheiro de áudio não suportado</string>
   <string name="video_editor_unzip_file_fail">Não foi possível descompactar o vídeo</string>
   <string name="video_editor_video_is_short">Não é possível editar este vídeo</string>
-  <string name="video_editor_video_loading">A preparar vídeos. Aguarde um momento e tente novamente</string>
+  <string name="video_editor_video_loading">A preparar vídeos… Aguarde um momento e tente novamente</string>
   <string name="video_editor_watermark">"Marca d'água"</string>
   <string name="video_err">Não é possível reproduzir o vídeo</string>
   <string name="video_not_exist">O vídeo não existe</string>

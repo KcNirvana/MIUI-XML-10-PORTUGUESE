@@ -702,7 +702,7 @@ Contacte o seu fornecedor de serviços de rede sem fios para obter outro cartão
   <string name="keyguard_sim_unlock_progress_dialog_message">A desbloquear o cartão SIM…</string>
   <string name="keyguard_torch_cover_text">Para deixar a lanterna ligada mantenha premido o botão Ligar/Desligar</string>
   <string name="keyguard_unlock">Deslizar para cima para desbloquear</string>
-  <string name="kg_enter_confirm_pin_hint">Confirme o código PIN pretendido</string>
+  <string name="kg_enter_confirm_pin_hint">Confirme o novo código PIN</string>
   <string name="kg_failed_attempts_almost_at_erase_profile">Tentou desbloquear incorrectamente o telefone %1$d vezes. Após mais %2$d tentativas sem sucesso, o perfil de trabalho vai ser removido e vai eliminar todos os dados do mesmo</string>
   <string name="kg_failed_attempts_almost_at_erase_user">Tentou desbloquear incorrectamente o telefone %1$d vezes. Após mais %2$d tentativas sem sucesso, este utilizador vai ser removido e vai eliminar todos os dados do mesmo</string>
   <string name="kg_failed_attempts_almost_at_login">"Desenhou o padrão de desbloqueio incorrectamente %1$d vezes. Após mais %2$d tentativas sem sucesso, vai ser pedido para desbloquear o telefone através de uma conta de email.
@@ -714,13 +714,13 @@ Tente novamente dentro de %3$d segundos"</string>
   <string name="kg_failed_attempts_now_wiping">Tentou desbloquear incorrectamente o telefone %d vezes. Este telefone vai ser reposto e vai eliminar todos os dados do mesmo</string>
   <string name="kg_forgot_pattern_button_text">Esqueceu-se do padrão</string>
   <string name="kg_invalid_confirm_pin_hint">Os códigos PIN não coincidem</string>
-  <string name="kg_invalid_puk">Volte a introduzir o código PUK correto. Demasiadas tentativas consecutivas vão desactivar permanentemente o cartão SIM</string>
+  <string name="kg_invalid_puk">Introduza o código PUK correto novamente. Demasiadas tentativas consecutivas vão desactivar permanentemente o cartão SIM</string>
   <string name="kg_invalid_sim_pin_hint">Introduza um PIN com 4 a 8 números</string>
   <string name="kg_invalid_sim_puk_hint">O código PUK deve ter 8 ou mais números</string>
   <string name="kg_login_too_many_attempts">Demasiadas tentativas para desenhar o padrão</string>
   <string name="kg_password_instructions">Introduzir a palavra-passe</string>
-  <string name="kg_password_pin_failed">O PIN do SIM é inválido</string>
-  <string name="kg_password_puk_failed">O PUK do SIM é inválido</string>
+  <string name="kg_password_pin_failed">Não foi possível desbloquear utilizando o PIN do SIM</string>
+  <string name="kg_password_puk_failed">Não foi possível desbloquear utilizando o PUK do SIM</string>
   <string name="kg_password_wrong_pin_code_pukked">Código PIN do cartão SIM incorrecto. Tem de contactar o seu operador para desbloquear o dispositivo</string>
   <string name="kg_password_wrong_puk_code_dead">Cartão SIM inutilizável. Contacte o seu operador</string>
   <string name="kg_pattern_instructions">Desenhe o seu padrão</string>
@@ -737,7 +737,7 @@ Tente novamente dentro de %3$d segundos"</string>
   <string name="kg_prompt_reason_timeout_pattern">Para segurança adicional, é necessário um padrão</string>
   <string name="kg_prompt_reason_timeout_pin">Para segurança adicional, é necessário um PIN</string>
   <string name="kg_prompt_reason_user_request">O dispositivo foi bloqueado manualmente</string>
-  <string name="kg_puk_enter_pin_hint">Introduza o código PIN pretendido</string>
+  <string name="kg_puk_enter_pin_hint">Introduza o novo código PIN</string>
   <string name="kg_puk_enter_puk_hint">O cartão SIM está agora desactivado. Introduza o código PUK para continuar. Contacte o operador para obter mais detalhes</string>
   <string name="kg_puk_enter_puk_hint_multi">O cartão SIM \"%1$s\" está agora desactivado. Introduza o código PUK para continuar. Contacte o operador para obter mais detalhes</string>
   <string name="kg_sim_pin_instructions">Introduza o PIN do cartão SIM</string>
@@ -820,7 +820,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_shortcut_right">Atalho direito</string>
   <string name="lockscreen_unlock_left">O atalho esquerdo também desbloqueia</string>
   <string name="lockscreen_unlock_right">O atalho direito também desbloqueia</string>
-  <string name="lockscreen_sim_error_message_short">Cartão inválido</string>
+  <string name="lockscreen_sim_error_message_short">Cartão SIM inválido</string>
   <string name="long_screenshot_not_support_msg">A aplicação actual não suporta as capturas de ecrã extensas</string>
   <string name="long_screenshot_out_of_memory_error">A imagem é demasiado grande</string>
   <string name="long_screenshot_processing">A processar…</string>

@@ -1880,6 +1880,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="keyboard_shortcuts_helper">Atalhos de teclado</string>
   <string name="keyboard_shortcuts_helper_summary">Mostrar atalhos disponíveis</string>
   <string name="keyguard_advance_setting_title">Definições avançadas</string>
+  <string name="keyguard_vertical_clock_title">Relógio vertical</string>
   <string name="keywords_accounts">conta</string>
   <string name="keywords_airplane">Avião;Modo Avião;Voo;Modo Voo;Para avião;Modo para avião</string>
   <string name="keywords_all_apps">aplicações transferência aplicações sistema</string>

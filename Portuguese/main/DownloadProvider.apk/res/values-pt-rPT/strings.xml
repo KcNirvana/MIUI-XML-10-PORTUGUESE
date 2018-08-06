@@ -7,6 +7,11 @@
   <string name="button_queue_for_wifi">Em espera</string>
   <string name="button_start_now">Iniciar agora</string>
   <string name="button_wait_for_wifi">Aguardar</string>
+  <string name="channel_active">Transferências activas</string>
+  <string name="channel_complete">Transferência concluída</string>
+  <string name="channel_insufficient_space">Espaço insuficiente</string>
+  <string name="channel_waiting">Transferência em espera</string>
+  <string name="dialog_button_cancel">Cancelar</string>
   <string name="dialog_insufficient_space_on_cache">Sem espaço suficiente no armazenamento interno</string>
   <string name="dialog_insufficient_space_on_external">Sem espaço suficiente no armazenamento externo</string>
   <string name="dialog_not_show_again">Não mostrar novamente</string>
