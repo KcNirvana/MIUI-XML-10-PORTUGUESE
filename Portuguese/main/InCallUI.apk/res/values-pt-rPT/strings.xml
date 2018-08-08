@@ -166,9 +166,9 @@
   <string name="onscreen_add_call_text">Adicionar chamada</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Conferência</string>
-  <string name="onscreen_audio_mode_handset">Fones de ouvido</string>
-  <string name="onscreen_audio_mode_headset">Auriculares</string>
-  <string name="onscreen_audio_mode_speaker">Alta voz</string>
+  <string name="onscreen_audio_mode_handset">Auriculares</string>
+  <string name="onscreen_audio_mode_headset">Auscultadores</string>
+  <string name="onscreen_audio_mode_speaker">Altifalante</string>
   <string name="onscreen_call_record">Gravar</string>
   <string name="onscreen_change_to_video">Videochamada</string>
   <string name="onscreen_change_to_voice">Chamada de voz</string>
@@ -189,7 +189,7 @@
   <string name="prompt_no_volte_when_failed">Os serviços VoLTE não estão disponíveis</string>
   <string name="remind_unlock_message">O seu dispositivo está bloqueado. \"%s\" vai estar disponível após desbloquear o seu dispositivo. Desbloquear agora?</string>
   <string name="respond_via_sms_custom_message">Personalizar SMS</string>
-  <string name="select_audio_dialog_title">Seleccione o modo de atendimento</string>
+  <string name="select_audio_dialog_title">Seleccionar modo de atendimento</string>
   <string name="select_one_sim_title">Apenas pode utilizar o SIM %1$d</string>
   <string name="select_sim_hint">Não é possível utilizar SIM %2$d, enquanto SIM %1$d estiver em utilização</string>
   <string name="select_voice_call_sim">Escolher cartão SIM</string>
