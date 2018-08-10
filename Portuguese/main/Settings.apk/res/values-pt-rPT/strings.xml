@@ -1646,9 +1646,9 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="forget">Esquecer</string>
   <string name="forget_password_button_text"><u>Esqueceu a palavra-passe?</u></string>
   <string name="forget_password_dialog_button_text">Voltar</string>
-  <string name="forget_password_dialog_content_four">"2. Seleccione <font color='#e6e6e6&amp'>[Formatar dados]</font> e aguarde até o dispositivo reiniciar"</string>
-  <string name="forget_password_dialog_content_one">"Se esqueceu a sua palavra-passe, não vai poder restaurá-la. Pode fazer a reposição da sua palavra-passe após <font color='#ec2700&amp'>eliminar todos os dados no seu dispositivo</font> (incluindo fotos, contactos, etc.). Faça uma cópia dos dados antes"</string>
-  <string name="forget_password_dialog_content_three">"1. Desligue o seu dispositivo. Prima os botões <font color='#e6e6e6'>[Ligar/Desligar]</font> e <font color='#e6e6e6&amp'>[Volume+]</font> simultâneamente e segure-os até ver o ícone <img src=''>"</string>
+  <string name="forget_password_dialog_content_four">2. Seleccione &amp;lt;font color=#e6e6e6&amp;gt;[Formatar dados]&amp;lt;/font&amp;gt; e aguarde até o dispositivo reiniciar</string>
+  <string name="forget_password_dialog_content_one">Se esqueceu a sua palavra-passe, não vai poder restaurá-la. Pode fazer a reposição da sua palavra-passe após &amp;lt;font color=#ec2700&amp;gt;eliminar todos os dados no seu dispositivo&amp;lt;/font&amp;gt; (incluindo fotos, contactos, etc.). Faça uma cópia dos dados antes</string>
+  <string name="forget_password_dialog_content_three">"1. Desligue o seu dispositivo. Prima os botões &amp;lt;font color=#e6e6e6&amp;gt;[Ligar/Desligar]&amp;lt;/font&amp;gt; e &amp;lt;font color=#e6e6e6&amp;gt;[Volume+]&amp;lt;/font&amp;gt; simultâneamente e segure-os até ver o ícone &amp;lt;img src=''&amp;gt;"</string>
   <string name="forget_password_dialog_content_two">Siga estes passos para eliminar os dados:</string>
   <string name="forget_password_dialog_title">Reposição de palavra-passe</string>
   <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
