@@ -739,8 +739,10 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bootloader_locked_answer_1">Nós bloqueamos os dispositivos para garantir que são seguros. Se precisar de entrar no modo Fastboot e flashar o seu dispositivo, pode desbloqueá-lo</string>
   <string name="bootloader_locked_answer_1_warning">Lembre-se: Não vai poder utilizar \"Localizar Dispositivo\" depois do dispositivo estar desbloqueado</string>
   <string name="bootloader_locked_answer_2">"1. Certifique-se que já inseriu um cartão SIM no seu dispositivo
-+2. Toque \"Adicionar conta\" para associar a sua Conta Mi a este dispositivo
-+3. Transfira a ferramenta de desbloqueio do nosso site. Note que deve desbloquear dispositivos utilizando um computador. Transfira aqui:"</string>
+2. Toque em \"Adicionar conta\" para associar a sua Conta Mi a este dispositivo
+3. Transfira a ferramenta de desbloqueio do nosso site. Note que deve desbloquear dispositivos utilizando um computador. Transfira aqui:"</string>
+  <string name="bootloader_locked_answer_2_no_sim">"1. Toque em \"Adicionar conta\" para associar a sua Conta Mi com este dispositivo.
+2. Transfira a ferramenta de desbloqueio do nosso site. Note que deve desbloquear dispositivos utilizando um computador. Transfira aqui:"</string>
   <string name="bootloader_locked_check_status">Adicionar conta e dispositivo</string>
   <string name="bootloader_locked_question_1">Porque é que os dispositivos devem estar bloqueados?</string>
   <string name="bootloader_locked_question_2">Eu compreendo os riscos mas ainda quero desbloquear o meu dispositivo</string>
@@ -1642,7 +1644,13 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="force_touch_enable_tips">Com o 3D Touch ligado, o toque longo no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
   <string name="foreground_traffic">Primeiro plano %s</string>
   <string name="forget">Esquecer</string>
-  <string name="forget_password_button_text"><u>Recuperar acesso?</u></string>
+  <string name="forget_password_button_text"><u>Esqueceu a palavra-passe?</u></string>
+  <string name="forget_password_dialog_button_text">Voltar</string>
+  <string name="forget_password_dialog_content_four">"2. Seleccione <font color='#e6e6e6&amp'>[Formatar dados]</font> e aguarde até o dispositivo reiniciar"</string>
+  <string name="forget_password_dialog_content_one">"Se esqueceu a sua palavra-passe, não vai poder restaurá-la. Pode fazer a reposição da sua palavra-passe após <font color='#ec2700&amp'>eliminar todos os dados no seu dispositivo</font> (incluindo fotos, contactos, etc.). Faça uma cópia dos dados antes"</string>
+  <string name="forget_password_dialog_content_three">"1. Desligue o seu dispositivo. Prima os botões <font color='#e6e6e6'>[Ligar/Desligar]</font> e <font color='#e6e6e6&amp'>[Volume+]</font> simultâneamente e segure-os até ver o ícone <img src=''>"</string>
+  <string name="forget_password_dialog_content_two">Siga estes passos para eliminar os dados:</string>
+  <string name="forget_password_dialog_title">Reposição de palavra-passe</string>
   <string name="forget_pattern"><u>Esqueceu o padrão?</u></string>
   <string name="forget_privacy_password_setting">Adicionar Conta Mi</string>
   <string name="forget_privacy_password_summary">Utilizar a Conta Mi para repor o seu padrão</string>

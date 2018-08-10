@@ -75,6 +75,7 @@
   <string name="preference_scenes">Tipo de gravação</string>
   <string name="preference_silent_mode">Silenciar toque ao gravar</string>
   <string name="preference_tip_rename">Atribuir nome às gravações manualmente</string>
+  <string name="privacy_policy_title">Política de Privacidade</string>
   <string name="recognition_error_cancel">Cancelado</string>
   <string name="recognition_error_download_cancel">Mais tarde</string>
   <string name="recognition_error_download_fail">Não foi possível transferir. Verifique as definições de rede e tente novamente</string>

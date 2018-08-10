@@ -58,7 +58,7 @@
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">Não é possível cortar</string>
   <string name="move_failed_retry">Não é possível cortar. Tente novamente após %1$s</string>
-  <string name="need_get_accounts_permission">O Mi Drive necessita de acesso à sua conta para funcionar normalmente</string>
+  <string name="need_get_accounts_and_storage_permission">O Mi Drive necessita de acesso à sua conta e armazenamento para funcionar normalmente</string>
   <string name="never_notify">Não mostrar novamente</string>
   <string name="no_app_found_to_open_file">Sem aplicações para executar esta acção</string>
   <string name="no_more_space">Sem espaço de armazenamento suficiente</string>
@@ -106,7 +106,7 @@
   <string name="quota_info">Mi Drive: Disponível: %1$s | Total: %2$s</string>
   <string name="rename_alert">Se mudar a extensão deste ficheiro pode não conseguir abri-lo</string>
   <string name="rename_failed">Já existe um ficheiro com o mesmo nome</string>
-  <string name="request_permission_msg">Permitir que o Mi Drive aceda às suas informações de conta para funcionar normalmente</string>
+  <string name="request_permission_msg">Permita que o Mi Drive aceda às suas informações de conta e armazenamento para funcionar normalmente</string>
   <string name="request_permission_title">Permissões necessárias</string>
   <string name="sd_full">O cartão SD está cheio</string>
   <string name="sd_invalid">O cartão SD está corrompido</string>

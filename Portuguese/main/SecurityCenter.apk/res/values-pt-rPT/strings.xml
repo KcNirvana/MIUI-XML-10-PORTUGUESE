@@ -838,7 +838,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gmscore_support_service">Serviços Google</string>
   <string name="go_to">Continuar</string>
   <string name="go_to_setting_fingerprint">Definições</string>
-  <string name="google_base_app_install_choice">\"%s\" necessita da Framework de serviços Google Service Framework para funcionar normalmente. Transferir e instalar?</string>
+  <string name="google_base_app_install_choice">A aplicação necessita da Framework de serviços Google Service Framework para funcionar normalmente. Transferir e instalar?</string>
   <string name="gs_anto_clean_memory_whitelist">Excepções</string>
   <string name="gs_app_back_self_start">Poupança de bateria</string>
   <string name="gs_auto_clean_memory">Limpar cache</string>
@@ -1555,7 +1555,7 @@ do seu dispositivo"</string>
   <string name="pref_key_tethering_setting">Limite de dados</string>
   <string name="pref_key_tethering_title">Limite de dados</string>
   <string name="pref_manual_adjust">Definir utilização de dados</string>
-  <string name="pref_mi_sim_settings">Definições do Mi SIM</string>
+  <string name="pref_mi_sim_settings">Definições do pacote %s</string>
   <string name="pref_more_settings">Definições adicionais</string>
   <string name="pref_new_installed_preconfig_title">Definições predefinidas para novas aplicações</string>
   <string name="pref_normal_traffic_limit">Quando atingir o seu plano de dados</string>
@@ -1569,7 +1569,7 @@ do seu dispositivo"</string>
   <string name="pref_roaming_setting_gategory">Definições</string>
   <string name="pref_special_package_setting">Plano de dados personalizado</string>
   <string name="pref_special_package_setting_summary">Gerir dados móveis, pacotes de carregamento e planos de dados diários</string>
-  <string name="pref_summary_upload_data_usage">Reporte a sua estatística de utilização de dados para nos ajudar a melhorar a MIUI</string>
+  <string name="pref_summary_upload_data_usage">Reporte a sua utilização de dados para nos ajudar a melhorar a MIUI</string>
   <string name="pref_title_declaration">Aviso importante</string>
   <string name="pref_title_diagnostics_show_float_notification">Notificações flutuantes</string>
   <string name="pref_title_manual_check_virus_db_update">Verificar actualizações</string>
@@ -1577,7 +1577,7 @@ do seu dispositivo"</string>
   <string name="pref_title_traffic_limit_number">Limite diário de dados</string>
   <string name="pref_title_traffic_speed_state">Mostrar velocidade da rede</string>
   <string name="pref_title_update_notification">Mostrar na área de notificações</string>
-  <string name="pref_title_upload_data_usage">Reportar estatísticas de utilização de dados</string>
+  <string name="pref_title_upload_data_usage">Reportar utilização de dados</string>
   <string name="pref_traffic_manage_title">Utilização de dados</string>
   <string name="pref_warning_values">Nível de aviso de utilização de dados</string>
   <string name="pref_whitelist_setting">Excepções de dados em roaming</string>
@@ -1654,6 +1654,9 @@ Esta funcionalidade não é suportada para aplicações de sistema"</string>
   <string name="report_success">Mensagem reportada</string>
   <string name="report_warning">Reportar %1$s mensagens para a Mi? As mensagens e os números de telefone vão ser enviados para o servidor Mi. As informações pessoais associadas a estas mensagens manter-se-ão anónimas</string>
   <string name="report_warning_title">Atenção</string>
+  <string name="reset_data_dialog_message">Este dispositivo não está associado com a sua Conta Mi. Não é possível restaurar ou repor a palavra-passe. Faça cópia de todos os seus itens e faça uma reposição de fábrica. Todos os dados vão ser eliminados permanentemente e o seu cartão SD vai ser formatado</string>
+  <string name="reset_data_dialog_ok">Reposição de fábrica</string>
+  <string name="reset_data_title">Não é possível restaurar palavra-passe</string>
   <string name="resource_antispam">Lista de bloqueio</string>
   <string name="resource_antivirus">Antivírus</string>
   <string name="resource_app_permissions">Permissões da aplicação</string>

@@ -108,6 +108,7 @@
   <string name="clean_content_three">3 itens</string>
   <string name="clean_content_two">2 itens</string>
   <string name="clean_content_zero">Nenhum</string>
+  <string name="clean_summary">Limpou %1$s ficheiros</string>
   <string name="clear_bigfiles">Eliminar ficheiros grandes, fotos duplicadas ou outros itens desnecessários</string>
   <string name="clear_immediately">Limpar agora</string>
   <string name="clear_safe_notify">Widget de notificação</string>
@@ -294,6 +295,8 @@
   <string name="mainbtn_text_quick_cleanup">Limpar %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Limpar</string>
   <string name="memeory_check_content">%1$d aplicações, %2$s de memória</string>
+  <string name="memory_clean_icon_text">Limpar memória</string>
+  <string name="memory_clean_no_trash_tip">Verificação concluída</string>
   <string name="menu_add_to_white_list">Adicionar às excepções</string>
   <string name="menu_clear">Limpar</string>
   <string name="menu_install">Instalar esta aplicação</string>
@@ -319,6 +322,12 @@
   <string name="notification_title_of_garbage_cleanup">%s de lixo</string>
   <string name="notify_when">Obter uma notificação quando o tamanho do lixo atingir os 100MB</string>
   <string name="ok">OK</string>
+  <string name="onekeyclean_boost_available">%s disponíveis</string>
+  <string name="onekeyclean_boost_cleaned">%s limpos</string>
+  <string name="onekeyclean_boosted_title">Limpo com sucesso</string>
+  <string name="onekeyclean_boosting_title">Optimização de velocidade</string>
+  <string name="onekeyclean_card_btn">Limpar agora</string>
+  <string name="onekeyclean_card_summery">Limpar o lixo para libertar espaço</string>
   <string name="open">Ligar</string>
   <string name="open_app">Abrir</string>
   <string name="open_browser">Abrir no navegador</string>
@@ -354,6 +363,7 @@
   <string name="pref_title_choose_engine">Definições</string>
   <string name="pref_title_clean_alert">Limpar automaticamente</string>
   <string name="pref_title_cleanup_white_list">Excepções</string>
+  <string name="pref_title_create_onekeyclean_shortcut">Mostrar atalho no ecrã inicial</string>
   <string name="pref_title_expand_cache_group">Mostrar itens em cache</string>
   <string name="pref_title_garbage_cleanup_check_size">Limite do tamanho de lixo</string>
   <string name="pref_title_garbage_cleanup_check_time">Programar limpeza</string>

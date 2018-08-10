@@ -275,6 +275,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="zero">0 aplicações encontradas</item>
         <item quantity="one">%d aplicação encontrada</item>
     </plurals>
+    <plurals name="reset_data_dialog_ok_tick">
+        <item quantity="other">Reposição de fábrica(%ds)</item>
+        <item quantity="one">Reposição de fábrica(%ds)</item>
+    </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d aplicações bloqueadas a aguardarem para serem limpas</item>
         <item quantity="one">%d aplicação bloqueada a aguardar para ser limpa</item>

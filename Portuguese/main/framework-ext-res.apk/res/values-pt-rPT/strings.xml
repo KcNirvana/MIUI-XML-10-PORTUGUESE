@@ -81,6 +81,9 @@
   <string name="miui_screen_ratio_hint_message">Esta aplicação pode ser executada no modo ecrã inteiro o que pode causar uma visualização incorrecta. Pode alterar isto em Definições &gt; Ecrã em tamanho inteiro</string>
   <string name="miui_screen_ratio_hint_ok">OK</string>
   <string name="miui_upgrading_notification_title">A carregar sistema. Algumas funcionalidades podem estar limitadas</string>
+  <string name="miui_warning_button_cancel">Cancelar</string>
+  <string name="miui_warning_button_ok">OK</string>
+  <string name="miui_warning_tip_info">Ocorreu um erro em %1$s. Fechar esta aplicação agora?</string>
   <string name="onehour">30 minutos</string>
   <string name="package_delete_confirm_step_1">Desinstalar %s?</string>
   <string name="package_delete_confirm_step_2">Desinstalar esta aplicação pode fazer com que o sistema fique instável</string>

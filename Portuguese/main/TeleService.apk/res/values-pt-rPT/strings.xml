@@ -231,6 +231,7 @@
   <string name="cfnry_title">Reencaminhar quando não atender</string>
   <string name="cfu_title">Reencaminhar sempre</string>
   <string name="change_data_preference_4g_only_prompt">Apenas tem um cartão 4G. Utilizar como predefinido para dados móveis?</string>
+  <string name="change_data_sim_4g_only_prompt">O SIM %1$s apenas suporta 4G. Quando o SIM %2$s não for o predefinido para dados móveis pode não funcionar normalmente. Trocar agora</string>
   <string name="change_default_data_card">SIM de dados móveis predefinido</string>
   <string name="change_default_data_card_summary">Parece que alterou os cartões SIM. Definir este cartão como predefinido para a ligação de dados móveis?</string>
   <string name="change_num">Actualizar</string>
@@ -740,6 +741,8 @@ Vai ser utilizada a rede preferida"</string>
   <string name="onscreenSwapCallsText">Trocar</string>
   <string name="onscreenVideoCallText">Videochamada</string>
   <string name="open_miui">Abrir</string>
+  <string name="opened_dual_4g_confirm_prompt">Apenas tem um cartão SIM 4G. Duplo 4G foi ligado automaticamente</string>
+  <string name="opened_dual_4g_confirm_prompt_with_sim">O SIM %1$s apenas suporta 4G. Para garantir que o cartão funciona correctamente o Duplo 4G foi ligado</string>
   <string name="operation_successfully">Concluído</string>
   <string name="optional_summary">&lt;Opcional&gt;</string>
   <string name="ota_activate">Activar</string>

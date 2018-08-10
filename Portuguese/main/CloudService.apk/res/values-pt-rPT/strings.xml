@@ -119,6 +119,7 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_dialog_sync_now_title">Ligar ao Wi-Fi para sincronizar</string>
   <string name="micloud_dspt">Utilizar a Mi Cloud para sincronizar dados e localizar o seu dispositivo,</string>
   <string name="micloud_dspt_provision">Utilizar a Mi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
+  <string name="micloud_dspt_provision_xms">Utilizar a Mi Cloud para sincronizar dados</string>
   <string name="micloud_find_device_close_alert_content">Se desligar esta funcionalidade, não vai poder localizar o seu dispositivo em caso de o perder</string>
   <string name="micloud_find_device_close_alert_negtive">Desligar mesmo assim</string>
   <string name="micloud_find_device_close_alert_positive">Manter ligado</string>
@@ -158,6 +159,7 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_main_button_authorize">Autorizar</string>
   <string name="micloud_main_button_set_internet">Definições</string>
   <string name="micloud_main_cancel_sync">Cancelar sincronização</string>
+  <string name="micloud_main_cancel_sync_now">A cancelar…</string>
   <string name="micloud_main_clear_now">Limpar</string>
   <string name="micloud_main_detail">Ver detalhes</string>
   <string name="micloud_main_error_activated_fail">Active o seu cartão SIM</string>
@@ -185,6 +187,11 @@ Utilize uma conta diferente"</string>
   <string name="micloud_main_resume_sync_soon">Retomar a sincronização</string>
   <string name="micloud_main_see_unsynced_data">Verificar os dados a sincronizar</string>
   <string name="micloud_main_set_internet">Rede</string>
+  <string name="micloud_main_simple_last_sync_time">Last sync time： %s</string>
+  <string name="micloud_main_simple_off">Sinc. desligada</string>
+  <string name="micloud_main_simple_pending">Pendente</string>
+  <string name="micloud_main_simple_synced">Sincronizado</string>
+  <string name="micloud_main_simple_syncing">A sincronizar</string>
   <string name="micloud_main_space_full_message">Compre mais espaço na Mi Cloud</string>
   <string name="micloud_main_space_full_title">Sem espaço suficiente. Sincronização em pausa</string>
   <string name="micloud_main_space_low">Quase sem espaço</string>
