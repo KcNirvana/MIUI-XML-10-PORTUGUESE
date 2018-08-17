@@ -285,6 +285,8 @@
   <string name="data_usage_uninstalled_apps_users">Aplicações e utilizadores removidos</string>
   <string name="dc_alert_dialog_message">Algumas aplicações necessitam duma ligação de dados. Contacte a sua operadora para saber que %s estão disponíveis para si</string>
   <string name="dc_alert_dialog_title">Aviso de utilização de dados</string>
+  <string name="dds_switch_warning_message_data_off">Não foi possível localizar o SIM %1$s. O SIM %2$s está predefinido para dados móveis agora. Os dados móveis estão desligados</string>
+  <string name="dds_switch_warning_message_data_on">Não foi possível localizar o SIM %1$s. O SIM %2$s está predefinido para dados móveis agora.  Os dados móveis estão desligados</string>
   <string name="deactivate_all">Cancelar tudo</string>
   <string name="default_notification_description">Som predefinido (%1$s)</string>
   <string name="default_preference_summary">&lt;Não definido&gt;</string>
