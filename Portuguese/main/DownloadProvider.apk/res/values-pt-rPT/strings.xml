@@ -12,6 +12,13 @@
   <string name="channel_insufficient_space">Espaço insuficiente</string>
   <string name="channel_waiting">Transferência em espera</string>
   <string name="dialog_button_cancel">Cancelar</string>
+  <string name="dialog_content_limit0">Restringir transferências</string>
+  <string name="dialog_content_limit_max">Ilimitado</string>
+  <string name="dialog_data_limit_button1">Aguardar por Wi-Fi</string>
+  <string name="dialog_data_limit_button2">Transferir agora</string>
+  <string name="dialog_data_limit_msg1">%s de dados vão ser utilizados. Transferir agora?</string>
+  <string name="dialog_data_limit_msg3">Alterar limite</string>
+  <string name="dialog_data_limit_title">Aviso de utilização de dados</string>
   <string name="dialog_insufficient_space_on_cache">Sem espaço suficiente no armazenamento interno</string>
   <string name="dialog_insufficient_space_on_external">Sem espaço suficiente no armazenamento externo</string>
   <string name="dialog_not_show_again">Não mostrar novamente</string>
