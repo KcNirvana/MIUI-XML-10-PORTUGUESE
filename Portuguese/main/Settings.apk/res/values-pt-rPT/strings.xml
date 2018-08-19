@@ -2609,6 +2609,11 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notification_app_settings_button">Definições de notificações</string>
   <string name="notification_breathing_light_color_title">Cor do LED das notificações</string>
   <string name="notification_breathing_light_freq_title">Frequência da luz do LED das notificações</string>
+  <string name="notification_channel_badge_title">Mostrar ponto de notificação</string>
+  <string name="notification_channel_sound_title">Som</string>
+  <string name="notification_channel_title">Categoria da notificação</string>
+  <string name="notification_channels">Categorias de notificações</string>
+  <string name="notification_channels_other">Outras</string>
   <string name="notification_importance_blocked">Nunca mostrar notificações</string>
   <string name="notification_importance_default">Emitir som</string>
   <string name="notification_importance_default_title">Alta</string>
