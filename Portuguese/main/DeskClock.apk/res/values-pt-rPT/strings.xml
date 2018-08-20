@@ -186,7 +186,7 @@
   <string name="timer_continue">Continuar</string>
   <string name="timer_continue_timer">Continuar temporizador</string>
   <string name="timer_end_time">O temporizador vai parar às %s</string>
-  <string name="timer_end_time_format">dd MMM HH:mm</string>
+  <string name="timer_end_time_format">"HH:mm 'de' dd 'de' MMMM"</string>
   <string name="timer_got_it">OK</string>
   <string name="timer_item_duration_display">%1$d min. %2$d seg.</string>
   <string name="timer_item_label_hint">Nome do temporizador</string>
@@ -218,7 +218,7 @@
   <string name="worldclock_title">Relógio</string>
   <string name="worldclock_world_time">Fusos horários</string>
   <string name="worldcolock_timezone_current">Actual: %1$s</string>
-  <string name="worldcolock_timezone_date">dd MM</string>
-  <string name="worldcolock_timezone_gap">Hora</string>
+  <string name="worldcolock_timezone_date">dd/MM</string>
+  <string name="worldcolock_timezone_gap">horas</string>
   <string name="worldcolock_timezone_local">Mesmo que hora local</string>
 </resources>
