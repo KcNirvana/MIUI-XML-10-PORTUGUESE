@@ -48,6 +48,10 @@
         <item>Telemóvel</item>
         <item>Tablet</item>
     </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Visão Vertical</item>
+        <item>Vista horizontal</item>
+    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Muito pequeno</item>
         <item>Pequeno</item>
@@ -74,7 +78,7 @@
         <item>Siga os Jogos Olímpicos com a Xiaomi</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Sol</item>
+        <item>Céu limpo</item>
         <item>Com nuvens</item>
         <item>Nublado</item>
         <item>Nevoeiro</item>
