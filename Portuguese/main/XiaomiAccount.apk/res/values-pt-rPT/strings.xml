@@ -253,7 +253,7 @@ Para activar a sua conta siga o
   <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido</string>
   <string name="passport_error_verify_activator_phone_message">Certifique-se que o serviço do seu cartão SIM está activado e o dispositivo ligado à rede</string>
   <string name="passport_error_verify_activator_phone_title">Não foi possível verificar o número de telefone</string>
-  <string name="passport_extra_gdpr_license">Creating your Mi Account means that you agree that Xiaomi will collect, process, and use your personal data, including verification data (e.g., verification codes), Second space data (e.g., information about the ways you use Second space, IDs used in First and Second spaces), and other data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we process and use personal data.</string>
+  <string name="passport_extra_gdpr_license">Criar a sua Conta Mi significa que concordou que a Xiaomi vai obter, processar, utilizar os seus dados pessoais e outros dados específicos na nossa Política de Privacidade. Consulte a nossa Política de Privacidade para saber como processamos e utilizamos os dados pessoais</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para repor a sua palavra-passe</string>
   <string name="passport_forget_password"><u>Esqueceu a palavra-passe?</u></string>
