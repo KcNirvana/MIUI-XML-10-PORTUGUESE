@@ -61,6 +61,7 @@
   <string name="already_muted">Silêncio</string>
   <string name="anion">Ionizador</string>
   <string name="apk_files_list_title">APKs locais</string>
+  <string name="app_check_session_error">Não foi possível ligar. Ligue o seu telefone à Mi TV/Mi Box novamente</string>
   <string name="app_clear">Limpar dados</string>
   <string name="app_detail_comments">Comentários</string>
   <string name="app_detail_content_hidemore_text">Fechar</string>
@@ -387,13 +388,15 @@
   <string name="key_health_dehumidity">Desumificar</string>
   <string name="key_hybrid_switch">Trocar modos</string>
   <string name="key_lr_wind_mode">Balançar horizontalmente</string>
+  <string name="key_mode">Modos</string>
   <string name="key_mute">Silenciar</string>
   <string name="key_next">Seguinte</string>
   <string name="key_pause">Pausar</string>
   <string name="key_play">Reproduzir</string>
   <string name="key_power_cool_auto">Ligar-Desligar/Arrefecer/Auto</string>
+  <string name="key_poweron">Ligar</string>
   <string name="key_pre">Anterior</string>
-  <string name="key_press_vibrate">Vibrar ao tocar</string>
+  <string name="key_press_vibrate">Vibração ao tocar</string>
   <string name="key_rew">Rebobinar</string>
   <string name="key_shutter">Câmara</string>
   <string name="key_stop">Parar</string>
@@ -611,7 +614,7 @@ Verifique as permissões ou reinicie o dispositivo"</string>
   <string name="pair_server_data_only">Utilize dados online para novos controlos</string>
   <string name="partner">Suporte</string>
   <string name="passport_access_denied">Acesso negado</string>
-  <string name="passport_account_hint_text">Endereço de email, número de telefone ou ID de Conta Mi</string>
+  <string name="passport_account_hint_text">Email/Número de telefone/ID de Conta Mi</string>
   <string name="passport_account_identity_title">Verificar a sua identidade</string>
   <string name="passport_account_label">Conta Mi</string>
   <string name="passport_account_name">Conta: %1$s</string>
@@ -638,6 +641,7 @@ Verifique as permissões ou reinicie o dispositivo"</string>
 Para activar a sua conta, siga o 
  link que enviámos para o seu endereço de email"</string>
   <string name="passport_completed">Terminar</string>
+  <string name="passport_confirm_login">Continuar</string>
   <string name="passport_confirm_recycle_account">Sim</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Parece que&lt;/font&gt; o número %s foi reciclado pela sua operadora e existe uma Conta Mi associada ao mesmo. Esta conta é sua?"</string>
   <string name="passport_continue">Continuar</string>
@@ -646,7 +650,7 @@ Para activar a sua conta, siga o
   <string name="passport_delete_account">Terminar sessão</string>
   <string name="passport_downlink_reg">Número de telefone</string>
   <string name="passport_email">Endereço de email</string>
-  <string name="passport_email_or_id_hint_text">Endereço de email ou ID Conta Mi</string>
+  <string name="passport_email_or_id_hint_text">Email/ID Conta Mi</string>
   <string name="passport_email_reg_success_summary">%1$s foi adicionado à sua conta. Pode utilizá-lo para iniciar sessão ou para repor a sua palavra-passe</string>
   <string name="passport_error_device_id">Não é possível obter ID do dispositivo</string>
   <string name="passport_error_auth_fail">Sessão expirada. Inicie sessão mais tarde</string>
@@ -672,6 +676,7 @@ Para activar a sua conta, siga o
   <string name="passport_error_user_name">O nome de utilizador que introduziu é inválido</string>
   <string name="passport_error_verify_activator_phone_message">Certifique-se que o serviço do seu cartão SIM está activado e está ligado à rede</string>
   <string name="passport_error_verify_activator_phone_title">Não foi possível verificar número de telefone</string>
+  <string name="passport_extra_gdpr_license">Criar a sua Conta Mi significa que concordou que a Xiaomi vai obter, processar, utilizar os seus dados pessoais e outros dados específicos na nossa Política de Privacidade. Consulte a nossa Política de Privacidade para saber como processamos e utilizamos os dados pessoais</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para repor a sua palavra-passe</string>
   <string name="passport_forget_password"><u>Esqueceu a palavra-passe?</u></string>
@@ -693,6 +698,7 @@ Para activar a sua conta, siga o
   <string name="passport_input_password_hint">Introduzir palavra-passe</string>
   <string name="passport_input_phone_hint">Introduzir número de telefone</string>
   <string name="passport_input_vcode_hint">Introduzir código de verificação</string>
+  <string name="passport_input_voice_captcha_hint">Código de verificação de voz</string>
   <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode ver esta página em %s</string>
   <string name="passport_loading">A carregar…</string>
   <string name="passport_login">Iniciar sessão</string>
@@ -704,7 +710,7 @@ Para activar a sua conta, siga o
   <string name="passport_login_recycle_account_no">Não</string>
   <string name="passport_login_recycle_account_yes">Sim</string>
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
-  <string name="passport_login_using_other_ways"><u>Outros métodos de iniciar sessão</u></string>
+  <string name="passport_login_using_other_ways">Outros métodos de iniciar sessão</string>
   <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_no">Não</string>
@@ -780,6 +786,7 @@ Para activar a sua conta, siga o
   <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_sms_send_success">Enviado</string>
+  <string name="passport_sms_verification_code_login">Iniciar sessão utilizando SMS</string>
   <string name="passport_sync_account_data">A sincronizar conta…</string>
   <string name="passport_sync_account_data_failed_warning">A sua conta está a ser sincronizada. Pode iniciar sessão utilizar o seu ID Conta Mi. Se quiser iniciar sessão utilizando o seu número de telefone ou email, aguarde até a sincronização concluir</string>
   <string name="passport_title_reg">Criar uma conta</string>
@@ -1082,6 +1089,7 @@ Vá a página inicial &gt; \"+\" &gt; Digitalizador"</string>
   <string name="tv_broadcast">TV e rádio</string>
   <string name="tv_dpad_mode_gesture">Touchpad</string>
   <string name="tv_dpad_mode_keyboard">Teclado</string>
+  <string name="tv_guide_settings">Definições do Guia TV</string>
   <string name="tv_mirror">Mostrar controlos</string>
   <string name="tv_mirror_intro">Mostrar controlos de ecrã no modo paisagem</string>
   <string name="tv_power">Ligar/Desligar TV</string>
@@ -1164,8 +1172,8 @@ Para alterar, mantenha premido o botão Ligar/Desligar da TV"</string>
   <string name="voice_tips_subtitle">Aqui está o que pode dizer</string>
   <string name="voice_tips_title">Aponte o seu telefone para o dispositivo</string>
   <string name="volume">Volume</string>
-  <string name="volume_dec">Volume -</string>
-  <string name="volume_inc">Volume +</string>
+  <string name="volume_dec">Vol -</string>
+  <string name="volume_inc">Vol +</string>
   <string name="weather_out">Temperatura exterior:</string>
   <string name="wechat_account">Conta WeChat</string>
   <string name="wifi_rc_create_help">Como criar um controlo remoto Wi-Fi</string>
