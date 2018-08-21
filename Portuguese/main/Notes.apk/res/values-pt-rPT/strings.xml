@@ -201,8 +201,9 @@
   <string name="toast_cancel_to_insert_image">Não foi possível adicionar imagem</string>
   <string name="toast_message_add_image_fail">Não foi possível adicionar imagem</string>
   <string name="toast_notes_delete_success">Eliminada com sucesso</string>
-  <string name="toast_notes_hidden">Ocultada com sucesso</string>
   <string name="toast_notes_hidden_count">%1$s notas ocultadas com sucesso</string>
+  <string name="toast_notes_hidden_edit">Esta nota foi ocultada com sucesso. Puxe para ver as notas ocultas</string>
+  <string name="toast_notes_hidden_home">Esta nota foi ocultada com sucesso. Puxe para ver as notas ocultas</string>
   <string name="toast_notes_unhidden">Mostradas com sucesso</string>
   <string name="toast_notes_unhidden_count">%1$s notas mostradas com sucesso</string>
   <string name="toast_reach_text_limit_attachment">Não é possível adicionar novos anexos porque o conteúdo da nota é muito longo</string>
