@@ -725,7 +725,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="exit_dialog_scan_title">Optimizar desempenho</string>
   <string name="extreme_add_white_list_summary">Adicione até 4 aplicações</string>
   <string name="extreme_add_white_list_title">Excepções de segundo plano</string>
-  <string name="extreme_power_save_description"><l> A poupança extrema de bateria extrema pára todas as actividades em segundo plano. Esta aplicação não vai enviar notificações ou receber actualizações</li>
+  <string name="extreme_power_save_description"><li> A poupança extrema de bateria extrema pára todas as actividades em segundo plano. Esta aplicação não vai enviar notificações ou receber actualizações</li>
 <li>Se quiser que uma aplicação execute em segundo plano, bloqueie-a nos Recentes ou adicione-a às excepções. Pode ter até 4 aplicações a executar em segundo plano no modo de poupança extrema de bateria</li>
 <li>A poupança extrema de bateria desliga o NFC por defeito. Pode alterar isto nas Definições</li>
 <li>Para garantir que utiliza todas as funcionalidades do seu dispositivo, a poupança extrema de bateria vai ser desligada automaticamente quando a sua bateria chegar aos 30%</li></string>
