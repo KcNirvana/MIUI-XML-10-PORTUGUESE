@@ -287,6 +287,7 @@
   <string name="available_via_passpoint">Disponível através de %1$s</string>
   <string name="back">Voltar</string>
   <string name="battery">Bateria</string>
+  <string name="battery_can_use_time">Aproximadamente %s restante</string>
   <string name="battery_detail_charging_summary">A poupança de bateria não está disponível durante o carregamento</string>
   <string name="battery_detail_switch_summary">Reduz o desempenho e dados em segundo plano</string>
   <string name="battery_detail_switch_title">Poupança de bateria</string>
@@ -428,10 +429,17 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="divider_menu_close">Fechar</string>
   <string name="divider_menu_select_apps">Seleccionar</string>
   <string name="divider_menu_swap_task">Trocar</string>
+  <string name="dlg_cancel">Cancelar</string>
+  <string name="dlg_confirm">Ligar</string>
   <string name="dlg_confirm_kill_storage_users_text">Se ligar o armazenamento USB, algumas aplicações que estiver a utilizar vão ser paradas e poderão ficar indisponíveis até desligar o armazenamento USB</string>
   <string name="dlg_confirm_kill_storage_users_title">Ligar armazenamento USB</string>
   <string name="dlg_error_title">Operação USB sem sucesso</string>
   <string name="dlg_ok">OK</string>
+  <string name="dlg_summary_close_app">Restringir notificações e actividades em segundo plano</string>
+  <string name="dlg_summary_close_theme">Restringir temas animados</string>
+  <string name="dlg_summary_close_wifi">Desligar Wi-Fi, Bluetooth e PA Móvel</string>
+  <string name="dlg_summary_nfc">Desligar NFC</string>
+  <string name="dlg_summary_title">A poupança de bateria extrema pára toda a actividade em segundo plano. Se quiser que uma aplicação seja executada em segundo plano, adicione-a às excepções</string>
   <string name="dnd_is_off">Não incomodar está desligado</string>
   <string name="do_disclosure_generic">Este dispositivo é gerido pela sua organização</string>
   <string name="do_disclosure_with_name">Este dispositivo é gerido por %s</string>
@@ -452,6 +460,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="enable_bluetooth_message">Para ligar um teclado ao seu tablet, ligue o Bluetooth primeiro</string>
   <string name="enable_bluetooth_title">Ligar Bluetooth?</string>
   <string name="enable_demo_mode">Activar modo demonstração</string>
+  <string name="enable_extreme_power_save_mode">Poupança de bateria extrema</string>
   <string name="enable_power_save_mode">Ligar a poupança de bateria</string>
   <string name="enter_special_mode_message">Após reiniciar a aplicação, o conteúdo vai ser extendido para o topo. Se houver excepções como conteúdo oculto, carregue no botão novamente para restaurar o modo predefinido</string>
   <string name="enter_special_mode_title">Reiniciar a aplicação e expandir o espaço de visualização</string>
@@ -1010,6 +1019,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="oldman_airplane_mode_text">Modo Avião</string>
   <string name="oldman_incall_text">Voltar à chamada</string>
   <string name="open_camera_hint_text">Deslizar para a esquerda para abrir a Câmara</string>
+  <string name="open_extreme_power_save_mode_title">Ligar a poupança de bateria extrema</string>
   <string name="open_remote_center_hint_text">Deslizar para a direita para ver os atalhos</string>
   <string name="orb_search_action">Acção de pesquisa</string>
   <string name="other">Outros</string>

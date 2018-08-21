@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_extreme_mode">Poupança de bateria extrema</string>
   <string name="about_hide_mode">Acerca de poupança de bateria</string>
   <string name="active_classify">Ordenar por estado de actividade</string>
   <string name="app_list_title">Escolher aplicações</string>
@@ -31,16 +32,18 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="empty_title_apps_container_list">Sem aplicações</string>
   <string name="enable_sleep_mode">Ligar o Modo Inactivo para optimizar a utilização de bateria à noite</string>
   <string name="error_filename_too_long">O nome do ficheiro introduzido é demasiado longo</string>
+  <string name="extreme_mode_max_item_alert">Apenas 4 aplicações podem ser seleccionadas para executar em segundo plano no modo poupança de bateria extrema</string>
   <string name="extreme_power_config_mode_category">Modo Extremo</string>
   <string name="extreme_power_config_mode_desc">Altera para o Modo Extremo para desligar a sincronização, Bluetooth, GPS, NFC e a luz dos botões e notificações</string>
   <string name="extreme_power_config_mode_title">Modo Extremo</string>
   <string name="failure">Erro</string>
-  <string name="hide_mode_desc">Quando uma aplicação estiver em execução em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização de bateria</string>
+  <string name="hide_mode_desc">&lt;font color="#000000"&gt;Quando uma aplicação estiver em execução em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização de bateria. Esta funcionalidade vai obter e utilizar os dados de utilizador segundo %s&lt;/font&gt;</string>
   <string name="hide_system_app">Ocultar aplicações de sistema</string>
   <string name="hints_loading_text">Aguarde…</string>
   <string name="important_warning">Atenção</string>
   <string name="lasttime_applist_cloud">Aplicações actualizadas:</string>
   <string name="lasttime_feature_cloud">Funcionalidades actualizadas:</string>
+  <string name="message_i_know">Eu sei</string>
   <string name="nonui_mode_config_description">Não liga o ecrã para notificações, desliga a luz de notificações e os controlos de toque quando o não estiver a utilizar o dispositivo</string>
   <string name="nonui_mode_config_title">Modo Não-Interactivo</string>
   <string name="performance_category">Desempenho</string>
@@ -68,6 +71,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="power_mode">Definições de bateria</string>
   <string name="power_usage">Utilização de bateria</string>
   <string name="pref_config_title">Optimização de desempenho</string>
+  <string name="privacy">Política de Privacidade</string>
   <string name="scenario_policies_summary">Aplicar diferentes poupanças de bateria para diferentes cenários</string>
   <string name="scenario_policies_title">Cenários inteligentes</string>
   <string name="scenario_policies_warmcontrol">Controlo de temperatura</string>

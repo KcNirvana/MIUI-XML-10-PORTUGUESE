@@ -147,6 +147,8 @@ Pode também transferi-las separadamente"</string>
   <string name="import_photo_suc">Fotos importadas</string>
   <string name="input_space_finger">Definir agora</string>
   <string name="input_space_password">Definir agora</string>
+  <string name="install">Instalar</string>
+  <string name="install_error">Não foi possível instalar. Tente novamente</string>
   <string name="invalid_qr_code">Código QR inválido</string>
   <string name="list_empty_text">Vazio</string>
   <string name="list_empty_text_xspace">Instale WeChat/QQ/Weibo, crie aplicações clonadas e tente novamente</string>

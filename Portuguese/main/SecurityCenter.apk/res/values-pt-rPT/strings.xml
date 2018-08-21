@@ -723,6 +723,14 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="exit_dialog_scan_message">O resultado de desempenho do seu dispositivo é menos de 75 pontos. Optimizar agora?</string>
   <string name="exit_dialog_scan_positive_button">Optimizar</string>
   <string name="exit_dialog_scan_title">Optimizar desempenho</string>
+  <string name="extreme_add_white_list_summary">Adicione até 4 aplicações</string>
+  <string name="extreme_add_white_list_title">Excepções de segundo plano</string>
+  <string name="extreme_power_save_description">&lt;li&gt;"Extreme battery saver stops all background activity of an app after you leave it and go back to the Home screen. This app won't send you notifications or receive updates."&lt;/li&gt;"
+"&lt;li&gt;If you want an app to be running in the background, lock it in Recents, or add it to background exceptions below. Up to 4 apps can be running in the background when Extreme battery saver is on.&lt;/li&gt;"
+"&lt;li&gt;Extreme battery saver turns off NFC by default. You can change this in the Settings.&lt;/li&gt;"
+"&lt;li&gt;To make sure you can use all the features of your device normally, Extreme battery saver will be turned off automatically when your battery is 30% charged.&lt;/li&gt;</string>
+  <string name="extreme_power_save_mode_summary">A poupança de bateria extrema restringe a actividade em segundo plano, sincronização e reduz as cores do ecrã</string>
+  <string name="extreme_power_save_mode_title">Poupança de bateria extrema</string>
   <string name="finger_remind_message">Adicione a sua impressão digital primeiro. Toque para abrir as Definições</string>
   <string name="fingerprint_identify_msg">Ligar desbloqueio por impressão digital</string>
   <string name="fingerprint_not_identified_msg">Não foi possível ler a impressão digital. Introduza a sua palavra-passe</string>

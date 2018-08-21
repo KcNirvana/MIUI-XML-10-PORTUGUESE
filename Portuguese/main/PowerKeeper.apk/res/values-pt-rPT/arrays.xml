@@ -12,6 +12,10 @@
         <item>Aplicações activas</item>
         <item>Aplicações inactivas</item>
     </string-array>
+    <string-array name="emode_app_groups">
+        <item>Aplicações de sistema</item>
+        <item>Outras aplicações</item>
+    </string-array>
     <string-array name="thermal_entries">
         <item>Dar prioridade à temperatura</item>
         <item>Dar prioridade ao desempenho</item>

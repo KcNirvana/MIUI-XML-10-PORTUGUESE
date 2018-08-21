@@ -55,6 +55,8 @@
   <string name="mobiledata_alert_dialog_title">Aviso de utilização de dados</string>
   <string name="open_perm_msg">A Bússola necessita de acesso à localização e câmara. Permitir?</string>
   <string name="open_perm_title">Permissões necessárias</string>
+  <string name="preference_other">Outros</string>
+  <string name="preference_privacy_title">Política de Privacidade</string>
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pressão</string>
   <string name="pressure_unit">hPa</string>
