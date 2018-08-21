@@ -439,7 +439,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="dlg_summary_close_theme">Restringir temas animados</string>
   <string name="dlg_summary_close_wifi">Desligar Wi-Fi, Bluetooth e PA Móvel</string>
   <string name="dlg_summary_nfc">Desligar NFC</string>
-  <string name="dlg_summary_title">A poupança de bateria extrema pára toda a actividade em segundo plano. Se quiser que uma aplicação seja executada em segundo plano, adicione-a às excepções</string>
+  <string name="dlg_summary_title">A poupança extrema de bateria pára toda a actividade em segundo plano. Se quiser que uma aplicação seja executada em segundo plano, adicione-a às excepções</string>
   <string name="dnd_is_off">Não incomodar está desligado</string>
   <string name="do_disclosure_generic">Este dispositivo é gerido pela sua organização</string>
   <string name="do_disclosure_with_name">Este dispositivo é gerido por %s</string>
@@ -460,7 +460,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="enable_bluetooth_message">Para ligar um teclado ao seu tablet, ligue o Bluetooth primeiro</string>
   <string name="enable_bluetooth_title">Ligar Bluetooth?</string>
   <string name="enable_demo_mode">Activar modo demonstração</string>
-  <string name="enable_extreme_power_save_mode">Poupança de bateria extrema</string>
+  <string name="enable_extreme_power_save_mode">Poupança extrema de bateria</string>
   <string name="enable_power_save_mode">Ligar a poupança de bateria</string>
   <string name="enter_special_mode_message">Após reiniciar a aplicação, o conteúdo vai ser extendido para o topo. Se houver excepções como conteúdo oculto, carregue no botão novamente para restaurar o modo predefinido</string>
   <string name="enter_special_mode_title">Reiniciar a aplicação e expandir o espaço de visualização</string>
@@ -1019,7 +1019,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="oldman_airplane_mode_text">Modo Avião</string>
   <string name="oldman_incall_text">Voltar à chamada</string>
   <string name="open_camera_hint_text">Deslizar para a esquerda para abrir a Câmara</string>
-  <string name="open_extreme_power_save_mode_title">Ligar a poupança de bateria extrema</string>
+  <string name="open_extreme_power_save_mode_title">Ligar a poupança extrema de bateria</string>
   <string name="open_remote_center_hint_text">Deslizar para a direita para ver os atalhos</string>
   <string name="orb_search_action">Acção de pesquisa</string>
   <string name="other">Outros</string>
