@@ -30,7 +30,7 @@
   <string name="download_no_application_title">Não é possível abrir o ficheiro</string>
   <string name="download_percent">%d%%</string>
   <string name="download_queued">Em espera</string>
-  <string name="download_remaining">Restante %s</string>
+  <string name="download_remaining">%s restantes</string>
   <string name="download_running">Em curso</string>
   <string name="download_running_percent">Em curso: %d%%</string>
   <string name="download_unknown_title">&lt;Sem nome&gt;</string>
