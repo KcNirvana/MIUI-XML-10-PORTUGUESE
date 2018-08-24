@@ -1112,6 +1112,7 @@ da operadora"</string>
   <string name="menu_charge_traffic">Comprar dados</string>
   <string name="menu_edit">Editar</string>
   <string name="menu_item_about_content">Versão %s</string>
+  <string name="menu_item_about_privacy_title">Política de Privacidade</string>
   <string name="menu_item_about_summary">Versão %s</string>
   <string name="menu_item_about_title">Acerca de</string>
   <string name="menu_item_app_details">Detalhes</string>

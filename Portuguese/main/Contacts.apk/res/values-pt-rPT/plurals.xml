@@ -54,6 +54,10 @@
         <item quantity="other">%1$d contactos importados</item>
         <item quantity="one">%1$d contacto importado</item>
     </plurals>
+    <plurals name="device_import_progress_toast_plurals">
+        <item quantity="other">%1$d contactos importados</item>
+        <item quantity="one">%1$d contactos importados</item>
+    </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Bloquear %1$d números de telefone?</item>
         <item quantity="one">Bloquear %1$d número de telefone?</item>

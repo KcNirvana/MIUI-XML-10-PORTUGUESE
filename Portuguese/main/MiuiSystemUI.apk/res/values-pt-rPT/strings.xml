@@ -106,6 +106,9 @@
   <string name="accessibility_enter_lock_wallpaper">Toque para abrir Música</string>
   <string name="accessibility_ethernet_connected">Ethernet ligada</string>
   <string name="accessibility_ethernet_disconnected">Ethernet desligada</string>
+  <string name="accessibility_fingerprint_dialog_app_icon">Ícone da aplicação</string>
+  <string name="accessibility_fingerprint_dialog_fingerprint_icon">Ícone da impressão digital</string>
+  <string name="accessibility_fingerprint_dialog_help_area">Área de ajuda</string>
   <string name="accessibility_gps_acquiring">A adquirir GPS</string>
   <string name="accessibility_gps_enabled">GPS activado</string>
   <string name="accessibility_home">Início</string>
@@ -542,6 +545,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="fingerprint_add_text">O interface foi actualizado. Adicione a sua impressão digital novamente</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
   <string name="fingerprint_again_identified_msg">A sua impressão digital está activa. Utilize-a para desbloquear o dispositivo ou introduzir a palavra-passe</string>
+  <string name="fingerprint_dialog_touch_sensor">Toque no sensor de impressões digitais</string>
   <string name="fingerprint_enter_second_psw_msg">Introduzir a palavra-passe do Segundo espaço para poder utilizar as impressões digitais</string>
   <string name="fingerprint_enter_second_psw_title">Introduzir a palavra-passe do Segundo espaço</string>
   <string name="fingerprint_enter_second_psw_msg_oldman">Não é possível entrar no Segundo espaço enquanto estiver no Modo Leve</string>
@@ -1140,7 +1144,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_drivemode_label">Modo Condução</string>
   <string name="quick_settings_dual_location_label">GPS duplo</string>
   <string name="quick_settings_done">Concluído</string>
-  <string name="quick_settings_edit_label">Editar</string>
+  <string name="quick_settings_edit_label">Mais</string>
   <string name="quick_settings_extreme_batterysaver_label">Poup. extrema bateria</string>
   <string name="quick_settings_flashlight_label">Lanterna</string>
   <string name="quick_settings_gps_label">GPS</string>

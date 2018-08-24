@@ -23,6 +23,8 @@
   <string name="description_title">Acerca de Gravador de Ecrã</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="error_open_file_failed_no_app_found">Não foi possível localizar uma aplicação para abrir este ficheiro</string>
+  <string name="first_using_mic_dialog_message">O Gravador de Ecrã necessita de acesso ao microfone para gravar áudio. Permitir?</string>
+  <string name="first_using_mic_dialog_title">Permissões necessárias</string>
   <string name="fixed_frame_rate">Frame rate fixo</string>
   <string name="fixed_frame_rate_summary">Gravar vídeos com um frame rate fixo melhora a reprodução em plataformas de redes sociais e reduz a vida da bateria</string>
   <string name="frames">Frame rate</string>
@@ -81,4 +83,6 @@
   <string name="storage_location_summary">Seleccione a opção de armazenamento</string>
   <string name="timer_format">%s</string>
   <string name="unchecked">Não seleccionado</string>
+  <string name="using_record_confirm_cancel">Restringir</string>
+  <string name="using_record_confirm_ok">Permitir</string>
 </resources>

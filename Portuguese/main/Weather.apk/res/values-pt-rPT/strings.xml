@@ -112,6 +112,8 @@
   <string name="hourly_forcast_now">Agora</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title">Previsão horária</string>
+  <string name="hourly_forecast_title_24_hours_desc">Previsão diária</string>
+  <string name="hourly_forecast_title_hourly_desc">Previsão horária</string>
   <string name="index_item_experience_now">Instalar agora</string>
   <string name="index_item_install_dialog"/>
   <string name="index_item_install_dialog_cancel"/>
@@ -189,6 +191,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="privacy_grant_failed">Não foi possível conceder autorização. Tente novamente mais tarde</string>
   <string name="privacy_grant_or_revoke_settings">Concessão e revogação de autorizações</string>
   <string name="privacy_grant_success">Autorização concedida com sucesso</string>
+  <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_revoke_failed">Não foi possível revogar a autorização. Tente novamente mais tarde</string>
   <string name="privacy_revoke_success">Autorização revogada com sucesso</string>
   <string name="privacy_settings">Política de Privacidade</string>
@@ -248,6 +251,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="update_setting_title_text">Informações de actualização do tempo</string>
   <string name="updated_a_moment_ago">Actualizado há momentos atrás</string>
   <string name="updating">A actualizar…</string>
+  <string name="user_agreement">Termos de Serviço</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>

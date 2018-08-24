@@ -1437,6 +1437,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
   <string name="enter_password">Introduza a palavra-passe actual para desencriptar o dispositivo após reiniciar</string>
   <string name="enter_pattern">Introduza o padrão actual para desencriptar o dispositivo após reiniciar</string>
   <string name="enter_pin">Introduza o PIN actual para desencriptar o dispositivo após reiniciar</string>
+  <string name="enterprise_mode">Modo empresarial</string>
   <string name="eq_auto">Personalizado</string>
   <string name="eq_blues">Blues</string>
   <string name="eq_cancel">Cancelar</string>
@@ -3885,6 +3886,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_notification_shade_shortcut">Atalho nas notificações</string>
   <string name="status_bar_settings_notification_sound">Som</string>
   <string name="status_bar_settings_notification_sound_custom">Personalizar som</string>
+  <string name="status_bar_settings_notification_use_app_icon">Utilizar ícones da aplicação para notificações</string>
   <string name="status_bar_settings_notification_vibrate">Vibração</string>
   <string name="status_bar_settings_show_carrier">Mostrar nome da operadora</string>
   <string name="status_bar_settings_show_carrier_summary">O nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>

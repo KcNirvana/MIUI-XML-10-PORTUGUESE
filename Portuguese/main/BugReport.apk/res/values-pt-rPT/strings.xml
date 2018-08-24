@@ -258,6 +258,7 @@
   <string name="plus_one_submit_dialog_content">O seu comentário assim como os relatórios de erros vão ser enviados para os servidores MIUI. Podem conter informações pessoais e dados de localização</string>
   <string name="plus_one_submit_dialog_not_show_again">Memorizar preferência</string>
   <string name="post_miui_bbs_failed">Não foi possível publicar no fórum MIUI</string>
+  <string name="privacy_category_title">Privacidade</string>
   <string name="privacy_policy_title">Política de Privacidade</string>
   <string name="pull_to_refresh_pull_label">Puxe para actualizar</string>
   <string name="pull_to_refresh_refreshing_label">A actualizar…</string>

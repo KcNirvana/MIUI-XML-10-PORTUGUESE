@@ -64,8 +64,8 @@
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Todos os dias</string>
   <string name="force_touch_add_alarm">Adicionar alarme</string>
-  <string name="force_touch_enter_stopwatch">Cronómetro</string>
-  <string name="force_touch_enter_timer">Temporizador</string>
+  <string name="force_touch_enter_stopwatch">Cronóm.</string>
+  <string name="force_touch_enter_timer">Tempor.</string>
   <string name="full_wday_month_day_no_year">"EEEE, d 'de' MMMM"</string>
   <string name="go_back">Voltar</string>
   <string name="hour">1 hora</string>
@@ -177,6 +177,7 @@
   <string name="timer_alert_type_rain">Chuviscos</string>
   <string name="timer_alert_type_stove_fire">Forno</string>
   <string name="timer_alert_type_summer_night">Noite de verão</string>
+  <string name="timer_can_continue_in_timer">Abrir temporizador para continuar</string>
   <string name="timer_cancel_hint">Parar</string>
   <string name="timer_alarm_cancel_pad">Toque no ecrã para parar de tocar</string>
   <string name="timer_alarm_dot_matrix_label">Temporizador</string>
@@ -188,6 +189,7 @@
   <string name="timer_end_time">O temporizador vai parar às %s</string>
   <string name="timer_end_time_format">"HH:mm 'de' dd 'de' MMMM"</string>
   <string name="timer_got_it">OK</string>
+  <string name="timer_is_paused">O temporizador está pausado</string>
   <string name="timer_item_duration_display">%1$d min. %2$d seg.</string>
   <string name="timer_item_label_hint">Nome do temporizador</string>
   <string name="timer_item_picker_hour">H</string>

@@ -369,7 +369,6 @@
   <string name="device_import_progress_begin_message">A importar…</string>
   <string name="device_import_progress_end_message">Importado</string>
   <string name="device_import_progress_message">A importar…</string>
-  <string name="device_import_progress_toast">%1$d contactos importados</string>
   <string name="device_import_title">Importar</string>
   <string name="device_list_title">Escolher um dispositivo</string>
   <string name="device_other_guide">O outro dispositivo suporta Bluetooth?</string>
@@ -900,6 +899,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="preference_others">Outros</string>
   <string name="preference_phone">Telefone</string>
   <string name="preference_phone_more_title">Definições das chamadas</string>
+  <string name="preference_privacy_policy_title">Política de Privacidade</string>
   <string name="preference_remove_duplicate">Unir contactos duplicados</string>
   <string name="preference_show_firewall_calllog">Mostrar chamadas bloqueadas no registo de chamadas</string>
   <string name="preference_show_yellowpage_tab_description">As páginas amarelas podem não funcionar correctamente se esta funcionalidade estiver desligada</string>

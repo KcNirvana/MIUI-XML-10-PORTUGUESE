@@ -247,6 +247,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="pref_summary_no_limit_popup">Ilimitado</string>
   <string name="pref_title_enable_max_bytes_popup">Mostrar aviso de utilização de dados</string>
   <string name="preferences_title">Definições</string>
+  <string name="privacy_policy">Política de Privacidade</string>
   <string name="privacy_tip_cancel">Cancelar</string>
   <string name="privacy_tip_content">Optimizar a velocidade das transferências com o acelerador Xunlei? O URL do servidor de transferências vai ser carregado para os servidores do Xunlei. Os seus detalhes da Conta Mi também vão ser enviados para verificar se tem assinaturas activas para este serviço</string>
   <string name="privacy_tip_ok">OK</string>
