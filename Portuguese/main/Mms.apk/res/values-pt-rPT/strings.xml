@@ -27,6 +27,8 @@
   <string name="app_label">Mensagens</string>
   <string name="app_name">Dispositivos</string>
   <string name="attach_image">Imagens</string>
+  <string name="attach_rcs_file">Ficheiro</string>
+  <string name="attach_rcs_location">Localização</string>
   <string name="attach_record_sound">Gravar áudio</string>
   <string name="attach_record_video">Gravar vídeo</string>
   <string name="attach_slideshow">Apresentação</string>
@@ -121,6 +123,7 @@
   <string name="conversation_style">Bolha</string>
   <string name="converting_to_picture_message">A converter em mensagem multimédia…</string>
   <string name="converting_to_text_message">A converter em mensagem de texto…</string>
+  <string name="converting_vcard_failed">Não foi possível converter contacto</string>
   <string name="copy_message_text">Copiar</string>
   <string name="copy_message_text_success">Texto copiado</string>
   <string name="copy_to_sdcard">Guardar anexo</string>
@@ -138,9 +141,19 @@
   <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
   <string name="delivery_toast_body">Mensagem recebida por %s</string>
+  <string name="delivery_toast_body_more">Mensagem recebida por %1$s e %2$d outras pessoas</string>
   <string name="dialog_message_fake_cell_detect_error">Corrijir a informação acerca desta mensagem? Para fazer isto, a MIUI necessita de enviar o seu número de telefone (%1$s), o conteúdo da mensagem e a informação acerca da localização para os seus servidores</string>
+  <string name="dialog_message_mx">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI. Vai ser cobrada uma SMS pela activação deste serviço. Tem de concordar com os nossos \"%1$s\" e \"%2$s\" antes de utilizar</string>
+  <string name="dialog_message_mx_rcs">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI e utilizadores China Mobile. Vai ser cobrada uma SMS pela activação deste serviço. Tem de concordar com os nossos \"%1$s\" e \"%2$s\" antes de utilizar. Concorda?</string>
+  <string name="dialog_message_networking">As Mensagens necessitam de ligar à Internet e aceder à sua localização para fornecer serviços. Tem de concordar com os nossos \"%1$s\" e \"%2$s\" antes de utilizar estes serviços. Permitir?</string>
+  <string name="dialog_message_networking_mx">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI. Vai ser cobrada uma SMS pela activação deste serviço. Tem de concordar com os nossos \"%1$s\" e \"%2$s\" antes de utilizar. As Mensagens necessitam de ligar à Internet e aceder à sua localização para fornecer serviços. Permitir?</string>
+  <string name="dialog_message_networking_mx_rcs">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI e utilizadores China Mobile. Vai ser cobrada uma SMS pela activação deste serviço. Tem de concordar com os nossos \"%1$s\" e \"%2$s\" antes de utilizar. As Mensagens necessitam de ligar à Internet e aceder à sua localização para fornecer serviços. Permitir?</string>
+  <string name="dialog_message_networking_rcs">As Mensagens China Mobile permite enviar mensagens gratuitas para outros utilizadores China Mobile. Tem de concordar com os nossos \"%1$s\" e \"%2$s\" antes de utilizar. As Mensagens necessitam de ligar à Internet e aceder à sua localização para fornecer serviços. Permitir?</string>
+  <string name="dialog_message_rcs">As Mensagens China Mobile permite enviar mensagens gratuitas para outros utilizadores China Mobile. Tem de concordar com \"%1$s\" e \"%2$s\" antes de utilizar. Concordar?</string>
   <string name="dialog_message_sms_report">As mensagens de spam e informação do remetente vão ser enviadas para a MIUI quando as reportar. Apenas vão ser utilizadas para melhorar os filtros de spam da MIUI</string>
   <string name="dialog_title_fake_cell_detect_error">Correções</string>
+  <string name="dialog_title_mx_rcs">Mi Message</string>
+  <string name="dialog_title_networking">Termos e Condições</string>
   <string name="disable_notifications_dialog_message">Parar notificações de mensagens de texto duplicadas a partir da aplicação de mensagens predefinida?</string>
   <string name="disabled">Desligado</string>
   <string name="discard">Rejeitar</string>
@@ -197,6 +210,7 @@
   <string name="file_width_height">Tamanho:</string>
   <string name="force_touch_new_message_title">Nova mensagem</string>
   <string name="forward_from">Reencaminhar de:</string>
+  <string name="forward_message_select_title">Mensagem reencaminhada</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Carregar mensagens de %1$s para %2$s?</string>
   <string name="found_old_messages_title">Carregar mensagens dos seus outros cartões SIM?</string>
@@ -288,9 +302,10 @@
   <string name="msg_type_hint_mms">Mensagem multimédia (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi Message</string>
-  <string name="msg_type_hint_mx_omit">Msgs Mi</string>
+  <string name="msg_type_hint_mx_omit">Mi Msg</string>
   <string name="msg_type_hint_sms">Mensagem de texto</string>
   <string name="msg_type_hint_sms_omit">SMS</string>
+  <string name="msg_type_sms_rcs">SMS, MMS e mensagens pela Internet</string>
   <string name="msglist_continue_to_pull_for_more">Descer para ver mais</string>
   <string name="msglist_more_refreshing">A actualizar…</string>
   <string name="msglist_no_more_to_refresh">Já actualizado</string>
@@ -305,7 +320,7 @@
   <string name="mx_activate_error_server">Não foi possível activar</string>
   <string name="mx_activate_error_sim_change">Parece que mudou os cartões SIM. Para activar o Mi Message é necessário enviar uma SMS para os servidores da Xiaomi</string>
   <string name="mx_activate_error_title">Não foi possível activar</string>
-  <string name="mx_activate_hint_malformed_info">Uma SMS vai ser enviada para reactivar oMi Message para o cartão SIM actual. Vai ter custos nacionais da sua operadora</string>
+  <string name="mx_activate_hint_malformed_info">Uma SMS vai ser enviada para reactivar o Mi Message para o cartão SIM actual. Vai ter custos nacionais da sua operadora</string>
   <string name="mx_activate_hint_server">Uma SMS vai ser enviada para reactivar o Mi Message para o cartão SIM actual. Vai ter custos nacionais da sua operadora</string>
   <string name="mx_activate_hint_sim_change">Uma SMS vai ser enviada para reactivar o Mi Message para o cartão SIM actual. Vai ter custos nacionais da sua operadora</string>
   <string name="mx_activate_network_allow_notice">Este serviço necessita de acesso aos dados móveis para funcionar normalmente</string>
@@ -349,6 +364,7 @@
   <string name="mx_stranger_recommend_msg">Toque para bloquear o Mi Message de números desconhecidos</string>
   <string name="mx_type_guide">O Mi Message permite enviar SMS grátis para outros utilizadores MIUI</string>
   <string name="need_download">A sincronizar…</string>
+  <string name="network_error_description">Não foi possível ligar à rede. Tente novamente</string>
   <string name="networking_allow_continue">Permitir</string>
   <string name="networking_allow_desc">O Mi Message necessita de ligar à Internet para funcionar normalmente. Para fornecer serviços de voz e texto gratuitos, reconhecer números desconhecidos, filtar spam, etc. o Mi Message necessita de utilizar as páginas amarelas. Permitir que as páginas amarelas possam ligar à Internet, obter informações de localização e ler os seus contactos?</string>
   <string name="networking_allow_desc_without_mx">O Mi Message necessita de ligar à Internet para funcionar normalmente. Para reconhecer números desconhecidos, filtar spam, etc. o Mi Message necessita de utilizar as páginas amarelas. Permitir que as páginas amarelas possam ligar à Internet, obter informações de localização e ler os seus contactos?</string>
@@ -365,6 +381,7 @@
   <string name="no_subject_view">(Sem assunto)</string>
   <string name="non_english_subject_limit">Limite de 13 caracteres</string>
   <string name="nosend_message">Não enviar</string>
+  <string name="not_prepare_for_send">Sem mensagens para enviar</string>
   <string name="notification_channel_msg_description">Notificação de mensagem</string>
   <string name="notification_channel_msg_name">Mensagem</string>
   <string name="notification_channel_other_description">Notificação de outros</string>
@@ -472,6 +489,7 @@
   <string name="privacy_password_title2">Utilizar padrão de Protecção de Privacidade</string>
   <string name="privacy_password_title3">Actualizar o seu padrão</string>
   <string name="privacy_password_title4">Padrão actualizado</string>
+  <string name="privacy_policy">Política de Privacidade</string>
   <string name="private_message">Mensagens privadas</string>
   <string name="private_new_notification">Notificações de mensagens</string>
   <string name="private_protect">Protecção de Privacidade</string>
@@ -485,6 +503,14 @@
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Destinatário: </string>
   <string name="recipients_over_size">Demasiados destinatários</string>
+  <string name="recommend_bar_cancel">Ignorar</string>
+  <string name="recommend_bar_message_mx">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI</string>
+  <string name="recommend_bar_message_mx_rcs">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI e utilizadores China Mobile</string>
+  <string name="recommend_bar_message_rcs">As Mensagens China Mobile permite enviar mensagens gratuitas para outros utilizadores China Mobile</string>
+  <string name="recommend_bar_message_smart_message">Copie OTPs, rastreie pacotes, utilize menus inteligentes e mais</string>
+  <string name="recommend_bar_ok">Ligar</string>
+  <string name="recommend_bar_title_mx_rcs">Mi Message</string>
+  <string name="recommend_bar_title_smart_message">Mensagens inteligentes</string>
   <string name="recording_failed">Não foi possível gravar</string>
   <string name="refill_now">Recarregar agora</string>
   <string name="refreshing">Actualizar…</string>
@@ -505,6 +531,14 @@
   <string name="restore_blocked_message">Restaurar</string>
   <string name="restore_to_phone_memory_failed">Não foi possível restaurar</string>
   <string name="restored_to_phone_memory">Restaurada</string>
+  <string name="rms_audio_file_duration_too_long">Não é possível enviar áudio maior que 180 segundos</string>
+  <string name="rms_audio_file_length_too_large">Não é possível enviar áudio maior que %1$dMB</string>
+  <string name="rms_file_not_exist">O ficheiro não existe</string>
+  <string name="rms_file_not_exist_to_view">Este ficheiro foi movido ou eliminado</string>
+  <string name="rms_illegal_extension">Formato de ficheiro inválido</string>
+  <string name="rms_normal_file_length_too_large">Não é possível enviar ficheiros maiores que %1$dMB</string>
+  <string name="rms_original_image_length_too_large">Não é possível enviar imagens maiores que %1$dMB"</string>
+  <string name="rms_original_image_size_too_large">A imagem original é demasiado grande</string>
   <string name="save">Guardar</string>
   <string name="save_ringtone">Guardar como toque</string>
   <string name="save_to_sim">Guardar no cartão SIM</string>
@@ -550,6 +584,8 @@
   <string name="send_message_notification_msg">Toque para ver os detalhes solicitados</string>
   <string name="send_message_notification_tickerText">O dispositivo está a solicitar permissão</string>
   <string name="send_message_notification_title">Pedido de permissão</string>
+  <string name="send_rms_editor_hints">Mensagens China Mobile</string>
+  <string name="send_rms_editor_hints_omit">Mi Message</string>
   <string name="send_signature_confirm_dialog_message">Não foi encontrado nenhum corpo da mensagem. Enviar apenas a assinatura?</string>
   <string name="send_signature_confirm_dialog_title">Enviar mensagem</string>
   <string name="send_sms">Enviar mensagem</string>
@@ -632,7 +668,7 @@
   <string name="timed_message_to">para</string>
   <string name="title_allow_network_access">Actualizar informações automaticamente</string>
   <string name="title_collapse_sp_messages">Agrupar notificações</string>
-  <string name="title_hide_verification_code">Ocultar autom. OTP no ecrã de bloqueio</string>
+  <string name="title_hide_verification_code">Ocultar auto. OTP no ecrã de bloqueio</string>
   <string name="title_show_blocked_messages">Mostrar SMS bloqueadas</string>
   <string name="title_show_list_avatar">Mostrar fotos de perfil</string>
   <string name="title_show_photo_word">Atribuir fotos aos contactos</string>
@@ -675,6 +711,7 @@ Tentativas efectuadas: %s"</string>
   <string name="url_fraud_visit"><u>Visitar mesmo assim</u></string>
   <string name="url_result_safe">Este URL é seguro</string>
   <string name="url_scanning">A verificar URL…</string>
+  <string name="user_agreement">Termos de Utilização</string>
   <string name="url_scan_again">Verificar novamente</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Códigos de verificação</string>

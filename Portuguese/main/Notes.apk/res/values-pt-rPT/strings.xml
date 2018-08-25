@@ -164,7 +164,7 @@
   <string name="setting_other">Outros</string>
   <string name="setting_privacy">Política de Privacidade</string>
   <string name="snippet_audio_stub">Nota de voz</string>
-  <string name="snippet_image_stub">[Image]</string>
+  <string name="snippet_image_stub">Nota de imagem</string>
   <string name="snippet_image_template">[Imagem %1$s]</string>
   <string name="sns_action_send">Enviar</string>
   <string name="sns_choose_quality_high">Alta (%1$s)</string>

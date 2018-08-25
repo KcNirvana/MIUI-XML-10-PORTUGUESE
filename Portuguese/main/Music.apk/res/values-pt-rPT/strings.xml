@@ -57,6 +57,8 @@
   <string name="asset_sync_power_alert_title">Bateria fraca</string>
   <string name="artist_news">Notícias</string>
   <string name="audio_picker_title">Escolher uma música</string>
+  <string name="auto_update">Actualizar automaticamente</string>
+  <string name="auto_update_tip">Pode actualizar aplicações de sistema utilizando dados móveis. Pode gerar custos adicionais</string>
   <string name="auto_upgrade">Actualizar automaticamente</string>
   <string name="available_playlist_name_format">Nova lista de reprodução %d</string>
   <string name="avoid_to_use_traffic_summary">Mostrar aviso de utilização de dados móveis</string>

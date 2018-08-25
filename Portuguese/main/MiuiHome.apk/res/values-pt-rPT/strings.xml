@@ -202,7 +202,7 @@
   <string name="memory_clear_nothing_result">Nada para limpar na cache</string>
   <string name="memory_clear_result">%1$sB limpos</string>
   <string name="menu_add">Adicionar</string>
-  <string name="menu_auto_fill">Preencher auto.</string>
+  <string name="menu_auto_fill">Preencher automaticamente</string>
   <string name="menu_back_desktop">Voltar para o ecrã inicial</string>
   <string name="menu_cell_setting">Layout do ecrã inicial</string>
   <string name="menu_customize">Definições</string>
