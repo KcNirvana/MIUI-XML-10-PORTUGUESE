@@ -827,7 +827,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_first_window_handsfree_summary">Ligar o altifalante automaticamente</string>
   <string name="gb_first_window_handsfree_title">Chamadas mãos-livres</string>
   <string name="gb_first_window_start">Começar a jogar</string>
-  <string name="gb_first_window_summary">Boost speed and performance on a system level</string>
+  <string name="gb_first_window_summary">Acelerar velocidade e desempenho do sistema</string>
   <string name="gb_first_window_title">Acelerador de jogos</string>
   <string name="gb_msg_completely_shielded">Ocultar mensagens</string>
   <string name="gb_msg_completely_shielded_summary">Ocultar</string>

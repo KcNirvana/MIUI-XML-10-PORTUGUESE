@@ -112,7 +112,7 @@
   <string name="hourly_forcast_now">Agora</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title">Previsão horária</string>
-  <string name="hourly_forecast_title_24_hours_desc">Previsão de 24 horas</string>
+  <string name="hourly_forecast_title_24_hours_desc">Previsão horária</string>
   <string name="hourly_forecast_title_hourly_desc">Previsão horária</string>
   <string name="index_item_experience_now">Instalar agora</string>
   <string name="index_item_install_dialog"/>
