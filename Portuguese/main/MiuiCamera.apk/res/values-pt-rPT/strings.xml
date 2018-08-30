@@ -473,6 +473,13 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Modo de focagem</string>
   <string name="pref_video_hfr_title">Vídeo HFR</string>
+  <string name="pref_video_quality_entry_1080p">Full HD (1080p) 30fps</string>
+  <string name="pref_video_quality_entry_1080p_60fps">Full HD (1080p) 60fps</string>
+  <string name="pref_video_quality_entry_480p">SD (480p) 30fps</string>
+  <string name="pref_video_quality_entry_4kuhd">4K (2160p) 30fps</string>
+  <string name="pref_video_quality_entry_4kuhd_60fps">4K (2160p) 60fps</string>
+  <string name="pref_video_quality_entry_720p">HD (720p) 30fps</string>
+  <string name="pref_video_quality_entry_fwvga">FWVGA</string>
   <string name="pref_video_quality_title">Qualidade de vídeo</string>
   <string name="pref_video_speed_entry_fast">Rápido</string>
   <string name="pref_video_speed_entry_normal">Médio (padrão)</string>

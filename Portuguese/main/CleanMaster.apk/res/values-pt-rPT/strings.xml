@@ -204,10 +204,10 @@
   <string name="go_to">Continuar</string>
   <string name="goto_set">Definir</string>
   <string name="grabage_rank_title">Limpo hoje</string>
-  <string name="guide_secure_dialog_message">O pontuação de optimização do seu dispositivo é menor que 80 pontos. Optimizar agora?</string>
+  <string name="guide_secure_dialog_message">A pontuação de optimização do seu dispositivo é menor que 80 pontos. Optimizar agora?</string>
   <string name="guide_secure_dialog_negative">Cancelar</string>
   <string name="guide_secure_dialog_positive">Optimizar</string>
-  <string name="guide_secure_dialog_title">Optimize performance</string>
+  <string name="guide_secure_dialog_title">Optimização de desempenho</string>
   <string name="guide_virus_dialog_message">Verificar aplicações e pacotes de instalação protege o seu dispositivo de vírus e malware. Verificar agora?</string>
   <string name="guide_virus_dialog_negative">Cancelar</string>
   <string name="guide_virus_dialog_positive">Verificar</string>
