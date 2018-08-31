@@ -1411,6 +1411,7 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_unlock_really_person">Parece que substituiu o seu rosto por um objecto</string>
   <string name="switch_bar_off">Desligado</string>
   <string name="switch_bar_on">Ligado</string>
+  <string name="switch_system_user">Abrir Primeiro espaço</string>
   <string name="system_ui_tuner">Sintonizador da interface do sistema</string>
   <string name="task_access_locked_app_msg">Bloqueio de aplicações ligado</string>
   <string name="theme">Temas</string>

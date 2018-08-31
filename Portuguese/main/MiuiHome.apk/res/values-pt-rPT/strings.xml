@@ -332,6 +332,7 @@
   <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicação clonada %s?</string>
   <string name="unknown_artist_name">Artista desconhecido</string>
   <string name="unnamed_folder_name">Pasta</string>
+  <string name="use_theme_screen_cells_title">Permitir que o tema sobreponha o layout do ecrã</string>
   <string name="wallpaper">Papel de parede</string>
   <string name="wallpaper_auto_change_title">Ecrã de bloqueio</string>
   <string name="wallpaper_failed_message">Não foi possível definir</string>

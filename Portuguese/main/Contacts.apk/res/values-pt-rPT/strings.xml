@@ -404,7 +404,7 @@
   <string name="dialer_useDtmfDialpad">Utilizar o teclado numérico</string>
   <string name="dialog_import">Importar contactos</string>
   <string name="dialog_import_export">Importar/Exportar contactos</string>
-  <string name="dialog_new_contact_account">Criar contacto na conta</string>
+  <string name="dialog_new_contact_account">Criar contactos na conta</string>
   <string name="dialog_new_group_account">Criar grupo na conta</string>
   <string name="dialog_phone_call_prohibited_message">Chamada não enviada</string>
   <string name="dialog_sync_add">Adicionar sincronização do grupo</string>

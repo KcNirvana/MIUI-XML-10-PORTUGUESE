@@ -339,4 +339,20 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">%d aplicações estão ocultas</item>
         <item quantity="one">%d aplicação está oculta</item>
     </plurals>
+    <plurals name="hide_txt_hint_with_blank_2">
+        <item quantity="other">    +%1$d mais caracteres</item>
+        <item quantity="one">    +%1$d mais caracter</item>
+    </plurals>
+    <plurals name="privacy_apps_enable_header_title">
+        <item quantity="other">Pode ocultar %d aplicações</item>
+        <item quantity="one">Pode ocultar %d aplicação</item>
+    </plurals>
+    <plurals name="privacy_apps_disable_header_title">
+        <item quantity="other">%d aplicações ocultas</item>
+        <item quantity="one">%d aplicação oculta</item>
+    </plurals>
+    <plurals name="first_aid_result_summary_exception">
+        <item quantity="other">%1$d problemas que necessitam de optimização</item>
+        <item quantity="one">%1$d problema que necessita de optimização</item>
+    </plurals>
 </resources>

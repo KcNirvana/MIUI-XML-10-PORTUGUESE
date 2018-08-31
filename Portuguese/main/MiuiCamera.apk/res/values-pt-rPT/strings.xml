@@ -32,6 +32,7 @@
   <string name="accessibility_hdr_off">HDR desligado</string>
   <string name="accessibility_hdr_on">HDR ligado</string>
   <string name="accessibility_intent_done_apply">Concluído</string>
+  <string name="accessibility_intent_done_retry">Repetir</string>
   <string name="accessibility_mode_dismiss_button">Fechar o modo de selecção de botões</string>
   <string name="accessibility_more">Mais</string>
   <string name="accessibility_open">Ligado</string>
@@ -560,5 +561,6 @@ e traz as pessoas que estão na frente"</string>
   <string name="video_effect_entry_holiday">Reflexos</string>
   <string name="video_effect_entry_polaroid">Polaroid</string>
   <string name="video_reach_size_limit">Limite de tamanho atingido</string>
+  <string name="view_privacy_policy">Ver Política de Privacidade</string>
   <string name="wait">Aguarde…</string>
 </resources>

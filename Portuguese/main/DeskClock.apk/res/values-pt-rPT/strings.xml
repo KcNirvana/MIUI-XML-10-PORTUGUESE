@@ -63,6 +63,7 @@
   <string name="edit_systemtime">Editar hora do sistema</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Todos os dias</string>
+  <string name="expired_timers_dismissed">Temporizador suspendido</string>
   <string name="force_touch_add_alarm">Adicionar alarme</string>
   <string name="force_touch_enter_stopwatch">Cronómetro</string>
   <string name="force_touch_enter_timer">Temporizador</string>
@@ -74,6 +75,7 @@
   <string name="install_weather_app_error">Não foi possível carregar a aplicação</string>
   <string name="install_weather_app_loading">Aguarde…</string>
   <string name="invalid_time">Hora inválida: %3$s %1$d: %2$d</string>
+  <string name="invalid_timer_length">Temporizador inválido</string>
   <string name="keep_screen_on">Manter ecrã ligado</string>
   <string name="label">Definir nome</string>
   <string name="label_pref_summary">Nome</string>
@@ -129,7 +131,9 @@
   <string name="never">Uma vez</string>
   <string name="oneshot_alarm">Eliminar após desligado</string>
   <string name="open_keep_screen">O ecrã vai permanecer ligado</string>
+  <string name="other_category_title">Outros</string>
   <string name="pause">Pausar</string>
+  <string name="privacy_policy">Política de Privacidade</string>
   <string name="percentage_sign">%</string>
   <string name="remind_ringtone">Toque</string>
   <string name="reset">Repor</string>
@@ -186,6 +190,7 @@
   <string name="timer_clock_alert_text">Definir temporizador</string>
   <string name="timer_continue">Continuar</string>
   <string name="timer_continue_timer">Continuar temporizador</string>
+  <string name="timer_created">Temporizador criado</string>
   <string name="timer_end_time">O temporizador vai parar às %s</string>
   <string name="timer_end_time_format">"HH:mm 'de' dd 'de' MMMM"</string>
   <string name="timer_got_it">OK</string>
