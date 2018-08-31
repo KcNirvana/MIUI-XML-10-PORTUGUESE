@@ -38,6 +38,16 @@
   <string name="agenda_settings_loan">Mostar pagamento de empréstimos</string>
   <string name="alipay_scan">Digitalizador</string>
   <string name="app_label">Assistente</string>
+  <string name="app_setting">Definições</string>
+  <string name="app_setting_add_header_bg">Imagem de capa</string>
+  <string name="app_setting_datetime">Mostrar data</string>
+  <string name="app_setting_dialog_cancel">Cancelar</string>
+  <string name="app_setting_has_not_setted">Não definida</string>
+  <string name="app_setting_has_setted">Definida</string>
+  <string name="app_setting_more_setting">Adicionais</string>
+  <string name="app_setting_on_off_setting">Gerais</string>
+  <string name="app_setting_privacy_policy">Política de Privacidade</string>
+  <string name="app_setting_search">Mostrar barra de pesquisa</string>
   <string name="apps">Sugestões da aplicação</string>
   <string name="apps_label">Aplicações</string>
   <string name="assistant_format_MMdd">dd/MM</string>
@@ -495,7 +505,7 @@
   <string name="spending_setting_brief">Payment details</string>
   <string name="sport">Desportos</string>
   <string name="sport_open">Mostrar cartão Mi Fit</string>
-  <string name="step_setting_tip">Origem da info. dos passos</string>
+  <string name="step_setting_tip">Origem da informação dos passos</string>
   <string name="step_vip_action_bar">passos</string>
   <string name="steps">passos</string>
   <string name="steps_auto_misport">Permitir início automático</string>

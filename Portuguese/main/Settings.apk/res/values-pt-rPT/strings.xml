@@ -1169,7 +1169,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Eliminar esta impressão digital?</string>
   <string name="delete_rule">Eliminar regras</string>
   <string name="delete_saved_network">Eliminar redes guardadas</string>
-  <string name="delete_sound_effect">Som de \"eliminação\"</string>
+  <string name="delete_sound_effect">Som de eliminação</string>
   <string name="deleted_apps">Aplicações eliminadas</string>
   <string name="demo_mode">Modo demonstração</string>
   <string name="demo_mode_summary">Mostrar ícones específicos na barra de estado para demonstração</string>
@@ -2509,7 +2509,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="navigation_guide_appswitch_title">Voltar à aplicação anterior</string>
   <string name="navigation_guide_app_title">Activar acções das aplicações</string>
   <string name="navigation_guide_appswitch_anim_summary">Deslizar pelo ecrã para voltar à aplicação anterior</string>
-  <string name="navigation_guide_appswitch_anim_title">Trocar para a aplicação anterior</string>
+  <string name="navigation_guide_appswitch_anim_title">Voltar para a aplicação anterior</string>
   <string name="navigation_guide_appswitch_click">Ligue \"Voltar para a aplicação anterior\" primeiro</string>
   <string name="navigation_guide_back_anim_summary">Mostrar animações enquanto está a deslizar</string>
   <string name="navigation_guide_back_anim_title">Animar o gesto \"Voltar\"</string>

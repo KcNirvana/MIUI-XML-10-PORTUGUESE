@@ -130,12 +130,12 @@
         <item quantity="one">Nunca desactivar para 1 aplicação</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">PIN must be %d digits long</item>
-        <item quantity="one">PIN must be %d digit long</item>
+        <item quantity="other">PIN tem de ter %d dígitos</item>
+        <item quantity="one">PIN tem de ter %d dígito</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN can contain up to %d digits</item>
-        <item quantity="one">PIN can contain up to %d digit</item>
+        <item quantity="other">PIN pode ter até %d dígitos</item>
+        <item quantity="one">PIN pode ter até %d dígito</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
         <item quantity="other">Ligue pelo menos %d pontos. Tente novamente</item>
