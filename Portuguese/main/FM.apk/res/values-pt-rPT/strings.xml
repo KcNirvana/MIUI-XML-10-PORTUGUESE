@@ -60,7 +60,6 @@
   <string name="toast_sleep_mode">Rádio vai parar de tocar em %s</string>
   <string name="toast_sleep_mode_exit">Temporizador cancelado</string>
   <string name="turn_off_fm">Desligar FM</string>
-  <string name="txt_divider">" | "</string>
   <string name="txt_sleep_mode">Modo temporizador</string>
   <string name="view_stations_list">Ver lista de estações</string>
   <string name="using_recorder_cancel">Negar</string>
