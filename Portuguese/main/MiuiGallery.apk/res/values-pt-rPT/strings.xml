@@ -7,7 +7,7 @@
   <string name="add_automatically_alert_title">Adicionar fotos automaticamente</string>
   <string name="add_secret_ensure_title">Ocultar</string>
   <string name="add_sharer">Adicionar membro</string>
-  <string name="add_to_album">Adic. ao álbum</string>
+  <string name="add_to_album">Adicionar ao álbum</string>
   <string name="add_to_album_bulk_result">Erro (%d)</string>
   <string name="add_to_album_exist">Esta foto já existe</string>
   <string name="add_to_album_failed">Não foi possível adicionar ao álbum</string>

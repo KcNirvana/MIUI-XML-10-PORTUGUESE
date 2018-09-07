@@ -863,6 +863,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="charging_sounds_title">Som de carregamento</string>
   <string name="check_find_device_status_failure_confirm">OK</string>
   <string name="check_importance">Importância</string>
+  <string name="check_importance_dialog_cancel">Cancelar</string>
   <string name="check_update">Verificar actualizações</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilizar volume de chamadas recebidas para notificações</string>
   <string name="checking_decryption">A verificar…</string>

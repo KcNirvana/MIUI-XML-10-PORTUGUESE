@@ -355,6 +355,7 @@
   <string name="auto_task_operation_sync">Sincronizar</string>
   <string name="auto_task_operation_vibration">Vibração</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
+  <string name="auto_task_result_summary_text">Definir tarefas automáticas para poupança de bateria</string>
   <string name="back_app_name">Voltar para Bloqueio de aplicações</string>
   <string name="back_description_securitycenter">Voltar</string>
   <string name="back_modifypassword">Voltar para alteração de palavra-passe</string>
@@ -734,7 +735,8 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
 <li>Se quiser que uma aplicação execute em segundo plano, bloqueie-a nos Recentes ou adicione-a às excepções. Pode ter até 4 aplicações a executar em segundo plano no modo de poupança extrema de bateria</li>
 <li>A poupança extrema de bateria desliga o NFC por defeito. Pode alterar isto nas Definições</li>
 <li>Para garantir que utiliza todas as funcionalidades do seu dispositivo, a poupança extrema de bateria vai ser desligada automaticamente quando a sua bateria chegar aos 30%</li></string>
-  <string name="extreme_power_save_mode_summary">A poupança extrema de bateria restringe a actividade em segundo plano, sincronização e reduz as cores do ecrã</string>
+  <string name="extreme_power_save_mode_card_summary">Ligue o modo poupança extrema de bateria quando a bateria estiver fraca</string>
+  <string name="extreme_power_save_mode_summary">A poupança extrema de bateria restringe a actividade em segundo plano e pára a sincronização</string>
   <string name="extreme_power_save_mode_title">Poupança extrema de bateria</string>
   <string name="finger_remind_message">Adicione a sua impressão digital primeiro. Toque para abrir as Definições</string>
   <string name="fingerprint_identify_msg">Ligar desbloqueio por impressão digital</string>
@@ -938,10 +940,15 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="guide_wait_setting">Agora não</string>
   <string name="handle_bar_summary_wifi_unknown">Desconhecido</string>
   <string name="handle_bar_title_system">Sistema</string>
+  <string name="handle_title_abnormal">Bateria a descarregar</string>
+  <string name="handle_title_app">Aplicações</string>
+  <string name="handle_title_details">Detalhes de utilização da bateria</string>
   <string name="handle_title_network">Segurança Wi-Fi</string>
   <string name="handle_title_pay_env">Pagamentos</string>
   <string name="handle_title_privacy">Privacidade e segurança</string>
+  <string name="handle_title_system">Utilização de bateria pelo sistema</string>
   <string name="hide_mode_app_background_setting_text">Poupança de bateria das aplicações</string>
+  <string name="hide_mode_result_summary_text">Personalize as definições de poupança de bateria para cada aplicação</string>
   <string name="hide_mode_summary_text">Gerir as actividades das aplicações em segundo plano para poupar bateria</string>
   <string name="hide_system_app">Ocultar aplicações de sistema</string>
   <string name="hint_antispam_mode_edit">Modo personalizado</string>
@@ -1492,6 +1499,8 @@ do seu dispositivo"</string>
   <string name="pc_activity_title">Optimizar bateria</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instalação via USB</string>
+  <string name="pc_main_activity_back">Voltar</string>
+  <string name="pc_settings_title">Definições de utilização de bateria</string>
   <string name="pc_to_phone_install">Instalação bloqueada de %s via USB</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
   <string name="percent_formatted_text">%s%%</string>
@@ -1530,12 +1539,29 @@ do seu dispositivo"</string>
   <string name="power_center_auto_shutdown">Ligar/desligar automaticamente</string>
   <string name="power_center_back">Voltar</string>
   <string name="power_center_charge_time">%1$s até estar carregada</string>
-  <string name="power_center_main_percent_formatted">%s%%</string>
+  <string name="power_center_hints_scan_danger_result">Pode corrigir os problemas de bateria agora</string>
+  <string name="power_center_list_item_auto_brightness">Ajustar o brilho do ecrã automaticamente</string>
+  <string name="power_center_list_item_close_bluetooth">Desligar o Bluetooth</string>
+  <string name="power_center_list_item_deep_save_title">Definições avançadas</string>
+  <string name="power_center_list_item_set_lockscreen_time">Pôr ecrã em suspensão após 30 segundos de inactividade</string>
   <string name="power_center_ontime_boot">Hora de ligar</string>
   <string name="power_center_ontime_shutdown">Hora de desligar</string>
   <string name="power_center_repeat">Repetir</string>
+  <string name="power_center_scan_item_title_GPS">Ajustar precisão do GPS</string>
+  <string name="power_center_scan_item_title_abnormal">Problemas de bateria</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Aplicação com consumo anormal de bateria</string>
+  <string name="power_center_scan_item_title_auto_invoke">Início da cadeia</string>
+  <string name="power_center_scan_item_title_auto_start">Início automático</string>
+  <string name="power_center_scan_item_title_battery_details">Detalhes de utilização da bateria</string>
+  <string name="power_center_scan_item_title_brightness">Ajustar o brilho do ecrã</string>
+  <string name="power_center_scan_item_title_clean_memory">Limpar memória</string>
+  <string name="power_center_scan_item_title_hide">Gerir utilização de bateria</string>
+  <string name="power_center_scan_item_title_power_saver">Ligar a poupança de bateria</string>
+  <string name="power_center_scan_item_title_running_app">Aplicações em execução em segundo plano</string>
+  <string name="power_center_scan_result_safe">Sem problemas de bateria</string>
   <string name="power_center_state_off">Desligado</string>
   <string name="power_center_state_on">Ligado</string>
+  <string name="power_center_stop_scan_title">Parar verificação</string>
   <string name="power_center_time_to_boot">Hora de ligar</string>
   <string name="power_center_time_to_shutdown">Hora de desligar</string>
   <string name="power_center_title">Utilização de bateria</string>
@@ -1576,6 +1602,7 @@ do seu dispositivo"</string>
   <string name="power_save_mode_summary">Monitorizar processos em segundo plano e desligar a sincronização</string>
   <string name="power_save_on_time_end_time_summary_na">Até</string>
   <string name="power_save_on_time_start_time_summary_na">De</string>
+  <string name="power_save_started_summary_text">A poupança de bateria está ligada. Reduz a actividade em segundo plano, pára a sincronização e minimiza as animações de sistema</string>
   <string name="power_save_summary_text">Ligar a poupança de bateria para reduzir a actividade das aplicações em segundo plano, parar a sincronização e ocultar as animações de sistema</string>
   <string name="power_save_title_text">Poupança de bateria</string>
   <string name="power_screen">Ecrã</string>
@@ -1666,7 +1693,7 @@ do seu dispositivo"</string>
   <string name="privacy_apps_go_to_use">Iniciar</string>
   <string name="privacy_apps_manage">Gerir aplicações ocultas</string>
   <string name="privacy_apps_manage_dialog_title">Acerca de aplicações ocultas</string>
-  <string name="privacy_apps_manager_dialog_message">Ocultar aplicações necessita de configurar o Bloqueio de aplicações. As notificações de aplicações ocultas vão ser desligadas. Ocultar esta aplicação?</string>
+  <string name="privacy_apps_manager_dialog_message">Esta aplicação não vai ser mostrada no ecrã inicial após a ocultar. Ocultar esta aplicação agora?</string>
   <string name="privacy_apps_tutorial">Tutorial</string>
   <string name="privacy_apps_tutorial_prompt_pageone">"Quando oculta uma aplicação, é movida para uma pasta oculta. O atalho no ecrã inicial é ocultado também.
 Esta funcionalidade não é suportada para aplicações de sistema"</string>
@@ -2036,6 +2063,7 @@ Esta funcionalidade não é suportada para aplicações de sistema"</string>
   <string name="summary_flow_notification">Mostrar as suas estatísticas de utilização de dados mensais na área de notificações</string>
   <string name="summary_flow_purchase">Está a atingir o limite de dados. Compre dados para se manter ligado</string>
   <string name="summary_flow_verify_failed">Ajuste automaticamente a utilização de dados para evitar custos adicionais</string>
+  <string name="summary_first_aid_kit">Corrija erros utilizando o nosso Pronto-Socorro</string>
   <string name="summary_garbage_clean">Limpar cache para libertar espaço</string>
   <string name="summary_garbage_lib">Utilize as últimas definições para remover spyware, adware ou outro tipo de lixo indesejado</string>
   <string name="summary_install_virus">Verificar por vírus nas aplicações antes da instalação</string>
@@ -2196,7 +2224,7 @@ Esta funcionalidade não é suportada para aplicações de sistema"</string>
   <string name="title_do_not_disturb">Não consegue ouvir o seu toque?</string>
   <string name="title_eye_shield">A cor do ecrã não parece boa?</string>
   <string name="title_find_device">Localizar Dispositivo</string>
-  <string name="title_first_aid_kit">First aid</string>
+  <string name="title_first_aid_kit">Pronto-Socorro</string>
   <string name="title_flow_notification">Notificações de dados móveis</string>
   <string name="title_flow_purchase">Comprar dados móveis</string>
   <string name="title_flow_rank">Utilização de dados móveis</string>

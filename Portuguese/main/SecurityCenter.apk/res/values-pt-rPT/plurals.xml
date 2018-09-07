@@ -112,6 +112,14 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">Encontrou %d problemas de bateria</item>
         <item quantity="one">Encontrou %d problema de bateria</item>
     </plurals>
+    <plurals name="power_center_menu_text">
+        <item quantity="other">itens</item>
+        <item quantity="one">item</item>
+    </plurals>
+    <plurals name="power_center_list_item_optimize_button">
+        <item quantity="other">Adicionar %d minutos</item>
+        <item quantity="one">Adicionar %d minuto</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Transferido por %1$d pessoas</item>
     </plurals>
