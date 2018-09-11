@@ -586,7 +586,7 @@
   <string name="wx_parent">WeChat</string>
   <string name="wx_paycode">Pagamentos</string>
   <string name="wx_scan">Digitalizador</string>
-  <string name="wx_timeline">Bateria</string>
+  <string name="wx_timeline">Momentos</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicação</string>
   <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
   <string name="year_month_day_format">dd/MM/yyyy</string>
