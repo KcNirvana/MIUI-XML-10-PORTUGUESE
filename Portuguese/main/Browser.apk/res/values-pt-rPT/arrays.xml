@@ -49,8 +49,8 @@
         <item>Tablet</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
-        <item>Visão Vertical</item>
-        <item>Vista horizontal</item>
+        <item>Visão vertical</item>
+        <item>Visão horizontal</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Muito pequeno</item>
