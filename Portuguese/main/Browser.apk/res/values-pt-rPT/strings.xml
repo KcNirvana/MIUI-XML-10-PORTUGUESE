@@ -25,7 +25,6 @@
     <string name="s5">Criar evento de calendário</string>
     <string name="s6">Pretende permitir ao anúncio criar um evento de calendário?</string>
     <string name="s7">Anúncio de teste</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="abc_action_bar_home_description">Ir para a Página inicial</string>
     <string name="abc_action_bar_up_description">Ir para cima</string>
     <string name="abc_action_menu_overflow_description">Mais</string>
@@ -731,10 +730,7 @@ Sair da navegação nesta página?"</string>
     <string name="mw_snippets_disabled_generic_prompt">Obter conteúdo personalizado</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Para obter conteúdo personalizado pelo Google, inicie sessão no Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
-    <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Definir hora</string>
     <string name="mw_updating_chrome">A atualizar o Chrome…</string>
     <string name="mw_video_buffering_percent">A armazenar</string>
