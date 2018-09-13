@@ -29,7 +29,7 @@
   <string name="cancel_alarm_description">Cancelar alarme</string>
   <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Mi Cloud para sincronizar notas</string>
   <string name="cloud_trash_bin_title">Eliminar notas na Mi Cloud</string>
-  <string name="cta_reminder">Esta aplicação necessita de ligar à Internet para copiar notas para a Mi Cloud, assim como, ler os seus contactos para etiquetar as notas que tira durante as chamadas</string>
+  <string name="cta_reminder">As Notas necessita de permissões para ligar à Internet, gravar áudio e aceder aos seus contactos para funcionar normalmente. Permitir?</string>
   <string name="date_time_picker_alarm_reminder">Alarmes</string>
   <string name="date_time_picker_dialog_title">Definir data e hora</string>
   <string name="date_time_picker_has_not_set_alarm">O alarme não está definido</string>

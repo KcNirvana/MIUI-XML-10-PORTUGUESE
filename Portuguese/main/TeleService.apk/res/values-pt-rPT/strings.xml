@@ -169,7 +169,7 @@
   <string name="card_title_MOcall_forwarding">Chamada efectuada reencaminhada</string>
   <string name="card_title_MTcall_forwarding">Chamada recebida reencaminhada</string>
   <string name="card_title_call_deflected">Chamada reencaminhada</string>
-  <string name="card_title_call_ended">Chamada terminada</string>
+  <string name="card_title_call_ended">"Chamada terminada "</string>
   <string name="card_title_callconnectedect">Chamada ECT activa</string>
   <string name="card_title_callconnectingect">A activar chamada ECT</string>
   <string name="card_title_calliswaiting">Chamada em espera</string>
@@ -189,7 +189,7 @@
   <string name="card_title_incoming_barred">Chamadas recebidas barradas</string>
   <string name="card_title_incoming_call">Chamada recebida</string>
   <string name="card_title_multipartycall">Chamada de conferência</string>
-  <string name="card_title_on_hold">Em espera</string>
+  <string name="card_title_on_hold">"Em espera "</string>
   <string name="card_title_outgoing_barred">Chamadas de saída barradas</string>
   <string name="card_title_redialing">A marcar novamente</string>
   <string name="card_title_unconditionalCF">Reencaminhamento de chamada incondicional activo</string>

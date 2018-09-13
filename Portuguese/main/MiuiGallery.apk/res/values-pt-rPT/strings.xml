@@ -261,6 +261,9 @@
   <string name="cloudfolder_name_reserved">Nome de álbum está reservado</string>
   <string name="collage__talkback_effect">Efeito %d</string>
   <string name="collage_choose">Seleccionar</string>
+  <string name="collage_drawable_normal_date_format">dd/MM/yyyy</string>
+  <string name="collage_drawable_rect_date_month_day">"dd 'de' MMM"</string>
+  <string name="collage_drawable_rect_date_year">yyyy</string>
   <string name="collage_margin_text">Margens</string>
   <string name="collage_mirror">Espelho</string>
   <string name="collage_poster_global_cat_text">Animais domésticos</string>
@@ -859,6 +862,10 @@ para personalizar a galeria"</string>
   <string name="play_gif_desc">Reproduzir GIF</string>
   <string name="play_video_desc">Reproduzir vídeo</string>
   <string name="preparing_data">Aguarde…</string>
+  <string name="privacy_permission_request_message">A Galeria necessita de aceder a %3$s. As informações que obtemos vão ser utilizadas de acordo com a nossa %1$s e %2$s. Permitir?</string>
+  <string name="privacy_permission_request_negative">Restringir</string>
+  <string name="privacy_permission_request_positive">Permitir</string>
+  <string name="privacy_permission_request_title">Permissões necessárias</string>
   <string name="projection_cancel">Cancelar</string>
   <string name="projection_checkbox_text">Memorizar este ecrã</string>
   <string name="projection_device_connection_failed">Não foi possível ligar ao projector</string>
@@ -1172,10 +1179,15 @@ para personalizar a galeria"</string>
   <string name="video_editor_auto_trim">Redução auto.</string>
   <string name="video_editor_auto_trim_tip">A reduzir…</string>
   <string name="video_editor_cancel">Cancelar</string>
+  <string name="video_editor_cancel_download">Cancelar</string>
   <string name="video_editor_done">Concluído</string>
   <string name="video_editor_down_load_later">Mais tarde</string>
   <string name="video_editor_down_load_no_wifi_tips">Ligue-se ao Wi-Fi para transferir</string>
   <string name="video_editor_down_load_now">Transferir</string>
+  <string name="video_editor_download">Transferir</string>
+  <string name="video_editor_download_failed_for_notwork">Não foi possível transferir. Ligue-se à rede e tente novamente</string>
+  <string name="video_editor_download_without_wifi_msg">Utilizar dados móveis para transferir ficheiros vai aumentar a sua utilização de dados</string>
+  <string name="video_editor_download_without_wifi_title">Aviso de utilização de dados</string>
   <string name="video_editor_encode_video">A codificar vídeo…</string>
   <string name="video_editor_encode_video_error">Não foi possível codificar vídeo</string>
   <string name="video_editor_fatal_error">Erro desconhecido</string>
@@ -1214,6 +1226,8 @@ para personalizar a galeria"</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Transferir músicas utilizando dados móveis?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Utilizar dados móveis</string>
   <string name="video_editor_res_not_load_dialog_msg">Transferir músicas para utilizar esta funcionalidade (mais de 20MB)</string>
+  <string name="video_editor_return">Voltar</string>
+  <string name="video_editor_save">Guardar</string>
   <string name="video_editor_smart_effect_beat">Batidas</string>
   <string name="video_editor_smart_effect_big_film">Épico</string>
   <string name="video_editor_smart_effect_cadence">Ritmo</string>

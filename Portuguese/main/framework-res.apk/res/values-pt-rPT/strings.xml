@@ -610,6 +610,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="mmiFdnError">A operação está restringida a números fixos autorizados</string>
   <string name="month_day_year" formatted="false">%-e de %B de %Y</string>
   <string name="more_item_label">Mais</string>
+  <string name="move_button_text">Trocar</string>
   <string name="muted_by">Silenciado por %1$s</string>
   <string name="needPuk">O seu cartão SIM está bloqueado com PUK. Introduza o código PUK para o desbloquear</string>
   <string name="needPuk2">Introduza o PUK2 para desbloquear o cartão SIM</string>

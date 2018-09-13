@@ -253,7 +253,6 @@
   <string name="nothing">--</string>
   <string name="open_feedback_main">Mais</string>
   <string name="packaging_dialog_content">A criar relatório…</string>
-  <string name="permission_granted">Permissão de %1$s concedida</string>
   <string name="pic_not_exist">Esta imagem não existe</string>
   <string name="plus_one_submit_dialog_content">O seu comentário assim como os relatórios de erros vão ser enviados para os servidores MIUI. Podem conter informações pessoais e dados de localização</string>
   <string name="plus_one_submit_dialog_not_show_again">Memorizar preferência</string>
@@ -292,9 +291,7 @@
   <string name="tab_title_my_reports">Os meus relatórios</string>
   <string name="tab_title_preferences">Definições</string>
   <string name="tab_title_report">Comentários</string>
-  <string name="time_in_justnow">Agora mesmo</string>
   <string name="title_answer_feedback_main">Encontrámos soluções!</string>
-  <string name="title_bbs_feedback_main">Saber mais sobre os telefones Mi</string>
   <string name="title_customer_service">Serviço de clientes</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Casa Mi próximas</string>

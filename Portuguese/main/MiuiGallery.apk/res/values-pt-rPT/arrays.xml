@@ -4,20 +4,6 @@
          <item>Rapaz</item>
          <item>Rapariga</item>
      </string-array>
-     <string-array name="collage_month">
-        <item>Jan</item>
-        <item>Fev</item>
-        <item>Mar</item>
-        <item>Abr</item>
-        <item>Mai</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Ago</item>
-        <item>Set</item>
-        <item>Out</item>
-        <item>Nov</item>
-        <item>Dez</item>
-    </string-array>
      <string-array name="owner_relation">
          <item>Pai</item>
          <item>Mãe</item>

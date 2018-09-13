@@ -374,6 +374,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="automatic_brightness">Brilho automático</string>
   <string name="available_size">Disponível: %s</string>
   <string name="available_via_passpoint">Disponível via %1$s</string>
+  <string name="available_virtual_keyboard_category">Teclados disponíveis</string>
   <string name="average_memory_use">Utilização média de memória</string>
   <string name="average_used">Utilização média (%)</string>
   <string name="avoid_ui">Bloqueio de toque</string>
@@ -1615,6 +1616,7 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="floating_window_switch_label_disable">Desactivar janelas flutuantes</string>
   <string name="fluency_mode">Animações de sistema</string>
   <string name="fluency_mode_confirm_and_reboot">Reiniciar agora</string>
+  <string name="following_us_title">Siga-nos</string>
   <string name="font_size_exhuge">Super Enorme</string>
   <string name="font_size_huge">Enorme</string>
   <string name="font_size_large">Maior</string>
@@ -3880,9 +3882,11 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_basic_settings">Definições básicas</string>
   <string name="status_bar_settings_custom_carrier">Editar nome da operadora</string>
   <string name="status_bar_settings_custom_wifi_name">Editar nome do Wi-Fi</string>
+  <string name="status_bar_settings_customer_feedback">Comentários</string>
   <string name="status_bar_settings_enable_notification">Mostrar notificações</string>
   <string name="status_bar_settings_expand_top_notification">Expandir notificações no topo</string>
   <string name="status_bar_settings_expandable_under_keyguard">Mostrar em ecrã de bloqueio seguro</string>
+  <string name="status_bar_settings_function_description">Acerca desta funcionalidade</string>
   <string name="status_bar_settings_long_click_sort">Prima e segure para alterar</string>
   <string name="status_bar_settings_manage_notification">Notificações das aplicações</string>
   <string name="status_bar_settings_no_carrier">Nenhum</string>
@@ -3913,6 +3917,11 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_toggle_collapse_after_clicked">Recolher depois de tocar</string>
   <string name="status_bar_settings_toggle_position">Posição dos atalhos</string>
   <string name="status_bar_settings_user_fold">Pasta de notificações</string>
+  <string name="status_bar_settings_user_fold_description1">A pasta de notificações foi introduzida na MIUI 9. Esta funcionalidade filtra as notificações não importantes e coloca-as numa pasta em separado</string>
+  <string name="status_bar_settings_user_fold_description2">A MIUI vai memorizar as notificações que toca e utilizar critérios de selecção para determinar se são importantes</string>
+  <string name="status_bar_settings_user_fold_description3">Se as notificações que considera importantes ainda forem para a pasta de notificações, reporte-nos o problema. Nós valorizamos os seus comentários</string>
+  <string name="status_bar_settings_user_fold_disable">Desligado</string>
+  <string name="status_bar_settings_user_fold_enable">Ligado</string>
   <string name="status_bar_settings_user_fold_summary">Todas as notificações não importantes vão aparecer numa pasta separada</string>
   <string name="status_bar_style_list">Separada</string>
   <string name="status_bar_style_page">Combinada</string>

@@ -45,6 +45,10 @@
         <item>Notas de voz</item>
         <item>Crie notas utilizando a ferramenta de voz para texto para anexar as suas gravações de voz às suas notas</item>
     </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Notas de voz</item>
+        <item>Agora pode criar notas de voz. Toque no ícone, grave a sua voz e guarde o ficheiro de áudio dentro da nota</item>
+    </string-array>
     <string-array name="welcome_notes_content">
         <item>"Bem-vindo às Notas
 "</item>

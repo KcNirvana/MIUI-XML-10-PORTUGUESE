@@ -470,6 +470,8 @@
   <string name="toast_select_white_need_remove">Escolher itens para remover</string>
   <string name="toast_selecte_group_restore_succeed">Fotos restauradas</string>
   <string name="toast_uninstall_success">Desinstalação concluída</string>
+  <string name="toast_updater_close_4g_text">As aplicações não vão ser actualizadas utilizando dados móveis</string>
+  <string name="toast_updater_open_4g_text">As aplicações vão ser actualizadas utilizando dados móveis (4G)</string>
   <string name="total_clean">Total limpo: %s</string>
   <string name="total_clean_text">Limpar</string>
   <string name="unlike">Não, obrigado</string>

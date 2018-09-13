@@ -433,7 +433,7 @@
   <string name="btn_start_diagnostic">Testar rede</string>
   <string name="btn_stop_diagnostic">Parar</string>
   <string name="btn_text_already_opened">Ligado</string>
-  <string name="btn_text_goto_power_rank">Ver classificação da bateria</string>
+  <string name="btn_text_goto_power_rank">Ver utilização da bateria</string>
   <string name="btn_text_goto_setup">Ir para as Definições</string>
   <string name="btn_text_network_speed_detail">Ligação</string>
   <string name="btn_text_open_now">Ligar</string>

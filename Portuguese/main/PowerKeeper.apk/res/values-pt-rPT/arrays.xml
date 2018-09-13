@@ -17,12 +17,13 @@
         <item>Outras aplicações</item>
     </string-array>
     <string-array name="thermal_entries">
-        <item>Dar prioridade à temperatura</item>
-        <item>Dar prioridade ao desempenho</item>
-    </string-array>
-    <string-array name="thermal_summaries">
         <item>Modo predefinido</item>
         <item>Modo desempenho actual</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Dar prioridade à temperatura</item>
+        <item>Dar prioridade ao desempenho</item>
+        <item>Configuração desactivada no modo extremo</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>Desempenho</item>

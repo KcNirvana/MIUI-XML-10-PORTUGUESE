@@ -35,7 +35,7 @@
   <string name="error_file_access">O ficheiro não existe ou está danificado</string>
   <string name="error_filename_illegal_char">O nome do ficheiro contém caracteres inválidos</string>
   <string name="error_filename_too_long">Nome de ficheiro muito longo</string>
-  <string name="error_sdcard_access">Não é possível aceder ao armazenamento</string>
+  <string name="error_sdcard_access">Não é possível aceder ao cartão SD</string>
   <string name="error_sdcard_unmounted">Inserir cartão SD agora</string>
   <string name="export_to_note">Exportar</string>
   <string name="head_set_tip_dialog_msg">Desligue os auriculares para poder gravar som com predefinições específicas (p.e. Música, Voz)</string>

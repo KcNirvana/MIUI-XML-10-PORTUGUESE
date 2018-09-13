@@ -731,7 +731,7 @@ Tente novamente dentro de %3$d segundos"</string>
   <string name="kg_invalid_confirm_pin_hint">Os códigos PIN não coincidem</string>
   <string name="kg_invalid_puk">Introduza o código PUK correto novamente. Demasiadas tentativas consecutivas vão desactivar permanentemente o cartão SIM</string>
   <string name="kg_invalid_sim_pin_hint">Introduza um PIN com 4 a 8 números</string>
-  <string name="kg_invalid_sim_puk_hint">O código PUK deve ter 8 ou mais números</string>
+  <string name="kg_invalid_sim_puk_hint">O código PUK deve ter 8 números</string>
   <string name="kg_login_too_many_attempts">Demasiadas tentativas para desenhar o padrão</string>
   <string name="kg_password_instructions">Introduzir a palavra-passe</string>
   <string name="kg_password_pin_failed">Não foi possível desbloquear utilizando o PIN do SIM</string>
@@ -869,6 +869,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="miui_ringer_standard_description">Silenciar os toques de chamadas e notificações</string>
   <string name="miui_ringer_total">Não incomodar</string>
   <string name="miui_ringer_total_description">Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
+  <string name="miui_screen_rotation_freeze_message">Rotação auto. desactivada</string>
   <string name="miui_toast_zen_dnd_to_off">Os sons e vibração voltaram ao normal</string>
   <string name="miui_toast_zen_standard_to_off">Os toques voltaram ao normal</string>
   <string name="miui_toast_zen_standard_to_off_when_shield_media">Os toques, notificações e sons multimédia vão ser reproduzidos</string>
@@ -1305,6 +1306,8 @@ monitorizada"</string>
   <string name="status_bar_clear_all_button">Limpar</string>
   <string name="status_bar_clock_date_format">"EEEE, d 'de' MMMM"</string>
   <string name="status_bar_clock_date_format_12">"EEEE, d 'de' MMMM"</string>
+  <string name="status_bar_clock_date_time_format">"H:mm, d 'de' MMMM"</string>
+  <string name="status_bar_clock_date_time_format_12">"aaH:mm, d 'de' MMMM"</string>
   <string name="status_bar_date_format">"EEEE
 d 'de' MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE

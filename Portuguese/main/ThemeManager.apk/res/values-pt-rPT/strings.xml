@@ -68,6 +68,12 @@
   <string name="download_failed">Não foi possível transferir</string>
   <string name="download_preview_failed">Não é possível carregar pré-visualização</string>
   <string name="download_success">Transferência concluída</string>
+  <string name="exit_extreme_mode_dialog_agree">Concordar</string>
+  <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
+  <string name="exit_extreme_mode_dialog_title">Sair do modo extremo</string>
+  <string name="extreme_mode_dialog_message">Esta funcionalidade não está disponível no modo extremo. Desligue o modo extremo para a poder utilizar</string>
+  <string name="extreme_mode_dialog_ok">Percebi</string>
+  <string name="extreme_mode_dialog_title">Aviso</string>
   <string name="fail_to_add_account">Não é possível adicionar conta</string>
   <string name="favorite_list">Favoritos</string>
   <string name="favorite_list_format">Adicionar %1$s aos favoritos</string>
