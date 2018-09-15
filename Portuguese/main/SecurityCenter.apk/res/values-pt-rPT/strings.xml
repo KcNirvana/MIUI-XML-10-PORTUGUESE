@@ -1222,7 +1222,7 @@ da operadora"</string>
   <string name="menu_summary_networkassistants_4">A ficar sem dados</string>
   <string name="menu_summary_power_manager">A poupança de bateria dá-lhe mais tempo entre cargas</string>
   <string name="menu_summary_power_manager_1">A bateria está carregada</string>
-  <string name="menu_summary_power_manager_2">%s restante</string>
+  <string name="menu_summary_power_manager_2">%s restantes</string>
   <string name="menu_summary_power_manager_3">Ligue o carregador</string>
   <string name="menu_summary_power_manager_4">%s até ficar carregada</string>
   <string name="menu_text_antispam">Lista de bloqueio</string>

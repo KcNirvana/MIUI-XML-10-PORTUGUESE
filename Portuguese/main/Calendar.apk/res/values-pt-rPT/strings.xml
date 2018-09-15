@@ -59,7 +59,7 @@
   <string name="birthday_notification_title_today">%3$s de %1$s</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_saved">Aniversário guardado</string>
-  <string name="birthday_term">o aniversário</string>
+  <string name="birthday_term">Aniversário</string>
   <string name="book_card_free">Cartão disponível</string>
   <string name="book_card_rating_text">|   %1$s avaliações</string>
   <string name="button_day">Dia</string>
