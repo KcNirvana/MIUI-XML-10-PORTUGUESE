@@ -107,6 +107,7 @@
   <string name="description_image_button_two">dois</string>
   <string name="description_image_button_video_answer">Videochamada</string>
   <string name="description_image_button_zero">zero</string>
+  <string name="description_message_list_title">Lista de respostas rápidas</string>
   <string name="description_target_answer">Atender</string>
   <string name="dialpad_abc">ABC</string>
   <string name="dialpad_def">DEF</string>

@@ -532,7 +532,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_offset_top">Levante o seu telefone</string>
   <string name="face_unlock_open_eye">Abra os seus olhos um bocado</string>
   <string name="face_unlock_passwork">Utilizar palavra-passe</string>
-  <string name="face_unlock_passwork_and_fingerprint">Utilizar palavra-passe ou rosto</string>
+  <string name="face_unlock_passwork_and_fingerprint">Utilizar palavra-passe ou impressão digital</string>
   <string name="face_unlock_quality">Não foi possível ver o seu rosto</string>
   <string name="face_unlock_reenter_content">O desbloqueio por rosto está a ser actualizado. Toque para gravar os dados novamente</string>
   <string name="face_unlock_reenter_title">Grave os dados do seu rosto novamente</string>
@@ -541,6 +541,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_rise">Abaixe a sua cabeça</string>
   <string name="face_unlock_rotated_left">Vire a sua cabeça para a direita</string>
   <string name="face_unlock_rotated_right">Vire a sua cabeça para a esquerda</string>
+  <string name="face_unlock_sc_status">Puxe para abrir a câmara</string>
   <string name="face_unlock_stay_away_screen">Mantenha-se 25 a 40 cm afastado do ecrã</string>
   <string name="fingerprint_add_text">O interface foi actualizado. Adicione a sua impressão digital novamente</string>
   <string name="fingerprint_add_title">Adicionar impressão digital</string>
@@ -1477,7 +1478,6 @@ O telefone pode sobreaquecer se:
   <string name="usb_debugging_title">Permitir a depuração USB?</string>
   <string name="usb_device_confirm_prompt">Abrir %1$s quando ligar este dispositivo USB?</string>
   <string name="usb_device_permission_prompt">Permitir que a aplicação %1$s aceda ao dispositivo USB?</string>
-  <string name="usb_function_charging_text">Ligado em modo carregamento</string>
   <string name="usb_mode_dont_ask">Memorizar preferência</string>
   <string name="usb_mode_mount_storage_title">Abrir armazenamento USB?</string>
   <string name="usb_mode_notification">Armazenamento USB</string>

@@ -37,6 +37,7 @@
   <string name="easter">Páscoa</string>
   <string name="edit_frequent_phrases">Editar frases frequentes</string>
   <string name="fools_day">Dia das mentiras</string>
+  <string name="frequent_phrases_des">Introduza frases frequentes com apenas alguns toques enquanto edita o texto</string>
   <string name="frequent_phrases_size_exceeded">Pode adicionar até %1$d frases frequentes. Elimine as desnecessárias para adicionar mais</string>
   <string name="glockenspiel">Glockenspiel</string>
   <string name="good_friday"/>

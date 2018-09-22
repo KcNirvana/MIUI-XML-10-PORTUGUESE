@@ -71,6 +71,7 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="accessibility_services_title">Serviços</string>
   <string name="accessibility_settings">Acessibilidade</string>
   <string name="accessibility_settings_title">Definições de acessibilidade</string>
+  <string name="accessibility_summary_source">Fornecido por %s</string>
   <string name="accessibility_shortcut_description">Quando o atalho estiver ligado, pode premir os dois botões de volume por 3 segundos para iniciar uma funcão de acessibilidade</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Permitir do ecrã de bloqueio</string>
   <string name="accessibility_shortcut_service_title">Atalho de serviços</string>
@@ -733,15 +734,19 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="bootloader_device_bind_fail">Não foi possível verificar. Aguarde alguns minutos e tente novamente</string>
   <string name="bootloader_device_bind_msg">A preparar para adicionar conta e dispositivo…</string>
   <string name="bootloader_device_bind_no_account">Inicie sessão na sua Conta Mi primeiro</string>
+  <string name="bootloader_device_bind_no_data_network">Desligue o Wi-Fi e adicione a sua conta e dispositivo através de dados móveis</string>
   <string name="bootloader_device_bind_no_network">Ligue-se à rede e tente novamente</string>
   <string name="bootloader_device_bind_no_sim">Insira cartão SIM e tente novamente</string>
   <string name="bootloader_device_bind_server_code">Não foi possível adicionar. Código do erro:</string>
+  <string name="bootloader_device_bind_server_token_expired_1">Não foi possível verificar. Tente adicionar a sua conta e dispositivo novamente</string>
+  <string name="bootloader_device_bind_server_token_expired_2">Não foi possível verificar. Inicie sessão na sua conta novamente e comece do início</string>
   <string name="bootloader_device_bind_sim_invalid">O cartão SIM é inválido. Substitua-o e tente novamente</string>
   <string name="bootloader_locked_answer_1">Nós bloqueamos os dispositivos para garantir que são seguros. Se precisar de entrar no modo Fastboot e flashar o seu dispositivo, pode desbloqueá-lo</string>
   <string name="bootloader_locked_answer_1_warning">Lembre-se: Não vai poder utilizar \"Localizar Dispositivo\" depois do dispositivo estar desbloqueado</string>
   <string name="bootloader_locked_answer_2">"1. Certifique-se que já inseriu um cartão SIM no seu dispositivo
-2. Toque em \"Adicionar conta\" para associar a sua Conta Mi a este dispositivo
-3. Transfira a ferramenta de desbloqueio do nosso site. Note que deve desbloquear dispositivos utilizando um computador. Transfira aqui:"</string>
+2. Desligue o Wi-Fi e ligue os dados móveis. Certifique-se que o seu dispositivo consegue ligar à Internet
+3. Toque em \"Adicionar conta\" para associar a sua Conta Mi a este dispositivo
+4. Transfira a ferramenta de desbloqueio do nosso site. Note que deve desbloquear dispositivos utilizando um computador. Transfira aqui:"</string>
   <string name="bootloader_locked_answer_2_no_sim">"1. Toque em \"Adicionar conta\" para associar a sua Conta Mi com este dispositivo.
 2. Transfira a ferramenta de desbloqueio do nosso site. Note que deve desbloquear dispositivos utilizando um computador. Transfira aqui:"</string>
   <string name="bootloader_locked_check_status">Adicionar conta e dispositivo</string>
@@ -966,6 +971,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="credentials_reset_warning_plural">Insira a palavra-passe. Tem mais %1$d tentativas para inserir a palavra-passe correcta antes que o armazenamento de credenciais seja eliminado</string>
   <string name="credentials_settings_not_available">As credenciais não estão disponíveis para este utilizador</string>
   <string name="credentials_title">Armazenamento de credenciais</string>
+  <string name="credentials_title_verification">Verificação</string>
   <string name="credentials_unlock_hint">Insira a palavra-passe do armazenamento de credenciais</string>
   <string name="credentials_wrong_password">Palavra-passe incorrecta</string>
   <string name="crypt_keeper_button_text">Encriptar dispositivo</string>
@@ -1526,8 +1532,8 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="factory_reset_summary">Eliminar todos os dados do armazenamento interno do seu telefone</string>
   <string name="failed_to_check_find_device_status_content">Não foi possível verificar o estado de Localizar Dispositivo. Aguarde alguns minutos e tente novamente</string>
   <string name="failed_to_check_find_device_status_title">Não foi possível verificar estado</string>
-  <string name="failed_to_erase_text">Desligue a palavra-passe do ecrã de bloqueio antes de fazer a operação 1217</string>
-  <string name="failed_to_erase_title">Operação proibida</string>
+  <string name="failed_to_erase_text">Desligue a palavra-passe do ecrã de bloqueio antes introduzir o código \"1217\"</string>
+  <string name="failed_to_erase_title">Não foi possível concluir a acção</string>
   <string name="failed_to_open_app_settings_toast">Erro ao abrir definições para %1$s</string>
   <string name="failed_to_shut_down_find_device_content">Não foi possível desligar Localizar Dispositivo. Aguarde alguns minutos e tente novamente</string>
   <string name="failed_to_shut_down_find_device_title">Não foi possível desligar</string>
@@ -3575,8 +3581,8 @@ Para utilizar a fixação no ecrã:
   <string name="security_encryption_progress_dialog_close">A desencriptar…</string>
   <string name="security_encryption_progress_dialog_open">A encriptar…</string>
   <string name="security_encryption_title">Encriptar dispositivo</string>
-  <string name="security_input">Teclado de segurança</string>
-  <string name="security_input_hint">Utilizar teclado de segurança para introduzir palavra-passe</string>
+  <string name="security_input">Teclado seguro</string>
+  <string name="security_input_hint">Utilizar teclado seguro quando introduzir palavras-passe</string>
   <string name="security_keyguard_category_name">Ecrã de bloqueio</string>
   <string name="security_password_category_name">Tipo de segurança</string>
   <string name="security_passwords_title">Bloqueio de ecrã</string>
@@ -4482,6 +4488,7 @@ Qualquer utilizador pode actualizar aplicações para todos os outros utilizador
   <string name="user_confirm_remove_title">Remover este utilizador?</string>
   <string name="user_credentials">Credenciais do utilizador</string>
   <string name="user_credentials_summary">Ver e modificar as credenciais armazenadas</string>
+  <string name="user_credential_title">Detalhes da credencial</string>
   <string name="user_delete_button">Eliminar</string>
   <string name="user_delete_user_description">Eliminar utilizador</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>

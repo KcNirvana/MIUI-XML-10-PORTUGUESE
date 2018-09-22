@@ -60,6 +60,10 @@
         <item quantity="zero">%d mensagens</item>
         <item quantity="one">%d mensagem</item>
     </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Marcado como %2$s por %1$d pessoas</item>
+        <item quantity="one">Marcado como %2$s por %1$d pessoa</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mensagens</item>
         <item quantity="one">%1$s mensagem</item>

@@ -284,8 +284,8 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="one">%d aplicação encontrada</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
-        <item quantity="other">Reposição de fábrica(%ds)</item>
-        <item quantity="one">Reposição de fábrica(%ds)</item>
+        <item quantity="other">Reposição de fábrica (%ds)</item>
+        <item quantity="one">Reposição de fábrica (%ds)</item>
     </plurals>
     <plurals name="section_clear_acc_item_right_tips">
         <item quantity="other">%d aplicações bloqueadas a aguardarem para serem limpas</item>
@@ -354,5 +354,9 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemas que necessitam de optimização</item>
         <item quantity="one">%1$d problema que necessita de optimização</item>
+    </plurals>
+    <plurals name="first_aid_card_float_window_summary">
+        <item quantity="other">%d aplicações podem ser mostradas incorrectamente. Restrinja as notificações flutuantes</item>
+        <item quantity="one">%d aplicação pode ser mostrada incorrectamente. Restrinja as notificações flutuantes</item>
     </plurals>
 </resources>

@@ -187,7 +187,7 @@ Utilize uma conta diferente"</string>
   <string name="micloud_main_resume_sync_soon">Retomar a sincronização</string>
   <string name="micloud_main_see_unsynced_data">Verificar os dados a sincronizar</string>
   <string name="micloud_main_set_internet">Rede</string>
-  <string name="micloud_main_simple_last_sync_time">Last sync time： %s</string>
+  <string name="micloud_main_simple_last_sync_time">Última sincronização： %s</string>
   <string name="micloud_main_simple_off">Sinc. desligada</string>
   <string name="micloud_main_simple_pending">Pendente</string>
   <string name="micloud_main_simple_synced">Sincronizado</string>

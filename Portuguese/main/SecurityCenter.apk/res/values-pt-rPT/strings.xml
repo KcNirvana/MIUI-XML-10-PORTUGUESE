@@ -502,10 +502,12 @@
   <string name="card_main_deepclean_wechat_action">Limpar</string>
   <string name="card_main_deepclean_wechat_summary">Limpar cache WeChat para libertar espaço de armazenamento</string>
   <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
+  <string name="card_main_deepclean_whatsapp_title">Limpeza do WhatsApp</string>
   <string name="card_main_gamebooster_summary">Acelere a estabilidade da ligação para jogos</string>
   <string name="card_main_gamebooster_title">Acelerador de jogos</string>
   <string name="card_main_hbassistant_summary">Aumentar velocidade e melhorar a experiência de jogo</string>
-  <string name="card_main_hbassistant_title">Acelerador de jogos</string>  
+  <string name="card_main_hbassistant_title">Acelerador de jogos</string>
+  <string name="card_main_hwtest_title">Teste de hardware</string>
   <string name="card_main_monthreport_action">Ver</string>
   <string name="card_main_netcheck_action">Testar</string>
   <string name="card_main_netcheck_summary">Testar problemas na ligação de rede</string>
@@ -620,6 +622,10 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="descx_quick_scan_preparation">Aguarde…</string>
   <string name="detail_app_button">Informações da aplicação</string>
   <string name="details_subtitle">Detalhes de utilização</string>
+  <string name="device_manager_apply_step_1">Activar o administrador de dispositivo para esta aplicação?</string>
+  <string name="device_manager_apply_step_2">"Activar o administrador de dispositivo para esta aplicação pode levar à exposição dos seus dados pessoais.
+Todos os dados no seu dispositivo podem ser eliminados e a sua palavra-passe do ecrã de bloqueio reposta"</string>
+  <string name="device_manager_apply_step_3">Certifique-se que compreende todos os riscos antes de avançar. Activar o administrador de dispositivo para esta aplicação agora?</string>
   <string name="diagnostic_attention_dialog_message">O diagnóstico para %1$s está em curso. Aguarde até estar concluído e tente novamente</string>
   <string name="dialog_app_roaming_message">%1$s não pode utilizar dados móveis em roaming. Apenas as aplicações adicionadas nas excepções podem utilizar dados móveis</string>
   <string name="dialog_app_roaming_title">O roaming não está activado para %1$s</string>
@@ -781,15 +787,10 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="first_aid_card_apn_title">Não é possível ligar à rede</string>
   <string name="first_aid_card_consume_power_button1">Restringir</string>
   <string name="first_aid_card_consume_power_button2">Desligar</string>
-  <string name="first_aid_card_consume_power_button3">Desligar</string>
-  <string name="first_aid_card_consume_power_button4">Desligar</string>
   <string name="first_aid_card_consume_power_summary1">Mais de 5 aplicações iniciam automaticamente. Restrinja-as para poupar bateria</string>
   <string name="first_aid_card_consume_power_summary2">Desligue o PA Móvel para poupar bateria</string>
-  <string name="first_aid_card_consume_power_summary3">Desligue o Bluetooth para poupar bateria</string>
-  <string name="first_aid_card_consume_power_summary4">Desligue o GPS para poupar bateria</string>
   <string name="first_aid_card_consume_power_title">Utilização de bateria</string>
   <string name="first_aid_card_float_window_button">Restringir</string>
-  <string name="first_aid_card_float_window_summary">%s pode ser mostrado incorrectamente. Restrinja as notificações flutuantes</string>
   <string name="first_aid_card_float_window_title">Permitiu notificações flutuantes</string>
   <string name="first_aid_card_kadun_button1">Libertar espaço</string>
   <string name="first_aid_card_kadun_button2">Restringir</string>
@@ -815,9 +816,10 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="first_aid_item4_content">Bateria</string>
   <string name="first_aid_item5_content">Outros problemas</string>
   <string name="first_aid_result_feedback_button">Submeter</string>
-  <string name="first_aid_result_feedback_summary">Eu não consigo resolver os problemas no meu dispositivo</string>
+  <string name="first_aid_result_feedback_summary">O Pronto-Socorro não encontrou nenhum problema. No entanto, eu achei alguns.</string>
   <string name="first_aid_result_feedback_title">Comentários</string>
   <string name="first_aid_result_summary_normal">Verificação concluída</string>
+  <string name="first_aid_result_summary_not_finished">A verificação não foi concluída</string>
   <string name="first_aid_scanning_item1">A verificar desempenho…</string>
   <string name="first_aid_scanning_item2">A verificar rede…</string>
   <string name="first_aid_scanning_item3">A verificar definições…</string>
@@ -1549,7 +1551,7 @@ do seu dispositivo"</string>
   <string name="power_center_repeat">Repetir</string>
   <string name="power_center_scan_item_title_GPS">Ajustar precisão do GPS</string>
   <string name="power_center_scan_item_title_abnormal">Problemas de bateria</string>
-  <string name="power_center_scan_item_title_abnormal_apps">Aplicação com consumo anormal de bateria</string>
+  <string name="power_center_scan_item_title_abnormal_apps">Aplicações que descarregam bateria</string>
   <string name="power_center_scan_item_title_auto_invoke">Início da cadeia</string>
   <string name="power_center_scan_item_title_auto_start">Início automático</string>
   <string name="power_center_scan_item_title_battery_details">Detalhes de utilização da bateria</string>

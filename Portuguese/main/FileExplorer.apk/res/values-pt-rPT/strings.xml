@@ -102,10 +102,10 @@
   <string name="copy_text">Copiar texto</string>
   <string name="copy_to">Copiar para…</string>
   <string name="create_shortcut_success">Atalho adicionado com sucesso</string>
-  <string name="data_consumption_cancel">Sair</string>
-  <string name="data_consumption_checkbox_hint">"Não mostrar novamente"</string>
+  <string name="data_consumption_cancel">Não concordar</string>
+  <string name="data_consumption_checkbox_hint">Não mostrar novamente</string>
   <string name="data_consumption_confirm">OK</string>
-  <string name="data_consumption_message">Esta aplicação necessita de uma ligação à Internet através de Wi-Fi para funcionar normalmente</string>
+  <string name="data_consumption_message">O Explorador necessita de ligar à Internet enquanto o utiliza. Concordar?</string>
   <string name="data_consumption_message1">O Explorador necessita de ligar à Internet para ter os vídeos e stickers disponíveis</string>
   <string name="data_consumption_title">Ligação à Internet</string>
   <string name="decompress_cancel">Cancelar</string>

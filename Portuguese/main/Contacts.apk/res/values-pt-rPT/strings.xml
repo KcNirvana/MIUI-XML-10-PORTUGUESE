@@ -55,7 +55,6 @@
   <string name="btn_split_contact">Separar</string>
   <string name="button_cancel_scan">Parar</string>
   <string name="button_join_service_number">Adicionar número de serviço</string>
-  <string name="button_my_center">Perfil</string>
   <string name="button_scan">Verificar novamente</string>
   <string name="caching_vcard_message">A armazenar VCard na cache do dispositivo…</string>
   <string name="caching_vcard_title">A armazenar em cache</string>
@@ -191,12 +190,7 @@
   <string name="composer_failed_to_get_database_infomation">Erro ao obter informações da base de dados</string>
   <string name="composer_has_no_exportable_contact">Não tem contactos para exportar. Se tem os contactos no dispositivo, o fornecedor de dados pode ter impedido a exportação</string>
   <string name="composer_not_initialized">O editor vCard não foi iniciado correctamente</string>
-  <string name="config_export_dir">/mnt/sdcard</string>
-  <string name="config_export_extensions_to_consider"/>
-  <string name="config_export_file_extension">vcf</string>
-  <string name="config_export_file_prefix"/>
-  <string name="config_export_file_suffix"/>
-  <string name="config_prohibited_phone_number_regexp"/>
+  <string name="conference_call_disable_tip">Não é possível fazer chamadas. Certifique-se que o seu dispositivo está ligado a uma rede 4G que suporte VoLTE</string>
   <string name="confirm_delete_contact_all_call_logs">Eliminar registos de chamadas?</string>
   <string name="confirm_delete_selected_all_call_logs">Eliminar registos de chamadas?</string>
   <string name="confirm_delete_sim_entry_miui_title">Eliminar</string>
@@ -488,7 +482,6 @@ Motivo: \"%s\""</string>
   <string name="firewall_setting">Lista de bloqueio</string>
   <string name="force_touch_miprofile">Cartão de contacto</string>
   <string name="force_touch_new_contact">Novo contacto</string>
-  <string name="foundTooManyContacts">Encontrados mais de %d</string>
   <string name="frequentList">Frequentes</string>
   <string name="full_name">Nome</string>
   <string name="gallery">Galeria</string>
@@ -661,7 +654,6 @@ Motivo: \"%s\""</string>
   <string name="menu_splitAggregate">Separar</string>
   <string name="menu_sync_remove">Remover sincronização do grupo</string>
   <string name="menu_viewContact">Ver contacto</string>
-  <string name="merge_contact_message">%1$d contactos com os dados parcialmente duplicados</string>
   <string name="messageShortcutActivityTitle">Escolher um número para enviar mensagem</string>
   <string name="miprofile_account_type">Cartões de contacto</string>
   <string name="miprofile_alertdialog_edit">Introduzir nome</string>
@@ -1023,8 +1015,6 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="search_wipe_data">Organizar;Contactos</string>
   <string name="searching_vcard_message">A procurar por dados vCard no dispositivo…</string>
   <string name="select_all">Seleccionar todos</string>
-  <string name="select_all_exceed">Não pode seleccionar mais de %1$d</string>
-  <string name="select_exceed">Não pode seleccionar mais de %1$d</string>
   <string name="select_groups">Seleccionar grupos</string>
   <string name="select_none">Sem itens seleccionados</string>
   <string name="select_show_contacts">Lista de contactos</string>

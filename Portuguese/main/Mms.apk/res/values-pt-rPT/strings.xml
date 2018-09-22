@@ -172,7 +172,7 @@
   <string name="edit_slide_activity">Editar diapositivo</string>
   <string name="edit_slideshow_activity">Editar apresentação</string>
   <string name="enabled">Ligado</string>
-  <string name="english_subject_limit">Limite de 40 caracteres</string>
+  <string name="english_subject_limit">40 caracteres</string>
   <string name="enter_edit_mode">Editar mensagens</string>
   <string name="error_code_label">"Código de erro: "</string>
   <string name="error_state">Estado inconsistente</string>
@@ -235,7 +235,7 @@
   <string name="hybrid_pull_to_refresh_release_label">Largue para actualizar…</string>
   <string name="hybrid_service_unavailiable">O serviço não está disponível</string>
   <string name="hybrid_try_again">Tente novamente</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">Percebi</string>
   <string name="importing_progress_private_message">Importar mensagens…</string>
   <string name="in_sms">Mensagem</string>
   <string name="insufficient_drm_rights">Detectados direitos DRM insuficientes</string>
@@ -249,6 +249,7 @@
   <string name="loading_conversations">Aguarde…</string>
   <string name="loading_mms">Aguarde…</string>
   <string name="manage_permission_app_label">Permissões do dispositivo</string>
+  <string name="mark_number_by_own_dialog_subtitle">Marcado como %1$s</string>
   <string name="me">Eu</string>
   <string name="menu_add_black">Bloquear este número</string>
   <string name="menu_add_contact">Adicionar a um contacto já existente</string>
@@ -308,7 +309,7 @@
   <string name="multimedia_message">Mensagem multimédia</string>
   <string name="multimedia_notification">Notificação de mensagem multimédia</string>
   <string name="mx2_type_description">[%s]</string>
-  <string name="mx_activate_allow_notice">A sua operadora pode cobrar por uma SMS utilizada para activar as mensagens gratuitas e o serviço de voz</string>
+  <string name="mx_activate_allow_notice">É necessário enviar SMS para activar as mensagens gratuitas e o serviço de voz. Vão ser também utilizados dados móveis para verificar se o utilizador está ligado. Concorda?</string>
   <string name="mx_activate_dlg_title">Activar o Mi Message</string>
   <string name="mx_activate_dlg_title_ex">Activar o Mi Message e Voice</string>
   <string name="mx_activate_error_malformed_info">Tem que reactivar o Mi Message para este cartão SIM</string>
@@ -318,7 +319,7 @@
   <string name="mx_activate_hint_malformed_info">Uma SMS vai ser enviada para reactivar o Mi Message para o cartão SIM actual. Vai ter custos nacionais da sua operadora</string>
   <string name="mx_activate_hint_server">Uma SMS vai ser enviada para reactivar o Mi Message para o cartão SIM actual. Vai ter custos nacionais da sua operadora</string>
   <string name="mx_activate_hint_sim_change">Uma SMS vai ser enviada para reactivar o Mi Message para o cartão SIM actual. Vai ter custos nacionais da sua operadora</string>
-  <string name="mx_activate_network_allow_notice">Este serviço necessita de acesso aos dados móveis para funcionar normalmente</string>
+  <string name="mx_activate_network_allow_notice">Este serviço necessita de acesso aos dados móveis para verificar se o utilizador está ligado. Concorda?</string>
   <string name="mx_activate_int_hint_malformed_info">Uma SMS internacional vai ser enviada para reactivar o Mi Message para o cartão SIM actual. Vai ter custos internacionais da sua operadora</string>
   <string name="mx_activate_int_hint_server">Uma SMS internacional vai ser enviada para reactivar o Mi Message para o cartão SIM actual. Vai ter custos internacionais da sua operadora</string>
   <string name="mx_activate_int_hint_sim_change">Uma SMS internacional vai ser enviada para reactivar o Mi Message para o cartão SIM actual. Vai ter custos internacionais da sua operadora</string>
@@ -339,7 +340,7 @@
   <string name="mx_current_status">Definições</string>
   <string name="mx_dspt">Enviar mensagens SMS e MMS para outros dispositivos MIUI gratuitamente quando ligado ao Wi-Fi</string>
   <string name="mx_dspt_listview">Enviar mensagens para outros dispositivos MIUI gratuitamente</string>
-  <string name="mx_dspt_provision">O Mi Message permite enviar SMS gratuitas para outros utilizadores MIUI. Vai ser cobrada uma SMS pela activação deste serviço</string>
+  <string name="mx_dspt_provision">O Mi Message permite enviar SMS gratuitas para outros utilizadores MIUI. Vai ser cobrada uma SMS pela activação deste serviço e utilização de dados móveis para verificar se o utilizador está ligado. Concorda?</string>
   <string name="mx_dspt_provision_ex2">Política de Privacidade</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_ex">Mi Message e Voice</string>
@@ -357,7 +358,7 @@
   <string name="mx_reactivate">Reactivar o Mi Message</string>
   <string name="mx_recommend_msg">Toque para activar o Mi Message</string>
   <string name="mx_stranger_recommend_msg">Toque para bloquear o Mi Message de números desconhecidos</string>
-  <string name="mx_type_guide">O Mi Message permite enviar SMS grátis para outros utilizadores MIUI</string>
+  <string name="mx_type_guide">Envie mensagens gratuitas para outros dispositivos MIUI</string>
   <string name="need_download">A sincronizar…</string>
   <string name="network_error_description">Não foi possível ligar à rede. Tente novamente</string>
   <string name="networking_allow_continue">Permitir</string>
@@ -374,7 +375,7 @@
   <string name="no_delivery_report">Sem relatórios de entrega</string>
   <string name="no_subject">(Sem assunto)</string>
   <string name="no_subject_view">(Sem assunto)</string>
-  <string name="non_english_subject_limit">Limite de 13 caracteres</string>
+  <string name="non_english_subject_limit">13 caracteres</string>
   <string name="nosend_message">Não enviar</string>
   <string name="not_prepare_for_send">Sem mensagens para enviar</string>
   <string name="notification_channel_msg_description">Notificação de mensagem</string>

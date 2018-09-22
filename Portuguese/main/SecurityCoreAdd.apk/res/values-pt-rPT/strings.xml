@@ -46,6 +46,8 @@ esta funcionalidade vai ser adicionada automaticamente ao Segundo espaço"</stri
   <string name="confirmDelete">Eliminar</string>
   <string name="confirmSecondSpacePassword">Confirmar a palavra-passe do Segundo espaço</string>
   <string name="confirm_airspace_password">Confirmar a palavra-passe do %s</string>
+  <string name="confirm_close_password_desc">Não vai poder entrar no Segundo espaço através do ecrã de bloqueio após desligar a palavra-passe. Desligar mesmo assim?</string>
+  <string name="confirm_close_password_title">Desligar palavra-passe</string>
   <string name="confirm_main_space_password">Confirmar a palavra-passe do Primeiro espaço</string>
   <string name="confirm_restore">Não mostrar</string>
   <string name="contactData">Contactos</string>

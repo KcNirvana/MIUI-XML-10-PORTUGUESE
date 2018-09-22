@@ -3,8 +3,6 @@
   <string name="SMTP_independent_verification_text">Verificação independente SMTP</string>
   <string name="SMTP_password_text">Palavra-passe</string>
   <string name="SMTP_username_text">Nome de utilizador</string>
-  <string name="accessibility_guide_first">No ecrã seguinte, seleccione o separador \"Serviçoss\" para activar a Configuração automática de email</string>
-  <string name="accessibility_guide_second">Depois clique em \"Confirmar\" para continuar</string>
   <string name="account_duplicate_dlg_message_fmt">Este nome de utilizador já existe para a conta \"%s\"</string>
   <string name="account_duplicate_dlg_title">Conta duplicada</string>
   <string name="account_failure">A sessão expirou</string>
@@ -47,6 +45,7 @@
   <string name="account_settings_notify_summary">Mostrar notificações quando chegarem novos emails</string>
   <string name="account_settings_param">Definições da conta</string>
   <string name="account_settings_policies">Políticas de segurança</string>
+  <string name="account_settings_preference_add_account">Adicionar conta de email</string>
   <string name="account_settings_preference_att_save_path">Localização predefinida dos anexos</string>
   <string name="account_settings_preference_head_icon">Fotos de perfil</string>
   <string name="account_settings_preference_notify">Notificar</string>
@@ -86,7 +85,7 @@
   <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
   <string name="account_setup_exchange_device_id_label">ID do dispositivo</string>
   <string name="account_setup_exchange_no_certificate">Nenhum</string>
-  <string name="account_setup_failed_auth_required">Os métodos de autenticação não são suportados pelo servidor</string>
+  <string name="account_setup_failed_auth_required">O método de autenticação não é suportados pelo servidor</string>
   <string name="account_setup_failed_certificate_inaccessible">Este certificado é inválido ou não está acessível</string>
   <string name="account_setup_failed_certificate_required">É necessário o certificado de cliente. Deseja ligar ao servidor com um certificado de cliente?</string>
   <string name="account_setup_failed_check_credentials_message">O servidor respondeu com um erro. Verifique o nome de utilizador ou a palavra-passe e tente novamente</string>
@@ -214,10 +213,7 @@
   <string name="auto_advance_summary">Escolher o avanço automático após eliminar</string>
   <string name="auto_login_fail">Não foi possível iniciar sessão automaticamente</string>
   <string name="auto_login_fail_to_retry">Não foi possível iniciar sessão automaticamente. Tente novamente</string>
-  <string name="auto_mail_describe">A configuração automática de email pode ajudá-lo a preencher a informação de início de sessão da sua caixa de entrada. Quer activar esta funcionalidade?</string>
-  <string name="auto_mail_disable_txt">Desactivado</string>
   <string name="auto_mail_enable_txt">Iniciar definições</string>
-  <string name="auto_mail_go_email">Caixa de entrada</string>
   <string name="auto_mail_name">Email automático</string>
   <string name="auto_mail_title_note">Clique na opção \"Configuração automática de email\" para iniciar</string>
   <string name="auto_mail_window_description">Serviço de configuração automática de email</string>
@@ -253,6 +249,7 @@
   <string name="chat_item_msg_people_unit">pessoas</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">A confirmar as definições do servidor…</string>
+  <string name="chinese">Chinês</string>
   <string name="choosertitle_sharevia">Partilhar por</string>
   <string name="clear">Limpar</string>
   <string name="clear_display_images_whitelist_dialog_message">Não mostrar mais imagens em linha dos remetentes que permitiu anteriormente</string>
@@ -260,7 +257,6 @@
   <string name="clear_display_images_whitelist_title">Limpar aprovações de fotos</string>
   <string name="click_download_all_content">[ Toque para transferir conteúdo ]</string>
   <string name="click_to_reload">Toque no ecrã para actualizar</string>
-  <string name="close">Fechar</string>
   <string name="collapse_recipient_details">Ocultar detalhes do destinatário</string>
   <string name="compose">Escrever</string>
   <string name="compose_attachment_number_limit">Não pode adicionar mais do que 10 anexos</string>
@@ -393,9 +389,6 @@
   <string name="drawer_open">Abrir área de navegação</string>
   <string name="edit_quick_response_dialog">Resposta rápida</string>
   <string name="edit_signature">Editar assinatura</string>
-  <string name="elided_padding_token"> </string>
-  <string name="email_address">Endereço de email</string>
-  <string name="email_feedback_uri"/>
   <string name="email_netease">Email NetEase</string>
   <string name="email_qq">Email QQ</string>
   <string name="email_setting">Email</string>
@@ -439,7 +432,6 @@
   <string name="file_save_term">Termos de gravação de ficheiros</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
   <string name="first_quick_default_reply">Toque no botão para enviar \"%s\" para todos os destinatários</string>
-  <string name="float_window_content">Clique no botão Confirmar para automaticamente preencher a conta e a palavra-passe da configuração automática de email</string>
   <string name="float_window_info">Ao configurar a caixa de entrada automática, não mexa no telefone no caso da configuração falhar</string>
   <string name="float_window_title">Configuração</string>
   <string name="folder_drafts_name_cn0">Rascunho</string>
@@ -510,7 +502,6 @@
   <string name="header_category_other">Comentários</string>
   <string name="header_label_general_preferences">Definições gerais</string>
   <string name="help_and_info">Ajuda</string>
-  <string name="help_config">Ajuda da configuração</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
   <string name="hide_password">Ocultar palavra-passe</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -543,7 +534,7 @@
   <string name="login139">Iniciar sessão com China Mobile</string>
   <string name="login_failed_ticker">Não é possível iniciar sessão em %s</string>
   <string name="login_failed_title">Não é possível iniciar a sessão</string>
-  <string name="login_mail">Início de sessão</string>
+  <string name="login_mail">Iniciar sessão</string>
   <string name="login_support_tip_text">Suporta todos as contas de email mais comuns</string>
   <string name="long_press_to_select_tip">Toque e segure para seleccionar uma conversa e depois toque para seleccionar mais conversas</string>
   <string name="long_string">loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooongo</string>
@@ -554,6 +545,7 @@
   <string name="mail_header_network_not_available">Não tem uma ligação de rede</string>
   <string name="mailbox_list_account_selector_combined_view">Vista combinada</string>
   <string name="mailbox_name_display_ad">Anúncios</string>
+  <string name="mailbox_name_display_add_account">Adicionar conta de email</string>
   <string name="mailbox_name_display_circular">Notificações</string>
   <string name="mailbox_name_display_drafts">Rascunhos</string>
   <string name="mailbox_name_display_inbox">Caixa de entrada</string>
@@ -659,7 +651,6 @@
   <string name="no_filtrable_email_account">Sem contas</string>
   <string name="no_mails">Sem emails</string>
   <string name="no_matched_attachment">Sem resultados</string>
-  <string name="no_remind">Sem lembrete</string>
   <string name="not_subject">(Sem assunto)</string>
   <string name="not_synced_title">Conta não sincronizada</string>
   <string name="note_text">Apenas possível na rede da China ou através da verificação de SMS</string>
@@ -673,6 +664,9 @@
   <string name="notification_action_undo_delete">Eliminada</string>
   <string name="notification_action_undo_remove_label">Marcador removido</string>
   <string name="notification_exchange_calendar_added">Calendário do Exchange adicionado</string>
+  <string name="notify_channel_new_mail">Notificar acerca de novas mensagens</string>
+  <string name="notify_channel_permission_notice">Lembrete de aviso de permissão</string>
+  <string name="notify_channel_send_fail">Notificar acerca de não entregue</string>
   <string name="oauth_error_description">Não foi possível autenticar</string>
   <string name="oauth_gmail_login_notify">Introduza o utilizador e palavra-passe da sua conta Google na seguinte página de início de sessão</string>
   <string name="oauth_login_continue">Continuar</string>
@@ -687,10 +681,10 @@
   <string name="open_external_storage_and_calendar_permission">Permitir que o Email aceda ao armazenamento e calendário nas Definições</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Permitir que o Email aceda ao armazenamento, contactos e calendário nas Definições</string>
   <string name="open_external_storage_and_contacts_permission">Permitir que o Email aceda ao armazenamento e contactos nas Definições</string>
-  <string name="open_notification_kingagent">Open the notice of the burial point</string>
-  <string name="optimization_suggestion">Sugestão de optimização</string>
+  <string name="open_notification_kingagent">Ativar notificações de ponto</string>
+  <string name="optimization_suggestion">Sugestões de optimização</string>
   <string name="others_mail">Outros</string>
-  <string name="others_mail_des">(converte mais de 600000 emails)</string>
+  <string name="others_mail_des">(compatível com mais de 600000 serviços de email)</string>
   <string name="outbox_alert_button_no_resend">Não enviar</string>
   <string name="outbox_alert_button_resend">Reenviar</string>
   <string name="outbox_alert_certificate_error">Contacte o seu administrador de sistemas de email e actualize o seu certificado</string>
@@ -718,7 +712,8 @@
   <string name="output_to_disk">Guardar registos num ficheiro</string>
   <string name="overlays_fail_tip">A sua caixa de entrada não foi configurada. Abra as permissões das janelas flutuantes e tente novamente</string>
   <string name="overlays_ok">Abrir permissões</string>
-  <string name="overlays_tip">Abrir permissões das janelas flutuantes e disfrute da caixa de entrada configurada automaticamente</string>
+  <string name="overlays_tip">Abra as permissões das janelas flutuantes e disfrute da caixa de entrada configurada automaticamente</string>
+  <string name="overlays_tip_23">Abra as permissões das janelas flutuantes e disfrute da caixa de entrada configurada automaticamente</string>
   <string name="overlays_title">Abrir permissões das janelas flutuantes</string>
   <string name="parase_setup_data">A obter dados…</string>
   <string name="password_expire_warning_content_title">A palavra-passe do ecrã de bloqueio está a expirar</string>
@@ -935,6 +930,7 @@
   <string name="shortcut_name_title">Nome do atalho da pasta</string>
   <string name="show_elided">▶ Mostrar citação</string>
   <string name="show_images">Transferir e mostrar imagens</string>
+  <string name="show_more_attachment">Mais anexos</string>
   <string name="show_password">Mostrar palavra-passe</string>
   <string name="signature">"
 
@@ -1017,8 +1013,9 @@ Remover conta?"</string>
   <string name="unread_string">conversa não lida</string>
   <string name="unzip_file_failed">Não foi possível descompactar ficheiro</string>
   <string name="update_date_format_templete">HH:mm \'do dia\' d \'de\' MMMM</string>
+  <string name="update_to_wps_mail">Disfrute de mais funcionalidade com WPS Mail</string>
   <string name="updated_at">Actualizado às %1$s</string>
-  <string name="upload_log">Submeter registos</string>
+  <string name="upload_log">Enviar registos</string>
   <string name="upload_log_failed">Não foi possível enviar registos</string>
   <string name="upload_log_no">Cancelar</string>
   <string name="upload_log_success">Enviados com sucesso. Entraremos em contacto brevemente</string>

@@ -108,7 +108,7 @@
   <string name="clean_content_three">3 itens</string>
   <string name="clean_content_two">2 itens</string>
   <string name="clean_content_zero">Nenhum</string>
-  <string name="clean_summary">Limpou %1$s ficheiros</string>
+  <string name="clean_summary">%1$s limpos</string>
   <string name="clear_bigfiles">Eliminar ficheiros grandes, fotos duplicadas ou outros itens desnecessários</string>
   <string name="clear_immediately">Limpar agora</string>
   <string name="clear_safe_notify">Widget de notificação</string>
