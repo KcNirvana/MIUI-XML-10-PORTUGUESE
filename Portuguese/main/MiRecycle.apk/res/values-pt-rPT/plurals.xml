@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="find_applications">
+        <item quantity="other">Pesquisar entre %d cidades</item>
+        <item quantity="one">Pesquisar entre %d cidade</item>
+    </plurals>
+</resources>

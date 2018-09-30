@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_succeed_survey_title">
+        <item>Avaliação geral</item>
+        <item>Duração da transferência</item>
+        <item>Simplicidade do processo</item>
+        <item>Clareza das instruções</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Muito insatisfeito</item>
+        <item>Insatisfeito</item>
+        <item>Indiferente</item>
+        <item>Satisfeito</item>
+        <item>Muito satisfeito</item>
+    </string-array>
+    <string-array name="trans_cancel_survey_title">
+        <item>A transferência demora muito</item>
+        <item>A ligação foi interrompida</item>
+        <item>Eu seleccionei itens errados a transferir</item>
+        <item>Demasiados passos</item>
+        <item>Pouca bateria</item>
+        <item>os itens transferidos estão corrompidos</item>
+        <item>Iniciei a transferência acidentalmente</item>
+        <item>Outros</item>
+    </string-array>
+</resources>

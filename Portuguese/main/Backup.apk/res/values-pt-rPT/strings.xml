@@ -402,6 +402,7 @@ Liberte pelo menos %s"</string>
   <string name="trans_calculating_media_description">Ficheiros multimédia</string>
   <string name="trans_calculating_tip">A calcular %s…</string>
   <string name="trans_cancel_confirm">Transferência em curso. Parar agora?</string>
+  <string name="trans_cancel_dialog_survey_title">Porque interrompeu a transferência?</string>
   <string name="trans_cancel_selection_message">Se sair do Mi Mover, a transferência em curso vai ser interrompida. Aguarde até a transferência estar concluída</string>
   <string name="trans_cancel_selection_title">Ficar no Mi Mover</string>
   <string name="trans_cancelling">A cancelar…</string>
@@ -433,6 +434,7 @@ Liberte pelo menos %s"</string>
   <string name="trans_device_auto_reconnecting">Dispositivo desligado. A ligar novamente…</string>
   <string name="trans_device_disconnected">Ligação interrompida</string>
   <string name="trans_device_wait_for_reconnecting">Ligação interrompida. Ligue novamente para continuar</string>
+  <string name="trans_dialog_survey_finish">Enviar</string>
   <string name="trans_disconnected_tips_message">Dispositivo remoto está desligado. Ligue-o novamente. Pode cancelar se necessário</string>
   <string name="trans_disconnected_tips_title">Dispositivo remoto está desligado</string>
   <string name="trans_failed_details_page_title">Transferências sem sucesso</string>
@@ -559,9 +561,14 @@ Mantenha ambos os dispositivos perto um do outro"</string>
   <string name="trans_show_qr_code_tips">Digitalizar código QR utilizando dispositivo antigo</string>
   <string name="trans_start_failed_message">Não foi possível iniciar a transferência. Tente novamente ou reinicie o dispositivo</string>
   <string name="trans_start_failed_title">Não foi possível iniciar a transferência</string>
-  <string name="trans_success_dialog_button_market_favourable_comment">Avalie o Mi Mover</string>
+  <string name="trans_success_dialog_button_market_comment">Comentar</string>
+  <string name="trans_success_dialog_button_market_favourable_comment">Avaliar o Mi Mover</string>
+  <string name="trans_success_dialog_button_survey">Questionário</string>
+  <string name="trans_success_dialog_market_comment_and_survey_title">Está pronto a começar! Diga-nos o que pensa do Mi Mover</string>
   <string name="trans_success_dialog_market_comment_title">"O seu novo dispositivo está concluído.
 Gosta do Mi Mover?"</string>
+  <string name="trans_success_dialog_survey_title">Agradecemos os seus comentários</string>
+  <string name="trans_success_survey_hint">Preencha todos os campos primeiro</string>
   <string name="trans_switching_5g">A trocar para Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">Menos de um minuto</string>
   <string name="trans_time_spent">Tempo gasto: %s</string>
