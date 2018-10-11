@@ -39,6 +39,8 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="failure">Erro</string>
   <string name="hide_mode_desc">&lt;font color="#000000"&gt;Quando uma aplicação estiver em execução em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização de bateria. Esta funcionalidade vai obter e utilizar os dados de utilizador segundo %s&lt;/font&gt;</string>
   <string name="hide_system_app">Ocultar aplicações de sistema</string>
+  <string name="high_temp_state">Temperaturas elevadas</string>
+  <string name="high_temp_state_message">Com temperaturas elevadas o PA Móvel, GPS, câmara, etc. vão ser restringidos</string>
   <string name="hints_loading_text">Aguarde…</string>
   <string name="important_warning">Atenção</string>
   <string name="lasttime_applist_cloud">Aplicações actualizadas:</string>

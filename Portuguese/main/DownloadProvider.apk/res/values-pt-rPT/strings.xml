@@ -22,6 +22,7 @@
   <string name="dialog_insufficient_space_on_cache">Sem espaço suficiente no armazenamento interno</string>
   <string name="dialog_insufficient_space_on_external">Sem espaço suficiente no armazenamento externo</string>
   <string name="dialog_not_show_again">Não mostrar novamente</string>
+  <string name="dialog_tip_limit">Avisar quando for maior que %s</string>
   <string name="download_apk_desktop_installing">A instalar</string>
   <string name="download_apk_desktop_pause">Em pausa</string>
   <string name="download_apk_desktop_pending">Pendente</string>
@@ -44,7 +45,6 @@
   <string name="notif_title_single_downloading">A transferir %1$s</string>
   <string name="notification_download_complete">Transferência concluída</string>
   <string name="notification_download_failed">Transferência sem sucesso</string>
-  <string name="notification_download_failed_more">Não foi possível transferir %1$d itens</string>
   <string name="notification_download_success_more">Transferido %1$d</string>
   <string name="notification_need_wifi_for_size">O tamanho da transferência requer uma ligação Wi-Fi</string>
   <string name="notification_paused_in_background">Em pausa em segundo plano</string>

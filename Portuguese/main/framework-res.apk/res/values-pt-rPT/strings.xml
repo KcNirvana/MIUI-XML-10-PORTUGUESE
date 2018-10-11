@@ -18,6 +18,7 @@
   <string name="DndMmi">Não incomodar</string>
   <string name="Midnight">Meia-noite</string>
   <string name="Noon">Meio-dia</string>
+  <string name="notification_description">Estado das chamadas de voz</string>
   <string name="PinMmi">Alteração de PIN</string>
   <string name="PwdMmi">Alteração de palavra-passe</string>
   <string name="RestrictedChangedTitle">Acesso restrito modificado</string>
@@ -1096,6 +1097,8 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="ssl_ca_cert_warning">A rede pode estar a ser monitorizada</string>
   <string name="ssl_certificate">Certificado de segurança</string>
   <string name="ssl_certificate_is_valid">Este certificado é válido</string>
+  <string name="status_communication_speaker_summary">Existe uma chamada em curso em mãos-livres. O áudio vai continuar a ser reproduzido através do altifalante</string>
+  <string name="status_communication_summary">Existe uma chamada em curso. Apenas pode ajustar o volume da chamada</string>
   <string name="stk_cc_ss_to_dial">O pedido SS foi modificado para um pedido DIAL</string>
   <string name="stk_cc_ss_to_ss">O pedido SS foi modificado para um novo pedido SS</string>
   <string name="stk_cc_ss_to_ussd">O pedido SS foi modificado para um pedido USSD</string>

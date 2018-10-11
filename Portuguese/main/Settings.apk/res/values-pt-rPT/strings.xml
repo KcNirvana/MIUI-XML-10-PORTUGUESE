@@ -875,6 +875,7 @@ A difusão utiliza sinais de Bluetooth de baixo consumo"</string>
   <string name="checking_decryption">A verificar…</string>
   <string name="checking_find_device_status">A verificar estado de Localizar Dispositivo…</string>
   <string name="checking_for_updates">A verificar actualizações…</string>
+  <string name="child_mode_settings">Controlos parentais</string>
   <string name="choose_assist_title">Escolher assistente</string>
   <string name="choose_profile">Escolher perfil</string>
   <string name="choose_smartcover_type">Escolher tipo de capa</string>
@@ -1372,6 +1373,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="edit_rules">Editar</string>
   <string name="eighthours">8 horas</string>
   <string name="emergency_info_title">Informações de emergência</string>
+  <string name="emergency_sos_title">SOS Emergência</string>
   <string name="emergency_tone_alert">Alerta</string>
   <string name="emergency_tone_silent">Silêncio</string>
   <string name="emergency_tone_summary">Definir comportamento ao fazer uma chamada de emergência</string>
@@ -1587,6 +1589,7 @@ Para obter mais detalhes, contacte o administrador da sua entidade"</string>
   <string name="fingerprint_manage_tittle">Impressões digitais</string>
   <string name="fingerprint_not_identified_msg">Não foi possível ler impressão. Introduza a sua palavra-passe</string>
   <string name="fingerprint_not_recognized">Não reconhecido</string>
+  <string name="fingerprint_others_title">Outros</string>
   <string name="fingerprint_payment">Pagamentos</string>
   <string name="fingerprint_removal_failed">Não foi possível remover impressão digital. Tente novamente mais tarde</string>
   <string name="fingerprint_usage_category_title">Utilizar impressões digitais para</string>
@@ -1747,6 +1750,15 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_add_fingerprint_put_finger_message">Prima o ecrã e levante o seu dedo após vibrar. Repita várias vezes</string>
   <string name="gxzw_add_fingerprint_put_finger_title">Premir e levantar após vibração</string>
   <string name="gxzw_add_fingerprint_title">Adicionar impressão digital</string>
+  <string name="gxzw_anim_light">Néon</string>
+  <string name="gxzw_anim_metal">Metal</string>
+  <string name="gxzw_anim_pulse">Pulso</string>
+  <string name="gxzw_anim_rhythm">Ritmo</string>
+  <string name="gxzw_anim_title">Animação de impressão digital</string>
+  <string name="gxzw_dialog_message">Para ser possível utilizar o sensor de impressão digital no ecrã, não utilize protectores de ecrã</string>
+  <string name="gxzw_dialog_not_show_again">Não mostrar novamente</string>
+  <string name="gxzw_dialog_ok">Percebi</string>
+  <string name="gxzw_dialog_title">About in-screen fingerprint sensor</string>
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enable">Modo Uma Mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
@@ -2108,7 +2120,7 @@ que o PIN do Primeiro espaço"</string>
   <string name="lockpassword_choose_your_pin_header">Definir PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">"Definir PIN 
 para o Segundo espaço"</string>
-  <string name="lockpassword_choose_your_pin_title">Introduza entre 4 a 16 caracteres</string>
+  <string name="lockpassword_choose_your_pin_title" formatted="false">Introduza entre %d a %d dígitos</string>
   <string name="lockpassword_confirm_for_second_user">Confirmar a sua palavra-passe do Segundo espaço</string>
   <string name="lockpassword_confirm_passwords_dont_match">As palavras-passe não correspondem</string>
   <string name="lockpassword_confirm_pins_dont_match">Os PINs não correspondem</string>
@@ -2399,6 +2411,54 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_lab_settings">Laboratório MIUI</string>
   <string name="miui_lab_slogan">Aprender. Explorar. Descobrir.</string>
   <string name="miui_lab_super_resolution_title">Super resolução</string>
+  <string name="miui_sos_audio_summary">Play SOS message after emergency contact picks up</string>
+  <string name="miui_sos_audio_title">SOS voice message</string>
+  <string name="miui_sos_call_log_duration">Duration</string>
+  <string name="miui_sos_call_log_min">min</string>
+  <string name="miui_sos_call_log_none">I have no call history for the last hour.</string>
+  <string name="miui_sos_call_log_sec">s</string>
+  <string name="miui_sos_call_log_stranger">Stranger</string>
+  <string name="miui_sos_call_log_summary">Send the call history for the last 1 hour to your emergency contact</string>
+  <string name="miui_sos_call_log_title">Send call history</string>
+  <string name="miui_sos_call_warning_sim_unable">"No signal. Can't send SMS."</string>
+  <string name="miui_sos_calling_summary">Your device will make automatic calls to your emergency contacts playing the SOS voice message you recorded. The call will be ended after your message is finished playing. Auto call will stop after the first successful attempt.</string>
+  <string name="miui_sos_calling_title">Auto call</string>
+  <string name="miui_sos_contacts_add">Emergency contacts</string>
+  <string name="miui_sos_contacts_category">Emergency contacts</string>
+  <string name="miui_sos_emergency_contacts">Emergency contacts</string>
+  <string name="miui_sos_emergency_contacts_quantity">%dadded</string>
+  <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s)has already accepted</string>
+  <string name="miui_sos_emergency_delivered_sms_noname">%1shas already accepted</string>
+  <string name="miui_sos_emergency_failed_sms" formatted="false">%1s(%2s)sos message sending failed.</string>
+  <string name="miui_sos_emergency_failed_sms_noname">%1ssos message sending failed.</string>
+  <string name="miui_sos_enable_switch_summary">Rapidly press the Power button 5 times to send a SOS text message with your location to your emergency contacts</string>
+  <string name="miui_sos_enable_switch_title">Emergency SOS</string>
+  <string name="miui_sos_exit_dialog_cancel">Cancelar</string>
+  <string name="miui_sos_exit_dialog_message">You activated Emergency SOS. Your location info is being sent to your emergency contacts. Turn off anyway?</string>
+  <string name="miui_sos_exit_dialog_ok">OK</string>
+  <string name="miui_sos_exit_dialog_title">Turning off Emergency SOS</string>
+  <string name="miui_sos_green_guard_summary">Share location info in real time</string>
+  <string name="miui_sos_green_guard_title">Parental controls</string>
+  <string name="miui_sos_launch_error">"Couldn't activate Emergency SOS"</string>
+  <string name="miui_sos_launch_error_confirm">Got it</string>
+  <string name="miui_sos_launch_error_message">"Can't connect to the mobile network. Can't use Emergency SOS."</string>
+  <string name="miui_sos_launching_summary">Activating Emergency SOS in %ds</string>
+  <string name="miui_sos_launching_title">SOS</string>
+  <string name="miui_sos_menu_add">Adicionar</string>
+  <string name="miui_sos_menu_edit">Editar</string>
+  <string name="miui_sos_msg_call_log_prefix">"Here's my call history for the last hour:"</string>
+  <string name="miui_sos_play_voice">Play SOS message</string>
+  <string name="miui_sos_remind_add">Adicionar</string>
+  <string name="miui_sos_remind_infocontent">"I added you as my emergency contact. You'll receive a message with my location info in case I'm in danger. [Mi Emergency SOS]"</string>
+  <string name="miui_sos_remind_open">Emergency SOS needs at least 1 emergency contact to work normally.</string>
+  <string name="miui_sos_remind_sendinfo">"Don't forget to tell these people that they are your emergency contacts now. Thus, they will be able to help you faster in case of emergency."</string>
+  <string name="miui_sos_remind_sendnow">Enviar agora</string>
+  <string name="miui_sos_remind_title">Atenção</string>
+  <string name="miui_sos_settings_alert_contacts_repeat">Não pode adicionar contactos duplicados</string>
+  <string name="miui_sos_settings_alert_contacts_too_many">Pode adicionar até 3 contactos de emergência</string>
+  <string name="miui_sos_settings_category">Definições SOS</string>
+  <string name="miui_sos_statusbar_summary">Toque para desligar</string>
+  <string name="miui_sos_statusbar_title">A emergência SOS está activada</string>
   <string name="miui_updater">Actualizações</string>
   <string name="miui_userguide">Guia do utilizador</string>
   <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
@@ -3829,6 +3889,12 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="sort_max_use">Ordenar por utilização máxima</string>
   <string name="sort_order_alpha">Ordenar por nome</string>
   <string name="sort_order_size">Ordenar por tamanho</string>
+  <string name="sos_privacy_and_content_policy">Termos de Utilização e Política de Privacidade</string>
+  <string name="sos_privacy_dialog_button_cancel">Cancelar</string>
+  <string name="sos_privacy_dialog_button_ok">Continuar</string>
+  <string name="sos_privacy_dialog_message">"Antes de activar a função de emergência SOS, leia e confirme %s. 
+ Para assegurar a normal utilização da função de emergência SOS pode ser necessário obter a sua localização, utilizar dados móveis e ler os seus contactos. Confirma?"</string>
+  <string name="sos_privacy_dialog_title">Termos e Condições</string>
   <string name="sound_category_call_ringtone_vibrate_title">Toques e notificações</string>
   <string name="sound_category_sound_title">Geral</string>
   <string name="sound_category_system_title">Sistema</string>
@@ -4162,6 +4228,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="system_storage">Armazenamento do sistema</string>
   <string name="system_ui_settings">Mostrar SystemUI Tuner</string>
   <string name="system_update_settings_list_item_title">Actualizar sistema</string>
+  <string name="talkback_watermark_enable">"Marca d'água TalkBack"</string>
   <string name="tap_to_wake">Tocar para activar</string>
   <string name="tap_to_wake_summary">Tocar duas vezes em qualquer ponto do ecrã para activar o dispositivo</string>
   <string name="taplus_title">Taplus</string>

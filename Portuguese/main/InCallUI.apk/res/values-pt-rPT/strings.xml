@@ -205,6 +205,7 @@
   <string name="user_locked_prompt">Desbloqueie o dispositivo para aceder aos contactos</string>
   <string name="video_conference_caller_info_name">Videochamada em conferência de %1$s</string>
   <string name="voicemail">Voice Mail</string>
+  <string name="volume_boost_text">Volume aumentado com sucesso</string>
   <string name="video_crbt_title">%s toque de vídeo</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>

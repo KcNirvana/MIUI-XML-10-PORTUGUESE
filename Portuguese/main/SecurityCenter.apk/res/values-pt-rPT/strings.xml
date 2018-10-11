@@ -523,19 +523,10 @@
   <string name="card_main_xspace_action">Criar</string>
   <string name="card_main_xspace_summary">Criar várias contas para quaisquer aplicações</string>
   <string name="card_main_xspace_title">Aplicações clonadas</string>
-  <string name="card_sms_report">Reportar via SMS</string>
   <string name="card_tc_failed">Não foi possível calibrar</string>
-  <string name="card_tc_failed_content">"Motivos possíveis:
- 1. As operadoras respondem mais lentamente no fim do mês. Tente novamente daqui a uns dias.
- 2. É necessário um pedido de rede quando calibrar pela primeira vez. Ligue-se à rede e tente novamente.
- 3. A sua operadora pode não suportar o envio de mensagens de texto com os dados restantes e saldo. Contacte a sua operadora para saber mais.
- 4. Pode haver erros nos dados da operadora. Tente os diagnósticos de operadora para resolver isto.
- 5. Ainda não consegue? Toque \"Reportar via SMS\" para enviar o seu comentário para a Xiaomi numa mensagem de texto"</string>
-  <string name="celcius_symbol">℃</string>
   <string name="charging_text_battery_full_time">"Última carga "</string>
   <string name="charging_text_battery_nearly_full">Quase carregada</string>
   <string name="charging_text_battery_perfect">Totalmente carregada</string>
-  <string name="check_network_state">Testar rede</string>
   <string name="choose">Escolher</string>
   <string name="clean_immediately">Limpar</string>
   <string name="cleaned">Limpo</string>
@@ -886,8 +877,8 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_first_window_antimsg_summary_quick_answer">Utilizar respostas rápidas</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Ver texto em fundo transparente</string>
   <string name="gb_first_window_antimsg_title">Notificações convenientes</string>
-  <string name="gb_first_window_gamebox_summary_four">Utilizar respostas rápidas, fazer gravações e capturas de ecrã</string>
-  <string name="gb_first_window_gamebox_summary_six">Limpar cache, fazer gravações e capturas de ecrã</string>
+  <string name="gb_first_window_gamebox_summary_four">Limpar cache, fazer gravações e capturas de ecrã</string>
+  <string name="gb_first_window_gamebox_summary_six">Utilizar respostas rápidas, fazer gravações e capturas de ecrã</string>
   <string name="gb_first_window_handsfree_summary">Ligar o altifalante automaticamente</string>
   <string name="gb_first_window_handsfree_title">Chamadas mãos-livres</string>
   <string name="gb_first_window_start">Começar a jogar</string>
@@ -1114,12 +1105,8 @@ da operadora"</string>
   <string name="main_tobe_added_desc">Dados móveis desde ¥0.03/MB</string>
   <string name="main_today_used">Utilizado hoje</string>
   <string name="main_toolbar_firewall">Restringir utilização de dados</string>
-  <string name="main_toolbar_internet_by_mobiledata">Dados móveis</string>
-  <string name="main_toolbar_internet_by_pc_brige">Internet por USB</string>
-  <string name="main_toolbar_internet_by_wifi">Wi-Fi</string>
   <string name="main_toolbar_purchase">Comprar</string>
   <string name="main_toolbar_statistic">Estatísticas de utilização de dados</string>
-  <string name="main_used_bill">%s CNY</string>
   <string name="man_add_application">Adicionar aplicações de início automático manualmente</string>
   <string name="manage_hybrid_permissions">Gerir permissões da aplicação</string>
   <string name="managed_user_title">Todas as aplicações de trabalho</string>
@@ -1424,7 +1411,6 @@ do seu dispositivo"</string>
   <string name="open_game">Abrir</string>
   <string name="open_now">Permitir que a aplicação utilize dados móveis</string>
   <string name="operator_diagnostic">Diagnósticos da operadora</string>
-  <string name="operator_mi_sim">Mi SIM</string>
   <string name="operator_name_cmcc">China Mobile</string>
   <string name="operator_name_telcom">China Telecom</string>
   <string name="operator_name_unicom">China Unicom</string>
@@ -2038,7 +2024,6 @@ Esta funcionalidade não é suportada para aplicações de sistema"</string>
   <string name="status_bar_network_flow_phone_balance">"   Saldo:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Comprar &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Configurar plano de dados &gt;"</string>
-  <string name="status_bar_network_flow_today">Hoje: %1$s</string>
   <string name="still_retain_btn">Manter</string>
   <string name="suggest_app_tolock">Sugestões</string>
   <string name="suggest_app_tolock_masked">Ocultas</string>

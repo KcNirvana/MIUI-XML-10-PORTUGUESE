@@ -8,10 +8,6 @@
         <item quantity="other">A procurar por capas e letras (%1$d/%2$d)</item>
         <item quantity="one">A procurar por capas e letras (%1$d/%2$d)</item>
     </plurals>
-    <plurals name="Nbackup_songs">
-        <item quantity="other">A copiar músicas. %1$d músicas restantes (%2$.1fMB)</item>
-        <item quantity="one">A copiar música. %1$d música restante (%2$.1fMB)</item>
-    </plurals>
     <plurals name="Nquit_warning">
         <item quantity="other">Vai parar de tocar em %d minutos</item>
         <item quantity="one">Vai parar de tocar em %d minuto</item>
@@ -25,10 +21,6 @@
 Total músicas: %2$d"</item>
         <item quantity="one">"Criado em %1$s
 Total músicas: %2$d"</item>
-    </plurals>
-    <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d músicas que ainda não foram copiadas para a Mi Cloud. Parar agora?</item>
-        <item quantity="one">%d música que ainda não foi copiada para a Mi Cloud. Parar agora?</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">%d músicas adicionadas à lista de reprodução</item>
@@ -46,14 +38,6 @@ Total músicas: %2$d"</item>
         <item quantity="other">%d músicas parecidas</item>
         <item quantity="one">%d música parecida</item>
     </plurals>
-    <plurals name="Nunbackup_audios">
-        <item quantity="other">%1$d músicas que ainda não foram copiadas (%2$.1fMB)</item>
-        <item quantity="one">%1$d música que ainda não foi copiada (%2$.1fMB)</item>
-    </plurals>
-    <plurals name="Nupload_song_button">
-        <item quantity="other">Fazer cópia de %1$d músicas (%2$.1fMB)</item>
-        <item quantity="one">Fazer cópia de %1$d música (%2$.1fMB)</item>
-    </plurals>
     <plurals name="comment_count">
         <item quantity="other">%d comentários</item>
         <item quantity="one">%d comentário</item>
@@ -69,10 +53,6 @@ Total músicas: %2$d"</item>
     <plurals name="dialog_remove_descript">
         <item quantity="other">Remover %d músicas?</item>
         <item quantity="one">Remover %d música?</item>
-    </plurals>
-    <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Eliminar %d músicas da Mi Cloud?</item>
-        <item quantity="one">Eliminar %d música da Mi Cloud?</item>
     </plurals>
     <plurals name="download_finished">
         <item quantity="other"><font color="red">%d músicas</font> transferidas</item>

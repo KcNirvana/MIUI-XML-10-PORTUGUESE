@@ -63,7 +63,7 @@
   <string name="button_settings_confirm_to_revoke_title">Revogar autorização?</string>
   <string name="button_sure_abandon">Rejeitar alterações?</string>
   <string name="change_alert">Verifique a sua ligação de rede e tente novamente</string>
-  <string name="china_version_first_start_network_msg">Ao utilizar este produto, está a concordar com %1$s e %2$s da Xiaomi. Esta aplicação necessita de ligar à Internet e aceder à sua localização para funcionar normalmente</string>
+  <string name="china_version_first_start_network_msg">É necessário concordar com %1$s e %2$s da Xiaomi. O Tempo necessita de ligar à Internet e aceder à sua localização para funcionar normalmente. Concorda?</string>
   <string name="city_exceeded_warning">Pode adicionar até 10 cidades</string>
   <string name="commercial">Comercial</string>
   <string name="common_loading_text">Aguarde…</string>
@@ -72,8 +72,9 @@
   <string name="content_desc_activity_main_add_city_manage">Gerir cidades</string>
   <string name="content_desc_activity_main_more_settings">Mais definições</string>
   <string name="content_desc_back_button">Voltar</string>
+  <string name="content_desc_city_manage_del">Eliminar</string>
+  <string name="content_desc_city_manage_edit">Gerir cidades</string>
   <string name="content_desc_close_button">Fechar</string>
-  <string name="content_desc_edit_city_manage">Gerir cidades</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_no_stable_direction">Sem vento</string>
   <string name="daily_forcast_no_wind">0</string>
@@ -251,7 +252,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="update_setting_title_text">Informações de actualização do tempo</string>
   <string name="updated_a_moment_ago">Actualizado há momentos atrás</string>
   <string name="updating">A actualizar…</string>
-  <string name="user_agreement">Termos de Serviço</string>
+  <string name="user_agreement">Termos de Utilização</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>

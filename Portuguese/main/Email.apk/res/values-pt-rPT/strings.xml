@@ -164,6 +164,7 @@
   <string name="add_account_keywords">Adicionar conta;adicionar conta de email</string>
   <string name="add_attachment">Adicionar anexo</string>
   <string name="add_calendar">Lembrar</string>
+  <string name="add_file_exception">Adicionar excepção. Tente adicionar de outra localização</string>
   <string name="add_label">Adicionar pasta</string>
   <string name="add_pre_message_attachments">Adicionar os anexos de pré-mensagem?</string>
   <string name="add_pre_message_attachments_no">Não adicionar</string>

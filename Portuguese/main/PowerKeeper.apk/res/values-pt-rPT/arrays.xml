@@ -15,6 +15,7 @@
     <string-array name="emode_app_groups">
         <item>Aplicações de sistema</item>
         <item>Outras aplicações</item>
+        <item>Aplicações seleccionadas</item>
     </string-array>
     <string-array name="thermal_entries">
         <item>Modo predefinido</item>

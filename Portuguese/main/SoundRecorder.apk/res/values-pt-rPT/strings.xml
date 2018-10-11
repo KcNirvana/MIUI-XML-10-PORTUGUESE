@@ -52,8 +52,8 @@
   <string name="mark_point_list_title">Marcadores</string>
   <string name="menu">Menu</string>
   <string name="message_file_size_error">A gravação atingiu o tamanho máximo suportado por %s</string>
-  <string name="network_tip_dialog_cancel">Cancelar</string>
-  <string name="network_tip_dialog_content">Esta aplicação necessita de ligar à Internet e ler os seus contactos para funcionar normalmente</string>
+  <string name="network_tip_dialog_cancel">Não concordar</string>
+  <string name="network_tip_dialog_content">Esta aplicação necessita de ligar à Internet para funcionar normalmente. Concorda?</string>
   <string name="network_tip_dialog_ok">Permitir</string>
   <string name="network_tip_dialog_title">É necessário ligação à Internet</string>
   <string name="new_record_name">Nova gravação</string>

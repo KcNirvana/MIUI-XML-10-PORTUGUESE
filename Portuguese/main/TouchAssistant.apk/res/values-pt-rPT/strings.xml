@@ -8,7 +8,6 @@
   <string name="close_panel">Desligar menu flutuante</string>
   <string name="customize_entries">Seleccionar atalhos</string>
   <string name="enable_touch_assistant">Ligar menu flutuante</string>
-  <string name="enabled_for_pad_hint">Funciona quando \"Bloquear os botões de navegação no modo paisagem\" estiver ligado</string>
   <string name="function_settings">Definições do atalho</string>
   <string name="handy_mode_default_to_close_whether_open">O Modo Uma Mão está desligado por defeito Ligar Modo Uma Mão?</string>
   <string name="hide_touch_assistant">Ocultar automaticamente</string>

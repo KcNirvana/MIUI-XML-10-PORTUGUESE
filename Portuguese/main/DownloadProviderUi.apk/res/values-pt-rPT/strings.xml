@@ -57,7 +57,6 @@
   <string name="dialog_btn_ok_disabled_net">Definições de rede</string>
   <string name="dialog_cannot_resume">Transferência interrompida. Não pode ser transferida</string>
   <string name="dialog_confirm_delete_checkbox_message">Eliminar ficheiro(s) do dispositivo</string>
-  <string name="dialog_confirm_delete_downloads_message">Eliminar %d transferências?</string>
   <string name="dialog_confirm_delete_the_download_item_message">Eliminar esta(s) transferência(s)?</string>
   <string name="dialog_content_limit0">Restringido</string>
   <string name="dialog_content_limit_max">Ilimitado</string>
@@ -92,7 +91,6 @@
   <string name="download_filesize_unknown">Desconhecido</string>
   <string name="download_from">Fonte:</string>
   <string name="download_in_process">A transferir</string>
-  <string name="download_info_count_deleted_tasks">%s transferência(s) eliminada(s)</string>
   <string name="download_info_start_deleted_tasks">Eliminar transferências</string>
   <string name="download_list_get_free_vip">Testar Xunlei</string>
   <string name="download_list_get_hightspeed_flow_auto_open">Optimização de transferências Xunlei está ligado</string>
@@ -335,9 +333,7 @@ em todos os seus dispositivos com Xunlei"</string>
   <string name="sniff_no_result_text">Sem resultados encontrados</string>
   <string name="sniff_result_empty_prompt">Resultados da pesquisa web</string>
   <string name="sniff_result_num_prefix">Localizado</string>
-  <string name="sniff_result_num_video_suffix">itens</string>
   <string name="sniff_result_num_website_suffix">Websites</string>
-  <string name="sniff_result_website_intro">Total&lt;font color=\"#6699ff\"&gt;%1$d&lt;/font&gt; itens | Fonte: %2$s</string>
   <string name="sniff_search_assoicate_sizeinfo">Tamanho: %1$s</string>
   <string name="sniff_search_install">Instalar</string>
   <string name="sniff_shortcut_cloudconfig_btn">Entendi</string>

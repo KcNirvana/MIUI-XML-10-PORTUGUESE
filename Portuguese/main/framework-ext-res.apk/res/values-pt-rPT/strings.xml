@@ -115,6 +115,7 @@
   <string name="screenshot_gesture_detect_alert_title">Captura de ecrã com três dedos</string>
   <string name="security_permission_denied_text">Acesso negado</string>
   <string name="security_permission_failed_text">Erro interno. Tente novamente mais tarde</string>
+  <string name="security_permission_network_failed_text">Não foi possível ligar à rede. Verifique as suas definições de rede e tente novamente</string>
   <string name="security_permission_validate_warning">Obrigado por ajudar a fazer uma MIUI melhor!</string>
   <string name="security_permission_wifi_and_data_opened_text">Dados móveis e Wi-Fi ligados</string>
   <string name="security_permission_xiaomi_account_missed_text">Introduza o ID da sua Conta Mi</string>
@@ -162,6 +163,8 @@
   <string name="switch_brand_desc_tv">Serviços de segurança fornecido por Graphite</string>
   <string name="switch_desc_tv">Dois espaços. Um dispositivo</string>
   <string name="switching_tv">A trocar…</string>
+  <string name="talk_back_water_mark_string1">TalkBack ligado</string>
+  <string name="talk_back_water_mark_string2">Prima e segure \"Volume+\" e \"Volume-\" por 3 segundos para desligar</string>
   <string name="total">Não incomodar</string>
   <string name="total_description">Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
   <string name="total_title">Não incomodar</string>

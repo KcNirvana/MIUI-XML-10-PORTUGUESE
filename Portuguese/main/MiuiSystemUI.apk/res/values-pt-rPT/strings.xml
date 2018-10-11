@@ -815,9 +815,11 @@ Tente novamente dentro de %2$d segundos"</string>
   <string name="legacy_vpn_name">VPN</string>
   <string name="lland">L Land</string>
   <string name="loading_desktop">Aguarde…</string>
+  <string name="lock_screen_carrier_airplane_mode_on">Modo Avião</string>
   <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
-  <string name="lock_screen_no_sim_card">Sem cartão SIM</string>
+  <string name="lock_screen_no_sim_card_emergency_only">Apenas cham. emergência</string>
+  <string name="lock_screen_no_sim_card_no_service">Sem serviço</string>
   <string name="lock_wallpaper_enter">Entrar</string>
   <string name="lock_wallpaper_learn_more">Mais</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
@@ -1189,6 +1191,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_sync_label">Sincronização</string>
   <string name="quick_settings_tethering_label">Partilha de ligação</string>
   <string name="quick_settings_time_label">Hora</string>
+  <string name="quick_settings_toast_drag_to_enable_custom_tile">Para adicionar um item, arraste-o para a parte de cima do painel</string>
   <string name="quick_settings_user_label">Eu</string>
   <string name="quick_settings_user_new_user">Novo utilizador</string>
   <string name="quick_settings_user_title">Utilizador</string>
@@ -1433,6 +1436,7 @@ O telefone pode sobreaquecer se:
   <string name="torch_activity_hint">Segure [icon] para ligar a lanterna no ecrã de bloqueio</string>
   <string name="torch_activity_name">Lanterna</string>
   <string name="torch_closed">Lanterna desligada</string>
+  <string name="torch_high_temperature_warning">O seu dispositivo está demasiado quente. Não pode utilizar a lanterna agora</string>
   <string name="torch_opened">Lanterna ligada</string>
   <string name="tuner_app">Aplicação %1$s</string>
   <string name="tuner_circle">Círculo</string>

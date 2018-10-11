@@ -103,6 +103,10 @@
         <item quantity="other">%d dias úteis</item>
         <item quantity="one">%d dia útil</item>
     </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Pode configurar até %d lembretes</item>
+        <item quantity="one">Pode configurar até %d lembrete</item>
+    </plurals>
     <plurals name="Ndays_after">
         <item quantity="other">%1$d dias depois</item>
         <item quantity="one">%1$d dia depois</item>

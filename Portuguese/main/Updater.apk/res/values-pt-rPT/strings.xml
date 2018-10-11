@@ -35,7 +35,7 @@ Os dados não vão ser eliminados"</string>
   <string name="new_version">Nova versão encontrada</string>
   <string name="no_info">Sem informação disponível</string>
   <string name="no_network">Sem acesso à rede</string>
-  <string name="no_update">Já está actualizado</string>
+  <string name="no_update">Já está actualizado ou existe problemas no servidor. Verifique no site xiaomi.eu</string>
   <string name="no_xioamieu">"Está a utilizar uma ROM Xiaomi.eu.
 Não estão disponíveis actualizações"</string>
   <string name="notif_cancel">Cancelar</string>

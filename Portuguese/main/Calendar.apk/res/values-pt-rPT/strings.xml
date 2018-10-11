@@ -154,6 +154,7 @@
   <string name="edit_event_confirm_message">Rejeitar alterações?</string>
   <string name="edit_event_countdown_name_empty_hint">Introduza o nome do evento</string>
   <string name="edit_event_countdown_name_hint">Evento</string>
+  <string name="edit_event_dislike_title">Porque cancelou?</string>
   <string name="edit_event_from_label">Data de início</string>
   <string name="edit_event_input_year">Introduzir ano</string>
   <string name="edit_event_label">Detalhes</string>
@@ -197,7 +198,6 @@
   <string name="event_lunar_month">Mês</string>
   <string name="event_reminder_allday_day_zero">No dia às %2$s</string>
   <string name="event_reminder_value_zero">Antes do evento</string>
-  <string name="event_reminders_to_max">Pode configurar até %d lembretes</string>
   <string name="event_title">Título</string>
   <string name="event_view">Ver evento</string>
   <string name="every_weekday">Dias úteis (Seg-Sex)</string>

@@ -48,10 +48,10 @@
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Estes dados vão ser copiados para a Mi Cloud quando o dispositivo estiver ligado ao Wi-Fi: 
 
-- Aplicações, disposição inicial do ecrã e papéis de parede 
-- Alarmes e definições de horas 
-- Definições das notificações 
-- Definições MIUI e do sistema
+* Aplicações, disposição inicial do ecrã e papéis de parede 
+* Alarmes e definições de horas 
+* Definições das notificações 
+* Definições MIUI e do sistema
  
 Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cloud"</string>
   <string name="cloud_back_up_frequence_choice_title">Programação de cópias</string>
@@ -94,7 +94,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="desktop_wait_wifi">A aguardar</string>
   <string name="desktop_waiting">A aguardar</string>
   <string name="device_delete_prompt">Eliminar cópia de %s?</string>
-  <string name="device_xiaomi">Telefone Mi</string>
   <string name="dialog_cancel_backup_cancel">Cancelar</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Desligar vai terminar as cópias em curso</string>
@@ -108,12 +107,17 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="download_meta_failed">Não foi possível carregar dados</string>
   <string name="download_settings">A transferir ecrã inicial: %s%%</string>
   <string name="download_settings_fail">Não foi possível transferir o ecrã inicial</string>
+  <string name="error_retry_later">Erro. Tente novamente mais tarde</string>
   <string name="error_unknown">Erro</string>
   <string name="get_device_id_error">Não foi possível obter o ID do dispositivo</string>
   <string name="home_hint_global_launcher">Ecrã inicial Poco</string>
+  <string name="home_hint_other_launcher">Outro ecrã inicial</string>
   <string name="home_restore_error">Não foi possível restaurar o ecrã inicial</string>
   <string name="lack_of_storage">Sem espaço de armazenamento</string>
   <string name="latest_backup_time_loading">A carregar…</string>
+  <string name="load_backup_failed">Não foi possível carregar as cópias</string>
+  <string name="loading_user_backup">A carregar cópias…</string>
+  <string name="main_space">Espaço principal</string>
   <string name="managespace_delete_backup">Eliminar</string>
   <string name="menu_item_managespace">Gerir espaço</string>
   <string name="menu_item_sort">Ordenar por</string>
@@ -122,7 +126,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">A restaurar itens. Parar agora?</string>
   <string name="msg_alert_restore_error">Não foi possível restaurar os itens da Mi Cloud. Tente novamente</string>
-  <string name="name_model">%2$s de %1$s</string>
   <string name="network_error">Ligue-se à rede</string>
   <string name="no_account">Sem sessão iniciada na Conta Mi</string>
   <string name="no_backup">Sem cópias na Mi Cloud</string>
@@ -158,8 +161,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="restore_task_in_process">A restaurar…</string>
   <string name="restore_unfinished">A restaurar. Tente novamente mais tarde</string>
   <string name="retry">Tentar novamente</string>
-  <string name="self_phone">Este telefone</string>
-  <string name="self_phone_home">Este telefone: %s</string>
+  <string name="second_space">Segundo espaço</string>
+  <string name="self_device">deste telefone</string>
   <string name="settings_backup">Definições do sistema</string>
   <string name="size_unknown">Tamanho desconhecido</string>
   <string name="start_backup_to_micloud">Fazer cópia das aplicações para a Mi Cloud</string>
@@ -169,5 +172,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="title_alert_restore_error">Não foi possível restaurar</string>
   <string name="total_space">Espaço total: %s</string>
   <string name="try_again">Toque para tentar novamente</string>
+  <string name="try_continue">Toque para continuar</string>
+  <string name="unsupported_home">Actualize o sistema operativo</string>
   <string name="wait_icon_download">A transferir os ícones da aplicação</string>
 </resources>
