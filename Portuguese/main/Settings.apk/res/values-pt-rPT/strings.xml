@@ -102,7 +102,7 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="account_list">Outras contas</string>
   <string name="account_other">Outras</string>
   <string name="account_settings">Contas</string>
-  <string name="account_settings_menu_auto_sync">Sinc. auto. de dados</string>
+  <string name="account_settings_menu_auto_sync">Sincronização automática</string>
   <string name="account_settings_menu_auto_sync_personal">Sinc. auto. de dados pessoais</string>
   <string name="account_settings_menu_auto_sync_work">Sinc. auto. de dados de trabalho</string>
   <string name="account_settings_title">Contas</string>
@@ -2995,7 +2995,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="privacy_authorize_cloud_msg">Para assegurar a segurança da sua conta, inicie sessão em i.mi.com se quiser revogar a autorização para os serviços Mi Cloud</string>
   <string name="privacy_authorize_dialog_agree">Concordar</string>
   <string name="privacy_authorize_dialog_exit">Sair</string>
-  <string name="privacy_authorize_dialog_message">"Para utilizar as funcionalidade básicas dos serviços Mi Cloud, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; e &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt;.&amp;#8203;"</string>
+  <string name="privacy_authorize_dialog_message">Para utilizar as funcionalidade básicas dos serviços Mi Cloud, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\">Termos de Utilização</a></string>
   <string name="privacy_authorize_network_error">Ligue à rede e tente novamente</string>
   <string name="privacy_authorize_privacy_policy">Política de Privacidade</string>
   <string name="privacy_authorize_revoke">Revogar</string>

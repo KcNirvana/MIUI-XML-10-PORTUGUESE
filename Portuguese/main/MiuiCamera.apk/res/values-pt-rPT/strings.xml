@@ -68,8 +68,8 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="camera_settings_label">Câmara</string>
   <string name="camera_snap_mode_title">Modo disparo rápido</string>
   <string name="camera_snap_mode_title_detail">Toque para ver detalhes</string>
-  <string name="cannot_connect_camera_once">Não é possível ligar à câmara</string>
-  <string name="cannot_connect_camera_twice">Ainda não é possível ligar à câmara. Tente reiniciar o dispositivo</string>
+  <string name="cannot_connect_camera_once">Não é possível ligar-se à câmara</string>
+  <string name="cannot_connect_camera_twice">Ainda não é possível ligar-se à câmara. Tente reiniciar o dispositivo</string>
   <string name="cannot_connect_camera_volte_call">Está em curso uma videochamada. Tente mais tarde</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o dispositivo quieto</string>
   <string name="color_effect_entry_berry">Bagas</string>

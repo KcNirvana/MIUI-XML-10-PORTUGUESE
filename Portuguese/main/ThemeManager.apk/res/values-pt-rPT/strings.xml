@@ -307,8 +307,8 @@
   <string name="resource_exchange_wrong_format_by_server">O código não foi verificado. Certifique-se de que o introduziu correctamente</string>
   <string name="resource_expand_full_text">Expandir</string>
   <string name="resource_failed_to_load_list">Não é possível carregar os temas</string>
-  <string name="resource_free_download">Transfira gratuitamente</string>
-  <string name="resource_free_trial_15_days">Experimente 15 dias gratuitamente</string>
+  <string name="resource_free_download">Transferir gratuitamente</string>
+  <string name="resource_free_trial_15_days">Experimentar 15 dias gratuitamente</string>
   <string name="resource_free_use_last_one_day">A sua demonstração expira amanhã</string>
   <string name="resource_get_auth_checking">A verificar autorização…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Já foram autorizados 10 dispositivos nesta conta</string>
