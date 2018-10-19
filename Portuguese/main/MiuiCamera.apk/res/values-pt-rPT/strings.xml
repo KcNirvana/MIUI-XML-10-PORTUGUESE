@@ -9,8 +9,8 @@
   <string name="accessibility_beauty_panel_open">Menu Embelezar ligado</string>
   <string name="accessibility_beauty_switch_closed">Embelezar desligado</string>
   <string name="accessibility_beauty_switch_open">Embelezar ligado</string>
-  <string name="accessibility_bokeh_normal">Efeito blur da câmara desligado</string>
-  <string name="accessibility_bokeh_on">Efeito blur da câmara ligado</string>
+  <string name="accessibility_bokeh_normal">Efeito desfocar da câmara desligado</string>
+  <string name="accessibility_bokeh_on">Efeito desfocar da câmara ligado</string>
   <string name="accessibility_camera_picker">Trocar câmara frontal e traseira</string>
   <string name="accessibility_camera_picker_finish">Trocadas com sucesso</string>
   <string name="accessibility_camera_shutter_finish">Tirou uma foto com sucesso</string>
@@ -110,7 +110,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
   <string name="dual_camera_lowlight_toast">A iluminação é muito baixa</string>
   <string name="dual_camera_too_close_toast">A câmara está demasiado perto do objecto</string>
-  <string name="dual_camera_use_hint">O modo Estéreo ajuda-o a utilizar o efeito blur.
+  <string name="dual_camera_use_hint">O modo Estéreo ajuda-o a utilizar o efeito desfocar.
 O objecto não pode estar a mais de dois metros</string>
   <string name="edit_blusher">Rouge</string>
   <string name="edit_chin">Queixo</string>
@@ -217,6 +217,10 @@ no modo Retrato"</string>
   <string name="portait_effect_entry_riddle">Enigma</string>
   <string name="portait_effect_entry_romance">Romântico</string>
   <string name="portait_effect_entry_story">História</string>
+  <string name="portrait_bokeh_first_tips">"Utilize o Modo Retrato para desfocar
+o fundo nas suas fotos"</string>
+  <string name="portrait_bokeh_text">Modo Retrato</string>
+  <string name="portrait_bokeh_tips">Coloque o objecto a 1.5 metros</string>
   <string name="portrait_mode_depth_effect_success_hint">Efeito de profundidade</string>
   <string name="portrait_mode_lowlight_hint">Está demasiado escuro</string>
   <string name="portrait_mode_too_close_hint">Está demasiado perto do objecto</string>

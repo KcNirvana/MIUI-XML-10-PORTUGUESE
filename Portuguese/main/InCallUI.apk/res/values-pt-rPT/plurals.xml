@@ -4,4 +4,16 @@
         <item quantity="other">%d chamadas gravadas</item>
         <item quantity="one">%d chamada gravada</item>
     </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">1 segundo</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">1 hora</item>
+    </plurals>
 </resources>

@@ -969,6 +969,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="no_sim_card">Sem cartão SIM</string>
   <string name="no_weather_description">Obter a previsão do tempo</string>
   <string name="not_support_multi_window">A aplicação actual não suporta o modo ecrã dividido</string>
+  <string name="notch_sos_status_bar_title">SOS</string>
   <string name="notch_status_bar_date_format_12">"EEEE, d 'de' MMMM"</string>
   <string name="notification_all_categories">Todas as categorias</string>
   <string name="notification_app_settings">Personalizar: %1$s</string>
@@ -1296,6 +1297,8 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="snooze_option_30_min">30 minutos</string>
   <string name="snooze_undo">Anular</string>
   <string name="snoozed_for_time">Suspenso por %1$s</string>
+  <string name="sos_status_bar_summary">Clique para sair</string>
+  <string name="sos_status_bar_title">SOS</string>
   <string name="special_mode_cancel">Cancelar</string>
   <string name="special_mode_ok">Reiniciar</string>
   <string name="speed_bump_explanation">Notificações menos urgentes abaixo</string>

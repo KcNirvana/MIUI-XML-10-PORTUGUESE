@@ -76,6 +76,10 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Seleccione até %d fotos</item>
+        <item quantity="one">Seleccione até %d foto</item>
+    </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d itens seleccionados</item>
         <item quantity="one">%d item seleccionado</item>

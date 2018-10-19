@@ -292,6 +292,7 @@
   <string name="collage_poster_global_summer_flower_text">Flores de verão</string>
   <string name="collage_poster_global_tea_text">Chá das cinco</string>
   <string name="collage_rotate">Rotação</string>
+  <string name="collage_select_image_range">As colagens podem conter entre 1 e 4 fotos</string>
   <string name="collage_title_layout">Layout</string>
   <string name="collage_title_poster">Poster</string>
   <string name="collaps_people">Ocultar</string>
@@ -551,6 +552,7 @@ efeitos de fotos"</string>
   <string name="finish_fill_baby">Criar</string>
   <string name="flash_off">Sem flash</string>
   <string name="flash_on">Flash utilizado</string>
+  <string name="frame_not_support_image_ratio">Esta resolução não é suportada</string>
   <string name="free_view_desc">Visão 3D</string>
   <string name="gallery_setting">Definições</string>
   <string name="gallery_sync_disable_toast">A sincronização com a Galeria está desligada</string>
@@ -722,6 +724,7 @@ para personalizar a galeria"</string>
   <string name="operation_in_process">A processar…</string>
   <string name="operation_move_to_other_albums">Mover para outros álbuns</string>
   <string name="operation_not_show_in_photos_tab">Não mostrar em Fotos</string>
+  <string name="operation_produce">Creatividade</string>
   <string name="operation_projection">Transmitir</string>
   <string name="operation_remove_face">Remover</string>
   <string name="operation_remove_from_face_album">Remover do álbum</string>
@@ -764,10 +767,12 @@ para personalizar a galeria"</string>
   <string name="photo_editor_beauty_compare">Original</string>
   <string name="photo_editor_crop_and_rotate">Cortar</string>
   <string name="photo_editor_crop_auto">Auto</string>
+  <string name="photo_editor_crop_auto_tips">Cortado automaticamente</string>
   <string name="photo_editor_crop_reset">Repor</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Rabiscar</string>
   <string name="photo_editor_filter">Filtrar</string>
+  <string name="photo_editor_frame">Moldura</string>
   <string name="photo_editor_label">Editar</string>
   <string name="photo_editor_long_crop">Cortar</string>
   <string name="photo_editor_miui_beauty">Embelezar</string>
@@ -822,6 +827,7 @@ para personalizar a galeria"</string>
   <string name="photo_editor_talkback_redo">Refazer</string>
   <string name="photo_editor_talkback_undo">Anular</string>
   <string name="photo_editor_text">Texto</string>
+  <string name="photo_movie_select_image_range">Os clips podem conter entre 3 a 6 fotos</string>
   <string name="photo_page_save_uri_image_fail">Não foi possível guardar na Galeria</string>
   <string name="photo_page_save_uri_image_ok">Foto guardada na Galeria</string>
   <string name="photo_print_menu_loading">A carregar plugin…</string>
@@ -1042,6 +1048,7 @@ para personalizar a galeria"</string>
   <string name="secret_reason_unknow_reasons">Erro desconhecido</string>
   <string name="secret_reason_video_not_support">Não é possível adicionar vídeos a álbuns ocultos</string>
   <string name="see_ignore_faces">Ver as pessoas que ignorou</string>
+  <string name="select_image_operation">A adicionar fotos</string>
   <string name="select_item_face">"Isto é '%s'?"</string>
   <string name="select_origin_tip">Ficheiro original (%s)</string>
   <string name="send_file_beautify_failed">Não foi possível partilhar</string>
@@ -1188,6 +1195,7 @@ para personalizar a galeria"</string>
   <string name="unpublish_failed">Não foi possível anular a publicação</string>
   <string name="unpublish_succeeded">Publicação de álbum anulada</string>
   <string name="unpublishing">A cancelar…</string>
+  <string name="unsupport_video">%s não funciona com vídeos</string>
   <string name="user_agree">Concordar</string>
   <string name="user_agreement2">Termos de Serviço</string>
   <string name="user_agreement4">Política de Privacidade</string>

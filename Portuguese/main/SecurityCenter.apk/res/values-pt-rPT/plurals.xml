@@ -239,8 +239,8 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="one">"%d risco, "</item>
     </plurals>
     <plurals name="hints_handle_item_text_virus_number">
-        <item quantity="other">"%d trojans, "</item>
-        <item quantity="one">"%d trojan, "</item>
+        <item quantity="other">%d trojans</item>
+        <item quantity="one">%d trojan</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">Aplicações maliciosas: %d</item>

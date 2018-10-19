@@ -186,6 +186,10 @@
   <string name="timer_alarm_cancel_pad">Toque no ecrã para parar de tocar</string>
   <string name="timer_alarm_dot_matrix_label">Temporizador</string>
   <string name="timer_alert_alert_silenced">O temporizador desliga após %d minutos</string>
+  <string name="timer_alert_mute_off">O alarme vai tocar quando o temporizador parar</string>
+  <string name="timer_alert_mute_on">O alarme não vai tocar quando o temporizador parar</string>
+  <string name="timer_alert_mute_remind">Toque para silenciar o alarme</string>
+  <string name="timer_alert_mute_switch">Trocar para alarmes em silêncio</string>
   <string name="timer_cancel_timer">Cancelar temporizador</string>
   <string name="timer_clock_alert_text">Definir temporizador</string>
   <string name="timer_continue">Continuar</string>
@@ -219,7 +223,7 @@
   <string name="volume_button_setting_summary">Definir a função dos botões de volume durante o alarme</string>
   <string name="volume_button_setting_title">Botões de volume</string>
   <string name="workday_alarm_clock">Alarme em dias úteis</string>
-  <string name="worldclock_input_hint_text">Introduzir cidade</string>
+  <string name="worldclock_input_hint_text">Pesquisar por país ou cidade</string>
   <string name="worldclock_empty_text">Sem relógios</string>
   <string name="worldclock_search_city">Seleccionar cidade</string>
   <string name="worldclock_title">Relógio</string>
