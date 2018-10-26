@@ -7,7 +7,7 @@
   <string name="altitude_uncalibrate_cancel">Cancelar</string>
   <string name="altitude_uncalibrate_msg">Não é possível calibrar a altitude com precisão sem o GPS ou uma ligação de dados móveis</string>
   <string name="altitude_uncalibrate_refresh">Tente novamente</string>
-  <string name="altitude_uncalibrate_tip">Não é possível calibrar altitude</string>
+  <string name="altitude_uncalibrate_tip">Dados não calibrados</string>
   <string name="altitude_unit">m</string>
   <string name="angle">%.0f</string>
   <string name="app_description_content">A bússola é utilizada para navegação e orientação. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>

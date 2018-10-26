@@ -3983,6 +3983,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_notification_sound_custom">Personalizar som</string>
   <string name="status_bar_settings_notification_use_app_icon">Utilizar ícones da aplicação para notificações</string>
   <string name="status_bar_settings_notification_vibrate">Vibração</string>
+  <string name="status_bar_settings_peek_notification_icon">Mostrar ícones nas notificações</string>
   <string name="status_bar_settings_show_carrier">Mostrar nome da operadora</string>
   <string name="status_bar_settings_show_carrier_summary">O nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Mostrar o nome da operador quando o dispositivo estiver bloqueado</string>

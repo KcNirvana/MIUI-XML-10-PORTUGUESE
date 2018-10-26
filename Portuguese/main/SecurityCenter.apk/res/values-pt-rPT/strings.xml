@@ -861,6 +861,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gamebooster_main_activity_back">Voltar</string>
   <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades de Acelerador de jogos?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
+  <string name="gamebox_app_not_find">Instale a aplicação primeiro</string>
   <string name="gamebox_qq_not_find">Instale o QQ e tente novamente</string>
   <string name="gamebox_type_close">Não mostrar</string>
   <string name="gamebox_type_float">Atalho fixo</string>
@@ -921,6 +922,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gs_game_shortcut">Melhore a sua experiência de jogo</string>
   <string name="gs_gamebox">Atalhos</string>
   <string name="gs_gamebox_detail">Mostrar painel de atalhos</string>
+  <string name="gs_gamebox_slip">Puxar para abrir</string>
   <string name="gs_only_self_start_for_list">Restringir processos em segundo plano para poupar bateria para jogar</string>
   <string name="gs_open_game_booster">Optimizar velocidade</string>
   <string name="gs_open_game_booster_summary">Aumentar a velocidade de rede para jogos</string>
@@ -2063,6 +2065,7 @@ Esta funcionalidade não é suportada para aplicações de sistema"</string>
   <string name="summary_permission">Evitar pagamentos indesejados e proteger dados pessoais</string>
   <string name="summary_permission_root">Tem acesso root. Pode pôr em risco a segurança do dispositivo</string>
   <string name="summary_power_optimizer">Reduzir o desempenho do seu dispositivo quando tiver pouca bateria</string>
+  <string name="summary_rcs_switch">Enviar SMS para utilizadores China Mobile gratuitamente</string>
   <string name="summary_realname_verify">Verificar a sua identidade para tornar os pagamentos mais seguros</string>
   <string name="summary_restrict_data_usage">Restringiu a utilização de dados para esta aplicação</string>
   <string name="summary_show_notification">Limpar cache, ver estado da bateria e bloquear itens na área de notificações</string>
@@ -2238,6 +2241,7 @@ Esta funcionalidade não é suportada para aplicações de sistema"</string>
   <string name="title_permission_root">Acesso root</string>
   <string name="title_permission_yes">Monitor de permissões ligado</string>
   <string name="title_power_optimizer">Poupança de bateria</string>
+  <string name="title_rcs_switch">Ligar mensagens China Mobile</string>
   <string name="title_realname_verify">Verificação de ID</string>
   <string name="title_reply">Comentar</string>
   <string name="title_restrict_data_usage">%s não consegue ligar à Internet?</string>

@@ -119,6 +119,7 @@
   <string name="setting_category_additional">Definições adicionais</string>
   <string name="setting_category_apps">Aplicações rápidas</string>
   <string name="setting_feedback">Comentários</string>
+  <string name="setting_privacy">Política de Privacidade</string>
   <string name="show_home_message">Ícone da aplicação</string>
   <string name="show_notifications">Mostrar notificações</string>
   <string name="toast_error_detail_copied">Os detalhes do erro foram copiados</string>
