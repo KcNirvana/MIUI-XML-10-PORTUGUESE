@@ -1135,6 +1135,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     <string-array name="alarm_repeat_type">
         <item>Todos os dias</item>
         <item>Dias úteis</item>
+        <item>Fins de semana</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="vip_mode_text">
@@ -1146,6 +1147,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>Todos os dias</item>
         <item>Dias úteis</item>
+        <item>Fins de semana</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="privacy_password_function_specfication_names">
