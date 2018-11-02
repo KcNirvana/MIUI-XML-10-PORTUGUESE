@@ -43,6 +43,10 @@
         <item quantity="other">%1$s mensagens enviadas</item>
         <item quantity="one">%1$s mensagem enviada</item>
     </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Mensagem recebida por %1$s e %2$d outras pessoas</item>
+        <item quantity="one">Mensagem recebida por %1$s e %2$d outra pessoa</item>
+    </plurals>
     <plurals name="group_message_failed_title">
         <item quantity="other">Não foi possível enviar para %d contactos</item>
         <item quantity="one">Não foi possível enviar para %d contacto</item>

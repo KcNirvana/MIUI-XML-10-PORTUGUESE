@@ -1402,8 +1402,8 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_delete_data_dialog_msg_retry">Tente novamente</string>
   <string name="structure_face_delete_data_dialog_title">Não foi possível iniciar Câmara</string>
   <string name="structure_face_hardware_abnormal_btn">Percebi</string>
-  <string name="structure_face_hardware_abnormal_msg">Não é possível gravar dados do rosto devido a um erro do laser</string>
-  <string name="structure_face_hardware_abnormal_title">Erro do laser</string>
+  <string name="structure_face_hardware_abnormal_msg">Ocorreu um erro de hardware. Reinicie o seu dispositivo</string>
+  <string name="structure_face_hardware_abnormal_title">Erro de hardware</string>
   <string name="structure_face_modules_abnormal_btn">Reiniciar</string>
   <string name="structure_face_modules_abnormal_msg">Não é possível gravar dados do rosto devido a um erro do módulo óptico. Reinicie o seu dispositivo e tente novamente</string>
   <string name="structure_face_modules_abnormal_title">Erro do módulo óptico</string>
@@ -1421,6 +1421,7 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_unlock_model_other_title">Reconhecimento do rosto</string>
   <string name="structure_face_unlock_not_same_person">Tem de concluir todos os passos sozinho. Não troque com ninguém</string>
   <string name="structure_face_unlock_really_person">Parece que substituiu o seu rosto por um objecto</string>
+  <string name="structure_face_unlock_tof_covered">Não foi possível adicionar dados do rosto. Afaste-se do ecrã</string>
   <string name="switch_bar_off">Desligado</string>
   <string name="switch_bar_on">Ligado</string>
   <string name="switch_system_user">Abrir Primeiro espaço</string>

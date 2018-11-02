@@ -12,7 +12,8 @@
   <string name="act_weather_find_city_searching">A pesquisar…</string>
   <string name="activity_alert_detail_title"/>
   <string name="activity_find_city_dialog_cancel">Cancelar</string>
-  <string name="activity_find_city_dialog_message">Deixar o Tempo ver a sua localização</string>
+  <string name="activity_find_city_dialog_message">Permitir que o Tempo possa aceder à sua localização para obter informações de localização</string>
+  <string name="activity_find_city_dialog_message_global">Permitir que o Tempo possa aceder à sua localização para obter informações de localização</string>
   <string name="activity_find_city_dialog_set">Definições</string>
   <string name="activity_find_city_dialog_title">Acesso à localização</string>
   <string name="activity_main_alert"/>
@@ -37,6 +38,7 @@
   <string name="aqi_detail_24_hours">Previsão horária</string>
   <string name="aqi_detail_5_days">Previsão para 5 dias</string>
   <string name="aqi_detail_co">CO</string>
+  <string name="aqi_detail_co_unit">Unidade: mg/m³</string>
   <string name="aqi_detail_no2">NO2</string>
   <string name="aqi_detail_o3">O3</string>
   <string name="aqi_detail_pm10">PM10</string>
@@ -46,7 +48,8 @@
   <string name="aqi_detail_subtitle">IQA %1$s</string>
   <string name="aqi_detail_title">Indíce de qualidade do ar</string>
   <string name="aqi_detail_unit">Unidade: µg/m³</string>
-  <string name="aqi_publish_source">Actualizado às %1$s por CNEMC</string>
+  <string name="aqi_first_sub_desc_locate">Estação: %1$s (%2$s distante)</string>
+  <string name="aqi_first_sub_desc_no_locate">Média de IQA em %1$s</string>
   <string name="aqi_publish_time">Actualizado às %1$s</string>
   <string name="aqi_short_desc">Qualidade do ar %1$s</string>
   <string name="aqi_sub_desc">IQA</string>
@@ -73,7 +76,7 @@
   <string name="content_desc_activity_main_more_settings">Mais definições</string>
   <string name="content_desc_back_button">Voltar</string>
   <string name="content_desc_city_manage_del">Eliminar</string>
-  <string name="content_desc_city_manage_edit">Gerir cidades</string>
+  <string name="content_desc_city_manage_edit">Editar</string>
   <string name="content_desc_close_button">Fechar</string>
   <string name="daily_forcast_drawer_on_bottom">Ocultar</string>
   <string name="daily_forcast_no_stable_direction">Sem vento</string>
@@ -97,13 +100,16 @@
   <string name="edit_alert_city_title">Gerir alertas</string>
   <string name="edit_city">Gerir localizações</string>
   <string name="eu_region_version_first_start_network_msg">Ao utilizar este produto, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao tocar em \"Concordar\", concorda com %1$s e %2$s da Xiaomi</string>
-  <string name="feedback_heavy_rain">Chuva forte</string>
-  <string name="feedback_heavy_snow">Neve</string>
-  <string name="feedback_light_rain">Chuva fraca</string>
+  <string name="feedback_cloudy">Com nuvens</string>
+  <string name="feedback_foggy">Nebuloso</string>
+  <string name="feedback_haze">Neblina</string>
+  <string name="feedback_moderate_rain">Chuva</string>
+  <string name="feedback_moderate_snow">Neve</string>
   <string name="feedback_overcast">Céu nublado</string>
+  <string name="feedback_report_privacy_msg">O relatório vai conter a sua localização</string>
   <string name="feedback_result_fail_no_choice">Escolha o tempo que está a ver</string>
   <string name="feedback_result_success">Submetido com sucesso. Obrigado pelo seu comentário</string>
-  <string name="feedback_sand">Areias</string>
+  <string name="feedback_sandy">Arenoso</string>
   <string name="feedback_sunny">Céu limpo</string>
   <string name="first_start_network_msg">Esta aplicação necessita de uma ligação à Internet para aceder à sua localização para funcionar normalmente</string>
   <string name="first_start_network_title">Ligação à Internet e acesso à localização</string>

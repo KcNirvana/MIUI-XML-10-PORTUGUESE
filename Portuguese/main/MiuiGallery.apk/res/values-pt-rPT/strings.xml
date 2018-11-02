@@ -734,6 +734,7 @@ para personalizar a galeria"</string>
   <string name="operation_save">Guardar</string>
   <string name="operation_send">Enviar</string>
   <string name="operation_set_contact_photo">Definir como foto de contacto</string>
+  <string name="operation_set_slide_wallpaper">Definir como papel de parede de diapositivos</string>
   <string name="operation_set_wallpaper">Definir como papel de parede</string>
   <string name="operation_share">Partilhar</string>
   <string name="operation_show_in_photos_tab">Mostrar em Fotos</string>
@@ -878,6 +879,7 @@ para personalizar a galeria"</string>
   <string name="picker_image_will_download">%d das fotos seleccionadas não estão no dispositivo. A transferir</string>
   <string name="picker_no_network_message">Ligue à rede para transferir</string>
   <string name="picker_origin_need_download">%1$d das fotos seleccionadas não estão no dispositivo (%2$dMB). Transferir utilizando os dados móveis?</string>
+  <string name="picker_origin_request_progress_fail">Não foi possível transferir a imagem original devido a um erro de rede</string>
   <string name="picker_origin_request_progress_message">A preparar ficheiros originais (%1$d/%2$d)…</string>
   <string name="picker_title_format">Seleccione %1$d a %2$d fotos</string>
   <string name="picker_title_selection_format">Fotos seleccionadas: %d</string>
@@ -1058,6 +1060,8 @@ para personalizar a galeria"</string>
   <string name="send_secret_file_space_low">Sem espaço suficiente</string>
   <string name="send_too_many_files_error">Pode enviar até %d itens de uma vez</string>
   <string name="set_as_baby_lock_wallpaper">Definir como papel de parede do ecrã de bloqueio</string>
+  <string name="set_as_slide_wallpaper_description">Esta imagem é uma miniatura. Transferir o original?</string>
+  <string name="set_as_slide_wallpaper_title">Definir como papel de parede de diapositivos</string>
   <string name="set_as_wallpaper_description">Esta imagem é uma miniatura. Transferir o original?</string>
   <string name="set_as_wallpaper_title">Definir como papel de parede</string>
   <string name="set_face_group_toast_msg_new_user">Segure na foto de uma pessoa para unir ou ignorar</string>

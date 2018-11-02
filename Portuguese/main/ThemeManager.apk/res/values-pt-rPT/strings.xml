@@ -47,6 +47,7 @@
   <string name="component_category_finest_title">Geral</string>
   <string name="component_category_more_title">Avançado</string>
   <string name="component_title_ringtone">Toques</string>
+  <string name="component_title_settings_video_wallpaper">Papéis de parede com efeitos especiais</string>
   <string name="component_title_video_wallpaper">Vídeos de papel de parede</string>
   <string name="component_title_wallpaper">Papéis de parede</string>
   <string name="current_using_desktop_wallpaper_text">Ecrã inicial</string>
@@ -472,6 +473,9 @@
   <string name="theme_current_using_has_update">Actualização de tema disponível</string>
   <string name="theme_description_title_customized">Personalizado</string>
   <string name="theme_description_title_default">Predefinido</string>
+  <string name="theme_detail_tab_comment">Comentários</string>
+  <string name="theme_detail_tab_recommend">Recomendados</string>
+  <string name="theme_detail_tab_theme">Temas</string>
   <string name="theme_empty_redirect">Voltar a Temas</string>
   <string name="theme_favorite_add_fail">Não foi possível adicionar aos favoritos</string>
   <string name="theme_favorite_add_success">Adicionado aos favoritos</string>

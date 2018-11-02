@@ -6,7 +6,7 @@
   <string name="addBlackList">Bloquear</string>
   <string name="add_attachment">Adicionar anexos</string>
   <string name="add_contact">Contacto</string>
-  <string name="add_miui_contact">Cartão Mi</string>
+  <string name="add_miui_contact">Contacto</string>
   <string name="add_music">Adicionar músicas</string>
   <string name="add_number_to_sender">Adicionar número a %s</string>
   <string name="add_picture">Adicionar imagem</string>
@@ -140,7 +140,6 @@
   <string name="delete_wild_sims_title">Eliminar números seleccionados</string>
   <string name="delivery_report_activity">Relatório de entrega</string>
   <string name="delivery_toast_body">Mensagem recebida por %s</string>
-  <string name="delivery_toast_body_more">Mensagem recebida por %1$s e %2$d outras pessoas</string>
   <string name="dialog_message_fake_cell_detect_error">Corrijir a informação acerca desta mensagem? Para fazer isto, a MIUI necessita de enviar o seu número de telefone (%1$s), o conteúdo da mensagem e a informação acerca da localização para os seus servidores</string>
   <string name="dialog_message_mx">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI. Vai ser cobrada uma SMS pela activação deste serviço. Tem de concordar com os nossos \"%1$s\" e \"%2$s\" antes de utilizar</string>
   <string name="dialog_message_networking">As Mensagens necessitam de ligar à Internet e aceder à sua localização para fornecer serviços. Permitir?</string>

@@ -57,6 +57,7 @@
   <string name="activity_title_virus_settings">Definições</string>
   <string name="activity_title_white_list">Excepções</string>
   <string name="ad_btn_default_text">Saber mais</string>
+  <string name="ad_split_screen_title">Troque para o modo ecrã inteiro para desbloquear</string>
   <string name="ad_update_time">Última actualização: %s</string>
   <string name="ad_update_time_unKnown">Última actualização: desconhecida</string>
   <string name="adb_install_no_network">Ligue-se à rede e tente novamente</string>
@@ -773,9 +774,6 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="first_aid_card_airplane_button">Desligar</string>
   <string name="first_aid_card_airplane_summary">Desligue o Modo Avião para poder fazer chamadas e ligar-se à rede</string>
   <string name="first_aid_card_airplane_title">Não pode fazer chamadas ou ligar-se à rede</string>
-  <string name="first_aid_card_apn_button">Corrigir</string>
-  <string name="first_aid_card_apn_summary">Os APNs foram alterados. Corrija-os para poder ligar-se à rede</string>
-  <string name="first_aid_card_apn_title">Não é possível ligar à rede</string>
   <string name="first_aid_card_consume_power_button1">Restringir</string>
   <string name="first_aid_card_consume_power_button2">Desligar</string>
   <string name="first_aid_card_consume_power_summary1">Mais de 5 aplicações iniciam automaticamente. Restrinja-as para poupar bateria</string>
@@ -1324,7 +1322,6 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="note_list_none">Lista vazia</string>
   <string name="note_preference_delete">Não é possível eliminar esta regra porque está a ser utilizada</string>
   <string name="note_sms_none">Sem mensagens</string>
-  <string name="notification_battery_consume_abnormal_summary">Descarregou %2$s nos últimos %1$d minutos</string>
   <string name="notification_battery_consume_abnormal_title">A bateria está a descarregar muito depressa</string>
   <string name="notification_exit_power_save_mode">Poupança de bateria desligada</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
