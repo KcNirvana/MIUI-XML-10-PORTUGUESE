@@ -333,8 +333,8 @@
   <string name="description_image_button_plus">mais</string>
   <string name="description_image_button_pound">Cardinal</string>
   <string name="description_image_button_seven">sete</string>
-  <string name="description_image_button_sim1_dial">Marcar com o SIM1</string>
-  <string name="description_image_button_sim2_dial">Marcar com o SIM2</string>
+  <string name="description_image_button_sim1_named_dial">Marcar com o SIM1 %s</string>
+  <string name="description_image_button_sim2_named_dial">Marcar com o SIM2 %s</string>
   <string name="description_image_button_six">seis</string>
   <string name="description_image_button_star">asterisco</string>
   <string name="description_image_button_three">três</string>
@@ -977,6 +977,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="savingContact">A guardar o contacto…</string>
   <string name="savingDisplayGroups">A guardar opções de visualização…</string>
   <string name="scan">Verificar</string>
+  <string name="scan_business_card">Digitalizar cartão comercial</string>
+  <string name="scan_bussiness_card_merge_tip">Os dados em conflitos foram substituidos</string>
   <string name="scan_duplicate_message">%1$d contactos com informação idêntica</string>
   <string name="scan_merge">A pesquisar por contactos duplicados…</string>
   <string name="scan_qrcode_card_hint1">Digitalizar código QR</string>

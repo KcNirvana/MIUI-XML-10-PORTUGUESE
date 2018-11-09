@@ -16,6 +16,7 @@
   <string name="ad_app_is_downloading">A transferir…</string>
   <string name="add_resource_detail_fail">Não é possível adicionar recurso</string>
   <string name="all_resources">Todos</string>
+  <string name="app_ad_title">Recomendações diárias</string>
   <string name="app_name">Temas</string>
   <string name="apply_default_font_tip">Continuar a utilizar o tipo de letra do sistema?</string>
   <string name="apply_font_btn_exclude">Agora não</string>
@@ -114,6 +115,9 @@
   <string name="gift_used">Enviar</string>
   <string name="hide_free">Ocultar %1$s gratuitos</string>
   <string name="hide_incompatible">Ocultar %1$s incompatíveis</string>
+  <string name="hide_pull_down_message">Ocultar?</string>
+  <string name="hide_pull_down_negative">Não ocultar</string>
+  <string name="hide_pull_down_positive">Ocultar</string>
   <string name="home_apply_failured">Não é possível definir papel de parede do ecrã inicial</string>
   <string name="home_apply_success">Papel de parede do ecrã inicial definido</string>
   <string name="in_the_end">Sem mais itens para mostrar</string>
@@ -172,6 +176,7 @@
   <string name="my_gifts_purchased">Adquiridos</string>
   <string name="my_gifts_received">Recebidos</string>
   <string name="no_data">Não é possível ligar à rede</string>
+  <string name="no_net_work_connection">Verifique as suas definições de rede e tente novamente</string>
   <string name="online_no_network">Não é possível ligar à Internet</string>
   <string name="online_precust_abstract">Abstratos</string>
   <string name="online_precust_animal">Animais</string>
@@ -193,6 +198,9 @@
   <string name="provision_loading_tips">Aguarde…</string>
   <string name="provision_second_title">Seleccionar um temas predefinidos</string>
   <string name="provision_title">Escolher um tema</string>
+  <string name="pull_down_view_error_message">Sem ligação à Internet. Verifique a sua ligação e tente novamente</string>
+  <string name="pull_down_view_refresh">Actualizar</string>
+  <string name="pull_down_view_title">O que há de novo</string>
   <string name="purchased_list">Adquiridos</string>
   <string name="purchased_list_current">Temas optimizados</string>
   <string name="purchased_list_legacy">Temas básicos</string>
@@ -205,6 +213,7 @@
   <string name="refresh_footer_release">Solte para carregar</string>
   <string name="region_not_support">Os temas não são suportados na sua região</string>
   <string name="reload">Tentar novamente</string>
+  <string name="request_time_out">Pedido expirado. Tente novamente</string>
   <string name="resource_account_abnormal_state">Erro na conta. Aguarde alguns minutos e tente novamente</string>
   <string name="resource_account_fail_to_add">Não é possível adicionar conta</string>
   <string name="resource_account_login">Iniciar sessão</string>
@@ -421,6 +430,7 @@
   <string name="search_hint_header_text">Pesquisa rápida</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="selected_resource_file_invalid">Não é possível utilizar o ficheiro de recurso seleccionado</string>
+  <string name="server_internal_error">Ocorreu um erro de servidor. Tente novamente</string>
   <string name="set_color_ring_back_tone">Definir um toque personalizado</string>
   <string name="settings">Definições</string>
   <string name="shortcut_add">Adicionar</string>

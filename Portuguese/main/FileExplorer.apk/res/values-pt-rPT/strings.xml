@@ -434,6 +434,7 @@
   <string name="rename_alert">Se mudar a extensão deste ficheiro, pode não conseguir abri-lo</string>
   <string name="rename_alert2">O ficheiro vai ser oculto após alterar a sua extensão</string>
   <string name="rename_failed">Não é possível mudar o nome de %1$s</string>
+  <string name="rename_input_null">Introduza novo nome</string>
   <string name="repair_done">Restaurados</string>
   <string name="repair_error">Não foi possível restaurar</string>
   <string name="repair_file">Restaurar ficheiros encriptados</string>

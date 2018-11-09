@@ -356,7 +356,7 @@ Se não actualizar, as aplicações clonadas podem não funcionar correctamente 
   <string name="start_new_fingerprint_tips">"Utilizar a impressão digital do Segundo espaço
 para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="start_setting_guide_desc_title">Existem algumas definições para configurar</string>
-  <string name="stop_xspace_alert_content">Eliminou todas as aplicações clonadas. Eliminar as contas e dados das mesmas também? Após isto, vai ter que criar aplicações clonadas novamente quando precisar</string>
+  <string name="stop_xspace_alert_content">Todas as aplicações clonadas vão ser eliminadas. Tem de reiniciar o seu dispositivo para aplicar esta alteração. Eliminar agora?</string>
   <string name="stop_xspace_alert_title">Contas de aplic. clonadas</string>
   <string name="summary_switch_apps_settings">Seleccionar aplicações utilizadas no espaço actual</string>
   <string name="support_desc">Serviços de segurança fornecidos por Spaces Mobile</string>
@@ -430,6 +430,7 @@ Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses
   <string name="xspace_label">Aplicações clonadas</string>
   <string name="xspace_loading_msg">A carregar aplicações…</string>
   <string name="xspace_qq_title">QQ</string>
+  <string name="xspace_remove">Eliminar aplicações clonadas</string>
   <string name="xspace_setting_label">Definições das aplic. clonadas</string>
   <string name="xspace_uninstall_completed">Aplicação clonada desinstalada com sucesso</string>
   <string name="xspace_uninstall_dialog_content">Desinstalar aplicação clonada vai remover todos os dados da mesma</string>

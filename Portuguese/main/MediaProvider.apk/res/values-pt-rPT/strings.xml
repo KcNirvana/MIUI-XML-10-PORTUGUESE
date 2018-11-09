@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_ringtone_text">Adicionar toque</string>
   <string name="alarm_sound_default">Toque predefinido do alarme</string>
   <string name="app_label">Armazenamento multimédia</string>
   <string name="artist_label">Artista</string>
+  <string name="delete_ringtone_text">Eliminar</string>
   <string name="notification_sound_default">Toque de notificação predefinido</string>
   <string name="ringtone_default">Toque predefinido</string>
   <string name="root_audio">Áudio</string>
   <string name="root_images">Imagens</string>
   <string name="root_videos">Vídeos</string>
   <string name="uid_label">Multimédia</string>
+  <string name="unable_to_add_ringtone">Não foi possível adicionar toque personalizado</string>
+  <string name="unable_to_delete_ringtone">Não foi possível eliminar toque personalizado</string>
 </resources>

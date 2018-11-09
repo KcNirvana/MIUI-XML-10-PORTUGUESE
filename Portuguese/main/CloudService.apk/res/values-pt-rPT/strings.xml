@@ -234,7 +234,7 @@ Utilize uma conta diferente"</string>
   <string name="micloud_privacy_cloud_off">Sincronização desligada</string>
   <string name="micloud_privacy_cloud_sync">Ligar a Mi Cloud</string>
   <string name="micloud_privacy_explanation">Conceder autorização para ligar a Mi Cloud</string>
-  <string name="micloud_privacy_licence_agreed">Concordar com a Política de Privacidade da Mi Cloud</string>
+  <string name="micloud_privacy_licence_agreed">Concordar com a <a href="app://com.miui.cloudservice.gdpr.license"><u>Política de Privacidade</u></a> da Mi Cloud</string>
   <string name="micloud_privacy_licence_privacy_policy">Política de Privacidade</string>
   <string name="micloud_privacy_progress_content">A conceder autorização…</string>
   <string name="micloud_privacy_warning_button">Voltar</string>

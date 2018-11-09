@@ -73,6 +73,7 @@
   <string name="show_screen_touch_summary">Mostrar gestos de toque utilizando um ponto branco</string>
   <string name="sound_source">Origem do som</string>
   <string name="sound_source_summary">Sons de sistema ou microfone</string>
+  <string name="sound_source_summary_without_system_sounds">Utilize o microfone ou silencie os sons</string>
   <string name="start">Iniciar</string>
   <string name="start_recording">Iniciar gravação</string>
   <string name="stop_by_second_space">Trocar de espaços vai parar a gravação</string>

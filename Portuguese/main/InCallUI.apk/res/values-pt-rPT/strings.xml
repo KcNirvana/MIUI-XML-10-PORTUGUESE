@@ -129,7 +129,7 @@
   <string name="dialpad_zero">0</string>
   <string name="do_not_support_video_calls_by_remote">As videochamadas não são suportadas pelo outro dispositivo</string>
   <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
-  <string name="inCallLabel">Em chamada</string>
+  <string name="inCallLabel">Telefone</string>
   <string name="incall_call_type_label_sip">Chamadas pela Internet</string>
   <string name="incall_error_supp_service_conference">Não é possível pôr chamadas em conferência</string>
   <string name="incall_error_supp_service_hangup">Não é possível desligar chamada</string>

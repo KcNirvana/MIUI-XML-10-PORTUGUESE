@@ -23,4 +23,8 @@
         <item>Limpar</item>
         <item>Limpar e notificar</item>
     </string-array>
+    <string-array name="wechat_sort">
+        <item>Data</item>
+        <item>Tamanho</item>
+    </string-array>
 </resources>

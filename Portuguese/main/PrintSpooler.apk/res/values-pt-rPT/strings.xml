@@ -24,6 +24,8 @@
   <string name="label_paper_size_summary">Tamanho do papel:</string>
   <string name="more_options_button">Mais opções</string>
   <string name="no_connection_to_printer">Sem ligação à impressora</string>
+  <string name="notification_channel_failure">Impressões em erro</string>
+  <string name="notification_channel_progress">Impressões a decorrer</string>
   <string name="page_description_template">Página %1$d de %2$d</string>
   <string name="pages_range_example">p.e. 1–5, 8, 11–13</string>
   <string name="permdesc_accessAllPrintJobs">Permite ao titular ter acesso a trabalhos de impressão criados por outra aplicação. Nunca deve ser necessário para aplicações normais</string>

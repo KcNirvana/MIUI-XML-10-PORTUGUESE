@@ -3,4 +3,5 @@
   <string name="app_label">Armazenamento externo</string>
   <string name="root_documents">Documentos</string>
   <string name="root_internal_storage">Armazenamento interno</string>
+  <string name="storage_description">Dispositivo</string>
 </resources>

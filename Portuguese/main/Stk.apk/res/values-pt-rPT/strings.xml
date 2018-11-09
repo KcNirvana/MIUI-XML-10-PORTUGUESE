@@ -25,6 +25,7 @@
   <string name="sim_type_uim_name">Ferramentas do UIM</string>
   <string name="sim_type_usim_name">Ferramentas do USIM</string>
   <string name="stk_app_state">Estado da aplicação</string>
+  <string name="stk_channel_name">Serviço de mensagens</string>
   <string name="stk_dialog_accept">SIM</string>
   <string name="stk_dialog_reject">NÃO</string>
   <string name="stk_dialog_title">Ferramentas do SIM</string>

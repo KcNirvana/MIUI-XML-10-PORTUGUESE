@@ -98,7 +98,6 @@
   <string name="app_name_view_picture">Ver fotos</string>
   <string name="app_name_view_video">Ver vídeos</string>
   <string name="application_icon">Ícone da aplicação</string>
-  <string name="apply">Aplicar</string>
   <string name="assistant_page_label">Histórias</string>
   <string name="associate_face_album">Escolher um álbum</string>
   <string name="auto_backup_introduce">Fazer cópia de fotos e vídeos automaticamente (é necessário uma Conta Mi)</string>
@@ -124,10 +123,6 @@
   <string name="baby_album_sharers_page_title">Partilhar com a família</string>
   <string name="baby_birthday">Aniversário</string>
   <string name="baby_face_desc">Álbum de bebé</string>
-  <string name="baby_lock_wallpaper">Papel de parede do ecrã de bloqueio</string>
-  <string name="baby_lock_wallpaper_cancelled">Alterado para o papel de parede predefinido do ecrã de bloqueio</string>
-  <string name="baby_lock_wallpaper_save_settings_msg">Aplicar as definições actuais?</string>
-  <string name="baby_lock_wallpaper_title">Utilizar as fotos de bebé como papel de parede do ecrã de bloqueio</string>
   <string name="baby_name_cannot_empty">Introduzir nome</string>
   <string name="baby_name_cannot_start_with">"Nome não pode começar com '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"Nome não pode conter '%s'"</string>
@@ -197,7 +192,6 @@
   <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">Tem de ser feita uma cópia às fotos da câmara</string>
   <string name="cancel">Cancelar</string>
-  <string name="cancel_baby_lock_wallpaper_confirm_msg">Alterar para o papel de parede predefinido do ecrã de bloqueio?</string>
   <string name="cancel_download_btn_text">Parar</string>
   <string name="cancel_hint">Operação cancelada</string>
   <string name="cannot_remove_creator">Não é possível remover o criador</string>
@@ -360,6 +354,11 @@
   <string name="disable_auto_upload_tip">Desligar a sincronização com a Mi Cloud para este álbum?</string>
   <string name="disable_auto_upload_title">Desligar a sincronização com a Mi Cloud</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
+  <string name="document_provider_guide_step_1">1. Toque no botão \"Mais\"</string>
+  <string name="document_provider_guide_step_2">2. Toque em  \"Mostrar armazenamento interno\"</string>
+  <string name="document_provider_guide_step_3">3. Toque no botão menu lateral</string>
+  <string name="document_provider_guide_step_4">4. Seleccione \"Cartão SD\"</string>
+  <string name="document_provider_guide_step_5">5. Toque \"Seleccionar\"</string>
   <string name="double_tap_to_higher_definition">Duplo toque para ver a pré-visualização em HD</string>
   <string name="download_canceled">Transferência cancelada</string>
   <string name="download_error_format">Não foi possível transferir %s</string>
@@ -463,6 +462,18 @@
   <string name="exit_video_play">Sair</string>
   <string name="expand_desc">Mais</string>
   <string name="expand_people">Mostrar mais pessoas</string>
+  <string name="ext_sdcard_first_entrance_request_failed_text">A Galeria vai guardar os itens no dispositivo. Pode alterar isto em Definições &gt; Armazenamento &gt; Definições de armazenamento</string>
+  <string name="ext_sdcard_first_entrance_request_failed_title">Não foi possível dar permissões</string>
+  <string name="ext_sdcard_guide_first_page_button_text">Seguinte</string>
+  <string name="ext_sdcard_guide_last_page_button_text">Dar permissões</string>
+  <string name="ext_sdcard_guide_text">A Galeria necessita de permissão para aceder ao cartão SD. O que tem de fazer:</string>
+  <string name="ext_sdcard_operation_failed_text">A Galeria necessita de permissão para aceder ao cartão SD</string>
+  <string name="ext_sdcard_operation_failed_title">Não foi possível concluir esta acção</string>
+  <string name="ext_sdcard_permission_request_button_text">Percebi</string>
+  <string name="ext_sdcard_permission_request_reason">A Galeria necessita de permissão para aceder ao cartão SD. Isto vai permitir que elimine e edite fotos e vídeos no seu cartão SD</string>
+  <string name="ext_sdcard_permission_request_title">Permissão de Galeria para aceder ao cartão SD</string>
+  <string name="ext_sdcard_request_failed_button_text">OK</string>
+  <string name="ext_sdcard_request_succeed_toast_text">Está pronto!</string>
   <string name="face_album_detecting_tip">Aguarde…</string>
   <string name="face_album_empty">"Sem fotos suficientes para reconhecer pessoas.
 Tire mais fotos dos seus amigos!"</string>
@@ -1059,7 +1070,6 @@ para personalizar a galeria"</string>
   <string name="send_secret_file_failed">Não foi possível partilhar</string>
   <string name="send_secret_file_space_low">Sem espaço suficiente</string>
   <string name="send_too_many_files_error">Pode enviar até %d itens de uma vez</string>
-  <string name="set_as_baby_lock_wallpaper">Definir como papel de parede do ecrã de bloqueio</string>
   <string name="set_as_slide_wallpaper_description">Esta imagem é uma miniatura. Transferir o original?</string>
   <string name="set_as_slide_wallpaper_title">Definir como papel de parede de diapositivos</string>
   <string name="set_as_wallpaper_description">Esta imagem é uma miniatura. Transferir o original?</string>

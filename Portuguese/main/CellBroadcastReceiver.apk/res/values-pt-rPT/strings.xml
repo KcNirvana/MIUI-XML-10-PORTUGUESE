@@ -90,6 +90,7 @@
   <string name="menu_view_details">Ver detalhes</string>
   <string name="message_options">Opções de mensagem</string>
   <string name="no_cell_broadcasts">Não existem alertas activos na sua área. Pode alterar as definições de Alerta utilizando a opção do menu Definições</string>
+  <string name="notification_channel_broadcast_messages">Transmissão de mensagens</string>
   <string name="notification_multiple">%s alertas não lidos</string>
   <string name="notification_multiple_title">Novos alertas</string>
   <string name="pws_other_message_identifiers">Alerta de Emergência</string>

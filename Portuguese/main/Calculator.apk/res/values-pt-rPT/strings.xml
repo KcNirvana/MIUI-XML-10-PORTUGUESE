@@ -146,6 +146,7 @@
   <string name="negDesc">Trocar entre temperaturas acima e abaixo de zero</string>
   <string name="network_confirm_content">O conversor de moeda e o calculador taxas e hipoteca necessitam de utilizar a ligação à Internet para funcionar normalmente</string>
   <string name="network_confirm_title">Ligação à rede necessária</string>
+  <string name="not_supported_due_to_language">Funcionalidade apenas disponível para o idioma chinês</string>
   <string name="percentDesc">Percentagem</string>
   <string name="piDesc">Pi</string>
   <string name="plusDesc">Mais</string>
@@ -166,6 +167,8 @@
   <string name="preference_follow_wechat_title">WeChat</string>
   <string name="preference_follow_weibo_summary">\@MIUI</string>
   <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_other">Outros</string>
+  <string name="preference_privacy_title">Política de Privacidade</string>
   <string name="preference_settings">Definições</string>
   <string name="preference_use_degress_summary">Substituir radianos por ângulos nas funções trigonométricas</string>
   <string name="preference_use_degress_title">Utilizar ângulos</string>
@@ -226,6 +229,8 @@
   <string name="tax_social_insurance">Seguro social</string>
   <string name="tax_thershold_foreign">%s (nacionalidade estrangeira)</string>
   <string name="tax_thershold_native">%s (China)</string>
+  <string name="tax_thershold_native_new">%s (novo)</string>
+  <string name="tax_thershold_native_new_description">As taxas vão ser calculadas segundo a novo lei de taxas a partir de 1 de Outubro de 2018</string>
   <string name="tax_threshold">Limite do imposto</string>
   <string name="tax_total_insurance_provident_fund">Seguros</string>
   <string name="tax_unemployment">Desemprego</string>

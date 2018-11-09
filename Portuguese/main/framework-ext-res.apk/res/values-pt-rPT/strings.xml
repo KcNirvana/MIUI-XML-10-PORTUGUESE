@@ -184,4 +184,5 @@
   <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à Internet</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicação</string>
+  <string name="xspace_head">Aplicações clonadas</string>
 </resources>

@@ -275,9 +275,11 @@ Para activar a sua conta siga o
   <string name="passport_input_password_for_login">Este número está associado a uma conta existente. Introduza a sua palavra-passe</string>
   <string name="passport_input_password_hint">Palavra-passe</string>
   <string name="passport_input_phone_hint">Número de telefone</string>
+  <string name="passport_input_phone_password">Introduza a palavra-passe para o número %s</string>
   <string name="passport_input_vcode_hint">Código de verificação</string>
   <string name="passport_input_voice_captcha_hint">Código de verificação de voz</string>
   <string name="passport_input_voice_hint">Código de voz</string>
+  <string name="passport_international_register_by_email">Criar uma conta utilizando o email</string>
   <string name="passport_license_host_unreachable">Não é possível ligar à rede. Pode ver esta página em %s</string>
   <string name="passport_license_info_collapse">Fechar</string>
   <string name="passport_license_info_open">Detalhes</string>
@@ -370,6 +372,7 @@ Para activar a sua conta siga o
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_sms_send_success">Enviada</string>
   <string name="passport_sms_verification_code_login">Iniciar sessão utilizando SMS</string>
+  <string name="passport_sms_verification_code_login_or_register">Iniciar sessão ou registar utilizando SMS</string>
   <string name="passport_sync_account_data">A sincronizar dados da conta…</string>
   <string name="passport_sync_account_data_failed_warning">Os dados da sua conta estão a ser sincronizados. Pode iniciar sessão utilizando o seu ID Conta Mi. Se quer utilizar o seu email ou telefonar para iniciar sessão, aguarde até acabar a sincronização</string>
   <string name="passport_talkback_image_captcha">Verificação de imagem</string>

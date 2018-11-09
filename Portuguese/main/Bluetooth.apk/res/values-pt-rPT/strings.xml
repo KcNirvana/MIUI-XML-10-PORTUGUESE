@@ -1,15 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ErrorTooManyRequests">Estão a ser processados muitos pedidos. Tente mais tarde</string>
+  <string name="a2dp_sink_mbs_label">Áudio Bluetooth</string>
   <string name="ack_record">Registo de confirmação</string>
-  <string name="airplane_can_not_share">Não é possível utilizar o Bluetooth para partilhar em Modo Avião</string>
   <string name="airplane_error_msg">Não pode utilizar o Bluetooth em Modo Avião</string>
   <string name="airplane_error_title">Modo Avião</string>
-  <string name="app_name">Partilha Bluetooth</string>
+  <string name="app_name">Bluetooth</string>
   <string name="auth_notif_message">Introduzir chave de sessão para %1$s</string>
   <string name="auth_notif_ticker">Pedido de autenticação Obex</string>
   <string name="auth_notif_title">Chave de Sessão</string>
-  <string name="bluetooth_in_airplane_mode">Em Modo Avião</string>
   <string name="bluetooth_map_settings_app_icon">Ícone da aplicação</string>
   <string name="bluetooth_map_settings_cancel">Cancelar</string>
   <string name="bluetooth_map_settings_count">Ranhuras restantes:</string>
@@ -57,14 +56,11 @@
   <string name="download_succ_ok">Abrir</string>
   <string name="download_success">%1$s recebido</string>
   <string name="download_title">Transferência de ficheiros</string>
-  <string name="empty_file_notification_sent">Bluetooth: Ficheiro vazio rejeitado pelo dispositivo remoto %1$s</string>
   <string name="enabling_progress_content">A ligar o Bluetooth…</string>
   <string name="enabling_progress_title">Por favor, aguarde…</string>
-  <string name="hello">Olá Mundo. Teste de Actividade</string>
   <string name="inbound_history_title">Transferências recebidas</string>
   <string name="inbound_noti_title">Bluetooth: Ficheiros recebidos</string>
-  <string name="incoming_file_confirm_Notification_caption">Deseja receber este ficheiro?</string>
-  <string name="incoming_file_confirm_Notification_title">Bluetooth: Ficheiro recebido</string>
+  <string name="incoming_file_confirm_Notification_title">Ficheiro recebido</string>
   <string name="incoming_file_confirm_cancel">Rejeitar</string>
   <string name="incoming_file_confirm_content">Aceitar o ficheiro a receber?</string>
   <string name="incoming_file_confirm_ok">Aceitar</string>
@@ -83,7 +79,6 @@
   <string name="no_transfers">Histórico de transferências está vazio</string>
   <string name="not_exist_file">Sem ficheiro</string>
   <string name="not_exist_file_desc">O ficheiro não existe</string>
-  <string name="noti_caption">%1$s com sucesso, %2$s sem sucesso</string>
   <string name="notification_received">Bluetooth: Recebido %1$s</string>
   <string name="notification_received_fail">Bluetooth: Ficheiro %1$s não foi recebido</string>
   <string name="notification_receiving">Bluetooth: A receber %1$s</string>
@@ -93,17 +88,17 @@
   <string name="notification_sent_fail">Bluetooth: Ficheiro %1$s não foi enviado</string>
   <string name="notify_server">Notificar servidor TCP</string>
   <string name="ok_button">OK</string>
+  <string name="opp_notification_group">Partilha Bluetooth</string>
   <string name="outbound_history_title">Transferências enviadas</string>
   <string name="outbound_noti_title">Bluetooth: Ficheiros enviados</string>
   <string name="pbap_acceptance_timeout_message">Expirou o tempo para aceitar a ligação com %1$s</string>
   <string name="pbap_authentication_timeout_message">Expirou o tempo para a introdução da chave de sessão com %1$s</string>
+  <string name="pbap_notification_group">Partilha de contactos Bluetooth</string>
   <string name="pbap_session_key_dialog_header">Necessária chave da sessão Bluetooth</string>
   <string name="pbap_session_key_dialog_title">Introduzir a chave da sessão para %1$s</string>
-  <string name="permdesc_bluetoothAvrcpDataManager">Permite que a aplicação aceda ao gestor de dados AVCRP Bluetooth e utilize-o para mostrar na UI</string>
   <string name="permdesc_bluetoothShareManager">Permite que a aplicação aceda ao gestor de partilha Bluetooth e o utilize para transferir ficheiros</string>
   <string name="permdesc_bluetoothWhitelist">Permite que a aplicação adicione temporariamente um dispositivo Bluetooth às excepções e envie ficheiros para esse dispositivo sem confirmação do utilizador</string>
   <string name="permdesc_handoverStatus">Permite receber o estado da transferência de transmissões Bluetooth</string>
-  <string name="permlab_bluetoothAvrcpDataManager">Aceder aos meta-dados AVRCP</string>
   <string name="permlab_bluetoothShareManager">Aceder ao gestor de transferências</string>
   <string name="permlab_bluetoothWhitelist">Adicionar às excepções de acesso ao dispositivo Bluetooth</string>
   <string name="permlab_handoverStatus">Receber transmissões de transferência Bluetooth</string>

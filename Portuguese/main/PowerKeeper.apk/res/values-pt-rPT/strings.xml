@@ -8,6 +8,9 @@
   <string name="app_preload_policies_summary">Utilize a IA para prever as aplicações que vai utilizar e carregar recursos para melhorar o início das mesmas</string>
   <string name="app_preload_policies_title">Pré-carregamento IA</string>
   <string name="appconfig_active_app_dialog_title">Gerir aplicações activas</string>
+  <string name="atrace_saved">Guardado com sucesso</string>
+  <string name="atrace_saving">A guardar registo…</string>
+  <string name="atrace_start">A gravar registo…</string>
   <string name="base_info">Informação de base</string>
   <string name="cloud_addr_info">Informação da nuvem</string>
   <string name="cloud_china_addr">Actualizar dados do servidor chinês</string>
@@ -39,8 +42,8 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="failure">Erro</string>
   <string name="hide_mode_desc">&lt;font color="#000000"&gt;Quando uma aplicação estiver em execução em segundo plano, as suas actividades vão ser monitorizadas para reduzir a utilização de bateria. Esta funcionalidade vai obter e utilizar os dados de utilizador segundo %s&lt;/font&gt;</string>
   <string name="hide_system_app">Ocultar aplicações de sistema</string>
-  <string name="high_temp_state">Temperaturas elevadas</string>
-  <string name="high_temp_state_message">Com temperaturas elevadas o PA Móvel, GPS, câmara, etc. vão ser restringidos</string>
+  <string name="high_temp_state">Sobreaquecimento</string>
+  <string name="high_temp_state_message">Com temperaturas elevadas o PA Móvel, GPS e câmara vão ser restringidos</string>
   <string name="hints_loading_text">Aguarde…</string>
   <string name="important_warning">Atenção</string>
   <string name="lasttime_applist_cloud">Aplicações actualizadas:</string>
@@ -84,7 +87,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="sleep_config_enhance_title">Modo Inactivo</string>
   <string name="sleepmode_disclaimer_agree">Concordar</string>
   <string name="sleepmode_disclaimer_cancel">Cancelar</string>
-  <string name="sleepmode_privacy_content">Esta funcionalidade vai utilizar os seus dados que não vão ser carregados para o servidor</string>
+  <string name="sleepmode_privacy_content">"Esta funcionalidade vai utilizar os seus dados que não vão ser carregados para o servidor. "</string>
   <string name="sleepmode_privacy_link">Saiba mais acerca da segurança e privacidade</string>
   <string name="sleepmode_privacy_title">Modo Inactivo</string>
   <string name="sucess">Concluído</string>
