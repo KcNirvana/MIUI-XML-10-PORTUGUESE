@@ -76,9 +76,9 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">"O acesso à rede está restringido para &lt;font color='#ff0000'>%d&lt;/font> aplicações"</item>
         <item quantity="one">"O acesso à rede está restringido para &lt;font color='#ff0000'>%d&lt;/font> aplicação"</item>
     </plurals>
-    <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">%d aplicações que descarregam bateria</item>
-        <item quantity="one">%d aplicação que descarrega bateria</item>
+    <plurals name="om_locked_apps_title">
+        <item quantity="other">%d aplicações bloqueadas</item>
+        <item quantity="one">%d aplicação bloqueada</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d dias "</item>

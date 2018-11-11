@@ -1,14 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limite predefinido</item>
+        <item>Sem processos em segundo plano</item>
+        <item>No máximo 1 processo</item>
+        <item>No máximo 2 processos</item>
+        <item>No máximo 3 processos</item>
+        <item>No máximo 4 processos</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
     <string-array name="battery_options">
         <item>Mostrar sempre percentagem</item>
         <item>Mostrar percentagem a carregar (predefinido)</item>
         <item>Não mostrar</item>
     </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Predefinição de sistema</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Predefinição de sistema</item>
+        <item>16 bits/sample</item>
+        <item>24 bits/sample</item>
+        <item>32 bits/sample</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Predefinição de sistema</item>
+        <item>Mono</item>
+        <item>Estéreo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Predefinição de sistema</item>
+        <item>Mono</item>
+        <item>Estéreo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimizado para qualidade de áudio</item>
+        <item>Balanço entre qualidade de áudio e ligação</item>
+        <item>Optimizado para qualidade de ligação</item>
+        <item>Melhor efeito (Bit rate adaptável)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimizado para qualidade de áudio (990kbps/909kbps)</item>
+        <item>Balanço entre qualidade de áudio e ligação (660kbps/606kbps)</item>
+        <item>Optimizado para qualidade de ligação (330kbps/303kbps)</item>
+        <item>Melhor efeito (Bit rate adaptável)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Predefinição de sistema</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Predefinição de sistema</item>
+        <item>44.1 kHz</item>
+        <item>48.0 kHz</item>
+        <item>88.2 kHz</item>
+        <item>96.0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Predefinição de sistema</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Activar codecs opcionais</item>
+        <item>Activar codecs opcionais</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Predefinição de sistema</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Activar codecs opcionais</item>
+        <item>Desactivar codecs opcionais</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Predefinido)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
     <string-array name="clock_options">
         <item>Mostrar horas, minutos e segundos</item>
         <item>Mostrar horas e minutos (predefinido)</item>
         <item>Não mostrar</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Cores melhoradas</item>
+        <item>Cores naturais</item>
+        <item>Cores optimizadas para conteúdos digitais</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrante (predefinido)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Desligado</item>
+        <item>Mostrar áreas de sobreposição</item>
+        <item>Mostrar áreas para deuteranopia</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (predefinido)</item>
+        <item>OpenGL (Skia)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nenhum</item>
+        <item>Logcat</item>
+        <item>Systrace (Gráficos)</item>
+        <item>Pilha de chamadas em glGetError</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nunca utilizar verificação HDCP</item>
+        <item>Utilizar verificação HDCP apenas para conteúdo DRM</item>
+        <item>Utilizar sempre verificação HDCP</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nunca verificar</item>
+        <item>Verificar só por conteúdo DRM</item>
+        <item>Verificar sempre</item>
     </string-array>
     <string-array name="miui_volume_timer_segments_title">
         <item>Desligado</item>
@@ -29,33 +162,107 @@
         <item>Inclinação à esquerda</item>
         <item>Inclinação à direita</item>
     </string-array>
-    <string-array name="wifi_status">
-        <item></item>
-        <item>A pesquisar…</item>
-        <item>A ligar…</item>
-        <item>A autenticar…</item>
-        <item>A obter endereço IP…</item>
-        <item>Ligado</item>
-        <item>Suspenso</item>
-        <item>A desligar…</item>
-        <item>Desligado</item>
-        <item>Sem sucesso</item>
-        <item>Bloqueado</item>
-        <item>Evitar temporariamente ligações fracas</item>
+    <string-array name="overlay_display_devices_entries">
+        <item>Nenhuma</item>
+        <item>480p</item>
+        <item>480p (seguro)</item>
+        <item>720p</item>
+        <item>720p (seguro)</item>
+        <item>1080p</item>
+        <item>1080p (seguro)</item>
+        <item>4K</item>
+        <item>4K (seguro)</item>
+        <item>4K (redimensionado)</item>
+        <item>4K (redimensionado, seguro)</item>
+        <item>720p, 1080p (ecrã duplo)</item>
     </string-array>
-    <string-array name="wifi_status_with_ssid">
-        <item></item>
-        <item>A pesquisar…</item>
-        <item>A ligar a %1$s…</item>
-        <item>A autenticar %1$s…</item>
-        <item>A obter o endereço IP de %1$s…</item>
-        <item>Ligado a %1$s</item>
-        <item>Suspenso</item>
-        <item>A desligar de %1$s…</item>
+    <string-array name="select_logd_size_lowram_titles">
         <item>Desligado</item>
-        <item>Sem sucesso</item>
-        <item>Bloqueado</item>
-        <item>Evitar temporariamente ligações fracas</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Desligado</item>
+        <item>Mem. int. 64K p rg.</item>
+        <item>Mem. int. 256K p rg.</item>
+        <item>Mem. int. 1M p rg.</item>
+        <item>Mem. int. 4M p rg.</item>
+        <item>Mem. int. 16M p rg.</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Desligado</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_system_levels">
+        <item>Desligado</item>
+        <item>Erro</item>
+        <item>Aviso</item>
+        <item>Informação</item>
+        <item>Depuração</item>
+        <item>Verbose</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Desligado</item>
+        <item>Todos os buffers de registo</item>
+        <item>Todos excepto os buffers de registo de rádio</item>
+        <item>Apenas buffer do registo do kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Desligado</item>
+        <item>Todos</item>
+        <item>Tudo excluindo rádio</item>
+        <item>Apenas kernel</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Desligado</item>
+        <item>Desenhar região de clipe não retangular a azul</item>
+        <item>Realçar comandos de desenho testados a verde</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Desligado</item>
+        <item>No ecrã como barras</item>
+        <item>Em adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English</item>
+        <item>Voici un échantillon de synthèse vocale en français</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch</item>
+        <item>Questo è un esempio di sintesi vocale in italiano</item>
+        <item>Este es un ejemplo de síntesis de voz en español</item>
+        <item>이것은 한국어 음성 합성의 예입니다</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Muito lenta</item>
+        <item>Lenta</item>
+        <item>Normal</item>
+        <item>Rápida</item>
+        <item>Mais rápida</item>
+        <item>Muito rápida</item>
+        <item>Rápida</item>
+        <item>Muito rápida</item>
+        <item>A mais rápida</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>A carregar</item>
+        <item>MTP (Protocolo de transferência de multimédia)</item>
+        <item>PTP (Protocolo de transferência de imagens)</item>
+        <item>RNDIS (Ethernet USB)</item>
+        <item>Fonte de áudio</item>
+        <item>MIDI</item>
     </string-array>
     <string-array name="weather_type">
         <item>Céu limpo</item>
@@ -85,5 +292,42 @@
         <item>Neblina</item>
         <item>Chuva fria</item>
         <item></item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>A pesquisar…</item>
+        <item>A ligar…</item>
+        <item>A autenticar…</item>
+        <item>A obter endereço IP…</item>
+        <item>Ligado</item>
+        <item>Suspenso</item>
+        <item>A desligar…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporariamente ligações fracas</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>A pesquisar…</item>
+        <item>A ligar a %1$s…</item>
+        <item>A autenticar %1$s…</item>
+        <item>A obter o endereço IP de %1$s…</item>
+        <item>Ligado a %1$s</item>
+        <item>Suspenso</item>
+        <item>A desligar de %1$s…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Evitar temporariamente ligações fracas</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala de animação .5x</item>
+        <item>Escala de animação 1x</item>
+        <item>Escala de animação 1.5x</item>
+        <item>Escala de animação 2x</item>
+        <item>Escala de animação 5x</item>
+        <item>Escala de animação 10x</item>
     </string-array>
 </resources>

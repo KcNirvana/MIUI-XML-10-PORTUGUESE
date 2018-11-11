@@ -28,6 +28,14 @@
         <item quantity="other">Código PUK incorrecto. Tem %d tentativas restantes</item>
         <item quantity="one">Código PUK incorrecto. Tem %d tentativas restante</item>
     </plurals>
+    <plurals name="input_password_after_timeout_msg">
+        <item quantity="other">É necessário introduzir a palavra-passe após %d horas de inactividade</item>
+        <item quantity="one">É necessário introduzir a palavra-passe após %d hora de inactividade</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">É necessário introduzir o padrão após %d horas de inactividade</item>
+        <item quantity="one">É necessário introduzir o padrão após %d hora de inactividade</item>
+    </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">
         <item quantity="other">%d horas restantes</item>
         <item quantity="one">%d hora restantes</item>
@@ -96,9 +104,9 @@
         <item quantity="other">%d novas notificações</item>
         <item quantity="one">%d nova notificação</item>
     </plurals>
-    <plurals name="notification_group_child_count">
-        <item quantity="other">%1$d notificações</item>
-        <item quantity="one">%1$d notificação</item>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s, %2$s e %3$d outro</item>
+        <item quantity="one">%1$s, %2$s e %3$d outro</item>
     </plurals>
     <plurals name="notification_group_overflow_description">
         <item quantity="other">Mais %s notificações dentro</item>
