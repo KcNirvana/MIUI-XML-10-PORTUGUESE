@@ -1672,7 +1672,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
 
 Para obter mais detalhes, contacte o administrador da sua organização"</string>
   <string name="enterprise_privacy_input_method">Teclado predefinido</string>
-  <string name="enterprise_privacy_input_method_name">Definido como %s</string>
+  <string name="enterprise_privacy_input_method_name" formatted="false">Definido como %s</string>
   <string name="enterprise_privacy_installed_packages">Lista de aplicações no seu dispositivo</string>
   <string name="enterprise_privacy_location_access">Permissões de localização</string>
   <string name="enterprise_privacy_lock_device">O administrador pode bloquear o dispositivo e repor a palavra-passe</string>
@@ -1682,7 +1682,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="enterprise_privacy_security_logs">Registo de segurança mais recente</string>
   <string name="enterprise_privacy_settings">Informações do dispositivo gerido</string>
   <string name="enterprise_privacy_settings_summary_generic">Alterações e definições geridas pela sua organização</string>
-  <string name="enterprise_privacy_settings_summary_with_name">Alterações e definições geridas pela %s</string>
+  <string name="enterprise_privacy_settings_summary_with_name" formatted="false">Alterações e definições geridas pela %s</string>
   <string name="enterprise_privacy_usage_stats">Tempo e dados gastos em cada aplicação</string>
   <string name="enterprise_privacy_wipe_device">O administrador pode eliminar todos os dados do dispositivo</string>
   <string name="eq_auto">Personalizado</string>
@@ -4217,7 +4217,7 @@ Possivelmente o código PIN está incorrecto"</string>
   <string name="smartcover_sensitive_summary">Bloquear ou desbloquear o telefone automaticamente utilizando uma capa inteligente</string>
   <string name="smartcover_sensitive_title">Modo Capa Inteligente</string>
   <string name="sms_application_title">Mensagens</string>
-  <string name="sms_change_default_dialog_text">Utilizar %s em vez de %s como aplicação de SMS?</string>
+  <string name="sms_change_default_dialog_text" formatted="false">Utilizar %s em vez de %s como aplicação de SMS?</string>
   <string name="sms_change_default_dialog_title">Alterar a aplicação de SMS?</string>
   <string name="sms_change_default_no_previous_dialog_text">Utilizar %s como aplicação de SMS?</string>
   <string name="sms_delivered_sound_dialog_title">Escolher toque de mensagem entregue</string>
