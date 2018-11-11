@@ -1672,7 +1672,7 @@ Algumas aplicações podem não funcionar até serem actualizadas pelos seus pro
 
 Para obter mais detalhes, contacte o administrador da sua organização"</string>
   <string name="enterprise_privacy_input_method">Teclado predefinido</string>
-  <string name="enterprise_privacy_input_method_name" formatted="false">Definido como %s</string>
+  <string name="enterprise_privacy_input_method_name">Definido como %s</string>
   <string name="enterprise_privacy_installed_packages">Lista de aplicações no seu dispositivo</string>
   <string name="enterprise_privacy_location_access">Permissões de localização</string>
   <string name="enterprise_privacy_lock_device">O administrador pode bloquear o dispositivo e repor a palavra-passe</string>
@@ -1682,7 +1682,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="enterprise_privacy_security_logs">Registo de segurança mais recente</string>
   <string name="enterprise_privacy_settings">Informações do dispositivo gerido</string>
   <string name="enterprise_privacy_settings_summary_generic">Alterações e definições geridas pela sua organização</string>
-  <string name="enterprise_privacy_settings_summary_with_name" formatted="false">Alterações e definições geridas pela %s</string>
+  <string name="enterprise_privacy_settings_summary_with_name">Alterações e definições geridas pela %s</string>
   <string name="enterprise_privacy_usage_stats">Tempo e dados gastos em cada aplicação</string>
   <string name="enterprise_privacy_wipe_device">O administrador pode eliminar todos os dados do dispositivo</string>
   <string name="eq_auto">Personalizado</string>
@@ -2091,7 +2091,6 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="install_other_apps">Instalação de aplicações desconhecidas</string>
   <string name="install_no_market_app_summary">Verificar aplicações de terceiros por vírus antes de instalar</string>
   <string name="install_no_market_app_title">Verificar aplicações de terceiros</string>
-  <string name="install_other_apps">Instalar aplicações desconhecidas</string>
   <string name="install_preinstall_app">A trocar região…</string>
   <string name="install_text">Instalar</string>
   <string name="install_type_instant">Aplicação instantânea</string>
@@ -3717,7 +3716,7 @@ Para utilizar a fixação no ecrã:
   <string name="screen_timeout">Suspender</string>
   <string name="screen_timeout_summary">Após %1$s de inactividade</string>
   <string name="screen_timeout_title">Modo de suspensão</string>
-  <string name="screen_usage_summary">Tempo durante o qual o ecrã tem estado ligado desde o carregamento completo/string>
+  <string name="screen_usage_summary">Tempo durante o qual o ecrã tem estado ligado desde o carregamento completo</string>
   <string name="screensaver_settings_button">Definições</string>
   <string name="screensaver_settings_current">Proteção de ecrã actual</string>
   <string name="screensaver_settings_disabled_prompt">Para controlar o que acontece quando o telefone está ancorado e/ou inactivo, ligue a protecção de ecrã</string>
