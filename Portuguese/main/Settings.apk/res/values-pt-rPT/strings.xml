@@ -423,12 +423,12 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="auto_rule">Temporizador</string>
   <string name="auto_silent">Programar hora de ligar</string>
   <string name="auto_startup_application_manage">Iniciar automático</string>
-  <string name="auto_sync_account_summary">Permitir que as aplicações atualizem os dados automaticamente</string>
+  <string name="auto_sync_account_summary">Permitir que as aplicações actualizem os dados automaticamente</string>
   <string name="auto_sync_account_title">Sincronizar dados automaticamente</string>
   <string name="auto_sync_personal_account_title">Sincronizar dados pessoais automaticamente</string>
   <string name="auto_sync_work_account_title">Sincronizar dados de trabalho automaticamente</string>
   <string name="autofill_app">Serviço de preenchimento automático</string>
-  <string name="autofill_confirmation_message"><b>Certifique-se de que confia nesta aplicação</b> <br/> <br/> <xliff:g id="app_name" example="O Preenchimento automático do Google">%1$s</xliff:g> utiliza o que está no ecrã para determinar o que pode ser preenchido automaticamente</string>
+  <string name="autofill_confirmation_message">&lt;b>Certifique-se de que confia nesta aplicação&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=O Preenchimento automático do Google>%1$s&lt;/xliff:g> utiliza o que está no ecrã para determinar o que pode ser preenchido automaticamente</string>
   <string name="autofill_keywords">automático, preenchimento, preenchimento automático</string>
   <string name="automatic_brightness">Brilho automático</string>
   <string name="automatic_storage_manager_activation_warning">O seu armazenamento está a ser gerido pelo armazenamento inteligente</string>
@@ -1707,41 +1707,6 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="eq_preset_select">Escolher uma predefinição</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizador</string>
-  <string name="enterprise_privacy_always_on_vpn_device">A opção VPN sempre ligada está activada</string>
-  <string name="enterprise_privacy_always_on_vpn_personal">A opção VPN sempre ligada está activada no seu perfil pessoal</string>
-  <string name="enterprise_privacy_always_on_vpn_work">A opção VPN sempre ligada está activada no seu perfil de trabalho</string>
-  <string name="enterprise_privacy_apps_count_estimation_info">O número de aplicações é uma estimativa. Pode não incluir as aplicações instaladas fora da Play Store.</string>
-  <string name="enterprise_privacy_bug_reports">Relatório de erro mais recente</string>
-  <string name="enterprise_privacy_ca_certs_device">Credenciais fidedignas</string>
-  <string name="enterprise_privacy_ca_certs_personal">Credenciais fidedignas no seu perfil pessoal</string>
-  <string name="enterprise_privacy_ca_certs_work">Credenciais fidedignas no seu perfil de trabalho</string>
-  <string name="enterprise_privacy_camera_access">Autorizações da câmara</string>
-  <string name="enterprise_privacy_device_access_category">O seu acesso a este dispositivo</string>
-  <string name="enterprise_privacy_enterprise_data">Os dados associados à sua conta de trabalho, como o email e o calendário</string>
-  <string name="enterprise_privacy_enterprise_installed_packages">Aplicações instaladas</string>
-  <string name="enterprise_privacy_enterprise_set_default_apps">Aplicações predefinidas</string>
-  <string name="enterprise_privacy_exposure_category">Tipos de informação que a sua entidade pode ver</string>
-  <string name="enterprise_privacy_exposure_changes_category">Alterações efectuadas pelo administrador da sua entidade</string>
-  <string name="enterprise_privacy_failed_password_wipe_device">Tentativas de introdução da palavra-passe falhadas antes da eliminação de todos os dados do dispositivo</string>
-  <string name="enterprise_privacy_failed_password_wipe_work">Tentativas de introdução da palavra-passe falhadas antes da eliminação de todos os dados do perfil de trabalho</string>
-  <string name="enterprise_privacy_global_http_proxy">Proxy HTTP global definido</string>
-  <string name="enterprise_privacy_header">"Para fornecer acesso aos seus dados de trabalho, a sua entidade pode alterar definições e instalar software no seu dispositivo.
-
-Para obter mais detalhes, contacte o administrador da sua entidade"</string>
-  <string name="enterprise_privacy_input_method">Teclado predefinido</string>
-  <string name="enterprise_privacy_input_method_name">Definido como %s</string>
-  <string name="enterprise_privacy_installed_packages">Lista de aplicações no seu dispositivo</string>
-  <string name="enterprise_privacy_location_access">Autorizações de acesso à localização</string>
-  <string name="enterprise_privacy_lock_device">O administrador pode bloquear o dispositivo e repor a palavra-passe</string>
-  <string name="enterprise_privacy_microphone_access">Autorizações do microfone</string>
-  <string name="enterprise_privacy_network_logs">Registo de tráfego de rede mais recente</string>
-  <string name="enterprise_privacy_none">Nenhuma</string>
-  <string name="enterprise_privacy_security_logs">Registo de segurança mais recente</string>
-  <string name="enterprise_privacy_settings">Informações do dispositivo gerido</string>
-  <string name="enterprise_privacy_settings_summary_generic">Alterações e definições geridas pela sua entidade</string>
-  <string name="enterprise_privacy_settings_summary_with_name">Alterações e definições geridas pela %s</string>
-  <string name="enterprise_privacy_usage_stats">Tempo e dados gastos em cada aplicação</string>
-  <string name="enterprise_privacy_wipe_device">O administrador pode eliminar todos os dados do dispositivo</string>
   <string name="erase_application">Eliminar aplicações</string>
   <string name="erase_application_description">Eliminar as aplicações transferidas</string>
   <string name="erase_data">Eliminar</string>
