@@ -85,6 +85,7 @@
   <string name="change_password">Alterar palavra-passe</string>
   <string name="change_phone_number">Alterar número de telefone</string>
   <string name="cloud_service">Mi Cloud</string>
+  <string name="collect_diagnosis_log">Obter registo de diagnóstico</string>
   <string name="completed">Tudo configurado</string>
   <string name="confirm_activate_email">Verificado</string>
   <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
@@ -113,6 +114,10 @@
   <string name="device_list_title">Os meus dispositivos</string>
   <string name="device_name">Nome do dispositivo</string>
   <string name="device_trust_info">Dispositivos confiáveis</string>
+  <string name="diagnosis_log_send_failed">Erro no envio de registo de diagnóstico</string>
+  <string name="diagnosis_log_sent_format">"O registo de diagnóstico foi enviado.
+ID:%s
+Envie este código ao técnico"</string>
   <string name="empty_device_list_notice">Sem dispositivos</string>
   <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Mi</string>
   <string name="error_invalid_bind_address">O endereço de email que introduziu é inválido</string>
@@ -140,6 +145,7 @@
   <string name="find_device_request_prepare_error">Não é possível obter estado. Tente novamente mais tarde</string>
   <string name="find_device_unknown_error">Não é possível obter estado do dispositivo. Tente novamente mais tarde</string>
   <string name="first_login_time">Primeira tentativa de início de sessão: %s</string>
+  <string name="for_diagnosis_usage_only">Utilize esta informação apenas para diagnóstico</string>
   <string name="get_back_pwd">A repor palavra-passe</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_phone_bind_exceed_limit">O número de telefone associado ao número da conta atingiu o máximo(3). Não pode associar mais contas</string>
@@ -187,6 +193,7 @@
   <string name="oauth_getting_scopes">A verificar conta…</string>
   <string name="oauth_scopes_intro">%2$s vai obter as seguintes permissões: %3$s</string>
   <string name="oauth_title">Iniciar sessão com a Conta Mi</string>
+  <string name="ok">OK</string>
   <string name="other_devices_title">Outros dispositivos</string>
   <string name="passport_Resend">Reenviar</string>
   <string name="passport_access_denied">Acesso negado</string>
@@ -446,6 +453,7 @@ Para activar a sua conta siga o
   <string name="search_user_detail_path">Definições/Conta Mi/Informações pessoais</string>
   <string name="search_user_detail_top_key_words">Informações pessoais,Alterar foto de perfil,Alterar utilizador,Alterar alcunha,Alterar data de nascimento,Alterar sexo</string>
   <string name="select_location_title">Seleccionar a sua localização</string>
+  <string name="send_diagnosis_log">Enviar registo de diagnóstico</string>
   <string name="send_email_activate_message">Email de verificação enviado</string>
   <string name="service_error">Erro de serviço</string>
   <string name="set_success">Alterado com sucesso</string>
@@ -456,6 +464,7 @@ Para activar a sua conta siga o
   <string name="sms_send_success">Enviada</string>
   <string name="sns_access_token_expired_warning">A sessão expirou. Inicie sessão novamente para se ligar a esta conta</string>
   <string name="talkback_scan_barcode">Digitalizar o código QR</string>
+  <string name="temporary_not_available">Não disponível</string>
   <string name="trusted_browsers">Navegadores confiáveis</string>
   <string name="trusted_browsers_prompt">O navegador não vai ser confiável se eliminar os cookies</string>
   <string name="turn_off_find_device_failed_title">Não é possível desligar Localizar Dispositivo</string>

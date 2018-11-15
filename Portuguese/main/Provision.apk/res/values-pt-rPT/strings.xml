@@ -88,4 +88,5 @@ Tem de concordar com os nossos Termos de Serviço e Política de Privacidade ant
   <string name="voice_assist_desp">Diga \"Mi AI\" para o seu telefone. Mi AI vai reconhecer a sua voz e vai poder controlar o seu dispositivo</string>
   <string name="voice_assist_title">Ligar com voz</string>
   <string name="welcome">Bem-vindo</string>
+  <string name="zone_picker_title">Escolher fuso horário</string>
 </resources>

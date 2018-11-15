@@ -37,6 +37,10 @@
         <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
+    <string-array name="app_ops_labels">
+        <item>A tentar activar Wi-Fi</item>
+        <item>A tentar activar Bluetooth</item>
+    </string-array>
     <integer-array name="maps_starting_lat_lng">
         <item>38707163</item>
         <item>-9135517</item>

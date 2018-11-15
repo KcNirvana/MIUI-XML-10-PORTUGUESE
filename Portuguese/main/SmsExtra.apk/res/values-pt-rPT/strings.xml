@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="activity_not_found">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
+  <string name="allow_network_hint">Ligue \"Actualizar informações automaticamente\" ou verifique a sua ligação de rede</string>
+  <string name="already_updated">Actualizado</string>
   <string name="back_to_message_list">Voltar para a lista de mensagens</string>
+  <string name="button_close">Close</string>
+  <string name="click_to_update">Toque para verificar actualizações</string>
+  <string name="cm_privacy_dialog_allow">Concordar</string>
+  <string name="cm_privacy_dialog_cancel">Cancelar</string>
+  <string name="cm_privacy_dialog_spannable_tips">Política de Privacidade</string>
+  <string name="cm_privacy_dialog_tips">Os serviços de mensagens inteligentes são fornecidos pela sua operadora. A Mensagens necessita de ligar à Internet e aceder à sua localização para fornecer estes serviços. Tem de concordar com a %1s antes de começar. Concorda?</string>
+  <string name="cm_privacy_dialog_title">Atenção</string>
   <string name="confirm_delete_conversation">Eliminar esta conversa?</string>
   <string name="confirm_delete_group_message">Eliminar mensagens do grupo?</string>
   <string name="confirm_delete_locked_message">Eliminar esta mensagem bloqueada?</string>
@@ -10,6 +19,7 @@
   <string name="confirm_dialog_title">Eliminar conversas</string>
   <string name="copy_message_text">Copiar</string>
   <string name="copy_message_text_success">Copiado</string>
+  <string name="current_data_version">Versão de Mi Message</string>
   <string name="delete">Eliminar</string>
   <string name="delete_message">Eliminar</string>
   <string name="from_label">"De: "</string>
@@ -33,10 +43,11 @@
   <string name="received_label">"Recebida: "</string>
   <string name="repayment_network_error">Não é possível ligar à rede</string>
   <string name="sent_label">"Enviada: "</string>
-  <string name="sms_card_partner_label">"Cartão SMS de parceiro: "</string>
-  <string name="sms_card_teddy_mobile">Teddy Mobile</string>
-  <string name="text_message">Mensagem de texto</string>
-  <string name="view_message_details">Ver detalhes</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
+  <string name="sms_card_partner_label">"Cartão SMS de parceiro: "</string>
+  <string name="summary_pref_cm_smart_sms">Templates, números de serviço SMS e muito mais</string>
+  <string name="text_message">Mensagem de texto</string>
+  <string name="updating">A actualizar…</string>
+  <string name="view_message_details">Ver detalhes</string>
 </resources>

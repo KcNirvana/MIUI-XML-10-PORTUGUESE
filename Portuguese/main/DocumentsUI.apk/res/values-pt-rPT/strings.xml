@@ -44,6 +44,9 @@
   <string name="drawer_close">Ocultar raízes</string>
   <string name="drawer_open">Mostrar raízes</string>
   <string name="empty">Sem itens</string>
+  <string name="file_operation_error">Erro na operação</string>
+  <string name="file_operation_rejected">Operação não suportada</string>
+  <string name="files_label">Ficheiros</string>
   <string name="menu_advanced_hide">Ocultar armazenamento interno</string>
   <string name="menu_advanced_show">Mostrar armazenamento interno</string>
   <string name="menu_copy">Copiar para…</string>
@@ -89,6 +92,12 @@
   <string name="sort_date">Por data de modificação</string>
   <string name="sort_name">Por nome</string>
   <string name="sort_size">Por tamanho</string>
+  <string name="sort_dimension_date">Modificação</string>
+  <string name="sort_dimension_name">Nome</string>
+  <string name="sort_dimension_size">Tamanho</string>
+  <string name="sort_dimension_summary">Resumo</string>
+  <string name="sort_direction_ascending">Ascendente</string>
+  <string name="sort_direction_descending">Descendente</string>
   <string name="title_open">Abrir de</string>
   <string name="title_save">Guardar para</string>
   <string name="toast_failed_delete">Não foi possível eliminar alguns documentos</string>

@@ -8,6 +8,8 @@ ID do dispositivo tem que ser um IMEI ou um endereço MAC válido. Sem o ID do d
   <string name="explain_send_sms_permission_button">Verificar</string>
   <string name="explain_send_sms_permission_msg">Para ligar %s, o Serviço Framework Xiaomi vai enviar uma SMS para verificar o seu número de telefone. Esta SMS vai ser taxada pela sua operadora</string>
   <string name="explain_send_sms_permission_title">Verificar o seu número de telefone</string>
+  <string name="pop_up_allow_notify_dialog">Permitir</string>
+  <string name="pop_up_deny_notify_dialog">Negar</string>
   <string name="sync_notification_title_format">A sincronizar item: %1$s</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmsf_activate_info">Informações de activação XMSF</string>

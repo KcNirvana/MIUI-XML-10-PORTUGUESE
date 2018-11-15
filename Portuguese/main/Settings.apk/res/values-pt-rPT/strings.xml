@@ -2320,6 +2320,8 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="location_neighborhood_level_wifi">Local determinado por Wi-Fi</string>
   <string name="location_network_based">Wi-Fi e redes móveis</string>
   <string name="location_no_recent_apps">Sem aplicações</string>
+  <string name="location_off_summary">Desligada</string>
+  <string name="location_on_summary">Ligada / %1$s</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem dispositivos Bluetooth em qualquer altura</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Pesquisa Bluetooth</string>
   <string name="location_scanning_screen_title">A pesquisar</string>
@@ -3064,7 +3066,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="other_relative">Outras</string>
   <string name="other_sound_category_preference_title">Outros sons e vibrações</string>
   <string name="other_sound_settings">Outros sons</string>
-  <string name="others">Outros</string>
   <string name="overlay_display_devices_title">Simular ecrãs secundários</string>
   <string name="overlay_settings">Sobreposição a outras aplicações</string>
   <string name="owner_info_settings_edit_text_hint">Introduza o texto a apresentar no ecrã de bloqueio</string>

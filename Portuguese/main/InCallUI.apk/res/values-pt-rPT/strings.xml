@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="antispam_local_marked">Localização marcada</string>
-  <string name="antispam_marked_count">Reportado por %1$d utilizadores MIUI</string>
   <string name="antispam_notification_title">Número desconhecido</string>
   <string name="antispam_provider">Identificado por %s</string>
   <string name="callFailed_cb_enabled">Não pode efectuar chamadas enquanto o barramento de chamadas estiver ligado</string>
@@ -47,7 +46,6 @@
   <string name="call_recording_notification_message_sd_unmounted">Cartão SD foi removido</string>
   <string name="call_recording_notification_title">Chamada gravada</string>
   <string name="call_recording_notification_title_error">Não foi possível gravar a chamada</string>
-  <string name="call_title_redialing_with_times">Remarcado %d vezes</string>
   <string name="caller_manage_header">Chamada de conferência %s</string>
   <string name="can_not_use">Não é possível utilizar</string>
   <string name="cancel">Cancelar</string>
@@ -78,7 +76,6 @@
   <string name="close_camera_failed">Não foi possível desligar a câmara</string>
   <string name="close_camera_requesting">A desligar a câmara…</string>
   <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
-  <string name="conference_call_number">%s pessoas</string>
   <string name="conference_call_recorder_title">Chamada de conferência</string>
   <string name="conference_call_single_description" formatted="false">%s etc. total %s</string>
   <string name="conference_caller_info_name">Chamada de conferência de %1$s</string>

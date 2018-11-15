@@ -107,17 +107,17 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="download_meta_failed">Não foi possível carregar dados</string>
   <string name="download_settings">A transferir ecrã inicial: %s%%</string>
   <string name="download_settings_fail">Não foi possível transferir o ecrã inicial</string>
-  <string name="error_retry_later">Erro. Tente novamente mais tarde</string>
+  <string name="error_retry_later">Não foi possível concluir a acção. Tente novamente mais tarde</string>
   <string name="error_unknown">Erro</string>
   <string name="get_device_id_error">Não foi possível obter o ID do dispositivo</string>
-  <string name="home_hint_global_launcher">Ecrã inicial Poco</string>
-  <string name="home_hint_other_launcher">Outro ecrã inicial</string>
+  <string name="home_hint_global_launcher">Launcher Poco</string>
+  <string name="home_hint_other_launcher">Outro launcher</string>
   <string name="home_restore_error">Não foi possível restaurar o ecrã inicial</string>
   <string name="lack_of_storage">Sem espaço de armazenamento</string>
   <string name="latest_backup_time_loading">A carregar…</string>
   <string name="load_backup_failed">Não foi possível carregar as cópias</string>
   <string name="loading_user_backup">A carregar cópias…</string>
-  <string name="main_space">Espaço principal</string>
+  <string name="main_space">Primeiro espaço</string>
   <string name="managespace_delete_backup">Eliminar</string>
   <string name="menu_item_managespace">Gerir espaço</string>
   <string name="menu_item_sort">Ordenar por</string>
@@ -173,6 +173,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="total_space">Espaço total: %s</string>
   <string name="try_again">Toque para tentar novamente</string>
   <string name="try_continue">Toque para continuar</string>
-  <string name="unsupported_home">Actualize o sistema operativo</string>
+  <string name="unsupported_home">Actualize a MIUI para a última versão</string>
   <string name="wait_icon_download">A transferir os ícones da aplicação</string>
 </resources>

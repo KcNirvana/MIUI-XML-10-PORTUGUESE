@@ -293,11 +293,14 @@
   <string name="tab_title_report">Comentários</string>
   <string name="title_answer_feedback_main">Encontrámos soluções!</string>
   <string name="title_customer_service">Serviço de clientes</string>
+  <string name="title_first_aid">Pronto-Socorro</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Casa Mi próximas</string>
   <string name="title_nonsystem_app">Outras aplicações</string>
   <string name="title_same_question_feedback_main">Questões parecidas no fórum MIUI</string>
   <string name="title_system_app">Aplicações MIUI</string>
+  <string name="toast_catch_full_log_catching">Apenas pode gerar um registo ao mesmo tempo</string>
+  <string name="toast_catch_full_log_open_failed">Não foi possível gravar registo</string>
   <string name="toast_description_required">É necessário escrever uma descrição</string>
   <string name="toast_feedback_collect_store">A obter os registos…</string>
   <string name="toast_feedback_network_unavailable">Não é possível ligar à rede</string>
@@ -308,7 +311,7 @@
   <string name="toast_fill_brackets">No relatório está a faltar alguma informação</string>
   <string name="toast_loading_app_id">A obter informações…</string>
   <string name="toast_log_not_exists">O relatório pretendido foi eliminado ou não existe</string>
-  <string name="toast_log_too_large">Não é possível carregar. O ficheiro é demasiado grande</string>
+  <string name="toast_log_too_large">Não é possível carregar. O registo é demasiado grande</string>
   <string name="toast_module_required">Seleccionar item</string>
   <string name="toast_network_unavailable">Erro ao enviar. Não é possível ligar à rede</string>
   <string name="toast_pending_log_collection">Ainda a obter registos…</string>
