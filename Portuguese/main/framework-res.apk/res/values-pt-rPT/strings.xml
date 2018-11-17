@@ -20,7 +20,6 @@
   <string name="EmergencyCallWarningTitle">As chamadas Wi-Fi estão activas</string>
   <string name="Midnight">Meia-noite</string>
   <string name="Noon">Meio-dia</string>
-  <string name="notification_description">Estado das chamadas de voz</string>
   <string name="PinMmi">Alteração de PIN</string>
   <string name="PwdMmi">Alteração de palavra-passe</string>
   <string name="RestrictedOnAllVoiceTitle">Sem serviço de voz/emergência</string>

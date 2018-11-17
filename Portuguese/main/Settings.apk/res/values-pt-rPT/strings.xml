@@ -4315,7 +4315,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_notification_priority_summary">Mostrar notificações no topo da lista</string>
   <string name="status_bar_settings_notification_shade_shortcut">Atalho nas notificações</string>
   <string name="status_bar_settings_notification_sound">Som</string>
-  <string name="status_bar_settings_notification_sound_custom">Personalizar som</string>
+  <string name="status_bar_settings_notification_sound_custom">Som personalizado</string>
   <string name="status_bar_settings_notification_style">Estilo de notificações</string>
   <string name="status_bar_settings_notification_use_app_icon">Utilizar ícones da aplicação para notificações</string>
   <string name="status_bar_settings_notification_vibrate">Vibração</string>
