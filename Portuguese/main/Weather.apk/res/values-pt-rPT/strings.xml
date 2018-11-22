@@ -20,6 +20,7 @@
   <string name="activity_main_clickable">&gt;</string>
   <string name="activity_main_one_alert"/>
   <string name="activity_main_time_format">EEEE</string>
+  <string name="activity_main_pub_time">Publicado às %1$s</string>
   <string name="activity_main_update_time">Actualizado %1$s</string>
   <string name="activity_main_update_time_expire">Dados expirados</string>
   <string name="activity_main_update_time_right_now">agora mesmo</string>
@@ -150,7 +151,6 @@
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalhes</string>
   <string name="international_details_pressure_title">Pressão</string>
-  <string name="international_details_real_feel_title">"Sensação térmica "</string>
   <string name="international_details_title">Detalhes</string>
   <string name="international_details_uv_index_title">Indíce UV</string>
   <string name="international_details_wind_title">Vento</string>
@@ -205,6 +205,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="pull_fresh_updated">Actualizado com sucesso</string>
   <string name="pull_fresh_updating">A actualizar…</string>
   <string name="radar_cloud_image_title">Mapa</string>
+  <string name="radar_cloud_update_time">Antes de %1$s</string>
   <string name="rainfall_settings_summary">Alertas de precipitação</string>
   <string name="rainfall_settings_title">Precipitação</string>
   <string name="real_time_sunrise">Nascer do sol %1$s</string>

@@ -971,7 +971,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="respond_via_sms_canned_response_2">Eu ligo de volta</string>
   <string name="respond_via_sms_canned_response_3">Ligo mais tarde</string>
   <string name="respond_via_sms_canned_response_4">De momento não posso atender. Qual é o assunto?</string>
-  <string name="respond_via_sms_cannot_empty">Mensagens de rejeição não podem estar vazias</string>
+  <string name="respond_via_sms_cannot_empty">As mensagem não pode estar vazia</string>
   <string name="respond_via_sms_confirmation_format">Mensagem enviada para %s</string>
   <string name="respond_via_sms_edittext_dialog_title">Resposta rápida</string>
   <string name="respond_via_sms_menu_reset_default_activity">Repor predefinições</string>
@@ -1040,6 +1040,8 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sim_service_setting">SIM e Roaming Mi</string>
   <string name="sim_unlock_failed">O pedido de desbloqueio do cartão SIM falhou</string>
   <string name="sim_unlock_success">Cartão SIM desbloqueado</string>
+  <string name="singleContactImportedMsg">Contacto importado</string>
+  <string name="sip_account_disable">A conta não está activa. Não é possível aceitar chamadas</string>
   <string name="sip_account_list">Contas SIP</string>
   <string name="sip_accounts">Contas SIP</string>
   <string name="sip_accounts_title">Contas</string>
@@ -1057,6 +1059,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sip_menu_discard">Rejeitar</string>
   <string name="sip_menu_save">Guardar</string>
   <string name="sip_profile_create_error">Não foi possível criar um novo perfil SIP</string>
+  <string name="sip_receive_call_disable">Não é possível aceitar chamadas. Permitir a aceitação de chamadas</string>
   <string name="sip_receive_calls">Receber chamadas</string>
   <string name="sip_receive_calls_summary">Utiliza mais bateria</string>
   <string name="sip_save_register_error">Não foi possível guardar e registar um novo perfil SIP</string>

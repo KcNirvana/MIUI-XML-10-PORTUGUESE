@@ -828,6 +828,7 @@ para personalizar a galeria"</string>
   <string name="photo_editor_talkback_crop_mirror">Espelho</string>
   <string name="photo_editor_talkback_crop_original">Original</string>
   <string name="photo_editor_talkback_crop_rotate">Rotação</string>
+  <string name="photo_editor_talkback_crop_screen">Proporção de ecrã inteiro</string>
   <string name="photo_editor_talkback_doodle_arrow">Flecha</string>
   <string name="photo_editor_talkback_doodle_circular">Círculo</string>
   <string name="photo_editor_talkback_doodle_line">Linha</string>

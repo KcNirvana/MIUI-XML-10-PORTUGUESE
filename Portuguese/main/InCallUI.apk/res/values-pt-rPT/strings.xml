@@ -195,6 +195,7 @@
   <string name="sim1_description">SIM 1</string>
   <string name="sim2_description">SIM 2</string>
   <string name="sip_call_not_support_record">Não é possível gravar chamadas SIP</string>
+  <string name="supp_service_notification_call_waiting">O número que marcou está ocupado. Aguarde…</string>
   <string name="suspect_info">Tenha cuidado com as suas informações pessoais</string>
   <string name="unknown">Desconhecido</string>
   <string name="unlock_phone">Desbloquear dispositivo</string>

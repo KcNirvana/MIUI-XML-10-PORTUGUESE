@@ -94,6 +94,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="desktop_wait_wifi">A aguardar</string>
   <string name="desktop_waiting">A aguardar</string>
   <string name="device_delete_prompt">Eliminar cópia de %s?</string>
+  <string name="device_xiaomi">Telefone Mi</string>
   <string name="dialog_cancel_backup_cancel">Cancelar</string>
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Desligar vai terminar as cópias em curso</string>
@@ -126,6 +127,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">A restaurar itens. Parar agora?</string>
   <string name="msg_alert_restore_error">Não foi possível restaurar os itens da Mi Cloud. Tente novamente</string>
+  <string name="name_model">%2$s de %1$s</string>
   <string name="network_error">Ligue-se à rede</string>
   <string name="no_account">Sem sessão iniciada na Conta Mi</string>
   <string name="no_backup">Sem cópias na Mi Cloud</string>

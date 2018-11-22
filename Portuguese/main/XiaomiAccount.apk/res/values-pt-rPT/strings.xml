@@ -85,7 +85,7 @@
   <string name="change_password">Alterar palavra-passe</string>
   <string name="change_phone_number">Alterar número de telefone</string>
   <string name="cloud_service">Mi Cloud</string>
-  <string name="collect_diagnosis_log">Obter registo de diagnóstico</string>
+  <string name="collect_diagnosis_log">Gerar registo de diagnóstico</string>
   <string name="completed">Tudo configurado</string>
   <string name="confirm_activate_email">Verificado</string>
   <string name="confirm_bundled_phone_dialog_title">Confirmar número de telefone associado</string>
@@ -114,10 +114,10 @@
   <string name="device_list_title">Os meus dispositivos</string>
   <string name="device_name">Nome do dispositivo</string>
   <string name="device_trust_info">Dispositivos confiáveis</string>
-  <string name="diagnosis_log_send_failed">Erro no envio de registo de diagnóstico</string>
-  <string name="diagnosis_log_sent_format">"O registo de diagnóstico foi enviado.
+  <string name="diagnosis_log_send_failed">Não foi possível enviar registo de diagnóstico</string>
+  <string name="diagnosis_log_sent_format">"Registo de diagnóstico enviado com sucesso.
 ID:%s
-Envie este código ao técnico"</string>
+Envie este código ao supervisor"</string>
   <string name="empty_device_list_notice">Sem dispositivos</string>
   <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Mi</string>
   <string name="error_invalid_bind_address">O endereço de email que introduziu é inválido</string>
@@ -145,7 +145,7 @@ Envie este código ao técnico"</string>
   <string name="find_device_request_prepare_error">Não é possível obter estado. Tente novamente mais tarde</string>
   <string name="find_device_unknown_error">Não é possível obter estado do dispositivo. Tente novamente mais tarde</string>
   <string name="first_login_time">Primeira tentativa de início de sessão: %s</string>
-  <string name="for_diagnosis_usage_only">Utilize esta informação apenas para diagnóstico</string>
+  <string name="for_diagnosis_usage_only">Utilizado apenas para problemas de localização</string>
   <string name="get_back_pwd">A repor palavra-passe</string>
   <string name="get_device_list_failed">Não é possível obter dispositivos</string>
   <string name="get_phone_bind_exceed_limit">O número de telefone associado ao número da conta atingiu o máximo(3). Não pode associar mais contas</string>
@@ -379,7 +379,7 @@ Para activar a sua conta siga o
   <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_sms_send_success">Enviada</string>
   <string name="passport_sms_verification_code_login">Iniciar sessão utilizando SMS</string>
-  <string name="passport_sms_verification_code_login_or_register">Iniciar sessão ou registar utilizando SMS</string>
+  <string name="passport_sms_verification_code_login_or_register">Iniciar sessão ou criar conta utilizando SMS</string>
   <string name="passport_sync_account_data">A sincronizar dados da conta…</string>
   <string name="passport_sync_account_data_failed_warning">Os dados da sua conta estão a ser sincronizados. Pode iniciar sessão utilizando o seu ID Conta Mi. Se quer utilizar o seu email ou telefonar para iniciar sessão, aguarde até acabar a sincronização</string>
   <string name="passport_talkback_image_captcha">Verificação de imagem</string>
@@ -456,6 +456,7 @@ Para activar a sua conta siga o
   <string name="send_diagnosis_log">Enviar registo de diagnóstico</string>
   <string name="send_email_activate_message">Email de verificação enviado</string>
   <string name="service_error">Erro de serviço</string>
+  <string name="sending">A enviar…</string>
   <string name="set_success">Alterado com sucesso</string>
   <string name="sign_in">A iniciar sessão</string>
   <string name="sim_changed_notification_msg">Toque para actualizar o seu telefone de recuperação e manter a sua conta mais segura</string>
@@ -464,7 +465,7 @@ Para activar a sua conta siga o
   <string name="sms_send_success">Enviada</string>
   <string name="sns_access_token_expired_warning">A sessão expirou. Inicie sessão novamente para se ligar a esta conta</string>
   <string name="talkback_scan_barcode">Digitalizar o código QR</string>
-  <string name="temporary_not_available">Não disponível</string>
+  <string name="temporary_not_available">Esta funcionalidade não está disponível</string>
   <string name="trusted_browsers">Navegadores confiáveis</string>
   <string name="trusted_browsers_prompt">O navegador não vai ser confiável se eliminar os cookies</string>
   <string name="turn_off_find_device_failed_title">Não é possível desligar Localizar Dispositivo</string>

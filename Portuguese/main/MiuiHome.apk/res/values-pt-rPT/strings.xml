@@ -3,11 +3,13 @@
   <string name="action_add_to_workspace">Adicionar ao espaço de trabalho</string>
   <string name="activity_not_found">A aplicação não está instalada no seu dispositivo</string>
   <string name="add_screen">Adicionar ecrã</string>
+  <string name="announce_for_app_move_in_folder">Movida para a posição %1$d na pasta</string>
   <string name="announce_for_checked">%1$s, verificado</string>
   <string name="announce_for_choose_default_screen">Definir ecrã %1$d como predefinido</string>
   <string name="announce_for_close_default_preview">Fechar as definições de ecrãs predefinidos</string>
   <string name="announce_for_close_folder">Pasta fechada</string>
   <string name="announce_for_close_launcher_menu">Menu fechado</string>
+  <string name="announce_for_create_folder_with_app">Criou uma pasta com %1$s</string>
   <string name="announce_for_delete_gadget_and_widget">Widget</string>
   <string name="announce_for_delete_item">%1$s foi eliminado</string>
   <string name="announce_for_drag_enter_delete_zone">Itens arrastados para a zona de eliminação</string>
@@ -30,6 +32,7 @@
   <string name="announce_for_open_launcher_menu">Abriu o menu</string>
   <string name="announce_for_show_uninstall_dialog">Cancelar ou confirmar</string>
   <string name="announce_for_unchecked">%1$s, não verificado</string>
+  <string name="announce_for_widget_span">Largura %1$d, altura %2$d</string>
   <string name="app_already_exist">A aplicação já existe</string>
   <string name="app_being_backup_message">A aplicação está a ser copiada</string>
   <string name="app_being_restored_message">A aplicação está a ser restaurada</string>
@@ -274,11 +277,14 @@
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_apps_default_title">Vazio</string>
   <string name="recommend_apps_no_data">Sem dados</string>
+  <string name="recommend_apps_no_data_toast">Sem recomendações</string>
   <string name="recommend_apps_notice">Aplicações recomendadas</string>
   <string name="recommend_apps_notice_nodata">Aplicações recomendadas (Sem dados)</string>
   <string name="recommend_apps_switch_title">Aplicações recomendadas</string>
   <string name="recommend_apps_tips">Esta funcionalidade necessita de estar ligada à Internet para funcionar normalmente. Para desligar esta funcionalidade toque no nome desta pasta</string>
   <string name="recommend_loading">A carregar</string>
+  <string name="recommend_refresh">Actualizar</string>
+  <string name="recommend_xout">Não mostrar</string>
   <string name="refresh">Actualizar</string>
   <string name="reset_description_first_time">Pode restaurar o layout de %1$s em 2 horas</string>
   <string name="reset_description_others">Pode restaurar o layout de %1$s</string>
@@ -297,6 +303,7 @@
   <string name="share">Partilhar</string>
   <string name="sharedUserId"/>
   <string name="show_all">Ver tudo</string>
+  <string name="show_recents_recommend_title">Mostrar sugestões</string>
   <string name="show_mem_info_title">Mostrar estado da memória</string>
   <string name="sort_by_abc">Ordenar por nome</string>
   <string name="sort_by_frequency">Ordenar por utilização</string>

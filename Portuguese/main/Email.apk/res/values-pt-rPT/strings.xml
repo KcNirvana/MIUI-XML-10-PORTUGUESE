@@ -70,11 +70,11 @@
   <string name="account_setup_address_label">Email</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Confirme se as informações da sua conta estão correctas</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">Não foi possível configurar conta</string>
-  <string name="account_setup_basics_email_label">Introduzir endereço de email</string>
+  <string name="account_setup_basics_email_label">Endereço de email</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Utilizar a ligação actual</string>
   <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
   <string name="account_setup_basics_mi_mail_login_help">Pode ser necessário verificar a sua conta via SMS para receber emails</string>
-  <string name="account_setup_basics_password_label">Introduzir palavra-passe</string>
+  <string name="account_setup_basics_password_label">Palavra-passe</string>
   <string name="account_setup_basics_title">Adicionar conta</string>
   <string name="account_setup_check_settings_check_incoming_msg">A validar as definições do servidor…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">A validar as definições SMTP…</string>
@@ -354,7 +354,9 @@
   <string name="device_not_activiey_lint1">O Gestor de dispositivos não está activo</string>
   <string name="device_not_activiey_lint2">O serviço de correio não funciona em Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">Escolher a sincronização manual. Actualize para sincronizar</string>
+  <string name="dialog_agree">Concordar</string>
   <string name="dialog_change_sync_lookback">O email recebido (%s) vai ser eliminado automaticamente. Toque para alterar</string>
+  <string name="dialog_disagree">Não concordar</string>
   <string name="dialog_insufficient_space_on_external">Não foi possível transferir o anexo. Não existe espaço suficiente no armazenamento externo</string>
   <string name="dialog_insufficient_space_on_internal">Não existe espaço suficiente no armazenamento interno</string>
   <string name="dialog_system_auto_sync_account_no_open">Ligue a sincronização da conta para receber emails automaticamente</string>
@@ -524,6 +526,7 @@
   <string name="invalid_recipient">O endereço %s é inválido</string>
   <string name="invalid_recipient_title">Erro de destinatário</string>
   <string name="kilobytes">%sKB</string>
+  <string name="list_empty_to_fresh">Sem emails. Tente actualizar</string>
   <string name="load_from_remote">Pesquisar na caixa de entrada no servidor</string>
   <string name="load_more">Carregar mais</string>
   <string name="loading_conversation">A carregar…</string>
@@ -665,9 +668,10 @@
   <string name="notification_action_undo_delete">Eliminada</string>
   <string name="notification_action_undo_remove_label">Marcador removido</string>
   <string name="notification_exchange_calendar_added">Calendário do Exchange adicionado</string>
-  <string name="notify_channel_new_mail">Notificar acerca de novas mensagens</string>
+  <string name="notify_channel_new_mail">Lembrete de novos emails</string>
+  <string name="notify_channel_no_disterb">Sem modo Não incomodar</string>
   <string name="notify_channel_permission_notice">Lembrete de aviso de permissão</string>
-  <string name="notify_channel_send_fail">Notificar acerca de não entregue</string>
+  <string name="notify_channel_send_fail">Lembrete de envio falhado</string>
   <string name="oauth_error_description">Não foi possível autenticar</string>
   <string name="oauth_gmail_login_notify">Introduza o utilizador e palavra-passe da sua conta Google na seguinte página de início de sessão</string>
   <string name="oauth_login_continue">Continuar</string>
@@ -1016,7 +1020,7 @@ Remover conta?"</string>
   <string name="update_date_format_templete">HH:mm \'do dia\' d \'de\' MMMM</string>
   <string name="update_to_wps_mail">Disfrute de mais funcionalidade com WPS Mail</string>
   <string name="updated_at">Actualizado às %1$s</string>
-  <string name="upload_log">Enviar registos</string>
+  <string name="upload_log">Enviar</string>
   <string name="upload_log_failed">Não foi possível enviar registos</string>
   <string name="upload_log_no">Cancelar</string>
   <string name="upload_log_success">Enviados com sucesso. Entraremos em contacto brevemente</string>

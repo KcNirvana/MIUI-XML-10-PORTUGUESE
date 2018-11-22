@@ -46,6 +46,9 @@
   <string name="other_settings_ad_enable_summary">Receber anúncios personalizados baseados no seu comportamento</string>
   <string name="other_settings_auto_update">Actualizar automaticamente</string>
   <string name="other_settings_auto_update_summary">A MIUI vai seleccionar o melhor momento para instalar as actualizações</string>
+  <string name="other_settings_enhanced_lockscreen">Papéis de parede aleatórios</string>
+  <string name="other_settings_enhanced_lockscreen_summary">Receba diariamente imagens e histórias seleccionadas no seu ecrã de bloqueio</string>
+  <string name="other_settings_enhanced_lockscreen_summary_index">Termos e Condições</string>
   <string name="other_settings_location">Localização</string>
   <string name="other_settings_location_summary">Permitir que aplicações determinem a sua localização</string>
   <string name="other_settings_upload_debug_log_summary">As estatísticas de utilização que nos ajudam a localizar e resolver problemas podem conter informações pessoais</string>

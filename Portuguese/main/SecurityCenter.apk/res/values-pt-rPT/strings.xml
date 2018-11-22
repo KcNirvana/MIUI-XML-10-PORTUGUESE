@@ -57,7 +57,7 @@
   <string name="activity_title_virus_settings">Definições</string>
   <string name="activity_title_white_list">Excepções</string>
   <string name="ad_btn_default_text">Saber mais</string>
-  <string name="ad_split_screen_title">Troque para o modo ecrã inteiro para desbloquear</string>
+  <string name="ad_split_screen_title">Saia do modo ecrã dividido para desbloquear</string>
   <string name="ad_update_time">Última actualização: %s</string>
   <string name="ad_update_time_unKnown">Última actualização: desconhecida</string>
   <string name="adb_install_no_network">Ligue-se à rede e tente novamente</string>

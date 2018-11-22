@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="hybrid_provider">Fornecido por %1$s</string>
   <string name="mibi_app_name">Mi Credits</string>
   <string name="mibi_applock_dialog_cancel">Agora não</string>
   <string name="mibi_applock_dialog_content">Devido à actualização de sistema, o seu padrão de bloqueio actual expirou. Defina um novo</string>
@@ -211,6 +212,8 @@ Contacte o serviço de clientes da Xiaomi"</string>
   <string name="mibi_prepaid_picker_hint_2_2_a">O valor seleccionado tem de ser igual ao do cartão pré-pago. Escolher outro valor vai anular o cartão. Esta acção não pode ser revertida</string>
   <string name="mibi_prepaid_picker_hint_2_2_b">Se o valor do cartão pré-pago não for &lt;font color=red&gt;￥%1$s&lt;/font&gt;, o cartão vai ser anulado. A Xiaomi não é responsável por qualquer perda monetária que possa ocorrer dos erros do utilizador</string>
   <string name="mibi_prepaid_picker_title_selected">valor</string>
+  <string name="mibi_privacy_license_name">Política de Privacidade</string>
+  <string name="mibi_privacy_policy">Política de Privacidade</string>
   <string name="mibi_process_expired">A operação expirou</string>
   <string name="mibi_progress_creating">A obter informação da encomenda…</string>
   <string name="mibi_progress_deduct_creating">A activar o protocolo de pagamento automático %1$s​…</string>
@@ -294,6 +297,7 @@ Centro do serviço de clientes：400-100-5678"</string>
   <string name="mibi_web_login_description">Iniciar sessão</string>
   <string name="mibi_web_login_waiting">Aguarde…</string>
   <string name="mibi_web_sso_login_fail">É necessário iniciar sessão novamente</string>
+  <string name="no_network">Não é possível ligar à rede</string>
   <string name="passport_access_denied">Acesso negado</string>
   <string name="passport_account_hint_text">Endereço de email ou ID da Conta Mi</string>
   <string name="passport_account_identity_title">Verificar a sua identidade</string>
@@ -448,4 +452,7 @@ link que enviámos para o seu email"</string>
   <string name="passport_wrong_captcha">O código que introduziu está incorrecto</string>
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que introduziu é inválido</string>
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
+  <string name="web_sso_login_fail">É necessário iniciar sessão novamente</string>
+  <string name="web_sso_login_message">A iniciar sessão…</string>
+  <string name="webview_reload">Tente novamente</string>
 </resources>

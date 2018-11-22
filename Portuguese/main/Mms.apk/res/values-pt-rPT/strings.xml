@@ -79,6 +79,16 @@
   <string name="cloud_state_disabled">Ligue a sincronização com a Mi Cloud para sincronizar mensagens</string>
   <string name="cloud_state_sync_finished">Sincronizado com a Mi Cloud</string>
   <string name="cloud_state_syncing">A sincronizar com a Mi Cloud…</string>
+  <string name="complain_input_number">Enter your phone number</string>
+  <string name="complain_jump">Skip</string>
+  <string name="complain_message_title">Reclamações</string>
+  <string name="complain_ok">OK</string>
+  <string name="complain_phone_number">Número de telefone</string>
+  <string name="complain_reason">Porque está a reportar esta mensagem?</string>
+  <string name="complain_success">Obrigado pelos seus comentários</string>
+  <string name="complain_tips">"O conteúdo da mensagem vai ser enviado para os nossos servidores juntos com o número de telefone que forneceu. Os nossos fornecedores vão rever a mensagem reportada
+"</string>
+  <string name="complain_upload">A reclamação foi submetida</string>
   <string name="compressing">A imagem é demasiado grande. A comprimir…</string>
   <string name="confirm">OK</string>
   <string name="confirm_add_blacklist_dialog_dspt">Adicionar este número à sua lista de bloqueio?</string>
@@ -144,7 +154,6 @@
   <string name="dialog_message_mx">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI. Vai ser cobrada uma SMS pela activação deste serviço. Tem de concordar com os nossos \"%1$s\" e \"%2$s\" antes de utilizar</string>
   <string name="dialog_message_networking">As Mensagens necessitam de ligar à Internet e aceder à sua localização para fornecer serviços. Permitir?</string>
   <string name="dialog_message_rcs">As Mensagens China Mobile permite enviar mensagens gratuitas para outros utilizadores China Mobile. Tem de concordar com \"%1$s\" antes de utilizar</string>
-  <string name="dialog_message_sms_report">As mensagens de spam e informação do remetente vão ser enviadas para a MIUI quando as reportar. Apenas vão ser utilizadas para melhorar os filtros de spam da MIUI</string>
   <string name="dialog_title_fake_cell_detect_error">Correções</string>
   <string name="dialog_title_mx_rcs">Mi Message</string>
   <string name="dialog_title_networking">Termos e Condições</string>
@@ -214,10 +223,17 @@
   <string name="found_wild_messages_title">Sincronizar mensagens da Mi Cloud</string>
   <string name="from_label">"De: "</string>
   <string name="from_pkg_name">Da aplicação:</string>
+  <string name="group_already_kicked_hint">Não é possível enviar mensagens. Não é um membro deste grupo de conversa</string>
   <string name="group_message">Mensagem de grupo</string>
+  <string name="group_message_title">Mensagens de grupo</string>
+  <string name="group_not_exist_hint">Não é possível enviar mensagens de grupo. Este grupo foi eliminado</string>
+  <string name="group_notify_message_title">Notificações de mensagens de grupo</string>
+  <string name="group_rejoin_failed">Não é possível juntar-se ao grupo</string>
   <string name="group_resend_message">Reenviar (%d)</string>
   <string name="group_verification_codes_summary">Agrupar mensagens OTP automaticamente</string>
   <string name="group_verification_codes_title">Agrupar mensagens OTP</string>
+  <string name="group_view_settings_disolved">Não é possível ver itens. Este grupo foi eliminado</string>
+  <string name="group_view_settings_not_memeber">Não é possível ver itens. Não é um membro deste grupo</string>
   <string name="guild_add_attachments">Toque para adicionar emoticons e outros itens</string>
   <string name="guild_add_recipients">Toque para adicionar destinatários dos contactos</string>
   <string name="guild_msim_switcher">Toque para trocar de cartão SIM</string>
@@ -294,6 +310,7 @@
   <string name="mms">MMS</string>
   <string name="move_down">Mover para baixo</string>
   <string name="move_up">Mover para cima</string>
+  <string name="msg_no_member_selected">Seleccione pelo menos 1 contacto</string>
   <string name="msg_type_hint_mms">Mensagem multimédia (MMS)</string>
   <string name="msg_type_hint_mms_omit">MMS</string>
   <string name="msg_type_hint_mx">Mi Message</string>
@@ -427,7 +444,6 @@
   <string name="pref_sms_storage_title">Armazenamento</string>
   <string name="pref_sms_theme_title">Visualização</string>
   <string name="pref_summary_allow_si_sl_push">Permitir mensagens WAP (SI/SL)</string>
-  <string name="pref_summary_allow_upload_message_info">As mensagens de spam e informação do remetente vão ser enviadas para a MIUI quando as reportar</string>
   <string name="pref_summary_auto_delete">Eliminar mensagens antigas quando atingir o limite</string>
   <string name="pref_summary_delete_limit">%1$s mensagens por conversa</string>
   <string name="pref_summary_delivery_reports">Mostrar relatório de entrega das mensagens enviadas</string>
@@ -616,7 +632,6 @@
   <string name="sms_full_title">Memória de mensagens de texto cheia</string>
   <string name="sms_rejected_body">A mensagem de texto a receber foi rejeitada</string>
   <string name="sms_rejected_title">A mensagem de texto foi rejeitada</string>
-  <string name="sms_report">Reportar mensagens de spam</string>
   <string name="sms_report_dialog_content">Não foi possível enviar relatório. Tente novamente</string>
   <string name="sms_report_dialog_retry">Tente novamente</string>
   <string name="sms_report_dialog_title">Tentar novamente</string>

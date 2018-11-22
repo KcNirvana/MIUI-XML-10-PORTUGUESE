@@ -114,7 +114,8 @@
   <string name="accessibility_home">Início</string>
   <string name="accessibility_ime_switch_button">Trocar o botão do método de entrada</string>
   <string name="accessibility_key">Botão de navegação personalizada</string>
-  <string name="accessibility_left_button">Atalho</string>
+  <string name="accessibility_left_control_center_button">Atalho</string>
+  <string name="accessibility_left_lock_screen_magazine_button">Música</string>
   <string name="accessibility_location_active">Pedidos de localização activos</string>
   <string name="accessibility_managed_profile">Perfil de trabalho</string>
   <string name="accessibility_menu">Menu</string>
@@ -420,6 +421,7 @@ Taxa de amostragem"</string>
   <string name="click_to_return_multi_window_of_notch">Voltar para o ecrã dividido</string>
   <string name="clipboard">Área de transferências</string>
   <string name="clock">Relógio</string>
+  <string name="clock_city_name_local">Local</string>
   <string name="clock_seconds">Mostrar segundos</string>
   <string name="clock_seconds_desc">Mostrar segundos na barra de estado. Pode afectar a bateria</string>
   <string name="compat_mode_off">Esticar para preencher o ecrã</string>
@@ -566,6 +568,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_data_manage_delete_sure">Não vai poder desbloquear o seu dispositivo utilizando os dados do seu rosto depois de o eliminar</string>
   <string name="face_data_manage_delete_title">Dados do rosto</string>
   <string name="face_data_manage_unlock_msg">Desbloquear dispositivo utilizando o seu rosto</string>
+  <string name="face_data_manage_unlock_slide_msg">Substituir os atalhos pelo desbloqueio com o rosto</string>
   <string name="face_data_manage_unlock_title">Desbloquear utilizando o seu rosto</string>
   <string name="face_data_siggesstion_next">Seguinte</string>
   <string name="face_data_siggesstion_next_time">Seguinte (%ds)</string>
@@ -880,6 +883,9 @@ Tente novamente dentro de %2$d segundos"</string>
   <string name="lock_screen_carrier_airplane_mode_on">Modo Avião</string>
   <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
+  <string name="lock_screen_magazine_default_content">Porção diária de novas imagens</string>
+  <string name="lock_screen_magazine_default_entry_title">Detalhes do papel de parede</string>
+  <string name="lock_screen_magazine_default_title">Música</string>
   <string name="lock_screen_no_sim_card_emergency_only">Apenas cham. emergência</string>
   <string name="lock_screen_no_sim_card_no_service">Sem serviço</string>
   <string name="lock_wallpaper_enter">Entrar</string>
@@ -1093,6 +1099,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="oldman_incall_text">Voltar à chamada</string>
   <string name="open_camera_hint_text">Deslizar para a esquerda para abrir a Câmara</string>
   <string name="open_extreme_power_save_mode_title">Ligar a poupança extrema de bateria</string>
+  <string name="open_lock_screen_magazine_hint_text">Deslize para a direita para mais opções</string>
   <string name="open_remote_center_hint_text">Deslizar para a direita para ver os atalhos</string>
   <string name="orb_search_action">Acção de pesquisa</string>
   <string name="other">Outros</string>
@@ -1312,6 +1319,12 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="recents_multistack_add_stack_dialog_split_vertical">Dividir verticalmente</string>
   <string name="recents_search_bar_label">Pesquisar</string>
   <string name="recents_stack_action_button_label">Remover tudo</string>
+  <string name="recents_title_app_manager">Gerir aplicações</string>
+  <string name="recents_title_game">Jogos</string>
+  <string name="recents_title_garbage_cleanup">Limpeza</string>
+  <string name="recents_title_garbage_deepclean">Limpeza Profunda</string>
+  <string name="recents_title_market">Procurar aplicações</string>
+  <string name="recents_title_security_scan">Verificação de segurança</string>
   <string name="reject_call">A rejeitar a chamada</string>
   <string name="remove_from_settings">Remover das Definições</string>
   <string name="remove_from_settings_prompt">Pretende remover o Sintonizador da interface das Definições e deixar de utilizar todas as funcionalidades?</string>

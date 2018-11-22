@@ -182,6 +182,8 @@
   <string name="extended_storage_file_can_not_open">Não é possível abrir o ficheiro. Copie o ficheiro para o armazenamento interno primeiro</string>
   <string name="extract">Extrair</string>
   <string name="fail_to_create_folder_unknown">Não é possível criar a pasta</string>
+  <string name="failed_not_access_sd_card">Dê permissão de acesso ao cartão SD primeiro</string>
+  <string name="failed_obtain_permissions">Não foi possível obter permissões</string>
   <string name="favorite_photo">Fotos</string>
   <string name="favorite_ringtone">Toques</string>
   <string name="favorite_screen_cap">Capturas de ecrã</string>
@@ -325,7 +327,8 @@
   <string name="no_topic">Sem tópicos</string>
   <string name="no_wifi">Não foram detectadas redes</string>
   <string name="no_wifi_hint">Sem ligação</string>
-  <string name="not_installed_documentsui">DocumentsUI não instalado</string>
+  <string name="not_installed_documentsui">Ficheiros não instalado</string>
+  <string name="not_support_documentui">Ficheiros não é suportado neste dispositivo</string>
   <string name="notif_server_starting">A iniciar o servidor FTP…</string>
   <string name="notif_title">Servidor FTP está a ser executado</string>
   <string name="notification_dialog_confirm">OK</string>
@@ -445,6 +448,8 @@
   <string name="report_politics">Política</string>
   <string name="report_porn">Pornografia</string>
   <string name="report_violence">Violência</string>
+  <string name="request_document_permission">Para gerir ficheiros no cartão SD, dê ao Explorador as permissões necessárias</string>
+  <string name="request_document_permission_title">Permissões necessárias</string>
   <string name="request_timeout">Pedido de rede expirou</string>
   <string name="reset_password">Alterar palavra-passe</string>
   <string name="restoring">A restaurar…</string>

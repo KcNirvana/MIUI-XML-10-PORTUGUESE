@@ -6,6 +6,8 @@
   <string name="callFailed_simError">Erro de cartão SIM</string>
   <string name="can_not_dial_vt_while_voice_prompt">Não é possível efectuar uma videochamada enquanto estiver uma chamada em curso</string>
   <string name="can_not_dial_while_vt_prompt">Não é possível marcar enquanto uma videochamada estiver em curso</string>
+  <string name="cant_call_due_to_ongoing_call">Não é possível ligar. A chamada %1$s está em curso</string>
+  <string name="cant_call_due_to_ongoing_calls">Não é possível ligar. Termine a chamada %1$s primeiro</string>
   <string name="change_default_dialer_dialog_title">Alterar aplicação Telefone predefinida?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Utilizar %s como aplicação Telefone predefinida?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Utilizar %1$s em vez de %2$s como aplicação Telefone predefinida?</string>
