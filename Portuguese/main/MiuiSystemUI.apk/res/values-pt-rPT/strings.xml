@@ -1322,9 +1322,9 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="recents_title_app_manager">Gerir aplicações</string>
   <string name="recents_title_game">Jogos</string>
   <string name="recents_title_garbage_cleanup">Limpeza</string>
-  <string name="recents_title_garbage_deepclean">Limpeza Profunda</string>
+  <string name="recents_title_garbage_deepclean">Limpeza Prof.</string>
   <string name="recents_title_market">Procurar aplicações</string>
-  <string name="recents_title_security_scan">Verificação de segurança</string>
+  <string name="recents_title_security_scan">Verif. de segurança</string>
   <string name="reject_call">A rejeitar a chamada</string>
   <string name="remove_from_settings">Remover das Definições</string>
   <string name="remove_from_settings_prompt">Pretende remover o Sintonizador da interface das Definições e deixar de utilizar todas as funcionalidades?</string>

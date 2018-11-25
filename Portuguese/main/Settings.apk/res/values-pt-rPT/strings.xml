@@ -2111,7 +2111,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="intent_sender_resource_label">Recursos:</string>
   <string name="intent_sender_sendbroadcast_text">Enviar transmissão</string>
   <string name="intent_sender_startactivity_text">Iniciar actividade</string>
-  <string name="interaction_control_category_title">>Controlos de interacção</string>
+  <string name="interaction_control_category_title">Controlos de interacção</string>
   <string name="internal_memory">Armazenamento interno</string>
   <string name="internal_storage">Armazenamento interno</string>
   <string name="invalid_location">O local especificado para instalação não é válido</string>
