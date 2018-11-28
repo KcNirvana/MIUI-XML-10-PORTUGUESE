@@ -116,7 +116,7 @@
   <string name="dialog_song_sort_type">Ordenar por</string>
   <string name="dialog_song_sort_type_name">Nome</string>
   <string name="dialog_song_sort_type_playing_times">Número de vezes reproduzida</string>
-  <string name="dialog_song_sort_type_time">Hora</string>
+  <string name="dialog_song_sort_type_time">Tempo</string>
   <string name="dialog_song_view_type">Mostrar por</string>
   <string name="dialog_song_view_type_album">Álbuns</string>
   <string name="dialog_song_view_type_artist">Artistas</string>
@@ -207,10 +207,10 @@
   <string name="expired">Expirado</string>
   <string name="expires">Expira este mês:</string>
   <string name="fail_to_play">Não é possível reproduzir a música</string>
-  <string name="favorite_canceled">Eliminar dos favoritos</string>
+  <string name="favorite_canceled">Removida dos favoritos</string>
   <string name="favorite_playlist">Favoritos</string>
   <string name="favorite_singer">Artistas favoritos</string>
-  <string name="favorite_succeed">Já adicionada aos favoritos</string>
+  <string name="favorite_succeed">Adicionada aos favoritos</string>
   <string name="favorite_tracks">Favoritos</string>
   <string name="favorites">Favoritos</string>
   <string name="feed_back">Comentários</string>
@@ -316,6 +316,7 @@
   <string name="more">Mais</string>
   <string name="more_add_song_list">Adicionar à lista de reprodução</string>
   <string name="more_milink">Mi Link</string>
+  <string name="more_milink_and_bluetooth">Mi Link e Bluetooth</string>
   <string name="more_settings">Definições avançadas</string>
   <string name="more_settings_summary">Temporizador, filtrar ficheiros de áudio, etc.</string>
   <string name="more_share">Partilhar</string>
