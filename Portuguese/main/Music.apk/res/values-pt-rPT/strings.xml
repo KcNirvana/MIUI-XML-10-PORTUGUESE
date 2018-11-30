@@ -55,7 +55,8 @@
   <string name="available_playlist_name_format">Nova lista de reprodução %d</string>
   <string name="avoid_to_use_traffic_summary">Mostrar aviso de utilização de dados móveis</string>
   <string name="avoid_to_use_traffic_title">Utilizar dados móveis para reproduzir músicas</string>
-  <string name="back_confirm">Prima Voltar novamente para pôr a aplicação em segundo plano</string>
+  <string name="back_confirm">Prima novamente para pôr a aplicação em segundo plano</string>
+  <string name="banner_op">Música</string>
   <string name="bluetooth_device">Dispositivo áudio Bluetooth</string>
   <string name="buffering">Aguarde…</string>
   <string name="button_cancel_download">Cancelar</string>
@@ -116,7 +117,7 @@
   <string name="dialog_song_sort_type">Ordenar por</string>
   <string name="dialog_song_sort_type_name">Nome</string>
   <string name="dialog_song_sort_type_playing_times">Número de vezes reproduzida</string>
-  <string name="dialog_song_sort_type_time">Hora</string>
+  <string name="dialog_song_sort_type_time">Tempo</string>
   <string name="dialog_song_view_type">Mostrar por</string>
   <string name="dialog_song_view_type_album">Álbuns</string>
   <string name="dialog_song_view_type_artist">Artistas</string>
@@ -207,10 +208,10 @@
   <string name="expired">Expirado</string>
   <string name="expires">Expira este mês:</string>
   <string name="fail_to_play">Não é possível reproduzir a música</string>
-  <string name="favorite_canceled">Eliminar dos favoritos</string>
+  <string name="favorite_canceled">Removida dos favoritos</string>
   <string name="favorite_playlist">Favoritos</string>
   <string name="favorite_singer">Artistas favoritos</string>
-  <string name="favorite_succeed">Já adicionada aos favoritos</string>
+  <string name="favorite_succeed">Adicionada aos favoritos</string>
   <string name="favorite_tracks">Favoritos</string>
   <string name="favorites">Favoritos</string>
   <string name="feed_back">Comentários</string>
@@ -316,6 +317,7 @@
   <string name="more">Mais</string>
   <string name="more_add_song_list">Adicionar à lista de reprodução</string>
   <string name="more_milink">Mi Link</string>
+  <string name="more_milink_and_bluetooth">Mi Link e Bluetooth</string>
   <string name="more_settings">Definições avançadas</string>
   <string name="more_settings_summary">Temporizador, filtrar ficheiros de áudio, etc.</string>
   <string name="more_share">Partilhar</string>
@@ -353,11 +355,9 @@
   <string name="not_login">Sem sessão iniciada</string>
   <string name="not_selected">Escolher música</string>
   <string name="notif_title_file_size">Tamanho total %1$d</string>
-  <string name="notif_title_multiple_downloading">A transferir %1$d ficheiros</string>
   <string name="notif_title_single_downloading">A transferir %1$s</string>
   <string name="notification_download_complete">Transferência concluída</string>
   <string name="notification_download_failed">Transferência não efectuada</string>
-  <string name="notification_download_failed_more">Não foi possível transferir %1$d itens</string>
   <string name="notification_download_success_more">%1$d transferidos</string>
   <string name="notification_headset_info">Toque para ver definições</string>
   <string name="notification_need_wifi_for_size">O tamanho da transferência necessita de uma ligação Wi-Fi</string>

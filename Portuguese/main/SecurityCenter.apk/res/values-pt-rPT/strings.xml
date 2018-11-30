@@ -497,6 +497,7 @@
   <string name="card_main_applock_summary">Proteger aplicações seleccionadas com uma palavra-passe</string>
   <string name="card_main_applock_title">Bloqueio de aplicações</string>
   <string name="card_main_deepclean_action">Limpar</string>
+  <string name="card_main_deepclean_facebook_title">Limpeza do Facebook</string>
   <string name="card_main_deepclean_qq_title">Limpeza do QQ</string>
   <string name="card_main_deepclean_summary">Eliminar ficheiros desnecessários</string>
   <string name="card_main_deepclean_title">Limpeza Profunda</string>
@@ -602,6 +603,12 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="deep_clean_disconnect_data_title">Desligar dados móveis quando o dispositivo estiver bloqueado</string>
   <string name="deep_clean_memory_clean_title">Limpar cache quando o dispositivo estiver bloqueado</string>
   <string name="deep_clean_never_memory_clean">Nunca</string>
+  <string name="deep_power_save_item_summary_auto_brightness">Ajustar brilho do ecrã automaticamente para poupar bateria</string>
+  <string name="deep_power_save_item_summary_bluetooth">Desligar Bluetooth para poupar bateria</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Suspender ecrã após 30 segundos para poupar bateria</string>
+  <string name="deep_power_save_item_title_auto_brightness">Ligar brilho automático</string>
+  <string name="deep_power_save_item_title_bluetooth">Desligar Bluetooth</string>
+  <string name="deep_power_save_item_title_lock_screen_time">Suspender ecrã</string>
   <string name="deep_save_memory_clean_summary">Limpar cache quando bloquear o dispositivo para prevenir aplicações de utilizarem bateria</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Definir horário de ligar e desligar o dispositivo</string>
   <string name="delete">Eliminar</string>
@@ -1039,7 +1046,6 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="lockpattern_need_to_unlock_wrong">As palavra-passe não correspondem. Tente novamente</string>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
-  <string name="lockpattern_recording_incorrect_too_short">Ligue pelo menos %d pontos. Tente novamente</string>
   <string name="lockpattern_recording_inprogress">Levante o dedo quando terminar</string>
   <string name="lockpattern_recording_intro_header">Ligar pelo menos 4 pontos para criar um padrão</string>
   <string name="lockpattern_retry_button_text">Desenhar novamente</string>
@@ -1231,7 +1237,6 @@ da operadora"</string>
   <string name="mixed_password_confirmed_header_confirm">Definido com sucesso. Toque para confirmar</string>
   <string name="mixed_password_confirmed_header_continue">Definido com sucesso. Toque \"Seguinte\"</string>
   <string name="mixed_pattern_entered_header">Definido com sucesso</string>
-  <string name="mixed_recording_incorrect_too_short">Introduza pelo menos %d caracteres</string>
   <string name="mixed_recording_intro_header">Introduza pelo menos 4 caracteres</string>
   <string name="mixed_retry_button_text">Cancelar</string>
   <string name="mixed_settings_help_how_to_record">Como definir a palavra-passe</string>
@@ -1337,7 +1342,6 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="numeric_password_confirmed_header_confirm">Definido com sucesso. Toque para confirmar</string>
   <string name="numeric_password_confirmed_header_continue">Definido com sucesso. Toque \"Seguinte\"</string>
   <string name="numeric_pattern_entered_header">Definido com sucesso</string>
-  <string name="numeric_recording_incorrect_too_short">Introduza pelo menos %d dígitos</string>
   <string name="numeric_recording_intro_header">Introduza palavra-passe</string>
   <string name="numeric_retry_button_text">Cancelar</string>
   <string name="numeric_settings_help_how_to_record">Como definir um PIN</string>

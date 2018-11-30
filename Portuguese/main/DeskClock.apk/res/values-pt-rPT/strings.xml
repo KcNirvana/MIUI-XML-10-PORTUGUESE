@@ -136,6 +136,7 @@
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="percentage_sign">%</string>
   <string name="remind_ringtone">Toque</string>
+  <string name="repeat_count">Vezes</string>
   <string name="reset">Repor</string>
   <string name="revert">Reverter</string>
   <string name="search_alarm_clock">Alarme</string>
@@ -160,6 +161,9 @@
   <string name="slider_text">Deslizar para cima para desligar</string>
   <string name="snooze_confirm_cancel">Cancelar suspensão</string>
   <string name="snooze_duration_title">Duração da suspensão</string>
+  <string name="snooze_duration">Suspender</string>
+  <string name="snooze_duration_title">Suspensão</string>
+  <string name="snooze_duration_value">Intervalo (minutos)</string>
   <string name="start">Iniciar</string>
   <string name="start_up">Iniciar</string>
   <string name="stat_repeat_everyday">Todos os dias</string>

@@ -681,6 +681,10 @@
         <item>OpenGL (predefinido)</item>
         <item>OpenGL (Skia)</item>
     </string-array>
+    <string-array name="default_vol_stream_entries">
+        <item>Toque</item>
+        <item>Multimédia</item>
+    </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nunca</item>
         <item>15 segundos</item>

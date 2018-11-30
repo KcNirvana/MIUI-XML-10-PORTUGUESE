@@ -258,6 +258,18 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">"Aguarde %d segundos e tente novamente "</item>
         <item quantity="one">"Aguarde %d segundo e tente novamente "</item>
     </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Ligue pelo menos %d pontos</item>
+        <item quantity="one">Ligue pelo menos %d ponto</item>
+    </plurals>
+    <plurals name="numeric_recording_incorrect_too_short">
+        <item quantity="other">Introduza pelo menos %d dígitos</item>
+        <item quantity="one">Introduza pelo menos %d dígito</item>
+    </plurals>
+    <plurals name="mixed_recording_incorrect_too_short">
+        <item quantity="other">Introduza pelo menos %d caracteres</item>
+        <item quantity="one">Introduza pelo menos %d caracter</item>
+    </plurals>
     <plurals name="number_masked">
         <item quantity="other">%d aplicações</item>
         <item quantity="one">%d aplicação</item>

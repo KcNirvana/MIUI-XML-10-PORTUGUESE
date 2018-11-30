@@ -96,6 +96,7 @@
   <string name="feedback_status_change_notification_title">O estado do seu relatório foi actualizado</string>
   <string name="feedback_status_collect_log_failed">Não foi possível obter registos</string>
   <string name="feedback_status_commit_failed_title">Não foi possível enviar relatório</string>
+  <string name="feedback_status_commit_in_queue_title">A aguardar…</string>
   <string name="feedback_status_commit_succ_title">Enviado</string>
   <string name="feedback_status_commit_uploading_title">A enviar…</string>
   <string name="feedback_status_forum_reply">Responder</string>
@@ -307,7 +308,6 @@
   <string name="toast_feedback_pending_wlan">O seu comentário vai ser enviado quando o Wi-Fi estiver disponível</string>
   <string name="toast_feedback_submitted">Relatório foi enviado</string>
   <string name="toast_feedback_submitting">A enviar…</string>
-  <string name="toast_feedbackservice_in_submit">A enviar informação anterior…</string>
   <string name="toast_fill_brackets">No relatório está a faltar alguma informação</string>
   <string name="toast_loading_app_id">A obter informações…</string>
   <string name="toast_log_not_exists">O relatório pretendido foi eliminado ou não existe</string>

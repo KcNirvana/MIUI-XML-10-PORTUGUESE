@@ -26,10 +26,14 @@
     </plurals>
     <plurals name="timer_message_minute">
         <item quantity="other">%1$d minutos</item>
-        <item quantity="one">"%1$d minuto</item>
+        <item quantity="one">%1$d minuto</item>
     </plurals>
     <plurals name="timer_message_second">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">Os alarmes vão desligar %2$s vezes (%1$s minutos cada)</item>
+        <item quantity="one">O alarmes vão desligar %2$s vez (%1$s minuto)</item>
     </plurals>
 </resources>

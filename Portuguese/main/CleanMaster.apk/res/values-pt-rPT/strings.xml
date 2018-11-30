@@ -195,6 +195,8 @@
   <string name="facebook_clean_exit_confirm_ok">Parar</string>
   <string name="facebook_clean_exit_confirm_title">Parar verificação?</string>
   <string name="facebook_cleaner">Limpeza do Facebook</string>
+  <string name="facebook_function_summery">Limpar itens do Facebook</string>
+  <string name="facebook_function_title">Limpeza do Facebook</string>
   <string name="facebook_group_cache">Ficheiros de cache</string>
   <string name="facebook_group_gif">GIFs</string>
   <string name="facebook_group_image">Imagens</string>

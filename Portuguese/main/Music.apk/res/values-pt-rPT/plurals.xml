@@ -70,6 +70,14 @@ Total músicas: %2$d"</item>
         <item quantity="other">%d itens seleccionados</item>
         <item quantity="one">%d item seleccionado</item>
     </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">A transferir %1$d ficheiros</item>
+        <item quantity="one">A transferir %1$d ficheiro</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">Não foi possível transferir %1$d itens</item>
+        <item quantity="one">Não foi possível transferir %1$d item</item>
+    </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d leitores</item>
         <item quantity="one">%d leitor</item>
@@ -87,7 +95,7 @@ Total músicas: %2$d"</item>
         <item quantity="one">Música adicionada aos favoritos</item>
     </plurals>
     <plurals name="songs_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d músicas</item>
+        <item quantity="one">%d música</item>
     </plurals>
 </resources>

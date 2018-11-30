@@ -441,6 +441,7 @@
   <string name="show_free">Mostrar %1$s gratuitos</string>
   <string name="show_incompatible">Mostrar %1$s incompatíveis</string>
   <string name="system_precust">Pré-instalados</string>
+  <string name="swipe_find_more">Deslize para cima para ver mais</string>
   <string name="tag_ad">Anúncios</string>
   <string name="the_picture_is_not_support">A imagem não é suportada</string>
   <string name="the_picture_is_too_small">A imagem é demasiado pequena</string>
@@ -485,7 +486,7 @@
   <string name="theme_description_title_default">Predefinido</string>
   <string name="theme_detail_tab_comment">Comentários</string>
   <string name="theme_detail_tab_recommend">Recomendados</string>
-  <string name="theme_detail_tab_theme">Temas</string>
+  <string name="theme_detail_tab_theme">Detalhes</string>
   <string name="theme_empty_redirect">Voltar a Temas</string>
   <string name="theme_favorite_add_fail">Não foi possível adicionar aos favoritos</string>
   <string name="theme_favorite_add_success">Adicionado aos favoritos</string>

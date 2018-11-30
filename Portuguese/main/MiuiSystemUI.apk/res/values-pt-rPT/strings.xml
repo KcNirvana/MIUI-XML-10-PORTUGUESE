@@ -1100,7 +1100,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="open_camera_hint_text">Deslizar para a esquerda para abrir a Câmara</string>
   <string name="open_extreme_power_save_mode_title">Ligar a poupança extrema de bateria</string>
   <string name="open_lock_screen_magazine_hint_text">Deslize para a direita para mais opções</string>
-  <string name="open_remote_center_hint_text">Deslizar para a direita para ver os atalhos</string>
+  <string name="open_remote_center_hint_text">Deslizar para a direita abrir o centro de controlo</string>
   <string name="orb_search_action">Acção de pesquisa</string>
   <string name="other">Outros</string>
   <string name="overview">Vista geral</string>

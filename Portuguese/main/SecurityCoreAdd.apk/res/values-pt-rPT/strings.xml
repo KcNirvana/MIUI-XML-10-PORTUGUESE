@@ -19,6 +19,8 @@ esta funcionalidade vai ser adicionada automaticamente ao Segundo espaço"</stri
   <string name="app_name">Segurança</string>
   <string name="back">Voltar</string>
   <string name="bind_device">Adicionar dispositivos</string>
+  <string name="button_text_next_step">Seguinte</string>
+  <string name="button_text_next_step_timer">Passo seguinte (%d)</string>
   <string name="can_not_delete_when_calling">Não é possível eliminar espaços durante uma chamada</string>
   <string name="can_not_switch_when_calling">Não é possível trocar espaços durante uma chamada</string>
   <string name="can_not_switch_when_green_kid_active">Trocar para o Segundo espaço está restringido pelos controlos parentais</string>
@@ -64,6 +66,9 @@ para poder vê-las em qualquer momento"</string>
   <string name="create_space_loading">A criar Segundo espaço…</string>
   <string name="create_work_space">Criar Espaço de trabalho</string>
   <string name="creating_app_icon">A criar ícone…</string>
+  <string name="cta_declaration_agree_and_continue">Concordar</string>
+  <string name="cta_declaration_message_format" formatted="false">Tem de ler e concordar com os nossos &lt;font color=%s&gt;&lt;a href=%s&gt; %s &lt;/a&gt;&lt;/font&gt; antes de utilizar o modo empresarial. O seu dispositivo necessita de ligar à Internet para activar o modo empresarial. Concorda?</string>
+  <string name="cta_declaration_title">Termos e Condições</string>
   <string name="current_space">Espaço actual</string>
   <string name="dataSafe">Utilizar o Segundo espaço é como ter dois dispositivos</string>
   <string name="declare_dialog_title">Acerca das aplicações clonadas</string>
@@ -75,7 +80,11 @@ para poder vê-las em qualquer momento"</string>
   <string name="delete_phone_fingerprint">Eliminar a impressão digital do Segundo espaço</string>
   <string name="delete_src_file">Eliminar ficheiros</string>
   <string name="delete_src_photo">Eliminar fotos</string>
+  <string name="dialog_message_service_error">Não foi possível revogar a autorização e fazer uma reposição de fábrica. Tente novamente</string>
+  <string name="dialog_tip_need_network">O seu dispositivo necessita de ligar à Internet para revogar a autorização</string>
   <string name="dialog_title">Atenção</string>
+  <string name="dialog_title_service_error">Erro do servidor</string>
+  <string name="dialog_undo_negative">Não revogar</string>
   <string name="dir_switch_out_all_photos">Galeria do Segundo espaço</string>
   <string name="disable">Desligar</string>
   <string name="disagree">Não concordar</string>
@@ -194,8 +203,12 @@ Pode também transferi-las separadamente"</string>
   <string name="loading_space">Aguarde…</string>
   <string name="loading_success">Carregado com sucesso</string>
   <string name="lock_screen_open_second_space">Ir para o Segundo espaço através do ecrã de bloqueio</string>
+  <string name="master_clear_apply_step_1">Revogar autorização necessita de efectuar uma reposição de fábrica no seu dispositivo. Todos os seus dados vão ser eliminados. Faça uma cópia dos seus dados importantes antes de revogar a autorização</string>
+  <string name="master_clear_apply_step_2">Certifique-se que fez uma cópia de todos os seus dados importantes. Após carregar em \"OK\", vai ser feita uma reposição de fábrica e todos os seus dados vão ser eliminados</string>
+  <string name="master_clear_apply_title">Atenção</string>
   <string name="menu_item_about_privacy_title">Política de Privacidade</string>
   <string name="messageData">Mensagens</string>
+  <string name="more_settings">Mais</string>
   <string name="msg_switch_file">Eliminar estes ficheiros no Primeiro espaço depois de os mover?</string>
   <string name="msg_switch_file_second">Eliminar estes ficheiros no Segundo espaço depois de os mover?</string>
   <string name="msg_switch_photo">Eliminar estas fotos no Primeiro espaço depois de as mover?</string>
@@ -404,6 +417,11 @@ para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="transferImage">As fotos do Segundo espaço vão ser movidas para o álbum \"Segundo espaço\" no Primeiro espaço</string>
   <string name="transferMessage">As mensagens do Segundo espaço vão ser movidas para o Primeiro espaço</string>
   <string name="tryNow">Experimentar</string>
+  <string name="undo_activated_dialog_message">Revogar autorização vai desactivar o modo empresarial e efectuar uma reposição de fábrica no seu dispositivo. Todas as funcionalidades não vão estar mais disponíveis. Além disso, a Xiaomi vai parar de obter as informações necessárias a esta funcionalidade (IMEI, ID dispositivo, versão de sistema, etc.). Revogar autorização e fazer uma reposição de fábrica?</string>
+  <string name="undo_activated_dialog_ok">Revogar</string>
+  <string name="undo_grant_dialog_message">A Xiaomi vai parar de obter as informações necessárias a esta funcionalidade (IMEI, ID dispositivo, versão de sistema, etc.) após revogar a autorização. Revogar agora?</string>
+  <string name="undo_privacy_menu">Revogar autorização</string>
+  <string name="undo_success">Revogado com sucesso</string>
   <string name="use_xiaoai_open">Ligar utilizando o assistente de voz</string>
   <string name="wating">Aguarde…</string>
   <string name="weibo_send">Enviar para Weibo</string>

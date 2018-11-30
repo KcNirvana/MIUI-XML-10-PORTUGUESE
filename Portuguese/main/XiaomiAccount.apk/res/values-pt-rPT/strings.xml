@@ -302,7 +302,7 @@ Para activar a sua conta siga o
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
   <string name="passport_login_using_other_ways">Outros métodos de iniciar sessão</string>
   <string name="passport_message_dialog_title">SMS com códigos de verificação</string>
-  <string name="passport_new_user_register">Criar uma conta</string>
+  <string name="passport_new_user_register">Criar conta</string>
   <string name="passport_next">Seguinte</string>
   <string name="passport_no">Não</string>
   <string name="passport_notification_title">Erro ao iniciar sessão em %1$s</string>
