@@ -160,7 +160,6 @@
   <string name="skip_alarm_once_hint">Desligar uma vez em %s</string>
   <string name="slider_text">Deslizar para cima para desligar</string>
   <string name="snooze_confirm_cancel">Cancelar suspensão</string>
-  <string name="snooze_duration_title">Duração da suspensão</string>
   <string name="snooze_duration">Suspender</string>
   <string name="snooze_duration_title">Suspensão</string>
   <string name="snooze_duration_value">Intervalo (minutos)</string>
