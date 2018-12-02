@@ -33,7 +33,7 @@
         <item quantity="one">%1$d segundo</item>
     </plurals>
     <plurals name="snooze_duration_summary">
-        <item quantity="other">Os alarmes vão desligar %2$s vezes (%1$s minutos cada)</item>
-        <item quantity="one">O alarmes vão desligar %2$s vez (%1$s minuto)</item>
+        <item quantity="other">Os alarmes vão desligar %2$s vezes (A cada %1$s min.)</item>
+        <item quantity="one">O alarme vai desligar %2$s vez (A cada %1$s min.)</item>
     </plurals>
 </resources>
