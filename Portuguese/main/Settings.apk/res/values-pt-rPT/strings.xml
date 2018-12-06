@@ -346,7 +346,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="application_permission_manager">Permissões das aplicações</string>
   <string name="application_restrictions">Permitir aplicações e conteúdo</string>
   <string name="application_size_label">Tamanho da aplicação</string>
-  <string name="applications_settings">Aplicações instaladas</string>
+  <string name="applications_settings">Gestão de aplicações</string>
   <string name="applications_settings_header">Definições da aplicação</string>
   <string name="applications_settings_summary">Gerir aplicações, configurar atalhos de inicialização rápida</string>
   <string name="apply_fingerprint_to_category_title">Utilização de impressões digitais</string>
@@ -1563,6 +1563,10 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dtmf_tone_enable_title">Tons de marcação</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
+  <string name="dump_log">Obter registos de problemas</string>
+  <string name="dump_log_summary">Esta funcionalidade serve para gerar o registo 284 nas versões Alpha e Beta da MIUI. Utilize-a com cuidado.
+Pode ver o registo gerado no Explorador"</string>
+  <string name="dump_log_title">Acerca desta funcionalidade</string>
   <string name="edge_mode_back">Voltar</string>
   <string name="edge_mode_back_summary">Duplo toque na lateral do seu telefone para voltar</string>
   <string name="edge_mode_clean">Limpar cache de sistema</string>
@@ -2487,7 +2491,7 @@ para o Segundo espaço"</string>
   <string name="manage_xiaomi_router">Definições do Router Mi</string>
   <string name="manage_zen_access_title">Acesso Não incomodar</string>
   <string name="manageapplications_settings_summary">Gerir e remover aplicações instaladas</string>
-  <string name="manageapplications_settings_title">Gerir aplicações</string>
+  <string name="manageapplications_settings_title">Gestão de aplicações</string>
   <string name="managed_device_admin_title">Trabalho</string>
   <string name="managed_profile_device_admin_info">Para o %1$s deixar de aceder ao seu perfil de trabalho, remova o perfil em Definições &gt; Contas</string>
   <string name="managed_profile_location_category">Perfil de trabalho</string>
@@ -3076,6 +3080,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="other_relative">Outras</string>
   <string name="other_sound_category_preference_title">Outros sons e vibrações</string>
   <string name="other_sound_settings">Outros sons</string>
+  <string name="others">Outros</string>
   <string name="overlay_display_devices_title">Simular ecrãs secundários</string>
   <string name="overlay_settings">Sobreposição a outras aplicações</string>
   <string name="owner_info_settings_edit_text_hint">Introduza o texto a apresentar no ecrã de bloqueio</string>

@@ -554,7 +554,6 @@ e traz as pessoas que estão na frente"</string>
   <string name="text_ai_scene_selector_text_off">Luz de fundo</string>
   <string name="time_lapse_error">Tamanho de vídeo inválido para gravação de Time Lapse</string>
   <string name="title_snap_double_confirm">Confirme novamente</string>
-  <string name="toast_burst_snap_finished_summary">Disparo Contínuo concluído. %1$s fotos tiradas</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">O Disparo Contínuo não é suportado quando a captura de áudio está ligada</string>
   <string name="toast_saving">A guardar fotos…</string>
   <string name="toast_start_audio_capture">Fazer um som para tirar uma foto</string>

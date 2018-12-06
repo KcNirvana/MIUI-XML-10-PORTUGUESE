@@ -14,8 +14,8 @@
   <string name="backup_finished_notification_content">Foi feita a cópia das aplicações do ecrã inicial, definições de sistema, etc.</string>
   <string name="backup_now">Fazer cópia agora</string>
   <string name="backup_size">Tamanho: %s</string>
-  <string name="backup_stopped_msg">Contiuar com a cópia vai substituir a cópia existente. Clique para ver</string>
-  <string name="backup_stopped_title">A cópia parou</string>
+  <string name="backup_stopped_msg">A cópia actual vai substituir a anterior. Toque para ver</string>
+  <string name="backup_stopped_title">A cópia foi pausada</string>
   <string name="backup_success">Cópia feita com sucesso</string>
   <string name="backup_successfully">Cópia feita com sucesso</string>
   <string name="backup_to_cloud">Copiar aplicações</string>
@@ -103,7 +103,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="dialog_cancel_backup_confirm">OK</string>
   <string name="dialog_cancel_backup_msg">Desligar vai terminar as cópias em curso</string>
   <string name="dialog_cancel_backup_title">Cancelar a cópia em curso?</string>
-  <string name="dialog_msg_overwrite_backup">A diferneça entre a cópia local e na cloud é grande. Se continuar com a cópia vai substituir a existente</string>
+  <string name="dialog_msg_overwrite_backup">A cópia local é diferente da que está na Mi Cloud. Se continuar, a cópia actual vai substituir a anterior</string>
   <string name="dialog_msg_restore_require_wlan">Para restaurar cópias é necessário uma ligação Wi-Fi</string>
   <string name="dialog_title_require_wlan">Ligar ao Wi-Fi</string>
   <string name="doing_restore_home">A restaurar ecrã inicial e definições…</string>
@@ -123,7 +123,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="latest_backup_time_loading">A carregar…</string>
   <string name="load_backup_failed">Não foi possível carregar as cópias</string>
   <string name="loading_user_backup">A carregar cópias…</string>
-  <string name="main_space">Primeiro espaço</string>
   <string name="managespace_delete_backup">Eliminar</string>
   <string name="menu_item_managespace">Gerir espaço</string>
   <string name="menu_item_sort">Ordenar por</string>
@@ -142,6 +141,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="open_wifi">Ligue o Wi-Fi agora</string>
   <string name="open_wifi_description">Ligar a rede Wi-Fi para restaurar aplicações</string>
   <string name="open_wifi_setting">Definições Wi-Fi</string>
+  <string name="other_device_main_space">Primeiro espaço</string>
+  <string name="other_device_second_space">Segundo espaço</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
   <string name="provision_error_connect_msg">Teste a rede e tente novamente. As cópias não estão disponíveis quando o seu dispositivo está offline</string>
   <string name="provision_error_connect_title">Não é possível ligar à rede</string>
@@ -168,8 +169,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="restore_task_in_process">A restaurar…</string>
   <string name="restore_unfinished">A restaurar. Tente novamente mais tarde</string>
   <string name="retry">Tentar novamente</string>
-  <string name="second_space">Segundo espaço</string>
-  <string name="self_device">deste telefone</string>
+  <string name="self_device_main_space">O Primeiro espaço deste telefone</string>
+  <string name="self_device_second_space">O Segundo espaço deste telefone</string>
   <string name="settings_backup">Definições do sistema</string>
   <string name="size_unknown">Tamanho desconhecido</string>
   <string name="start_backup_to_micloud">Fazer cópia das aplicações para a Mi Cloud</string>

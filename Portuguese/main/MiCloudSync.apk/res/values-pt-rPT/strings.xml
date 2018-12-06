@@ -7,5 +7,6 @@
   <string name="error_not_acceptable">A sincronização foi desactivada</string>
   <string name="error_title">Não foi possível sincronizar</string>
   <string name="error_unauthorized">A sincronização foi desactivada devido a demasiadas tentativas de início de sessão</string>
+  <string name="micloud_downloading_clipboard_message_from_web">A enviar texto para a área de transferências</string>
   <string name="micloud_send_message_desc">A enviar Mi Message</string>
 </resources>

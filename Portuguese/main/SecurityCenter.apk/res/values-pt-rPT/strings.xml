@@ -234,7 +234,7 @@
   <string name="app_manager_show_detail_infos">Ver tudo</string>
   <string name="app_manager_start_by">Iniciado por %s</string>
   <string name="app_manager_system_mobile_disable">Desligar dados móveis</string>
-  <string name="app_manager_title">Gerir aplicações</string>
+  <string name="app_manager_title">Gestão de aplicações</string>
   <string name="app_manager_total_size">Total</string>
   <string name="app_manager_uninstall">Desinstalar</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Desinstalar aplicações de sistema pode fazer com que alguns componentes MIUI deixem de funcionar. Desinstalar mesmo assim?</string>
@@ -1566,10 +1566,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_about_traffic_title">Definições de utilização de dados</string>
   <string name="pref_adjust_data_usage">Modelo de mensagem da operadora</string>
   <string name="pref_adjust_data_usage_summary">Após alterar o template de calibração, a MIUI vai utilizá-lo para obter as estatísticas de dados da sua operadora</string>
-  <string name="pref_adjust_data_usage_value">Alterado</string>
   <string name="pref_adjust_traffic_data">Definir utilização de dados</string>
   <string name="pref_allow_connect_network_title">Dados em roaming</string>
-  <string name="pref_auto_adjust_settings">Ajuste automático das definições das estatísticas de utilização de dados</string>
   <string name="pref_auto_adjust_traffic">Ajuste automático das estatísticas de utilização de dados</string>
   <string name="pref_automatic_adjust">Sincronizar utilização de dados da operadora</string>
   <string name="pref_avaible_traffic">Plano de dados</string>
@@ -1581,7 +1579,6 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pref_category_title_module_settings">Definições das funcionalidades</string>
   <string name="pref_category_title_other">Definições adicionais</string>
   <string name="pref_category_title_securitycenter_settings">Geral</string>
-  <string name="pref_confirm_operator_setting">Certifique-se que a informação introduzida está correcta</string>
   <string name="pref_correction_setting">Definições da calibração de template</string>
   <string name="pref_correction_setting_switch">Utilizar template de calibração personalizado</string>
   <string name="pref_correction_sms_content">Template de calibração</string>

@@ -360,9 +360,10 @@ Check out other videos!"</string>
   <string name="pw_uitype_next">Next type</string>
   <string name="pw_uitype_title">UI type %d</string>
   <string name="pw_video_category">Categorias</string>
-  <string name="pw_video_history">Playback history</string>
+  <string name="pw_video_history">Histórico</string>
   <string name="pw_video_mine">Os meus vídeos</string>
-  <string name="pw_video_offline">No dispositivo</string>
+  <string name="pw_video_offline">Dispositivo</string>
+  <string name="read_and_agree">Concordar</string>
   <string name="recommend_online_switch">Recomendações online</string>
   <string name="recommend_online_tips">Turn on to receive online video recommendations</string>
   <string name="recommend_page_replay">REPLAY</string>
@@ -376,8 +377,9 @@ Check out other videos!"</string>
   <string name="s6">Permitir ao anúncio criar um evento de calendário?</string>
   <string name="s7">Anúncio de teste</string>
   <string name="save">Guardar</string>
+  <string name="save_cancel_toast">Toque novamente para cancelar</string>
   <string name="screenrecord_cancel">Problemas de compatibilidade</string>
-  <string name="screenrecord_nosupport_record">"Screen recorder isn't currently supported on this device."</string>
+  <string name="screenrecord_nosupport_record">A gravação de ecrã não é suportada neste dispositivo</string>
   <string name="search">Pesquisar</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="selectall">Seleccionar tudo</string>
@@ -388,6 +390,8 @@ Check out other videos!"</string>
   <string name="share_ugc_waitting">Generating link…</string>
   <string name="signup_type_silent_default">silent</string>
   <string name="signup_type_user_default">LoginSDK consumer</string>
+  <string name="slid_fail_message">Não foi possível guardar</string>
+  <string name="slide_save_message">A gerar vídeo…</string>
   <string name="storage_permission_denied">Permission to access storage was denied</string>
   <string name="switch_ratio_pause">Playback speed is unstable. Switching back to the default speed…</string>
   <string name="t_downloading">A transferir:</string>
@@ -411,7 +415,10 @@ Check out other videos!"</string>
   <string name="ui_log_tip">Tap this area to hide, press and hold to clear old logs. Drag logs manually.</string>
   <string name="update">Actualizar</string>
   <string name="v_app_name">Vídeos</string>
+  <string name="v_cancel">Cancelar</string>
+  <string name="v_ok">OK</string>
   <string name="v_pw_need_update_app">Update Mi Video to use all its features</string>
+  <string name="v_save">Guardar</string>
   <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
   <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
 Size: %2$s"</string>

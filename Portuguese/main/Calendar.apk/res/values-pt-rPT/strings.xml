@@ -159,6 +159,7 @@
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Não é possível criar eventos vazios</string>
   <string name="event_account">Conta</string>
+  <string name="event_action_arrive_station">Estação de chegada</string>
   <string name="event_action_delete">Eliminar</string>
   <string name="event_action_edit">Editar</string>
   <string name="event_all_day_label">Todo o dia</string>
@@ -175,6 +176,9 @@
   <string name="event_info_repeat">Repetir</string>
   <string name="event_info_title">Ver evento</string>
   <string name="event_info_title_invite">Convite para reunião</string>
+  <string name="event_info_title_anniversary">Aniversário</string>
+  <string name="event_info_title_birthday">Data de nascimento</string>
+  <string name="event_info_title_countdown">Contagem decrescente</string>
   <string name="event_info_when">Quando</string>
   <string name="event_info_where">Onde</string>
   <string name="event_lunar_month">Mês</string>

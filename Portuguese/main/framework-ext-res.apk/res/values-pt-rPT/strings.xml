@@ -135,6 +135,7 @@
   <string name="standard">Silêncio</string>
   <string name="standard_description">Silenciar os toques de chamadas e notificações</string>
   <string name="standard_title">Modo silêncio</string>
+  <string name="start_dump_log">Criar um registo de erros</string>
   <string name="start_security_permission_verify_text">Verificar permissões com a sua Conta Mi</string>
   <string name="status_bar_toggle_auto_brightness">Brilho auto</string>
   <string name="status_bar_toggle_battery_saver">Poup. bateria</string>
