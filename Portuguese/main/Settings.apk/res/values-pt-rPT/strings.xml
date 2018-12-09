@@ -1396,6 +1396,12 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_cpu6_info">Hexa-Core</string>
   <string name="device_cpu8_info">Octa-Core</string>
   <string name="device_cpu10_info">Deca-Core</string>
+  <string name="device_description_battery">Bateria</string>
+  <string name="device_description_camera">Câmara</string>
+  <string name="device_description_cpu">CPU</string>
+  <string name="device_description_ram">RAM</string>
+  <string name="device_description_resolution">Resolução</string>
+  <string name="device_description_screen">Ecrã</string>
   <string name="device_display_layout_title">Funcionalidades</string>
   <string name="device_edit_title">Mudar o nome do telefone</string>
   <string name="device_feedback">Enviar comentários acerca do dispositivo</string>
