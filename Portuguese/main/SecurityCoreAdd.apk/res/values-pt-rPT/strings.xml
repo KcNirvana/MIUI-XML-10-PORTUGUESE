@@ -151,7 +151,7 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="function_not_support">Não suportado neste dispositivo</string>
   <string name="gms_message">Para criar aplicações clonadas é necessário trabalhar com os serviços Google. Criar uma aplicação clonada para os serviços Google?</string>
   <string name="gms_open_button">Ligar</string>
-  <string name="gms_title">Ligar os serviços Google</string>
+  <string name="gms_title">Aplicações clonadas para os serviços Google</string>
   <string name="goToSecondSpacce">Ir para o Segundo espaço</string>
   <string name="go_on_import">Continuar a importar</string>
   <string name="gpg_message">Para criar aplicações clonadas é necessário trabalhar com os serviços Google. Criar uma aplicação clonada para os Jogos Google Play?</string>

@@ -2885,6 +2885,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="network_dashboard_title">Redes e Internet</string>
   <string name="network_detail">Detalhes da rede %s</string>
   <string name="network_error">Erro de rede</string>
+  <string name="network_name_input_error">Não foi possível guardar SSID. Tente novamente</string>
   <string name="network_operators_settings">Operadoras de rede</string>
   <string name="network_reset_not_available">A reposição de rede não está disponível para este utilizador</string>
   <string name="network_scorer_change_active_dialog_text">Utilizar %1$s em vez de %2$s para gerir as ligações de rede?</string>

@@ -52,7 +52,7 @@ A poupança de bateria vai monitorizar as aplicações mais importantes selectiv
   <string name="nonui_mode_config_description">Não liga o ecrã para notificações, desliga a luz de notificações e os controlos de toque quando o não estiver a utilizar o dispositivo</string>
   <string name="nonui_mode_config_title">Modo Não-Interactivo</string>
   <string name="performance_category">Desempenho</string>
-  <string name="power_center">Bateria</string>
+  <string name="power_center">Utilização de bateria</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s corre anormalmente</string>
   <string name="power_checker_background_cpu_title">%1$s corre anormalmente</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s acede à localização frequentemente</string>

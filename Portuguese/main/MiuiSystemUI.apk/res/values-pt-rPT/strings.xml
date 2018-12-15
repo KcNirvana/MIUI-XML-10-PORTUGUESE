@@ -1191,7 +1191,6 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_batterysaver_label">Poup. bateria</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Sem dispositivos emparelhados disponíveis</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
-  <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d dispositivos)</string>
   <string name="quick_settings_bluetooth_off_label">Bluetooth desligado</string>
   <string name="quick_settings_brightness_dialog_auto_brightness_label">Auto</string>
   <string name="quick_settings_brightness_dialog_title">Brilho</string>

@@ -3,6 +3,7 @@
   <string name="act_find_city_hint">Introduzir localização</string>
   <string name="act_find_city_hot_attractions_title">Sites populares</string>
   <string name="act_find_city_hot_city_title">Cidades populares</string>
+  <string name="act_location_error_to_find_city">Não foi possível obter a localização. Pode adicionar uma cidade manualmente</string>
   <string name="act_set_city_find_side">A localizar</string>
   <string name="act_set_city_find_side_error">Não é possível localizar dispositivo</string>
   <string name="act_weather_find_city_added">Adicionado</string>
@@ -13,7 +14,7 @@
   <string name="activity_alert_detail_title"/>
   <string name="activity_find_city_dialog_cancel">Cancelar</string>
   <string name="activity_find_city_dialog_message">Permitir que o Tempo possa aceder à sua localização para obter informações de localização</string>
-  <string name="activity_find_city_dialog_message_global">Permitir que o Tempo possa aceder à sua localização para obter informações de localização</string>
+  <string name="activity_find_city_dialog_message_global">Ligue os serviços de localização e dê permissão para determinar a localização através das redes sem fios</string>
   <string name="activity_find_city_dialog_set">Definições</string>
   <string name="activity_find_city_dialog_title">Acesso à localização</string>
   <string name="activity_main_alert"/>
@@ -100,6 +101,9 @@
   <string name="data_provided_by"/>
   <string name="edit_alert_city_title">Gerir alertas</string>
   <string name="edit_city">Gerir localizações</string>
+  <string name="empty_view_net_loading">A actualizar…</string>
+  <string name="empty_view_net_unavailable">Não foi possível ligar à rede</string>
+  <string name="empty_view_refresh">Tente novamente</string>
   <string name="eu_region_version_first_start_network_msg">Ao utilizar este produto, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao tocar em \"Concordar\", concorda com %1$s e %2$s da Xiaomi</string>
   <string name="feedback_cloudy">Com nuvens</string>
   <string name="feedback_foggy">Nebuloso</string>
@@ -122,12 +126,14 @@
   <string name="hourly_forecast_title">Previsão horária</string>
   <string name="hourly_forecast_title_24_hours_desc">Previsão horária</string>
   <string name="hourly_forecast_title_hourly_desc">Previsão horária</string>
+  <string name="index_item_downloading">A transferir</string>
   <string name="index_item_experience_now">Instalar agora</string>
   <string name="index_item_install_dialog"/>
   <string name="index_item_install_dialog_cancel"/>
   <string name="index_item_install_dialog_open"/>
   <string name="index_item_install_now">Instalar agora</string>
   <string name="index_item_installing">A instalar</string>
+  <string name="index_item_installing2">A instalar</string>
   <string name="indices_desc_Precip1hr">%1$s mm</string>
   <string name="indices_desc_feel">"Sensação térmica %1$s°C"</string>
   <string name="indices_desc_feel_without_pic">%1$s°C</string>
@@ -157,6 +163,7 @@
   <string name="it_is_going_to_rain">Vai chover</string>
   <string name="locate_fail_detail_err">"Não é possível localizar dispositivo.
 Toque no ecrã para adicionar ou repor cidade"</string>
+  <string name="location_provider_btn_text">Ligar os serviços de localização</string>
   <string name="location_tag">Localizar</string>
   <string name="menu_add_city">Editar localizações</string>
   <string name="menu_location">Localizações</string>

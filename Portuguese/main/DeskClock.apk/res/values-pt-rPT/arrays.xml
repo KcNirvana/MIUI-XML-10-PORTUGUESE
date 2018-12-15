@@ -653,16 +653,4 @@
        <item>Adiar</item>
        <item>Eliminar</item>
     </string-array>
-    <string-array name="weather_tips_value">
-       <item>Reduza as actividades ao ar livre</item>
-       <item>As estradas estão escorregadias</item>
-       <item>O tempo está de tempestade. Tenha cuidado</item>
-       <item>Está nevoeiro. Conduza com cuidado</item>
-       <item>O ar está poluído. Utilize uma máscara!</item>
-       <item>Leve um guarda-chuva quando sair</item>
-       <item>Tenha cuidado na estrada</item>
-       <item>Está a cair granizo. Tenha cuidado</item>
-       <item>Vem aí uma tempestade de areia. Utilize uma máscara!</item>
-       <item>Tenha um bom dia!</item>
-    </string-array>
 </resources>

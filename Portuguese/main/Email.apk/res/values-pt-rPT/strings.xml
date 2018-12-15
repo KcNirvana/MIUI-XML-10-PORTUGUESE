@@ -63,7 +63,7 @@
   <string name="account_settings_unsupported_label">Políticas não suportadas</string>
   <string name="account_settings_unsupported_summary">Nenhuma</string>
   <string name="account_settings_user_usage">Definições da conta</string>
-  <string name="account_settings_using_ringtone">Toque</string>
+  <string name="account_settings_using_ringtone">Som</string>
   <string name="account_settings_vibrate_when_label">Vibrar</string>
   <string name="account_setup_account_type_instructions">Que tipo de conta é esta?</string>
   <string name="account_setup_account_type_title">Configuração da conta</string>

@@ -1078,7 +1078,7 @@ Pode ter custos adicionais se utilizar a ligação de dados móveis novamente"</
   <string name="main_button_mi_sim_close">Activar Mi SIM</string>
   <string name="main_button_mi_sim_open">Ver detalhes</string>
   <string name="main_button_usage_adjust">Sincronizar utilização de dados móveis</string>
-  <string name="main_button_usage_adjust_manual">Definir limite de dados</string>
+  <string name="main_button_usage_adjust_manual">Definir utilização de dados</string>
   <string name="main_button_usage_adjusting">A alterar…</string>
   <string name="main_button_usage_adjusting_bill">A alterar…</string>
   <string name="main_button_usage_package_setting">Definir limite de dados</string>

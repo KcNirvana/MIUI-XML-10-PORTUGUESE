@@ -21,6 +21,7 @@
   <string name="dialog_btn_wifi">Trocar para Wi-Fi</string>
   <string name="dialog_stop_desc">Tem a certeza que quer parar a transferência? Todo o progresso vai ser perdido e não pode retomar. A próxima transferência vai começar do início</string>
   <string name="dialog_stop_title">Parar transferência?</string>
+  <string name="dialog_twrp">O armazenamento interno está encriptado. Após ser reiniciado para o modo restauro, introduza a sua palavra-passe de desbloqueio para continuar</string>
   <string name="download_done">Transferido com sucesso</string>
   <string name="download_fail">Erro ao transferir</string>
   <string name="download_fail_desc">O MD5 não corresponde…</string>

@@ -16,6 +16,10 @@
         <item quantity="other">%d segundos</item>
         <item quantity="one">%d segundo</item>
     </plurals>
+    <plurals name="snooze_duration_summary">
+        <item quantity="other">Os alarmes vão desligar %2$s vezes (A cada %1$s min.)</item>
+        <item quantity="one">O alarme vai desligar %2$s vez (A cada %1$s min.)</item>
+    </plurals>
     <plurals name="snooze_message">
        <item quantity="other">Suspender por %d minutos</item>
        <item quantity="one">Suspender por %d minuto</item>
@@ -31,9 +35,5 @@
     <plurals name="timer_message_second">
         <item quantity="other">%1$d segundos</item>
         <item quantity="one">%1$d segundo</item>
-    </plurals>
-    <plurals name="snooze_duration_summary">
-        <item quantity="other">Os alarmes vão desligar %2$s vezes (A cada %1$s min.)</item>
-        <item quantity="one">O alarme vai desligar %2$s vez (A cada %1$s min.)</item>
     </plurals>
 </resources>
