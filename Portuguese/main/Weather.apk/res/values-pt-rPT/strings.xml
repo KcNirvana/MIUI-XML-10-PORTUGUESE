@@ -144,7 +144,7 @@
   <string name="indices_title">Actividades recomendadas</string>
   <string name="indices_title_Precip1hr">Precipitação 1hr</string>
   <string name="indices_title_car_wash">Lavar carro</string>
-  <string name="indices_title_feel">Sensação térmica</string>
+  <string name="indices_title_feel">Sens. térmica</string>
   <string name="indices_title_humidity">Humidade</string>
   <string name="indices_title_pressure">Pressão</string>
   <string name="indices_title_restriction">Espaço da estrada</string>
@@ -157,6 +157,7 @@
   <string name="install">Instalar</string>
   <string name="international_detail_menu_title">Detalhes</string>
   <string name="international_details_pressure_title">Pressão</string>
+  <string name="international_details_real_feel_title">Sens. térmica</string>
   <string name="international_details_title">Detalhes</string>
   <string name="international_details_uv_index_title">Indíce UV</string>
   <string name="international_details_wind_title">Vento</string>
@@ -218,7 +219,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="real_time_sunrise">Nascer do sol %1$s</string>
   <string name="real_time_sunset">Pôr do sol %1$s</string>
   <string name="realtime_aqi_title">Indíce de qualidade do ar</string>
-  <string name="realtime_humidity_title">Humidade relativa</string>
+  <string name="realtime_humidity_title">Humidade</string>
   <string name="realtime_temperature_no_data">Sem dados</string>
   <string name="realtime_wind_default_title">Vento</string>
   <string name="retry">Tentar novamente</string>
