@@ -2332,11 +2332,11 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="unlike">Não, obrigado</string>
   <string name="unlock_pattern"><u>Padrão</u></string>
   <string name="unlock_pattern_to_bind_fingerprint">Introduza a palavra-passe para activar as impressões digitais</string>
-  <string name="unlock_set_unlock_password_summary">Combinar diferentes caracteres</string>
+  <string name="unlock_set_unlock_password_summary">Segurança elevada</string>
   <string name="unlock_set_unlock_password_title">Palavra-passe</string>
-  <string name="unlock_set_unlock_pattern_summary">Ligue pelo menos 4 pontos</string>
+  <string name="unlock_set_unlock_pattern_summary">Segurança média</string>
   <string name="unlock_set_unlock_pattern_title">Padrão</string>
-  <string name="unlock_set_unlock_pin_summary">Introduza 4 dígitos</string>
+  <string name="unlock_set_unlock_pin_summary">Segurança média a elevada</string>
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="updating_diagnostic_botton">A analisar dados…</string>
   <string name="usage_sorted_activity_lable">Utilização de dados</string>
