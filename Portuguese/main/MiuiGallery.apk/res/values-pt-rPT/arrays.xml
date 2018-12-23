@@ -68,4 +68,10 @@
         <item>Avô materno</item>
         <item>Avó materno</item>
     </string-array>
+    <string-array name="weekend_title">
+        <item>Fins de semana passados</item>
+        <item>Dias para lembrar</item>
+        <item>Eventos diários</item>
+        <item>Ordinário e extraordinário</item>
+    </string-array>
 </resources>

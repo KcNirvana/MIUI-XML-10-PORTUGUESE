@@ -72,6 +72,8 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar-se à câmara. Tente reiniciar o dispositivo</string>
   <string name="cannot_connect_camera_volte_call">Está em curso uma videochamada. Tente mais tarde</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o dispositivo quieto</string>
+  <string name="close_back_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
+  <string name="close_front_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
   <string name="color_effect_entry_berry">Bagas</string>
   <string name="color_effect_entry_blackwhite">Preto e branco</string>
   <string name="color_effect_entry_cookie">Bolacha</string>
@@ -85,6 +87,15 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="color_effect_entry_soda">Sumo</string>
   <string name="color_effect_entry_vivid">Vívido</string>
   <string name="color_effect_entry_warm">Sol</string>
+  <string name="color_effect_live_blue">Orquídea</string>
+  <string name="color_effect_live_contrast">XPro</string>
+  <string name="color_effect_live_deepblack">Preto e branco</string>
+  <string name="color_effect_live_fair">Sem cor</string>
+  <string name="color_effect_live_hongkong">Bauhinia</string>
+  <string name="color_effect_live_mousse">Mousse</string>
+  <string name="color_effect_live_none">Normal</string>
+  <string name="color_effect_live_solar">Céu azul</string>
+  <string name="color_effect_live_years">Sépia</string>
   <string name="config_name_group">Selfie de grupo</string>
   <string name="config_name_hht">Nocturno</string>
   <string name="config_name_magic">Magia</string>
@@ -207,8 +218,10 @@ no modo Retrato"</string>
   <string name="popup_tip_3d_beauty_intro_text">Beleza 3D</string>
   <string name="portait_effect_entry_blackwhite">Preto e branco</string>
   <string name="portait_effect_entry_cool">Menta</string>
+  <string name="portait_effect_entry_dusk">Sombra</string>
   <string name="portait_effect_entry_fairytale">Infância</string>
   <string name="portait_effect_entry_japanese">Céu azul</string>
+  <string name="portait_effect_entry_lilt">Lilt</string>
   <string name="portait_effect_entry_maze">Labirinto</string>
   <string name="portait_effect_entry_mood">Emoções</string>
   <string name="portait_effect_entry_movie">Filme</string>
@@ -216,7 +229,9 @@ no modo Retrato"</string>
   <string name="portait_effect_entry_pink">Blush</string>
   <string name="portait_effect_entry_riddle">Enigma</string>
   <string name="portait_effect_entry_romance">Romântico</string>
+  <string name="portait_effect_entry_sepia">Sépia</string>
   <string name="portait_effect_entry_story">História</string>
+  <string name="portait_effect_entry_tea">Chá</string>
   <string name="portrait_bokeh_first_tips">"Utilize o Modo Retrato para desfocar
 o fundo nas suas fotos"</string>
   <string name="portrait_bokeh_text">Modo Retrato</string>
@@ -465,6 +480,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_new_slow_motion_video_quality_entry_1080p">Full HD (1080p)</string>
   <string name="pref_new_slow_motion_video_quality_entry_720p">HD (720p)</string>
   <string name="pref_priority_storage_title">Guardar no cartão SD</string>
+  <string name="pref_privacy_title">Política de Privacidade</string>
   <string name="pref_qc_focus_position_title">Focar</string>
   <string name="pref_retain_camera_mode_summary">Trocar a câmara para o modo anterior quando abrir</string>
   <string name="pref_retain_camera_mode_title">Guardar modo anterior</string>

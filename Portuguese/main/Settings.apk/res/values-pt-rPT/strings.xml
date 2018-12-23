@@ -2000,6 +2000,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_anim_metal">Metal</string>
   <string name="gxzw_anim_pulse">Pulso</string>
   <string name="gxzw_anim_rhythm">Ritmo</string>
+  <string name="gxzw_anim_star">Estrelas</string>
   <string name="gxzw_anim_title">Animação de impressão digital</string>
   <string name="gxzw_dialog_message">Para ser possível utilizar o sensor de impressão digital no ecrã, não utilize protectores de ecrã</string>
   <string name="gxzw_dialog_not_show_again">Não mostrar novamente</string>
@@ -2692,8 +2693,8 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_sos_calling_summary">O seu dispositivo vai fazer chamadas para os seus contactos de emergência automaticamente reproduzindo a mensagem de voz SMS que gravou. A chamada vai ser terminada assim a mensagem acabar. As chamadas automáticas vão acabar depois da primeira tentativa com sucesso</string>
   <string name="miui_sos_calling_title">Chamada automática</string>
   <string name="miui_sos_contacts_add">Contactos de emergência</string>
-  <string name="miui_sos_contacts_category">>Contactos de emergência</string>
-  <string name="miui_sos_emergency_contacts">>Contactos de emergência</string>
+  <string name="miui_sos_contacts_category">Contactos de emergência</string>
+  <string name="miui_sos_emergency_contacts">Contactos de emergência</string>
   <string name="miui_sos_emergency_contacts_quantity">%d adicionado</string>
   <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s) já aceitou</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1s já aceitou</string>
@@ -4778,8 +4779,9 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="turn_off_keyguard_password_alert_title">Desactivar</string>
   <string name="turn_off_keyguard_password_confirm_msg">Algumas funcionalidades de segurança não vão funcionar sem o seu padrão</string>
   <string name="turn_off_keyguard_password_wait_dialog">A desligar palavra-passe</string>
+  <string name="turn_off_keyguard_password_with_face_confirm_msg">Após desligar a sua palavra-passe de ecrã de bloqueio, os dados do rosto guardados vão ser eliminados. Não vai poder desbloquear o dispositivo utilizando o seu rosto</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Não vai poder utilizar as impressões digitais após desactivar o padrão</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Após desligar a sua palavra-passe de ecrã de bloqueio, as impressões digitais guardadas vão ser eliminadas. Não vai poder desbloquear o dispositivo utilizando a sua impressão digital</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">Após desligar a sua palavra-passe de ecrã de bloqueio, as impressões digitais e dados do rosto guardados vão ser eliminados. Não vai poder desbloquear o dispositivo utilizando a sua impressão digital ou rosto</string>
   <string name="turn_off_radio">Desligar rádio</string>
   <string name="turn_off_security_lock">Desligar bloqueio de ecrã</string>
   <string name="turn_on_keyguard_password">Activar a palavra-passe do ecrã de bloqueio</string>

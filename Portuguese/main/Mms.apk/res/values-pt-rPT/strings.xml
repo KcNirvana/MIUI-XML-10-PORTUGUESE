@@ -134,10 +134,11 @@
   <string name="converting_to_text_message">A converter em mensagem de texto…</string>
   <string name="converting_vcard_failed">Não foi possível converter contacto</string>
   <string name="copy_message_text">Copiar</string>
-  <string name="copy_message_text_success">Texto copiado</string>
+  <string name="copy_message_text_success">Copiado com sucesso</string>
   <string name="copy_to_sdcard">Guardar anexo</string>
   <string name="copy_to_sdcard_fail">Não foi possível guardar o anexo</string>
   <string name="copy_to_sdcard_success">Anexo guardado em %s</string>
+  <string name="current_data_version">Versão de Mi Message</string>
   <string name="delete">Eliminar</string>
   <string name="delete_bookmark">Remover dos favoritos</string>
   <string name="delete_message">Eliminar</string>
@@ -248,7 +249,7 @@
   <string name="hybrid_pull_to_refresh_pull_label">Puxe para actualizar…</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Aguarde…</string>
   <string name="hybrid_pull_to_refresh_release_label">Largue para actualizar…</string>
-  <string name="hybrid_service_unavailiable">O serviço não está disponível</string>
+  <string name="hybrid_service_unavailiable">Serviço indisponível</string>
   <string name="hybrid_try_again">Tente novamente</string>
   <string name="i_know">Percebi</string>
   <string name="importing_progress_private_message">Importar mensagens…</string>
@@ -307,7 +308,9 @@
   <string name="message_too_big_for_video">A mensagem é demasiado grande para anexar o vídeo</string>
   <string name="message_type_label">"Tipo: "</string>
   <string name="messagelist_sender_self">Eu</string>
+  <string name="messaging">Mensagens</string>
   <string name="mms">MMS</string>
+  <string name="more">Mais</string>
   <string name="move_down">Mover para baixo</string>
   <string name="move_up">Mover para cima</string>
   <string name="msg_no_member_selected">Seleccione pelo menos 1 contacto</string>
@@ -414,6 +417,7 @@
   <string name="open_url_with_web">Abrir este URL no Navegador?</string>
   <string name="over_max_mms_size">A MMS é demasiado grande</string>
   <string name="overwrite_edited_content">O conteúdo que editou vai ser substituído</string>
+  <string name="packages_select_sim_cards_title">Seleccionar cartão SIM</string>
   <string name="phrase_confirm_delete_message">A resposta vai ser eliminada</string>
   <string name="phrase_empty">Sem respostas</string>
   <string name="phrase_from">De %1s</string>
@@ -578,8 +582,10 @@
   <string name="security_alert_dialog_title">Reportar</string>
   <string name="select_audio">Seleccionar áudio</string>
   <string name="select_bottom_text">Texto no fim</string>
-  <string name="select_copy_text">Seleccionar e copiar o texto da mensagem</string>
-  <string name="select_different_media">Escolha um %1$s diferente</string>
+  <string name="select_different_attachment">Escolha um anexo diferente</string>
+  <string name="select_different_audio">Escolha um áudio diferente</string>
+  <string name="select_different_picture">Escolha uma imagem diferente</string>
+  <string name="select_different_video">Escolha um vídeo diferente</string>
   <string name="select_link_title">Escolher acção</string>
   <string name="select_local_audio">Seleccionar áudio</string>
   <string name="select_local_video">Seleccionar vídeo</string>
@@ -611,6 +617,8 @@
   <string name="show_all_messages">Mostrar todas as mensagens</string>
   <string name="show_delivery_status">Mostrar o estado de entrega</string>
   <string name="show_sender">Mostrar informação do remetente</string>
+  <string name="sim1">SIM 1</string>
+  <string name="sim2">SIM 2</string>
   <string name="sim_card1">Cartão SIM 1</string>
   <string name="sim_card2">Cartão SIM 2</string>
   <string name="sim_card_cloud">%s (Mi Message)</string>

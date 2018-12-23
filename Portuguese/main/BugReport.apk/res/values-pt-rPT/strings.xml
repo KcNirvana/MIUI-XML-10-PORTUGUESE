@@ -54,6 +54,7 @@
   <string name="err_type_xiaomi_service">Apoio ao cliente</string>
   <string name="error_no_connection">Não foi possível ligar à rede</string>
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
+  <string name="feedback_choose_app_tag">Seleccionar problema</string>
   <string name="feedback_choose_module">Seleccionar item</string>
   <string name="feedback_choose_module_hint">Necessário</string>
   <string name="feedback_choose_reproductivity">Reprodutividade</string>
@@ -300,6 +301,8 @@
   <string name="title_nonsystem_app">Outras aplicações</string>
   <string name="title_same_question_feedback_main">Questões parecidas no fórum MIUI</string>
   <string name="title_system_app">Aplicações MIUI</string>
+  <string name="title_user_guide">Guia do utilizador</string>
+  <string name="toast_app_tag_required">Seleccionar problema</string>
   <string name="toast_catch_full_log_catching">Apenas pode gerar um registo ao mesmo tempo</string>
   <string name="toast_catch_full_log_open_failed">Não foi possível gravar registo</string>
   <string name="toast_description_required">É necessário escrever uma descrição</string>

@@ -34,6 +34,7 @@
   <string name="cancel">Cancelar</string>
   <string name="channel_name_alarm">Alarme</string>
   <string name="channel_name_timer">Temporizador</string>
+  <string name="check_theme_app_install">Certifique-se que a aplicação Temas está instalada</string>
   <string name="close_alarm">Desligar</string>
   <string name="common_settings">Definições</string>
   <string name="confirm_abort">Rejeitar</string>

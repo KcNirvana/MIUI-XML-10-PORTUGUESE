@@ -56,6 +56,10 @@
         <item quantity="other">Retomar cópia em %d horas</item>
         <item quantity="one">Retomar cópia em %d hora</item>
     </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d itens são demasiado grandes para copiar</item>
+        <item quantity="one">%d item é demasiado grande para copiar</item>
+    </plurals>
     <plurals name="backup_pause_desc">
         <item quantity="other">%d fotos e vídeos | Em pausa</item>
         <item quantity="one">%d foto e vídeo | Em pausa</item>
@@ -259,6 +263,10 @@
     <plurals name="sync_error_title">
         <item quantity="other">Ainda não fez cópia de %d fotos e vídeos</item>
         <item quantity="one">Ainda não fez cópia de %d foto ou vídeo</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d itens são demasiado grandes para copiar</item>
+        <item quantity="one">%d item é demasiado grande para copiar</item>
     </plurals>
     <plurals name="sync_total_count">
         <item quantity="other">%1$d itens</item>

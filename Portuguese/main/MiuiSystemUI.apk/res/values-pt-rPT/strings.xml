@@ -32,6 +32,8 @@
   <string name="accessibility_action_divider_top_70">70% em cima</string>
   <string name="accessibility_action_divider_top_full">Ecrã inteiro em cima</string>
   <string name="accessibility_airplane_mode">Modo Avião</string>
+  <string name="accessibility_ambient_display_charging">A carregar</string>
+  <string name="accessibility_aspect_button">Modo ecrã inteiro</string>
   <string name="accessibility_assistant">Menu flutuante</string>
   <string name="accessibility_back">Voltar</string>
   <string name="accessibility_battery_details">Abrir detalhes da bateria</string>
@@ -103,7 +105,7 @@
   <string name="accessibility_desc_work_lock">Ecrã de bloqueio de trabalho</string>
   <string name="accessibility_divider">Divisor de ecrã dividido</string>
   <string name="accessibility_drag_hint_message">Arraste itens para o topo do ecrã</string>
-  <string name="accessibility_enter_lock_wallpaper">Toque para abrir Música</string>
+  <string name="accessibility_enter_lock_wallpaper">Toque para abrir papéis de parede aleatórios</string>
   <string name="accessibility_ethernet_connected">Ethernet ligada</string>
   <string name="accessibility_ethernet_disconnected">Ethernet desligada</string>
   <string name="accessibility_fingerprint_dialog_app_icon">Ícone da aplicação</string>
@@ -115,7 +117,7 @@
   <string name="accessibility_ime_switch_button">Trocar o botão do método de entrada</string>
   <string name="accessibility_key">Botão de navegação personalizada</string>
   <string name="accessibility_left_control_center_button">Atalho</string>
-  <string name="accessibility_left_lock_screen_magazine_button">Música</string>
+  <string name="accessibility_left_lock_screen_magazine_button">Papéis de parede aleatórios</string>
   <string name="accessibility_location_active">Pedidos de localização activos</string>
   <string name="accessibility_managed_profile">Perfil de trabalho</string>
   <string name="accessibility_menu">Menu</string>
@@ -284,6 +286,10 @@
   <string name="app_name">Ecrã de bloqueio</string>
   <string name="as_important">Importante</string>
   <string name="as_unimportant">Não importante</string>
+  <string name="aspect_cancel">Cancelar</string>
+  <string name="aspect_message">Esta aplicação vai ser executada novamente em modo ecrã inteiro. Se encontrar algum problema, pode desligar o modo ecrã inteiro para esta aplicação em Definições &gt; Ecrã em tamanho inteiro &gt; Modo ecrã inteiro</string>
+  <string name="aspect_ok">OK</string>
+  <string name="aspect_title">Modo ecrã inteiro</string>
   <string name="audio_effect_custom">Configurar</string>
   <string name="audio_effect_info">Optimizar áudio</string>
   <string name="audio_effect_settings">Escolher tipo de auriculares</string>
@@ -503,7 +509,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="dock_forced_resizable">Esta aplicação pode não funcionar com o ecrã dividido</string>
   <string name="dock_keyguard_locked_failed_to_dock_text">O ecrã dividido não é suportado no ecrã de bloqueio</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Esta aplicação não suporta o ecrã dividido</string>
-  <string name="download_lock_wallpaper">Duplo clique para transferir Música</string>
+  <string name="download_lock_wallpaper">Duplo clique para transferir papéis de parede aleatórios</string>
   <string name="drag_to_add_tiles">Arraste para adicionar atalhos</string>
   <string name="drag_to_remove_tiles">Arraste para aqui para remover</string>
   <string name="drive_mode_tip">Está no Modo Condução</string>
@@ -745,12 +751,15 @@ Utilize apenas o carregador fornecido"</string>
   <string name="keyguard_indication_charging_time_slowly">A carregar lentamente (%s até à carga máxima)</string>
   <string name="keyguard_indication_trust_disabled">O dispositivo vai permanecer bloqueado até ser desbloqueado manualmente</string>
   <string name="keyguard_instructions_when_pattern_disabled">Prima Menu para desbloquear</string>
-  <string name="keyguard_left_bankcard">Calculadora</string>
-  <string name="keyguard_left_buscard">Notas</string>
-  <string name="keyguard_left_remotecentral">Calendário</string>
-  <string name="keyguard_left_smarthome">Contactos</string>
+  <string name="keyguard_left_calculator">Calculadora</string>
+  <string name="keyguard_left_calendar">Calendário</string>
+  <string name="keyguard_left_contacts">Contactos</string>
+  <string name="keyguard_left_music">Música</string>
+  <string name="keyguard_left_notes">Notas</string>
+  <string name="keyguard_left_remotecentral">C.Remoto</string>
+  <string name="keyguard_left_smarthome">Mi Home</string>
   <string name="keyguard_left_torch">Lanterna</string>
-  <string name="keyguard_left_view_lock_wallpaper">Música</string>
+  <string name="keyguard_left_view_lock_wallpaper">Papéis de parede aleatórios</string>
   <string name="keyguard_low_battery">Ligue o carregador</string>
   <string name="keyguard_missing_sim_instructions">Insira um cartão SIM</string>
   <string name="keyguard_missing_sim_instructions_long">O cartão SIM está em falta ou não é legível. Insira um cartão SIM</string>
@@ -884,11 +893,11 @@ Tente novamente dentro de %2$d segundos"</string>
   <string name="lock_screen_date">"EEEE, d 'de' MMMM"</string>
   <string name="lock_screen_date_12">"EEEE, d 'de' MMMM"</string>
   <string name="lock_screen_magazine_default_content">Porção diária de novas imagens</string>
-  <string name="lock_screen_magazine_default_title">Música</string>
+  <string name="lock_screen_magazine_default_title">Papéis de parede aleatórios</string>
+  <string name="lock_screen_magazine_global_button_text">Mais</string>
   <string name="lock_screen_no_sim_card_emergency_only">Apenas cham. emergência</string>
   <string name="lock_screen_no_sim_card_no_service">Sem serviço</string>
   <string name="lock_wallpaper_enter">Entrar</string>
-  <string name="lock_wallpaper_learn_more">Mais</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
   <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
@@ -1099,7 +1108,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="open_camera_hint_text">Deslizar para a esquerda para abrir a Câmara</string>
   <string name="open_extreme_power_save_mode_title">Ligar a poupança extrema de bateria</string>
   <string name="open_lock_screen_magazine_hint_text">Deslize para a direita para mais opções</string>
-  <string name="open_remote_center_hint_text">Deslizar para a direita abrir o centro de controlo</string>
+  <string name="open_remote_center_hint_text">Deslizar para a direita abrir atalhos</string>
   <string name="orb_search_action">Acção de pesquisa</string>
   <string name="other">Outros</string>
   <string name="overview">Vista geral</string>
@@ -1404,8 +1413,8 @@ monitorizada"</string>
   <string name="status_bar_clear_all_button">Limpar</string>
   <string name="status_bar_clock_date_format">"EEEE, d 'de' MMMM"</string>
   <string name="status_bar_clock_date_format_12">"EEEE, d 'de' MMMM"</string>
-  <string name="status_bar_clock_date_time_format">"H:mm, d 'de' MMMM"</string>
-  <string name="status_bar_clock_date_time_format_12">"h:mm aa, d 'de' MMMM"</string>
+  <string name="status_bar_clock_date_time_format">"H:mm | EEEE, d 'de' MMMM"</string>
+  <string name="status_bar_clock_date_time_format_12">"h:mm aa | EEEE, d 'de' MMMM"</string>
   <string name="status_bar_date_format">"EEEE
 d 'de' MMMM"</string>
   <string name="status_bar_date_format_12">"EEEE

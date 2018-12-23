@@ -42,6 +42,8 @@
   <string name="description_content">Além do básico, a Calculadora também funciona como conversor, calulador de hipotecas e taxas</string>
   <string name="description_title">Acerca de Calculadora</string>
   <string name="devided_by_zero_reminder_message">Não é possível a divisão por zero</string>
+  <string name="dialog_privacy_content">Além das funcionalidades básicas também tem uma calculadora científica e um conversor. Algumas funcionalidade necessitam de ligar à Internet para funcionar normalmente. Tem de ler e concordar com os nossos %1$s e %2$s antes de utilizar a Calculadora</string>
+  <string name="dialog_privacy_title">Termos e Condições</string>
   <string name="divDesc">Dividir</string>
   <string name="dotDesc">Ponto</string>
   <string name="eDesc">Número de Euler</string>
@@ -167,6 +169,7 @@
   <string name="preference_follow_wechat_title">WeChat</string>
   <string name="preference_follow_weibo_summary">\@MIUI</string>
   <string name="preference_follow_weibo_title">Sina Weibo</string>
+  <string name="preference_help">Ajuda e comentários</string>
   <string name="preference_other">Outros</string>
   <string name="preference_privacy_title">Política de Privacidade</string>
   <string name="preference_settings">Definições</string>

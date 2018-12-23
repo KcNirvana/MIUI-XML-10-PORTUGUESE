@@ -151,6 +151,7 @@
   <string name="gadget_clock_24_label">Relógio 4x2</string>
   <string name="gadget_clock_34_label">Relógio 4x3</string>
   <string name="gadget_clock_label">Relógio</string>
+  <string name="gadget_dual_clock_label">Relógio duplo</string>
   <string name="gadget_error_text">Não é possível carregar o widget</string>
   <string name="gadget_google_search_label">Pesquisar no Google</string>
   <string name="gadget_load_error">A carregar…</string>
@@ -285,7 +286,6 @@
   <string name="recommend_loading">A carregar</string>
   <string name="recommend_refresh">Actualizar</string>
   <string name="recommend_xout">Não mostrar</string>
-  <string name="refresh">Actualizar</string>
   <string name="reset_description_first_time">Pode restaurar o layout de %1$s em 2 horas</string>
   <string name="reset_description_others">Pode restaurar o layout de %1$s</string>
   <string name="reset_fail">Não foi possível restaurar</string>
