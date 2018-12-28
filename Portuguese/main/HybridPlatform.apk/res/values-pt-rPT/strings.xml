@@ -23,7 +23,7 @@
   <string name="activity_launch_checkbox_from_web">Não me lembrar novamente</string>
   <string name="activity_launch_message_from_web">Carregamento suave e uma melhor experiência</string>
   <string name="activity_launch_title_from_web">Trocar para a aplicação %1$s</string>
-  <string name="activity_shortcut_message_from_web">FOi encontrada uma aplicação %1$s. Quer criar uma atalho para ela?</string>
+  <string name="activity_shortcut_message_from_web">Foi encontrada uma aplicação %1$s. Quer criar uma atalho para ela?</string>
   <string name="activity_shortcut_title_from_web">Criar atalho</string>
   <string name="app_manager_app_info_install_time">Tempo de instalação</string>
   <string name="app_manager_app_info_label">Informações</string>
@@ -109,6 +109,9 @@
   <string name="platform_notification_name">Mensagens instantâneas</string>
   <string name="platform_notification_summary">Utilizar aplicações compatíveis sem as instalar</string>
   <string name="platform_notification_title">Notificações</string>
+  <string name="preload_page_name">Pré-carregar páginas</string>
+  <string name="preload_page_summary">A MIUI vai analisar os URLs e pré-carregar as páginas que visitar frequentemente para as abrir mais rapidamente</string>
+  <string name="reject_all">Restringir tudo</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="share_dialog_cancel">Cancelar</string>
   <string name="share_dialog_title">Partilhar para</string>
@@ -119,6 +122,7 @@
   <string name="setting_category_additional">Definições adicionais</string>
   <string name="setting_category_apps">Aplicações rápidas</string>
   <string name="setting_feedback">Comentários</string>
+  <string name="setting_performance_optimization">Optimização de desempenho</string>
   <string name="setting_privacy">Política de Privacidade</string>
   <string name="show_home_message">Ícone da aplicação</string>
   <string name="show_notifications">Mostrar notificações</string>
@@ -128,8 +132,6 @@
 Tamanho: %2$s"</string>
   <string name="xiaomi_update_sdk_dialog_message_diff">"A introduzir a versão %1$s
 Tamanho delta: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
+  <string name="xiaomi_update_sdk_dialog_title">Actualização %1$s!</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Armazenamento indisponível. Verifique o cartão SD</string>
-  <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
 </resources>

@@ -13,7 +13,7 @@
         <item quantity="one">%d dia</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
-        <item quantity="other">Eliminar o fuso horário seleccionado?</item>
+        <item quantity="other">Eliminar os fusos horários seleccionados?</item>
         <item quantity="one">Eliminar este fuso horário?</item>
     </plurals>
     <plurals name="hour">

@@ -48,7 +48,7 @@
   <string name="delete_alarm">Eliminar alarme</string>
   <string name="delete_selected_timer_item">Eliminar a tarefa do temporizador seleccionada?</string>
   <string name="delete_timer_item_title">Eliminar tarefa do temporizador</string>
-  <string name="delete_timezone_title">Fusos horários</string>
+  <string name="delete_timezone_title">Eliminar</string>
   <string name="dialog_confirm_abort">Rejeitar alterações?</string>
   <string name="dialog_message_agree">Concordar</string>
   <string name="dialog_message_for_contact_permission">Para ter alarmes de aniversários disponíveis, o Relógio necessita de aceder aos seus contactos. Concordar?</string>
@@ -222,6 +222,6 @@
   <string name="worldclock_world_time">Fusos horários</string>
   <string name="worldcolock_timezone_current">Actual: %1$s</string>
   <string name="worldcolock_timezone_date">dd/MM</string>
-  <string name="worldcolock_timezone_gap">%s H</string>
+  <string name="worldcolock_timezone_gap">%s horas</string>
   <string name="worldcolock_timezone_local">Mesmo que hora local</string>
 </resources>
