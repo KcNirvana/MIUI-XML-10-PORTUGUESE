@@ -291,7 +291,7 @@
   <string name="default_ringtone">Toque predefinido</string>
   <string name="deleteConfirmation">Este contacto vai ser eliminado</string>
   <string name="deleteConfirmationDetail">Eliminar \"%s\"?</string>
-  <string name="deleteConfirmation_title">Eliminar contacto</string>
+  <string name="deleteConfirmation_title">Contactos</string>
   <string name="delete_call_log_message">Eliminar registo de chamadas?</string>
   <string name="delete_call_log_selected_title">Eliminar registos de chamadas seleccionados?</string>
   <string name="delete_call_log_title">Registos de chamadas</string>

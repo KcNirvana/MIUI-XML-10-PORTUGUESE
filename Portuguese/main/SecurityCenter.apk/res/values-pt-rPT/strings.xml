@@ -186,6 +186,8 @@
   <string name="app_manager_factory_reset_dlg_title">Desinstalar actualizações?</string>
   <string name="app_manager_force_stop_dlg_text">Se forçar a paragem desta aplicação, ela pode funcionar mal</string>
   <string name="app_manager_force_stop_dlg_title">Forçar paragem</string>
+  <string name="app_manager_full_screen_summary">>Permitir que as aplicações seleccionadas funcionem em modo ecrã inteiro</string>
+  <string name="app_manager_full_screen_title">Modo ecrã inteiro</string>
   <string name="app_manager_globel_other_perm_title">Outras permissões</string>
   <string name="app_manager_globel_perm_summary">Gerir permissões relacionadas com localização, armazenamento, telefone, mensagens e contactos</string>
   <string name="app_manager_globel_perm_title">Permissões da aplicação</string>

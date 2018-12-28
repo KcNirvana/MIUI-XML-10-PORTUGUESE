@@ -100,7 +100,7 @@
   <string name="confirm_delete_locked_message">Eliminar esta mensagem bloqueada?</string>
   <string name="confirm_delete_message">Eliminar esta mensagem?</string>
   <string name="confirm_dialog_locked_title">Eliminar mensagem bloqueada?</string>
-  <string name="confirm_dialog_title">Eliminar conversas</string>
+  <string name="confirm_dialog_title">Conversas</string>
   <string name="confirm_dlg__msg">Aviso CMCC: CMCC pós-serviço gratuito não vão ser fornecidas, se cancelar. Cancelar mesmo assim?</string>
   <string name="confirm_dlg_title">Gestão de dispositivos</string>
   <string name="confirm_export_dialog_description">As conversas anteriores com este contacto não vão mais ser mais ocultadas</string>

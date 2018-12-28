@@ -227,11 +227,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="reminder_from_xiaomi_weather_app">Alertas de Tempo</string>
   <string name="search_weather">Tempo</string>
   <string name="search_weather_keywords">Temperatura;Previsão do tempo;Tempo;Qualidade do ar;Humidade</string>
-  <string name="set">Definições</string>
-  <string name="set_degree_centigrade">°C</string>
-  <string name="set_fahrenheit">°F</string>
-  <string name="set_kilometre">km/h</string>
-  <string name="set_land_mile">mph</string>
+  <string name="settings">Definições</string>
   <string name="share">Partilhar tempo</string>
   <string name="share_btn_cancel">Cancelar</string>
   <string name="share_btn_confirm">Partilhar</string>

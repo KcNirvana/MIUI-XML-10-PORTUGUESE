@@ -8,9 +8,25 @@
        <item quantity="other">Eliminar os alarmes seleccionados?</item>
        <item quantity="one">Eliminar este alarme?</item>
     </plurals>
+    <plurals name="day">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
     <plurals name="delete_timezone_confirm">
         <item quantity="other">Eliminar o fuso horário seleccionado?</item>
         <item quantity="one">Eliminar este fuso horário?</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="life_post_wake_up_item_acumu_day">
+        <item quantity="other">%1$d dias</item>
+        <item quantity="one">%1$d dia</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
     </plurals>
     <plurals name="second">
         <item quantity="other">%d segundos</item>

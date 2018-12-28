@@ -21,7 +21,7 @@
   <string name="calibrate_tip">Incline o dispositivo para rolar a bola em redor do círculo</string>
   <string name="calibrate_title">Calibrar bússola</string>
   <string name="cancel">Cancelar</string>
-  <string name="cannot_get_location">--</string>
+  <string name="compass_settings">Definições</string>
   <string name="dialog_body_no_network">Não é possível ligar à rede</string>
   <string name="dialog_calibrat_altitude">A calibrar…</string>
   <string name="dialog_title_no_network">Não foi possível ligar à rede</string>

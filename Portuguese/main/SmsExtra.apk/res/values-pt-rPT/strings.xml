@@ -16,7 +16,7 @@
   <string name="confirm_delete_locked_message">Eliminar esta mensagem bloqueada?</string>
   <string name="confirm_delete_message">Eliminar esta mensagem?</string>
   <string name="confirm_dialog_locked_title">Eliminar mensagem bloqueada?</string>
-  <string name="confirm_dialog_title">Eliminar conversas</string>
+  <string name="confirm_dialog_title">Conversas</string>
   <string name="copy_message_text">Copiar</string>
   <string name="copy_message_text_success">Copiado</string>
   <string name="current_data_version">Versão de Mi Message</string>

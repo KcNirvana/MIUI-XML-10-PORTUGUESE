@@ -5701,6 +5701,9 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="work_profile_usage_access_warning">Se desligar o acesso de utilização desta aplicação, não impede o administrador de verificar a utilização de dados nas aplicações no perfil de trabalho</string>
   <string name="work_ringtone_title">Toque do telefone de trabalho</string>
   <string name="work_sim_title">SIM de trabalho</string>
+  <string name="work_sound_permission_dialog_button_text_known">Percebi</string>
+  <string name="work_sound_permission_dialog_message">Não pode utilizar temas no modo empresarial. Contacte o seu supervisor para obter acesso</string>
+  <string name="work_sound_permission_dialog_title">Restrições do modo empresarial</string>
   <string name="work_sound_same_as_personal">Mesmo que o perfil pessoal</string>
   <string name="work_space_delete">Eliminar Espaço de trabalho</string>
   <string name="work_space_delete_confirm">Eliminar</string>

@@ -3,8 +3,7 @@
   <string name="add_alarm">Adicionar alarme</string>
   <string name="add_clock">Adicionar relógio</string>
   <string name="add_timezone_title">Adicionar fuso horário</string>
-  <string name="alarm_alert_alert_silenced">O alarme desliga em %d minutos</string>
-  <string name="alarm_alert_snooze_set">Suspender por %d minutos</string>
+  <string name="alarm_alert_alert_silenced">O alarme desliga em %1$s</string>
   <string name="alarm_ascending_mode_summary">O volume do alarme aumenta gradualmente</string>
   <string name="alarm_ascending_mode_title">Volume ascendente</string>
   <string name="alarm_clock_more_setting">Definições adicionais</string>
@@ -35,24 +34,21 @@
   <string name="channel_name_alarm">Alarme</string>
   <string name="channel_name_timer">Temporizador</string>
   <string name="check_theme_app_install">Certifique-se que a aplicação Temas está instalada</string>
+  <string name="check_voice_assist_app_version">Actualize a Mi IA para a versão mais recente</string>
   <string name="close_alarm">Desligar</string>
   <string name="common_settings">Definições</string>
   <string name="confirm_abort">Rejeitar</string>
   <string name="content_desc_keep_screen">Botão \"Manter ecrã ligado\"</string>
   <string name="control_set_alarm">Definir alarme</string>
   <string name="control_set_alarm_with_existing">Alarme definido: %s</string>
-  <string name="day">1 dia</string>
-  <string name="day_concat">", "</string>
-  <string name="days">%d dias</string>
   <string name="default_alarm_alert">Som de alarme predefinido</string>
   <string name="default_alarm_title">Toque predefinido</string>
   <string name="default_label">Alarme</string>
   <string name="delete">Eliminar</string>
   <string name="delete_alarm">Eliminar alarme</string>
-  <string name="delete_alarm_confirm">Eliminar alarme(s) seleccionado(s)?</string>
   <string name="delete_selected_timer_item">Eliminar a tarefa do temporizador seleccionada?</string>
   <string name="delete_timer_item_title">Eliminar tarefa do temporizador</string>
-  <string name="delete_timezone_title">Eliminar fuso horário</string>
+  <string name="delete_timezone_title">Fusos horários</string>
   <string name="dialog_confirm_abort">Rejeitar alterações?</string>
   <string name="dialog_message_agree">Concordar</string>
   <string name="dialog_message_for_contact_permission">Para ter alarmes de aniversários disponíveis, o Relógio necessita de aceder aos seus contactos. Concordar?</string>
@@ -70,9 +66,7 @@
   <string name="force_touch_enter_timer">Temporizador</string>
   <string name="full_wday_month_day_no_year">"EEEE, d 'de' MMMM"</string>
   <string name="go_back">Voltar</string>
-  <string name="hour">1 hora</string>
   <string name="hour_unit">H +</string>
-  <string name="hours">%d horas</string>
   <string name="install_weather_app_error">Não foi possível carregar a aplicação</string>
   <string name="install_weather_app_loading">Aguarde…</string>
   <string name="invalid_time">Hora inválida: %3$s %1$d: %2$d</string>
@@ -94,7 +88,6 @@
   <string name="life_post_setting_open_title">Receber relatórios matinais</string>
   <string name="life_post_setting_wake_up_list_title">Histórico de despertar</string>
   <string name="life_post_wake_up_acumu_day_title">Contagem de dias</string>
-  <string name="life_post_wake_up_item_acumu_day">%1$s dias</string>
   <string name="life_post_wake_up_item_acumu_day_title">Contagem de dias</string>
   <string name="life_post_wake_up_item_percentage_title">Fãs Mi atrás de si</string>
   <string name="life_post_wake_up_item_time_title">Hora de despertar</string>
@@ -111,8 +104,6 @@
   <string name="menu_item_dock_settings">Definições de ligação</string>
   <string name="menu_item_sort_by_gmt_offset">Ordenar por data</string>
   <string name="menu_item_sort_by_name">Ordenar por nome</string>
-  <string name="minute">1 minuto</string>
-  <string name="minutes">%d minutos</string>
   <string name="module_download_cancel">Não, obrigado</string>
   <string name="module_download_data_msg">O Relógio necessita de ligar à Internet para transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes. Está a utilizar dados móveis. Permitir?</string>
   <string name="module_download_data_msg_golbal">O Relógio necessita de transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes. Está a utilizar dados móveis. Permitir?</string>
@@ -186,7 +177,7 @@
   <string name="timer_cancel_hint">Parar</string>
   <string name="timer_alarm_cancel_pad">Toque no ecrã para parar de tocar</string>
   <string name="timer_alarm_dot_matrix_label">Temporizador</string>
-  <string name="timer_alert_alert_silenced">O temporizador desliga após %d minutos</string>
+  <string name="timer_alert_alert_silenced">O temporizador desliga após %1$s</string>
   <string name="timer_alert_mute_off">O alarme vai tocar quando o temporizador parar</string>
   <string name="timer_alert_mute_on">O alarme não vai tocar quando o temporizador parar</string>
   <string name="timer_alert_mute_remind">Toque para silenciar o alarme</string>
@@ -231,6 +222,6 @@
   <string name="worldclock_world_time">Fusos horários</string>
   <string name="worldcolock_timezone_current">Actual: %1$s</string>
   <string name="worldcolock_timezone_date">dd/MM</string>
-  <string name="worldcolock_timezone_gap">horas</string>
+  <string name="worldcolock_timezone_gap">%s H</string>
   <string name="worldcolock_timezone_local">Mesmo que hora local</string>
 </resources>
