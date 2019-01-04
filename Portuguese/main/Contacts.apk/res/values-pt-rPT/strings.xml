@@ -264,6 +264,7 @@
   <string name="contactsGroupsLabel">Grupos</string>
   <string name="contactsJoinedMessage">Contactos associados</string>
   <string name="contactsList">Contactos</string>
+  <string name="contacts_default_notification_channel">Notificações</string>
   <string name="contacts_hybrid_activity_label">Recuperar contactos</string>
   <string name="contacts_setting_title">Definições dos contactos</string>
   <string name="contacts_unavailable_add_account">Iniciar sessão numa conta</string>
@@ -937,7 +938,6 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="quickcontact_missing_app">Não foi encontrada nenhuma aplicação para efectuar esta acção</string>
   <string name="quit_dialog_confirm_message">Não uniu nenhum contacto</string>
   <string name="quit_dialog_confirm_title">Cancelar união de contactos</string>
-  <string name="rcs_app_name">Mini aplicação</string>
   <string name="readOnlyContactDeleteConfirmation">O contacto a ser eliminado tem detalhes de várias contas. Os detalhes das contas só de leitura ficam ocultos mas não são eliminados</string>
   <string name="readOnlyContactWarning">Não pode eliminar contactos de contas só de leitura, mas pode ocultá-los da sua lista de contactos</string>
   <string name="readingSimContacts">A ler cartão SIM…</string>

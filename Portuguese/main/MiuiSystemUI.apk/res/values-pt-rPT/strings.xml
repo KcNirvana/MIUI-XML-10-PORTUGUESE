@@ -474,6 +474,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="description_direction_up">Deslize para cima para %s</string>
   <string name="description_image_button_answer">Atender</string>
   <string name="description_image_button_reject">Rejeitar</string>
+  <string name="description_image_icon_sim_card">Cartão SIM %1$d</string>
   <string name="description_target_search">Pesquisar</string>
   <string name="dessert_case">Capa de sobremesa</string>
   <string name="dev_logpersist_clear_warning_message">Já não estamos a monitorizar utilizando o armazenamento persistente do registo. Necessitamos de eliminar o armazenamento persistente do registo no seu dispositivo</string>
@@ -1468,6 +1469,7 @@ Deslize para baixo para bloquear"</string>
   <string name="stream_system">Sistema</string>
   <string name="stream_system_enforced">Sistema reforçado</string>
   <string name="stream_tts">TTS</string>
+  <string name="stream_voice_assist">Assistente de voz</string>
   <string name="stream_voice_call">Chamadas</string>
   <string name="structure_face_data_delete_fail">Não foi possível eliminar os dados de rosto 3D. Tente novamente</string>
   <string name="structure_face_data_input_down">Abaixe a sua cabeça</string>

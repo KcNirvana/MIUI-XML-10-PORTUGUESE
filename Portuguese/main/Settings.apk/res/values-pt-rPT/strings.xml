@@ -228,6 +228,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="animator_duration_scale_title">Escala de duração da animação</string>
   <string name="another_migration_already_in_progress">Já existe outra migração em curso</string>
   <string name="anti_spam">Lista de bloqueio</string>
+  <string name="aod_clock_style_title">Estilo de relógio</string>
   <string name="aod_close_color_inversion">Esta funcionalidade não pode ser utilizada com a inversão de cores. Desligue a inversão de cores</string>
   <string name="aod_got_it">Percebi</string>
   <string name="aod_mode_summary">Mostrar sempre horas, data e mensagens com o ecrã desligado</string>
@@ -2695,7 +2696,6 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_sos_contacts_add">Contactos de emergência</string>
   <string name="miui_sos_contacts_category">Contactos de emergência</string>
   <string name="miui_sos_emergency_contacts">Contactos de emergência</string>
-  <string name="miui_sos_emergency_contacts_quantity">%d adicionado</string>
   <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s) já aceitou</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1s já aceitou</string>
   <string name="miui_sos_emergency_failed_sms" formatted="false">Não foi possível enviar mensagem para %1s(%2s)</string>
@@ -4354,6 +4354,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_notification_use_app_icon">Utilizar ícones da aplicação para notificações</string>
   <string name="status_bar_settings_notification_vibrate">Vibração</string>
   <string name="status_bar_settings_peek_notification_icon">Mostrar ícones nas notificações</string>
+  <string name="status_bar_settings_qs_layout">Definições rápidas</string>
   <string name="status_bar_settings_show_carrier">Mostrar nome da operadora</string>
   <string name="status_bar_settings_show_carrier_summary">O nome da operadora vai continuar a ser mostrado no ecrã de bloqueio e nas notificações mesmo com esta função desligada</string>
   <string name="status_bar_settings_show_carrier_under_keyguard">Mostrar o nome da operador quando o dispositivo estiver bloqueado</string>
@@ -4589,6 +4590,7 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="switch_on_text">Ligado</string>
   <string name="switch_screen_button_order">Trocar a ordem dos botões</string>
   <string name="switch_screen_button_order_desc">Trocar a ordem dos botões Voltar e Menu</string>
+  <string name="switch_select_to_speak_on">Seleccione para falar</string>
   <string name="symbols_not_allowed_for_password">A palavra-passe não pode conter símbolos</string>
   <string name="sync_active">Sincronização activa</string>
   <string name="sync_automatically">Sincronização automática da aplicação</string>

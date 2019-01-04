@@ -254,12 +254,13 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="traffic_control_today_numbers">Hoje: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Amanhã: %1$s</string>
   <string name="traffic_controls">Controlos de tráfego</string>
-  <string name="twc_logo_title"/>
+  <string name="translate_notification_info">A traduzir em segundo plano…</string>
   <string name="unit">Unidades</string>
   <string name="unit_temperature">Temperatura</string>
   <string name="unit_wind">Velocidade do vento</string>
   <string name="update_night_setting_summary_text">Actualizar informações do tempo entre as 23:00 e a 7:00</string>
   <string name="update_night_setting_title_text">Actualizar à noite automaticamente</string>
+  <string name="update_notification_info">A actualizar dados em segundo plano…</string>
   <string name="update_setting_title_text">Informações de actualização do tempo</string>
   <string name="updated_a_moment_ago">Actualizado há momentos atrás</string>
   <string name="updating">A actualizar…</string>
@@ -271,6 +272,8 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="view_forecast_item_yesterday">Ontem</string>
   <string name="view_indexes_item_today">Hoje</string>
   <string name="view_indexes_item_tommorrow">Amanhã</string>
+  <string name="weather_alert_channel_name">Alertas</string>
+  <string name="weather_service_channel_name">Serviços em segundo plano</string>
   <string name="weather_alert">Alertas de tempo</string>
   <string name="wind_direction_no_data">Vento</string>
   <string name="wind_miles_unit">%1$s mph</string>

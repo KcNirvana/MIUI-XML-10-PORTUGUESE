@@ -292,6 +292,7 @@
   <string name="no_visiable_calendar_message">É necessário adicionar uma conta do calendário. Clique em Adicionar conta para continuar</string>
   <string name="no_visiable_calendar_select_account">Adicionar conta</string>
   <string name="no_visiable_calendar_title">Adicionar conta</string>
+  <string name="notification_channel_name">Lembretes do calendário</string>
   <string name="olympic_rank">Posição</string>
   <string name="olympic_total">Total</string>
   <string name="olympic_vs">VS</string>
@@ -357,6 +358,7 @@
   <string name="search_calendar">Data;Agenda;Reunião;Lembretes;Férias;Aniversários;2016;2017</string>
   <string name="search_calendar_edit_event">Reunião;Agenda</string>
   <string name="search_calendar_settings">Calendário;Lembretes</string>
+  <string name="search_menu_title">Pesquisa</string>
   <string name="select_date">Ir para a data</string>
   <string name="set_as_wallpaper">Definir como papel de parede</string>
   <string name="setting_about_calendar_version">"Versão do Calendário "</string>

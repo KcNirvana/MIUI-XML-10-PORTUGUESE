@@ -432,6 +432,7 @@
   <string name="selected_resource_file_invalid">Não é possível utilizar o ficheiro de recurso seleccionado</string>
   <string name="server_internal_error">Ocorreu um erro de servidor. Tente novamente</string>
   <string name="set_color_ring_back_tone">Definir um toque personalizado</string>
+  <string name="set_home_wallpaper_failed">%s. Não é possível aplicar o papel de parede</string>
   <string name="settings">Definições</string>
   <string name="shortcut_add">Adicionar</string>
   <string name="shortcut_cancel">Não, obrigado</string>
@@ -538,6 +539,7 @@
   <string name="using_theme_next_automatic_update">Actualizações automáticas</string>
   <string name="using_theme_next_automatic_update_summary">Actualizar temas automaticamente Wi-Fi quando o ecrã estiver bloqueado</string>
   <string name="using_theme_show_ad">Recomendações</string>
+  <string name="using_wallpaper_personal">Selecção personalizada</string>
   <string name="video_audio_apply_success">Vídeo com som configurado com sucesso</string>
   <string name="video_data_tips_message">Utilizar dados móveis pode gerar custos adicionais. Continuar mesmo assim?</string>
   <string name="video_data_tips_title">Aviso de utilização de dados</string>
@@ -546,6 +548,10 @@
   <string name="wallpaper_crop">Cortar</string>
   <string name="wallpaper_decoded_error">Não é possível carregar o papel de parede</string>
   <string name="wallpaper_detail_load_page_no_network">Ligue-se à rede e tente novamente</string>
+  <string name="wallpaper_personal_dialog_agree">Personalizar</string>
+  <string name="wallpaper_personal_dialog_content">Utilize esta funcionalidade para ver uma selecção de papéis de parede personalizado consoante os seus interesses. Pode desligar esta funcionalidade nas definições. Personalizar agora?</string>
+  <string name="wallpaper_personal_dialog_disagree">Não, obrigado</string>
+  <string name="wallpaper_personal_dialog_title">Personalização de papéis de parede</string>
   <string name="wallpaper_scroll_type_tips">Slideshow de papéis de parede</string>
   <string name="wallpaper_set_as_both">Definir ambos</string>
   <string name="wallpaper_set_as_desktop">Definir como ecrã principal</string>

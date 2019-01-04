@@ -227,6 +227,9 @@
   <string name="change_to_face_mode">Mostrar apenas pessoas</string>
   <string name="change_to_photo_mode">Mostrar pré-visualizações completas</string>
   <string name="change_to_visible">Restaurar esta pessoa?</string>
+  <string name="channel_default_name">Novas funcionalidades</string>
+  <string name="channel_low_name">Novas mensagens</string>
+  <string name="channel_min_name">Notificações da aplicação</string>
   <string name="checked">Seleccionado</string>
   <string name="checked_something">%s seleccionado</string>
   <string name="choose_baby_sexy">Género</string>
@@ -514,17 +517,18 @@ Tire mais fotos dos seus amigos!"</string>
   <string name="feature_guidance_photo_effects">"Estão disponíveis novos
 efeitos de fotos"</string>
   <string name="feature_guidance_video_editor_smart_effects">Estão disponíveis novos efeitos</string>
+  <string name="filter_bi_bw">Preto e branco</string>
+  <string name="filter_bi_dusk">Sombra</string>
+  <string name="filter_bi_lilt">Lilt</string>
   <string name="filter_bi_memory">Memória</string>
-  <string name="filter_bi_mono">Mono</string>
   <string name="filter_bi_pink">Rosa</string>
-  <string name="filter_bi_portrait">Retrato</string>
   <string name="filter_bi_retro">Retro</string>
   <string name="filter_bi_romantic">Romântico</string>
+  <string name="filter_bi_sepia">Sépia</string>
   <string name="filter_bi_strong">Forte</string>
   <string name="filter_bi_sunny">Ensolarado</string>
-  <string name="filter_bi_sweet">Suave</string>
+  <string name="filter_bi_tea">Chá</string>
   <string name="filter_bi_warm">Quente</string>
-  <string name="filter_bi_young">Jovem</string>
   <string name="filter_category_film">Filmes</string>
   <string name="filter_category_food">Comida</string>
   <string name="filter_category_master">Mestres</string>
@@ -696,6 +700,7 @@ para personalizar a galeria"</string>
   <string name="more_album_hint">", etc."</string>
   <string name="more_face">Mais pessoas parecidas</string>
   <string name="more_face_album_name">Mais pessoas</string>
+  <string name="motion_photo_play">Reproduzir</string>
   <string name="move_to_other_albums_tip">Mover este álbum para outros álbuns?</string>
   <string name="movie_add_disable">Pode seleccionar até 20 fotos</string>
   <string name="movie_audio_custom">Dispositivo</string>
@@ -708,6 +713,10 @@ para personalizar a galeria"</string>
   <string name="movie_audio_sport">Techno</string>
   <string name="movie_cancel_download">Cancelar</string>
   <string name="movie_change_to_long_video">Seleccionou mais de 5 fotos. Alterado para vídeo longo</string>
+  <string name="movie_content_describe_add">Adicionar fotos</string>
+  <string name="movie_content_describe_delete">Eliminar fotos</string>
+  <string name="movie_content_describe_pause">Pausar</string>
+  <string name="movie_content_describe_play">Reproduzir</string>
   <string name="movie_delete_disable">É necessário pelo menos 3 fotos para criar um clipe</string>
   <string name="movie_download">Transferir</string>
   <string name="movie_download_failed">Não foi possível transferir</string>
