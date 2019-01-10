@@ -54,6 +54,7 @@ Não estão disponíveis actualizações"</string>
   <string name="pick_title">Escolha utilizando:</string>
   <string name="recovery_desc">O dispositivo vai reiniciar para o modo restauro. Continuar?</string>
   <string name="server_error">O servidor não está a responder. A aplicação pode não funcionar correctamente</string>
+  <string name="share_desc">A versão da MIUI foi actualizada para %1$s. Veja as alterações em: %2$s</string>
   <string name="share_title">Partilhar com</string>
   <string name="version">Instalado actualmente:</string>
   <string name="version_type">MIUI 10 | %1$s | (Semanal)</string>

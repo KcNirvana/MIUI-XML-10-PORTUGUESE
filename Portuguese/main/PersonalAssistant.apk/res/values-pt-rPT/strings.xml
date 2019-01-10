@@ -365,6 +365,8 @@
   <string name="not_installed">Não instalado</string>
   <string name="note_name">Criar</string>
   <string name="note_parent">Notas</string>
+  <string name="notification_channel_card">Cartões</string>
+  <string name="notification_channel_default">Predefinido</string>
   <string name="notification_express_app_open">Turn on</string>
   <string name="notification_express_content">Track orders using Smart assistant</string>
   <string name="notification_express_title">Turn on cards from shopping apps</string>

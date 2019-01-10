@@ -1719,6 +1719,7 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="eq_preset_hint">Nome do efeito</string>
   <string name="eq_preset_rename">Mudar o nome</string>
   <string name="eq_preset_select">Escolher uma predefinição</string>
+  <string name="eq_return">Voltar</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizador</string>
   <string name="erase_application">Eliminar aplicações</string>
@@ -3128,7 +3129,11 @@ Seleccione o seu sistema operativo:"</string>
   <string name="page_layout_8">Vida Mi</string>
   <string name="page_layout_9">Temas</string>
   <string name="page_layout_confirm_message">O seu dispositivo tem de reiniciar para aplicar estas alterações. Leva cerca de 1 minuto</string>
+  <string name="page_layout_confirm_message_enlarge">O texto, imagens e ícones vão ser aumentados. Alguns ícones podem mudar de sítio</string>
+  <string name="page_layout_confirm_message_narrow">O texto, imagens e ícones vão ser diminuídos. Alguns ícones podem mudar de sítio</string>
   <string name="page_layout_confirm_title">Alterar definições de ecrã</string>
+  <string name="page_layout_confirm_title_enlarge">Itens maiores</string>
+  <string name="page_layout_confirm_title_narrow">Itens menores</string>
   <string name="page_layout_godzilla_title">Enorme</string>
   <string name="page_layout_huge_title">Muito grande</string>
   <string name="page_layout_large_title">Grande</string>

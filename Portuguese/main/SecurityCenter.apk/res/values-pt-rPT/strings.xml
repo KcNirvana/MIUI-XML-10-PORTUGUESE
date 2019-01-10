@@ -2319,6 +2319,10 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="traffic_setting_fragment_sms_content_tips">Escreva aqui a sua mensagem</string>
   <string name="traffic_setting_fragment_title">Consulta de utilização de dados</string>
   <string name="traffic_warning_purchase_title">Aviso de utilização de dados móveis</string>
+  <string name="traffic_setting_fragment_title_guide">Operadoras e planos de dados</string>
+  <string name="traffic_usage_warning_body">Já utilizou %s de dados móveis este mês</string>
+  <string name="traffic_usage_warning_limit">Limite de utilização de dados</string>
+  <string name="traffic_usage_warning_title">Aviso de utilização de dados</string>
   <string name="try_game">Experimentar</string>
   <string name="try_recommended_function">Proteja o seu dispositivo utilizando as novas funcionalidades da Segurança</string>
   <string name="two_address_choose_hint">%1$s e %2$s</string>

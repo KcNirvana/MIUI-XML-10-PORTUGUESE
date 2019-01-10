@@ -62,9 +62,9 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="cloud_back_up_no_network_warn">Não é possível ligar ao Wi-Fi</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Aguarde…</string>
-  <string name="cloud_back_up_share_activity_confirm">Actualizar</string>
-  <string name="cloud_back_up_share_activity_discription">Obter mais espaço de armazenamento, cópias diárias e muito mais</string>
-  <string name="cloud_back_up_share_activity_title">Actualizar Conta Mi</string>
+  <string name="cloud_back_up_subscribe_vip_confirm">Actualizar</string>
+  <string name="cloud_back_up_subscribe_vip_discription">Obter mais espaço de armazenamento, cópias diárias e muito mais</string>
+  <string name="cloud_back_up_subscribe_vip_title">Actualizar Conta Mi</string>
   <string name="cloud_back_up_task">A fazer cópia…</string>
   <string name="cloud_backup">Cópias da Mi Cloud</string>
   <string name="cloud_backup_derail_size_summary">Tamanho: %s</string>

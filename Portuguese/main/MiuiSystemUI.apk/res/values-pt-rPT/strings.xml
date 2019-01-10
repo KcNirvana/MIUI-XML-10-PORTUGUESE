@@ -654,6 +654,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="guest_wipe_session_message">Quer continuar a sua sessão?</string>
   <string name="guest_wipe_session_title">Bem-vindo de volta, convidado!</string>
   <string name="guest_wipe_session_wipe">Começar do início</string>
+  <string name="gxzw_long_press_tip">Prima e segure para verificar novas funcionalidades</string>
   <string name="gxzw_press_harder">Prima com mais força</string>
   <string name="gxzw_try_again">Tente novamente</string>
   <string name="gxzw_try_more_again">Tente novamente</string>
@@ -1353,8 +1354,8 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="saved_network">Guardada por %1$s</string>
   <string name="screen_button_notification_text">Para activar, prima os botões Início e Ligar/Desligar simultaneamente</string>
   <string name="screen_button_notification_title">Os botões de navegação foram desactivados</string>
-  <string name="screen_pinning_description">Vai ser mantido no ecrã até soltar. Prima e segure os botões Início e Ligar ao mesmo tempo para soltar</string>
-  <string name="screen_pinning_description_accessible">Vai ser mantido no ecrã até soltar. Prima e segure os botões Início e Ligar ao mesmo tempo para soltar</string>
+  <string name="screen_pinning_description">Vai ser mantido no ecrã até soltar. Prima e segure os botões Início e Ligar/Desligar ao mesmo tempo para soltar</string>
+  <string name="screen_pinning_description_accessible">Vai ser mantido no ecrã até soltar. Prima e segure os botões Início e Ligar/Desligar ao mesmo tempo para soltar</string>
   <string name="screen_pinning_negative">Não obrigado</string>
   <string name="screen_pinning_positive">Entendi</string>
   <string name="screen_pinning_title">Ecrã está fixado</string>

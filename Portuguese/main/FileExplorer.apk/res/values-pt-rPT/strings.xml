@@ -351,8 +351,8 @@
   <string name="operation_decompressing">A extrair…</string>
   <string name="operation_del_fav">A remover dos favoritos…</string>
   <string name="operation_delete">Eliminar</string>
-  <string name="operation_delete_confirm_message">Eliminar ficheiros</string>
-  <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta vão ser eliminados. "</string>
+  <string name="operation_delete_confirm_message">Eliminar</string>
+  <string name="operation_delete_confirm_message_folder">"Todos os conteúdos da pasta vão ser eliminados "</string>
   <string name="operation_deleting">A eliminar…</string>
   <string name="operation_favorite">Adicionar aos favoritos</string>
   <string name="operation_hide_sys">Não mostrar ficheiros ocultos</string>

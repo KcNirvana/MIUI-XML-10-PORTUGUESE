@@ -1,7 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_title">Acerca</string>
   <string name="access_sd_fail">Não foi possível aceder ao cartão SD</string>
   <string name="accessibility_shutter_button">Disparador</string>
+  <string name="action_search">Pesquisar</string>
   <string name="address">Endereço:</string>
   <string name="agree_btn">Concordar</string>
   <string name="amazon_assistant_shopping_title">Pesquisar na Amazon</string>
@@ -14,6 +16,7 @@
   <string name="birthday">Aniversário:</string>
   <string name="blog">Weibo</string>
   <string name="business_card">Cartão comercial</string>
+  <string name="business_card_result_title">Cartão comercial</string>
   <string name="business_card_title">Coloque o cartão dentro do quadrado</string>
   <string name="business_copy">Copiar</string>
   <string name="business_new_contacts">Criar contacto</string>
@@ -22,8 +25,10 @@
   <string name="call_anyone">Ligar</string>
   <string name="camera_error_title">Erro da câmara</string>
   <string name="cancel">Cancelar</string>
+  <string name="choose_pay_title">Seleccionar método de pagamento</string>
   <string name="choose_picture">Seleccionar a imagem do código QR</string>
   <string name="common_retake_picture">Tirar novamente</string>
+  <string name="common_retry">Tentar novamente</string>
   <string name="common_save">Guardar</string>
   <string name="company">Empresa:</string>
   <string name="confirm">OK</string>
@@ -34,6 +39,7 @@
   <string name="copy_text">Copiar texto</string>
   <string name="copy_text_success">Texto copiado</string>
   <string name="crop_cancel_description">Cancelar</string>
+  <string name="crop_title_study">Recortar a foto</string>
   <string name="crop_done_description">Concluído</string>
   <string name="dialog_report">Reportar</string>
   <string name="document_color_picture">Cor</string>
@@ -59,10 +65,12 @@
   <string name="email">Email:</string>
   <string name="error_camera_disabled">O acesso à câmara foi negado devido a razões de segurança</string>
   <string name="error_cannot_connect_camera">Não é possível ligar à Câmara</string>
+  <string name="error_empty_result">Não foram encontrados resultados</string>
   <string name="error_get_image">Não foi possível obter imagem</string>
   <string name="error_media_storage_failure">Não foi possível guardar foto</string>
   <string name="error_minute_limit">Demasiadas tentativas num minuto</string>
   <string name="error_permissions">O Digitalizador não tem as permissões necessárias para funcionar normalmente. Vá a Definições e verifique as permissões para continuar</string>
+  <string name="error_server_error">Erro do servidor</string>
   <string name="fax">Fax</string>
   <string name="feed_search_fail">Sem resultados</string>
   <string name="feedback_description_camera_access">O Digitalizador não consegue ligar à Câmara</string>
@@ -75,8 +83,9 @@
   <string name="impunity_declaration_title">Política de Privacidade</string>
   <string name="keywords_search_code">Digitalizador;Digitalizar;Código QR</string>
   <string name="keywords_search_document">Digitalizador;Digitalizar documentos;OCR;Digitalizar texto</string>
-  <string name="keywords_search_settings">Digitalizador;Definições</string>
+  <string name="keywords_search_namecard">Digitalizador;Cartão comercial;Cartões comerciais;Digitalizar;Digitalizar cartões;Cartão;Cartões;Contactos;Contacto</string>
   <string name="keywords_search_shopping">Compras;Scanner;Digitalização de produtos;Varredura de produto;Verificar preço;Produtos;Taobao;Tmall;Preços;Compras on-line</string>
+  <string name="keywords_search_study">Digitalizador;Problemas;Escola;Matemática</string>
   <string name="keywords_search_translation">Leitor QR;Traduzir;Dicionário;Inglês;Idioma estrangeiro;Idioma;Idiomas;Inglês para Chinês;Italiano;Alemão;Japonês;Coreano;Espanhol;Francês;Baidu Translate;Dicionário Youdao;Dicionário Baidu;Google Translate</string>  
   <string name="label_choose_picture">Escolher imagem</string>
   <string name="label_flash_light">Lanterna</string>
@@ -100,17 +109,18 @@
   <string name="module_title_document">Documento</string>
   <string name="module_title_plant">Plantas</string>
   <string name="module_title_shopping">Compras</string>
+  <string name="module_title_study">Estudo</string>
   <string name="module_title_translation">Tradução</string>
   <string name="name">Nome:</string>
   <string name="new_schedule">Criar evento</string>
   <string name="nickname">Alcunha:</string>
   <string name="no_network">Não é possível ligar à rede</string>
   <string name="no_storage">Sem armazenamento interno</string>
+  <string name="no_support_to_translate_type">Este idioma não é suportado</string>
   <string name="not_insert_contact">Não é possível adicionar contacto</string>
   <string name="not_recommend_access_web_url">Ir mesmo assim</string>
   <string name="note">Observação:</string>
   <string name="open_url">Abrir URL</string>
-  <string name="path_scanner_setting">Aplicações de sistema/Digitalizador</string>
   <string name="payment_text">Abrir com %s</string>
   <string name="phone">Telefone:</string>
   <string name="place_barcode_into_rectangle">Alinhar o código com o quadrado</string>
@@ -131,10 +141,22 @@
   <string name="see_app_details">Ver detalhes da aplicação</string>
   <string name="select_dialog_confirm">OK</string>
   <string name="send_mail">Enviar email</string>
+  <string name="setting_alipay">Alipay</string>
+  <string name="setting_choose_every_time">Perguntar sempre</string>
+  <string name="setting_default_function">Funcionalidade predefinida</string>
+  <string name="setting_preference_pay">Método pagamento preferido</string>
+  <string name="setting_title">Definições</string>
+  <string name="setting_use_last_choose">Memorizar preferência</string>
+  <string name="setting_wechat">WeChat</string>
   <string name="shopping_searching">A pesquisar…</string>
   <string name="shopping_title">Tirar uma foto do produto</string>
   <string name="shopping_vendor_info">Fornecido por Taobao</string>
   <string name="spaceIsLow_content">Sem espaço suficiente no armazenamento interno</string>
+  <string name="study_rotate_picture">A processar…</string>
+  <string name="study_scan_result">Resultado</string>
+  <string name="study_searching">A pesquisar…</string>
+  <string name="study_title">Tirar uma foto do problema</string>
+  <string name="study_vendor_info">Fornecido por TPC</string>
   <string name="switch_open">Ligar</string>
   <string name="tel">Telefone</string>
   <string name="title">Título:</string>
