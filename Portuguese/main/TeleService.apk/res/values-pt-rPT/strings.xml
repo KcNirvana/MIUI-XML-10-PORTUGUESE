@@ -863,11 +863,14 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Modo de rede preferido: CDMA/EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Modo de rede preferido: Apenas CDMA</string>
   <string name="preferred_network_mode_cdma_summary">Modo de rede preferido: CDMA</string>
+  <string name="preferred_network_mode_lte_choice">Apenas LTE</string>
   <string name="preferred_network_mode_dialogtitle">Tipo de rede preferida</string>
   <string name="preferred_network_mode_dialogtitle_cmcc">Modo de rede</string>
   <string name="preferred_network_mode_evdo_only_summary">Modo de rede preferido: Apenas EvDo</string>
   <string name="preferred_network_mode_global_summary">Modo de rede preferido: Global (CDMA/EVDO/LTE/GSM/WCDMA)</string>
+  <string name="preferred_network_mode_gsm_only_choice">Apenas GSM</string>
   <string name="preferred_network_mode_gsm_only_summary">Modo de rede preferido: Apenas GSM</string>
+  <string name="preferred_network_mode_gsm_wcdma_preferred_choice">GSM/WCDMA preferido</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Modo de rede preferido: GSM/WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Modo de rede preferido: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Modo de rede preferido: LTE/CDMA</string>
@@ -887,6 +890,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Modo de rede preferido: TD-SCDMA/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_wcdma_summary">Modo de rede preferido: TD-SCDMA/WCDMA</string>
   <string name="preferred_network_mode_title">Tipo de rede preferida</string>
+  <string name="preferred_network_mode_wcdma_only_choice">Apenas WCDMA</string>
   <string name="preferred_network_mode_wcdma_only_summary">Modo de rede preferido: Apenas WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Modo de rede preferido: WCDMA preferido</string>
   <string name="preferred_network_restrict_network_changed_incall">Não é possível mudar de rede móvel durante a chamada</string>

@@ -998,11 +998,11 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="info_unantispam_phone_sms">Permitir chamadas e mensagens</string>
   <string name="info_unantispam_sms">Permitir mensagens</string>
   <string name="information_setting">Recomendações</string>
-  <string name="input_aviable_traffic">Introduzir utilização de dados</string>
+  <string name="input_aviable_traffic">Definir utilização de dados</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
-  <string name="input_traffic_pkg">Introduzir utilização de dados</string>
-  <string name="input_used_hint">Introduzir utilização de dados</string>
-  <string name="input_used_max_hint">Introduzir utilização de dados (menos de %s)</string>
+  <string name="input_traffic_pkg">Definir utilização de dados</string>
+  <string name="input_used_hint">Definir utilização de dados</string>
+  <string name="input_used_max_hint">Definir utilização de dados (menos de %s)</string>
   <string name="install">Instalar</string>
   <string name="install_sucess">%s instalado com sucesso</string>
   <string name="install_title">Instalação via USB</string>
@@ -1128,7 +1128,7 @@ para calibrar"</string>
   <string name="main_tc_wait_result">"A aguardar uma resposta
 da operadora"</string>
   <string name="main_tobe_added_desc">Dados móveis desde ¥0.03/MB</string>
-  <string name="main_today_used">Utilizado hoje</string>
+  <string name="main_today_used">Utilizados hoje</string>
   <string name="main_toolbar_firewall">Restringir utilização de dados</string>
   <string name="main_toolbar_purchase">Comprar</string>
   <string name="main_toolbar_statistic">Estatísticas de utilização de dados</string>

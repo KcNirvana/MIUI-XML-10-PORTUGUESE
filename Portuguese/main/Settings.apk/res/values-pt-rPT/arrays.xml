@@ -1247,6 +1247,7 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Fraco</item>
+        <item>Fraco</item>
         <item>Aceitável</item>
         <item>Bom</item>
         <item>Excelente</item>
