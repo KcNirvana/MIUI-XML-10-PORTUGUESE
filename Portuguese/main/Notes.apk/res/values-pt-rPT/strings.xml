@@ -226,6 +226,7 @@
   <string name="toolbar_voice_description">Voz</string>
   <string name="trash_folder_name">Lixo</string>
   <string name="trash_folder_reminder">As notas que eliminar vão ser eliminadas de vez em 30 dias</string>
+  <string name="unclassfied_folder_name">Sem categoria</string>
   <string name="undo">Anular</string>
   <string name="unknown_source">Fonte desconhecida</string>
   <string name="widget_content_loading">Aguarde…</string>

@@ -44,8 +44,8 @@
   <string name="otex_touch_alert_title">Não é possível concluir o teste?</string>
   <string name="overall_test">Teste geral</string>
   <string name="powered_by_cashify">Fornecido por</string>
-  <string name="push_ht_content">Abra a Segurança, desça e teste o seu hardware</string>
-  <string name="push_ht_title">Nova funcionalidade em Segurança</string>
+  <string name="push_ht_content">Saiba mais acerca do seu hardware</string>
+  <string name="push_ht_title">Teste de hardware</string>
   <string name="push_oa_title">Mi Protect</string>
   <string name="reschedule">Reprogramar</string>
   <string name="result_no_fail">Tudo perfeito</string>

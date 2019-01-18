@@ -360,6 +360,7 @@
   <string name="search_calendar_settings">Calendário;Lembretes</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="select_date">Ir para a data</string>
+  <string name="select_today_tip">Hoje</string>
   <string name="set_as_wallpaper">Definir como papel de parede</string>
   <string name="setting_about_calendar_version">"Versão do Calendário "</string>
   <string name="setting_about_imei">"IMEI "</string>
@@ -400,6 +401,7 @@
   <string name="timezone_label">Fuso horário</string>
   <string name="today">Hoje</string>
   <string name="today_at_time_fmt">Hoje às %s</string>
+  <string name="today_icon_voice_contentdescription">Voltar para hoje</string>
   <string name="today_no_events">Sem eventos</string>
   <string name="tomorrow">Amanhã</string>
   <string name="tomorrow_at_time_fmt">Amanhã às %s</string>

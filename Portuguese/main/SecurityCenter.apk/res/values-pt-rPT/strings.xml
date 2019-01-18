@@ -827,7 +827,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="first_aid_item4_content">Bateria</string>
   <string name="first_aid_item5_content">Outros problemas</string>
   <string name="first_aid_result_feedback_button">Submeter</string>
-  <string name="first_aid_result_feedback_summary">O Pronto-Socorro não encontrou nenhum problema. No entanto, eu achei alguns.</string>
+  <string name="first_aid_result_feedback_summary">Não foram encontrados problemas. No entanto, eu achei alguns.</string>
   <string name="first_aid_result_feedback_title">Comentários</string>
   <string name="first_aid_result_summary_normal">Verificação concluída</string>
   <string name="first_aid_result_summary_not_finished">A verificação não foi concluída</string>
@@ -2040,7 +2040,7 @@ Esta funcionalidade não é suportada para aplicações de sistema"</string>
   <string name="summary_flow_notification">Mostrar as suas estatísticas de utilização de dados mensais na área de notificações</string>
   <string name="summary_flow_purchase">Está a atingir o limite de dados. Compre dados para se manter ligado</string>
   <string name="summary_flow_verify_failed">Ajuste automaticamente a utilização de dados para evitar custos adicionais</string>
-  <string name="summary_first_aid_kit">Corrija erros utilizando o nosso Pronto-Socorro</string>
+  <string name="summary_first_aid_kit">Resolver problemas no seu dispositivo</string>
   <string name="summary_garbage_clean">Limpar cache para libertar espaço</string>
   <string name="summary_garbage_lib">Utilize as últimas definições para remover spyware, adware ou outro tipo de lixo indesejado</string>
   <string name="summary_install_virus">Verificar por vírus nas aplicações antes da instalação</string>

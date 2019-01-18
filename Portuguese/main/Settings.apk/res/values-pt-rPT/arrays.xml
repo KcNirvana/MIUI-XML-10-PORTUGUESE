@@ -244,21 +244,29 @@
         <item>Predefinição de sistema</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Activar codecs opcionais</item>
-        <item>Activar codecs opcionais</item>
+        <item>Desactivar codecs opcionais</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Predefinição de sistema</item>
         <item>SBC</item>
         <item>AAC</item>
-        <item>aptX</item>
-        <item>aptX HD</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
         <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Activar codecs opcionais</item>
         <item>Desactivar codecs opcionais</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Activo"</item>
+        <item>" | Activo (multimédia)"</item>
+        <item>" | Activo (telefone)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Predefinido)</item>

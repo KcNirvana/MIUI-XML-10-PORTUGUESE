@@ -32,6 +32,7 @@
   <string name="call_button_tools_text">Funcões</string>
   <string name="call_contacts_deny_permission_msg">Não é possível mostrar informação dos contactos porque a permissão de leitura de contactos foi negada</string>
   <string name="call_description_recording">A gravar…</string>
+  <string name="call_not_support_high_frequency_click">Não toque neste botão tanta vez</string>
   <string name="call_extension_conference_mode">Modo de Conferência</string>
   <string name="call_record_wait_label">A aguardar</string>
   <string name="call_recording_deny_permission_msg">Não é possível gravar porque a permissão de gravação foi negada</string>

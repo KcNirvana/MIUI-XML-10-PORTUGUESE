@@ -2174,6 +2174,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="keyboard_shortcuts_helper">Atalhos de teclado</string>
   <string name="keyboard_shortcuts_helper_summary">Mostrar atalhos disponíveis</string>
   <string name="keyguard_advance_setting_title">Definições avançadas</string>
+  <string name="keyguard_double_tap_to_sleep_title">Duplo toque no ecrã para inactivar</string>
   <string name="keyguard_notification_status_title">Notificações</string>
   <string name="keyguard_security_setting_others">Outros</string>
   <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
@@ -3209,7 +3210,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="picture_in_picture_on">Sim</string>
   <string name="picture_in_picture_title">Ecrã no ecrã</string>
   <string name="pin_failed">A operação PIN do SIM falhou!</string>
-  <string name="ping_test_label">Executar ping</string>
+  <string name="ping_test_label">Ping</string>
   <string name="play_pause_description">Botão Reproduzir/Pausar</string>
   <string name="please_select_phase2">Autenticação da Fase 2</string>
   <string name="please_type_passphrase">Palavra-passe</string>
@@ -3535,7 +3536,7 @@ Interface UT: %5$s"</string>
   <string name="radio_info_smsc_label">SMSC:</string>
   <string name="radio_info_smsc_refresh_label">Actualizar</string>
   <string name="radio_info_smsc_update_label">Actualizar</string>
-  <string name="radio_info_toggle_dns_check_label">Alternar DNS</string>
+  <string name="radio_info_toggle_dns_check_label">Trocar DNS</string>
   <string name="radio_info_voice_network_type_label">Tipo de rede de voz:</string>
   <string name="rank_title">Classificações</string>
   <string name="rarely_running">Raramente em execução (%s)</string>
