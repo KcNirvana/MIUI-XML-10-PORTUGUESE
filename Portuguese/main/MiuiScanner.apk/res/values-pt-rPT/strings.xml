@@ -70,7 +70,7 @@
   <string name="error_media_storage_failure">Não foi possível guardar foto</string>
   <string name="error_minute_limit">Demasiadas tentativas num minuto</string>
   <string name="error_permissions">O Digitalizador não tem as permissões necessárias para funcionar normalmente. Vá a Definições e verifique as permissões para continuar</string>
-  <string name="error_server_error">Erro do servidor</string>
+  <string name="error_server_error">Ocorreu um erro no servidor</string>
   <string name="fax">Fax</string>
   <string name="feed_search_fail">Sem resultados</string>
   <string name="feedback_description_camera_access">O Digitalizador não consegue ligar à Câmara</string>
@@ -78,7 +78,7 @@
   <string name="got_it">Percebi</string>
   <string name="gps">Navegar</string>
   <string name="import_contact">Importar contacto</string>
-  <string name="impunity_declaration_content">O Digitalizador necessita de permissões para aceder à câmara, tirar fotos e ligar à Internet</string>
+  <string name="impunity_declaration_content">"O Digitalizador necessita de utilizar a sua câmara. Ao cliquar em \"Concordar\", está a concordar com a nossa &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; e dar permissão de ligar à Internet"</string>
   <string name="impunity_declaration_negative_text">Sair</string>
   <string name="impunity_declaration_title">Política de Privacidade</string>
   <string name="keywords_search_code">Digitalizador;Digitalizar;Código QR</string>
@@ -109,7 +109,7 @@
   <string name="module_title_document">Documento</string>
   <string name="module_title_plant">Plantas</string>
   <string name="module_title_shopping">Compras</string>
-  <string name="module_title_study">Estudo</string>
+  <string name="module_title_study">Trabalhos de casa</string>
   <string name="module_title_translation">Tradução</string>
   <string name="name">Nome:</string>
   <string name="new_schedule">Criar evento</string>
@@ -121,6 +121,8 @@
   <string name="not_recommend_access_web_url">Ir mesmo assim</string>
   <string name="note">Observação:</string>
   <string name="open_url">Abrir URL</string>
+  <string name="pay_no_tip">Não mostrar novamente</string>
+  <string name="pay_save_this_choose">Memorizar a minha preferência</string>
   <string name="payment_text">Abrir com %s</string>
   <string name="phone">Telefone:</string>
   <string name="place_barcode_into_rectangle">Alinhar o código com o quadrado</string>
@@ -143,10 +145,10 @@
   <string name="send_mail">Enviar email</string>
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Perguntar sempre</string>
-  <string name="setting_default_function">Funcionalidade predefinida</string>
+  <string name="setting_default_function">Opção predefinida</string>
   <string name="setting_preference_pay">Método pagamento preferido</string>
   <string name="setting_title">Definições</string>
-  <string name="setting_use_last_choose">Memorizar preferência</string>
+  <string name="setting_use_last_choose">Última escolha</string>
   <string name="setting_wechat">WeChat</string>
   <string name="shopping_searching">A pesquisar…</string>
   <string name="shopping_title">Tirar uma foto do produto</string>
@@ -155,8 +157,8 @@
   <string name="study_rotate_picture">A processar…</string>
   <string name="study_scan_result">Resultado</string>
   <string name="study_searching">A pesquisar…</string>
-  <string name="study_title">Tirar uma foto do problema</string>
-  <string name="study_vendor_info">Fornecido por TPC</string>
+  <string name="study_title">Digitalize o problema que quer resolver</string>
+  <string name="study_vendor_info">Fornecido por Zuoyebang</string>
   <string name="switch_open">Ligar</string>
   <string name="tel">Telefone</string>
   <string name="title">Título:</string>
@@ -166,6 +168,7 @@
   <string name="translate_dest_lang">Idioma de destino</string>
   <string name="translate_fail">Não foi possível traduzir</string>
   <string name="translate_loading">A traduzir…</string>
+  <string name="translate_parallel_2_lines">Certifique-se que o texto está em paralelo com as linhas no ecrã</string>
   <string name="translate_save_fail">Não foi possível guardar nota</string>
   <string name="translate_src_lang">Idioma de origem</string>
   <string name="translate_text_compare">Comparação</string>

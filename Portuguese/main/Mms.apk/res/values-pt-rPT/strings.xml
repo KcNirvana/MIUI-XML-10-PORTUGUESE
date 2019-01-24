@@ -42,6 +42,10 @@
   <string name="audio_message_mx_offline">Não foi possível transferir o áudio. O Mi Message está offline ou indisponível</string>
   <string name="audio_playing_seconds">%d\"</string>
   <string name="audio_sim_card_mismatching">Sem ligação de rede ou cartão SIM errado. Insira o cartão SIM de onde a mensagem foi enviada e ligue-se à rede</string>
+  <string name="auto_identify_btn_text_only_smart_messaging">Ligar Mensagens Inteligentes</string>
+  <string name="auto_identify_btn_text_when_all_disabled">Identificar o remetente automaticamente</string>
+  <string name="auto_identify_btn_title">Esta mensagem foi enviado dum número desconhecido</string>
+  <string name="auto_identify_confirmation">Pode levar algum tempo a activar esta funcionalidade</string>
   <string name="back_to_message_list">Voltar para a lista de mensagens</string>
   <string name="batch_adding_progress_message">A adicionar…</string>
   <string name="batch_deleting_message_progress_message">A eliminar…</string>

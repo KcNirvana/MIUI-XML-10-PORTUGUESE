@@ -8,6 +8,9 @@
         <item quantity="other">Abriu os Recentes. Aplicações disponíveis: %d. Deslizar para cima para remover, deslizar para baixo para bloquear</item>
         <item quantity="one">Abriu os Recentes. Aplicações disponíveis: %d. Deslizar para cima para remover, deslizar para baixo para bloquear</item>
     </plurals>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">" %1$s Hora %2$s"</item>
+    </plurals>
     <plurals name="block_record_notification_more_text">
         <item quantity="other">A ocultar notificações de %1$s e %2$d aplicações</item>
         <item quantity="one">A ocultar notificações de %1$s e %2$d aplicação</item>

@@ -589,6 +589,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_down">Levante a sua cabeça</string>
   <string name="face_unlock_identify_error">Erro no reconhecimento</string>
   <string name="face_unlock_not_found">Não foi possível reconhecer o seu rosto</string>
+  <string name="face_unlock_not_roi">Mantenha o seu rosto dentro do quadrado</string>
   <string name="face_unlock_offset_bottom">Baixe o seu telefone</string>
   <string name="face_unlock_offset_left">Ande para a direita</string>
   <string name="face_unlock_offset_right">Ande para a esquerda</string>
@@ -1525,7 +1526,7 @@ Deslize para baixo para bloquear"</string>
   <string name="structure_face_unlock_tof_covered">Não foi possível adicionar dados do rosto. Afaste-se do ecrã</string>
   <string name="switch_bar_off">Desligado</string>
   <string name="switch_bar_on">Ligado</string>
-  <string name="switch_system_user">Abrir Primeiro espaço</string>
+  <string name="switch_system_user">Voltar para o Primeiro espaço</string>
   <string name="system_ui_tuner">Sintonizador da interface do sistema</string>
   <string name="task_access_locked_app_msg">Bloqueio de aplicações ligado</string>
   <string name="theme">Temas</string>

@@ -231,12 +231,18 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="aod_clock_style_title">Estilo de relógio</string>
   <string name="aod_close_color_inversion">Esta funcionalidade não pode ser utilizada com a inversão de cores. Desligue a inversão de cores</string>
   <string name="aod_got_it">Percebi</string>
-  <string name="aod_mode_summary">Mostrar sempre horas, data e mensagens com o ecrã desligado</string>
-  <string name="aod_mode_time_summary">Programar hora em que o seu dispositivo deve mudar para o modo Sempre ligado</string>
+  <string name="aod_lock_screen_date">"EEEE, d de MMMM"</string>
+  <string name="aod_lock_screen_date_12">"EEEE, d de MMMM"</string>
+  <string name="aod_mode_bg">Segundo plano</string>
+  <string name="aod_mode_clock">Relógio</string>
+  <string name="aod_mode_style">Estilo de horas</string>
+  <string name="aod_mode_summary">Mostrar horas, data e mensagens com o ecrã desligado</string>
+  <string name="aod_mode_time_summary">Programar hora para ligar ou desligar o modo Sempre ligado</string>
   <string name="aod_mode_time_title">Programar</string>
   <string name="aod_mode_title">Sempre ligado</string>
   <string name="aod_mode_turn_off">Desligado</string>
   <string name="aod_mode_turn_on">Ligado</string>
+  <string name="aod_sample_date">Terça feira, 10 de Maio</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -944,12 +950,6 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="call_manager_enable_summary">Permitir que este serviço gira a forma como as suas chamadas são efectuadas</string>
   <string name="call_manager_enable_title">Activar Gestor de chamadas</string>
   <string name="call_manager_title">Gestor de chamadas</string>
-  <string name="call_records_name_1">Debbie Smith</string>
-  <string name="call_records_name_2">Jason Lee</string>
-  <string name="call_records_name_3">Tom Fowles</string>
-  <string name="call_records_summary_1">9:35 | 26 segundos | China Unicom</string>
-  <string name="call_records_summary_2">16 de Agosto | 1m 16s | China Mobile</string>
-  <string name="call_records_summary_3">16 de Agosto | 2m 24s | China Unicom</string>
   <string name="call_settings_primary_user_only">Alterar definições de chamadas no Primeiro espaço</string>
   <string name="call_settings_summary">Configurar Voice Mail, reencaminhamento de chamadas, chamada em espera, Identificação de chamadas</string>
   <string name="call_settings_title">Definições de chamadas</string>
@@ -2253,7 +2253,6 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="launch_google_search">Iniciar Assistente Google</string>
   <string name="launch_recents">Iniciar Recentes</string>
   <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
-  <string name="launcher_icon">Ícones</string>
   <string name="launcher_title">Ecrã inicial e Recentes</string>
   <string name="launching_cit">A iniciar testes de hardware</string>
   <string name="launching_pho">A iniciar informações do telefone. Por favor, aguarde</string>
@@ -2347,7 +2346,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="location_on_summary">Ligada / %1$s</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem dispositivos Bluetooth em qualquer altura</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Pesquisa Bluetooth</string>
-  <string name="location_scanning_screen_title">A pesquisar</string>
+  <string name="location_scanning_screen_title">Pesquisa</string>
   <string name="location_scanning_wifi_always_scanning_description">Melhorar a localização ao permitir que os serviços e as aplicações do sistema detectem redes Wi-Fi em qualquer altura</string>
   <string name="location_scanning_wifi_always_scanning_title">Pesquisa Wi-Fi</string>
   <string name="location_settings_title">Localização</string>
@@ -2375,7 +2374,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="lock_settings_picker_settings">Definir bloqueio de ecrã</string>
   <string name="lock_settings_picker_title">Escolher bloqueio de ecrã</string>
   <string name="lock_settings_title">Segurança do ecrã</string>
-  <string name="lock_settings_with_fingerprint">Ecrã de bloqueio e impressões digitais</string>
+  <string name="lock_settings_with_fingerprint">Ecrã de bloqueio e segurança</string>
   <string name="lock_setup">Configuração concluída</string>
   <string name="lock_sounds_enable_title">Som de bloqueio de ecrã</string>
   <string name="lockpassword_cancel_label">Cancelar</string>
@@ -2430,7 +2429,7 @@ para o Segundo espaço"</string>
   <string name="lockpattern_confirm_button_text">Confirmar</string>
   <string name="lockpattern_continue_button_text">Continuar</string>
   <string name="lockpattern_need_to_confirm">Desenhe o padrão novamente para confirmar</string>
-  <string name="lockpattern_need_to_unlock_wrong">Padrão incorrecto</string>
+  <string name="lockpattern_need_to_unlock_wrong">Tente novamente</string>
   <string name="lockpattern_pattern_confirmed_header">O seu novo padrão de desbloqueio</string>
   <string name="lockpattern_pattern_entered_header">Padrão adicionado</string>
   <string name="lockpattern_pattern_same_with_others">Deve ser diferente da palavra-passe dos outros espaços</string>
@@ -2489,7 +2488,7 @@ para o Segundo espaço"</string>
   <string name="main_toolbar_statistic">Estatísticas de utilização de dados</string>
   <string name="make_sure_cancel_update">Cancelar actualização?</string>
   <string name="man_add_application">Adicionar aplicações de início automático</string>
-  <string name="manage_device_admin">Aplicações de administrador do dispositivo</string>
+  <string name="manage_device_admin">Aplicações de administração do dispositivo</string>
   <string name="manage_facerecoginition_text">Gerir dados de rostos</string>
   <string name="manage_fingerprint_text">Gerir impressões digitais</string>
   <string name="manage_mobile_plan_title">Plano móvel</string>
@@ -2972,7 +2971,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="no_data_usage">Sem dados utilizados</string>
   <string name="no_default_apps">Sem aplicações predefinidas</string>
   <string name="no_default_home">Não seleccionado</string>
-  <string name="no_device_admins">Sem aplicações de administração de dispositivo disponíveis</string>
+  <string name="no_device_admins">Sem aplicações disponíveis</string>
   <string name="no_internet_access_remember">Não perguntar novamente para esta rede</string>
   <string name="no_internet_access_text">Esta rede não tem acesso à Internet. Permanecer ligado?</string>
   <string name="no_media_button_receiver">Não</string>
@@ -3121,8 +3120,6 @@ Seleccione o seu sistema operativo:"</string>
   <string name="page_layout_31">Jack Tang</string>
   <string name="page_layout_32">Play Store</string>
   <string name="page_layout_33">Google</string>
-  <string name="page_layout_34">Telefone</string>
-  <string name="page_layout_35">Notas</string>
   <string name="page_layout_4">Música</string>
   <string name="page_layout_5">Vídeo</string>
   <string name="page_layout_6">Aplicações</string>
@@ -3130,11 +3127,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="page_layout_8">Vida Mi</string>
   <string name="page_layout_9">Temas</string>
   <string name="page_layout_confirm_message">O seu dispositivo tem de reiniciar para aplicar estas alterações. Leva cerca de 1 minuto</string>
-  <string name="page_layout_confirm_message_enlarge">O texto, imagens e ícones vão ser aumentados. Alguns ícones podem mudar de sítio</string>
-  <string name="page_layout_confirm_message_narrow">O texto, imagens e ícones vão ser diminuídos. Alguns ícones podem mudar de sítio</string>
   <string name="page_layout_confirm_title">Alterar definições de ecrã</string>
-  <string name="page_layout_confirm_title_enlarge">Itens maiores</string>
-  <string name="page_layout_confirm_title_narrow">Itens menores</string>
   <string name="page_layout_godzilla_title">Enorme</string>
   <string name="page_layout_huge_title">Muito grande</string>
   <string name="page_layout_large_title">Grande</string>
@@ -4575,7 +4568,6 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Esta aplicações funcionam melhor em modo ecrã inteiro</string>
   <string name="suggestion_for_phone_recycled">Adicionar um número de telefone diferente</string>
   <string name="sum_carrier_select">Escolher uma operadora de rede</string>
-  <string name="summary_font_size_v2">Ajustar tamanho de texto, imagens e ícones</string>
   <string name="summary_range_verbal_combination">De %1$s a %2$s</string>
   <string name="super_resolution_access_title">Aplicações acessíveis</string>
   <string name="super_resolution_desc">Torne as imagens mais nítidas utilizando um algoritmo de IA</string>
@@ -4690,12 +4682,10 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="title_font_current">Tipo de letra do sistema</string>
   <string name="title_font_current2">Tipo de letra do sistema</string>
   <string name="title_font_size">Tamanho do tipo de letra</string>
-  <string name="title_font_v2">Texto e elementos da IU</string>
   <string name="title_hdmi_color_calibration">Correcção de cores</string>
   <string name="title_jeejen">Ecrã inicial Jeejen</string>
   <string name="title_layout_current">Tamanho do texto</string>
   <string name="title_layout_current2">Tamanho do texto</string>
-  <string name="title_layout_v2">Tamanho e dimensão do texto</string>
   <string name="to_close">Desligar</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
@@ -5701,7 +5691,6 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wizard_back">Voltar</string>
   <string name="wizard_finish">Concluir</string>
   <string name="wizard_next">Seguinte</string>
-  <string name="words_title">Texto</string>
   <string name="work_alarm_ringtone_title">Som do alarme de trabalho predefinido</string>
   <string name="work_profile_confirm_remove_message">Se continuar, todas as aplicações e todos os dados neste perfil são eliminados</string>
   <string name="work_profile_confirm_remove_title">Remover perfil de trabalho?</string>

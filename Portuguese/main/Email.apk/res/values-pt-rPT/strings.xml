@@ -672,6 +672,7 @@
   <string name="notify_channel_no_disterb">Sem modo Não incomodar</string>
   <string name="notify_channel_permission_notice">Aviso de permissões</string>
   <string name="notify_channel_send_fail">Envio falhado</string>
+  <string name="notify_channel_service">Sincronização em segundo plano</string>
   <string name="oauth_error_description">Não foi possível autenticar</string>
   <string name="oauth_gmail_login_notify">Introduza o utilizador e palavra-passe da sua conta Google na seguinte página de início de sessão</string>
   <string name="oauth_login_continue">Continuar</string>

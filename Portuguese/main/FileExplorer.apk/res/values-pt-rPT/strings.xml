@@ -280,6 +280,7 @@
   <string name="menu_item_sort_name">Nome</string>
   <string name="menu_item_sort_type">Tipo</string>
   <string name="menu_item_usb">USB</string>
+  <string name="menu_set_wallpaper">Definir como papel de parede</string>
   <string name="message_comment_prefix">"Comentar: "</string>
   <string name="message_my_received_praise">Os meus gostos</string>
   <string name="message_praise_comment">" gostou deste comentário</string>

@@ -214,6 +214,7 @@
   <string name="favorite_succeed">Adicionada aos favoritos</string>
   <string name="favorite_tracks">Favoritos</string>
   <string name="favorites">Favoritos</string>
+  <string name="fcm_fallback_notification_channel_label">Diversos</string>
   <string name="feed_back">Comentários</string>
   <string name="file_not_found">Ficheiro não encontrado</string>
   <string name="filter_by_duration">Por duração</string>
@@ -233,6 +234,7 @@
   <string name="format_not_support">Este formato não é suportado</string>
   <string name="format_unsupported_or_corrupted">Este formato não é suportado ou o ficheiro está corrompido</string>
   <string name="fragment_title_artist_album">Álbuns</string>
+  <string name="gcm_fallback_notification_channel_label">Diversos</string>
   <string name="headset_settings">Auriculares e efeitos de áudio</string>
   <string name="go_to_settings">Ir para definições</string>
   <string name="handle_later">Agora não</string>
@@ -417,6 +419,7 @@
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="project_device">Telefone Mi</string>
   <string name="prompt_grant_write_settings_permission">Permitir alterar definições de sistema</string>
+  <string name="ready_to_play">A seguir</string>
   <string name="recently_played">Recentes</string>
   <string name="recently_played_songs">Recentes</string>
   <string name="recommended_file_size_download_in_mobile">Utilizar %s de dados móveis para transferir este ficheiro?</string>

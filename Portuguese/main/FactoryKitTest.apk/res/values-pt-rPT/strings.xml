@@ -55,13 +55,13 @@
   <string name="cali_fail">Calibração falhou</string>
   <string name="cali_pass">Calibração com sucesso</string>
   <string name="calibrate">Calibrar</string>
-  <string name="cameraback_fail_open">Camera open Fail, please Check Camera Installed Correctly!</string>
+  <string name="cameraback_fail_open">Erro ao abrir a Câmara. Confirme que a Câmara foi instalada correctamente</string>
   <string name="cameraback_name">Camâra traseira + Lanterna</string>
   <string name="cameraback_name_mido">Camâra traseira</string>
   <string name="cameraback_takepicture">Tire uma foto</string>
   <string name="camerafront_name">Camâra frontal</string>
   <string name="camerafront_takepicture">Tire uma foto</string>
-  <string name="camerasubback_name">CameraBack(sub)</string>
+  <string name="camerasubback_name">Camâra traseira</string>
   <string name="cancel">Cancelar</string>
   <string name="cap_name">Sensor capacitivo</string>
   <string name="capsensor_hint">Please touch the Capsensor,then leave it</string>
@@ -84,7 +84,7 @@
   <string name="ctp_result_fail">Falhou</string>
   <string name="ctp_result_pass">Passou</string>
   <string name="ctp_result_testing">A testar…</string>
-  <string name="ctp_tip2">In the test, please wait a moment.</string>
+  <string name="ctp_tip2">Em testes. Aguarde…</string>
   <string name="ctp_tips">Notice: the device is testing, please do not touch the screen, and wait for the result!</string>
   <string name="customer">Xiaomi</string>
   <string name="device_open_fail">Device open fail!</string>
@@ -93,7 +93,7 @@
   <string name="distance_near">Perto</string>
   <string name="dlg_cancel">Cancelar</string>
   <string name="dlg_ok">OK</string>
-  <string name="dualcamera_name">Dual Back Camera</string>
+  <string name="dualcamera_name">Câmara traseira dupla</string>
   <string name="dualflash_confirm">Please make sure white flashlight and yellow flashlight are ok!</string>
   <string name="dualflash_tips">Two flashlights will be opened alternately, please keep watch!</string>
   <string name="emer_call_butt">Emer Call 112</string>
@@ -116,7 +116,7 @@
   <string name="flash_cali_test">Dual Flash Calibration</string>
   <string name="flash_hint">Place the phone into the fixture then click the calibrate button</string>
   <string name="flash_title">Dual Flash Calibration</string>
-  <string name="flashlight_confirm">Is the Flashlight on?</string>
+  <string name="flashlight_confirm">A lanterna está ligada?</string>
   <string name="flashlight_name">Lanterna</string>
   <string name="fm_confirm">Está a ouvir o som?</string>
   <string name="fm_name">Rádio FM</string>

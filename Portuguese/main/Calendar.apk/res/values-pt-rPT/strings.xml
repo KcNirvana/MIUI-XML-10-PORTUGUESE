@@ -433,7 +433,7 @@
   <string name="user_notice_button_exit">Sair</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">Não mostrar novamente</string>
-  <string name="user_notice_message">Ao utilizar este produto está a concordar com %1$s e %2$s da Xiaomi. Algumas funcionalidades necessitam de uma ligação à Internet, acesso à localização, contactos e SMS para funcionar normalmente</string>
+  <string name="user_notice_message">Tem de concordar com os nossos %1$s e %2$s antes de utilizar o Calendário. O Calendário necessita de aceder à sua localização, contactos e mensagens e à Internet. Concorda?</string>
   <string name="user_notice_title">Atenção</string>
   <string name="user_notification">Notificações</string>
   <string name="user_notification_descrip">Mostrar notificações quando o calendário for iniciado</string>

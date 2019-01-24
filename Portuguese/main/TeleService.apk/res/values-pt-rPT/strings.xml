@@ -1238,6 +1238,16 @@ Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou uti
   <string name="volte_switch_title">VoLTE</string>
   <string name="volte_switch_title_ct">VoLTE</string>
   <string name="volte_tips_when_turn_on">Os serviços VoLTE China Telecom apenas são fornecidos em áreas com rede 4G</string>
+  <string name="vowifi_emergency_notification_channel">Aviso de chamadas Wi-Fi de emergência</string>
+  <string name="vowifi_emergency_notification_content">As chamadas de emergência apenas estão disponíveis com rede móvel</string>
+  <string name="vowifi_emergency_notification_title">Chamadas Wi-Fi Vodafone</string>
+  <string name="vowifi_emergency_warning_check">Não mostrar novamente</string>
+  <string name="vowifi_emergency_warning_message">"As chamadas de emergência não são possíveis através de chamadas Wi-Fi.
+
+O dispositivo troca automaticamente para uma rede móvel(2G/3G) para fazer uma chamada de emergência.
+
+As chamadas de emergência apenas estão disponíveis com rede móvel"</string>
+  <string name="vowifi_emergency_warning_title">Chamadas ECC via chamadas Wi-Fi</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>
   <string name="wfcmode_mobile_preferred">Dados móveis</string>
@@ -1245,6 +1255,8 @@ Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou uti
   <string name="wfcmode_wifi_preferred">Wi-Fi</string>
   <string name="wifi_call_setting">Definições de chamadas Wi-Fi</string>
   <string name="wifi_calling">Chamadas Wi-Fi</string>
+  <string name="wifi_call_setting_vodafone_de">Chamadas Wi-Fi</string>
+  <string name="wifi_call_setting_vodafone_uk">Chamadas Wi-Fi</string>
   <string name="wificall_switch_summary">O seu dispositivo vai trocar entre Wi-Fi e VoLTE quando a ligação for fraca</string>
   <string name="wificall_switch_title">Chamadas Wi-Fi</string>
   <string name="wild_prompt_str">Substituir o caracter universal por</string>
