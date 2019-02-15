@@ -107,9 +107,11 @@
   <string name="module_download_cancel">Não, obrigado</string>
   <string name="module_download_data_msg">O Relógio necessita de ligar à Internet para transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes. Está a utilizar dados móveis. Permitir?</string>
   <string name="module_download_data_msg_golbal">O Relógio necessita de transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes. Está a utilizar dados móveis. Permitir?</string>
+  <string name="module_download_data_msg_replace">Estão disponíveis novos áudios para os alarmes inteligentes (≈20MB). Ligar à rede e transferir utilizando dados móveis?</string>
   <string name="module_download_fail">Não foi possível transferir áudios adicionais</string>
   <string name="module_download_msg">O Relógio necessita de ligar à Internet para transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes. Permitir?</string>
   <string name="module_download_msg_golbal">O Relógio necessita de transferir ficheiros de áudio (20MB) para som ambiente e alarmes inteligentes. Permitir?</string>
+  <string name="module_download_msg_replace">Estão disponíveis novos áudios para os alarmes inteligentes. Ligar à rede e transferir agora?</string>
   <string name="module_download_no_network">Não foi possível ligar à rede. Verifique as definições de rede e tente novamente</string>
   <string name="module_download_ok">Permitir</string>
   <string name="module_download_success">Áudios adicionais transferidos com sucesso</string>
@@ -131,6 +133,7 @@
   <string name="revert">Reverter</string>
   <string name="search_alarm_clock">Alarme</string>
   <string name="search_alarm_clock_keywords">Alarme;Alarme</string>
+  <string name="search_menu_title">Pesquisa</string>
   <string name="search_stopwatch">Cronómetro</string>
   <string name="search_stopwatch_keywords">Cronómetro</string>
   <string name="search_timer">Temporizador</string>

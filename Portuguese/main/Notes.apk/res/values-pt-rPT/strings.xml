@@ -132,6 +132,10 @@
   <string name="notealert_ok">Rejeitar</string>
   <string name="notify_alarm_title">Lembrete de nota</string>
   <string name="permdesc_accessNote">Aplicações maliciosas podem utilizar esta funcionalidade para aceder aos seus dados pessoais</string>
+  <string name="permission_intro_contact">Para marcar notas tiradas durante chamadas</string>
+  <string name="permission_intro_microphone">Para gravar notas de voz</string>
+  <string name="permission_intro_phone">Para marcar notas tiradas durante chamadas</string>
+  <string name="permission_intro_storage">Para guardar notas e anexos</string>
   <string name="permlab_accessNote">Aceder a notas</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Não pedir confirmação quando eliminar uma nota</string>
   <string name="pref_title_cloud_trash_bin">Eliminar notas na Mi Cloud</string>

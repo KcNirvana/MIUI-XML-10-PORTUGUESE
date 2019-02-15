@@ -209,6 +209,11 @@
   <string name="tax_credit_mortgage">Hipoteca</string>
   <string name="tax_credit_personal_income_tax">Impostos</string>
   <string name="tax_credit_pretax_income">Vencimento bruto (CNY)</string>
+  <string name="tax_detail">Detalhes dos juros</string>
+  <string name="tax_detail_amount">Valor dos juros</string>
+  <string name="tax_detail_rate">Taxa de juro</string>
+  <string name="tax_detail_take_off">Dedução</string>
+  <string name="tax_detail_tax_payed">Valor pago</string>
   <string name="tax_edittext_hint"/>
   <string name="tax_endowment">Fundo de reforma</string>
   <string name="tax_fixed_salary_hint">Introduza o seu rendimento bruto</string>
@@ -223,11 +228,13 @@
   <string name="tax_individual_income_tax_result">Resultados</string>
   <string name="tax_injury">Prejuízos</string>
   <string name="tax_insurance_and_fund">Seguros</string>
+  <string name="tax_insurance_and_fund_detail">Detalhes do seguro</string>
   <string name="tax_last_salary_hint">Introduza os seus rendimentos</string>
   <string name="tax_last_salary_number">Rendimento</string>
   <string name="tax_location">Localização</string>
   <string name="tax_medical">Médicos</string>
   <string name="tax_param_error">Introduza as taxas correctas do seguro</string>
+  <string name="tax_payment_period">Número de pagamentos</string>
   <string name="tax_result_real_get">Após taxas</string>
   <string name="tax_social_insurance">Seguro social</string>
   <string name="tax_thershold_foreign">%s (nacionalidade estrangeira)</string>

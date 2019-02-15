@@ -117,6 +117,7 @@
   <string name="favor_list_no_data">Sem itens</string>
   <string name="favor_list_title">Favoritos</string>
   <string name="favor_success">Adicionado aos favoritos com sucesso</string>
+  <string name="feed_article_entrance_about">Acerca de \"%s\"</string>
   <string name="find_psw">Esqueceu a palavra-passe?</string>
   <string name="from_migallerylockscreen">De papéis de parede aleatórios</string>
   <string name="get_account_no_permission">Permitir que os papéis de parede aleatórios possam aceder a contas neste dispositivo antes de iniciar sessão</string>
@@ -152,6 +153,7 @@
   <string name="mode_des">Os papéis de parede aleatórios estão a mostrar recomendações agora. Troque para diapositivos para ver os seus itens personalizados</string>
   <string name="mode_ok">Trocar para diapositivos</string>
   <string name="mode_title">Recomendações</string>
+  <string name="more_article">Mais artigos</string>
   <string name="need_open_gallery">Ligar papéis de parede aleatórios</string>
   <string name="nick_name">Nome</string>
   <string name="no_long_show">Não mostrar novamente</string>
@@ -177,6 +179,8 @@
   <string name="resource_no_network_text">Verifique a sua ligação e tente novamente</string>
   <string name="save_hdpicture_in_favor">Ver imagens HD em \"Favoritos\"</string>
   <string name="save_picture_success">Guardado com sucesso</string>
+  <string name="save_to_album">Guardado na Galeria com sucesso</string>
+  <string name="save_to_album_fail">Não foi possível guardar</string>
   <string name="scribe_btn_ok">Subscrever</string>
   <string name="scribe_title1">Subscrever em papéis de parede aleatórios</string>
   <string name="search_menu_title">Pesquisar</string>
@@ -208,11 +212,14 @@
   <string name="sst_custom_wallpaper_desc">Seleccionar imagens da galeria e recomendações</string>
   <string name="sst_custom_wallpaper_title">Diapositivos personalizados</string>
   <string name="sst_custom_wallpaper_title2">Diapositivos</string>
+  <string name="sst_effect_next_wallpaper">Defina um novo papel de parede para aplicar as mudanças</string>
   <string name="sst_favor_desc">Ver favoritos</string>
   <string name="sst_favor_title">Favoritos</string>
   <string name="sst_feedback_title">Comentários</string>
   <string name="sst_grid_view_select_all">Seleccionar tudo</string>
   <string name="sst_grid_view_unselect_all">Desmarcar tudo</string>
+  <string name="sst_lockscreen_show_headline_desc">Mostrar o título do papel de parede por baixo do relógio no ecrã de bloqueio</string>
+  <string name="sst_lockscreen_show_headline_title">Mostrar título no ecrã de bloqueio</string>
   <string name="sst_logo_desc">Papéis de parede novos diariamente</string>
   <string name="sst_mode_selection">Modo</string>
   <string name="sst_more_subscription">Mais subscrições</string>
@@ -260,6 +267,7 @@
   <string name="ticket_hint">Código de verificação</string>
   <string name="ticket_invalid">O código introduzido não é válido</string>
   <string name="ticket_sign_in">Iniciar sessão via SMS</string>
+  <string name="time_current">Agora mesmo</string>
   <string name="toast_ad_down_tip2">A transferir %s…</string>
   <string name="toast_load_hd_fail">Não foi possível carregar a imagem original</string>
   <string name="toast_neterror_tip">Não foi possível ligar à rede</string>

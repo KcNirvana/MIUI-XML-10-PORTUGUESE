@@ -204,9 +204,6 @@
   <string name="app_manager_net_mobile">Dados móveis</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">Não</string>
-  <string name="app_manager_notify_bar">Ícones</string>
-  <string name="app_manager_notify_floating">Flutuantes</string>
-  <string name="app_manager_notify_keyguard">Ecrã de bloqueio</string>
   <string name="app_manager_open_show_all_apps_immediate">Mostrar todos os resultados</string>
   <string name="app_manager_perm">Permissões</string>
   <string name="app_manager_permission_manager_title">Permissões</string>
@@ -801,8 +798,6 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="first_aid_card_consume_power_summary1">Mais de 5 aplicações iniciam automaticamente. Restrinja-as para poupar bateria</string>
   <string name="first_aid_card_consume_power_summary2">Desligue o PA Móvel para poupar bateria</string>
   <string name="first_aid_card_consume_power_title">Utilização de bateria</string>
-  <string name="first_aid_card_float_window_button">Restringir</string>
-  <string name="first_aid_card_float_window_title">Permitiu notificações flutuantes</string>
   <string name="first_aid_card_kadun_button1">Libertar espaço</string>
   <string name="first_aid_card_kadun_button2">Restringir</string>
   <string name="first_aid_card_kadun_button3">Desligar</string>
@@ -977,8 +972,8 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="hints_scan_result_no_finish">Verificação não concluída. Toque para começar de novo</string>
   <string name="hints_scan_result_phone_safe">Seguro</string>
   <string name="hints_scan_result_safe">Seguro</string>
-  <string name="hints_scanning">A verificar…</string>
-  <string name="hints_scanning_text">A verificar…</string>
+  <string name="hints_scanning">A verificar</string>
+  <string name="hints_scanning_text">A verificar</string>
   <string name="hints_virus_apk_list_item_summary">apk</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_virus_app_list_item_summary">aplicação</string>

@@ -56,12 +56,16 @@
         <item quantity="other">%d fotos ocultas não sincronizadas. Termine sessão após todos os itens estarem sincronizados senão vão ser eliminados</item>
         <item quantity="one">"%d foto oculta não sincronizada. Termine sessão após todos os itens estarem sincronizados senão vão ser eliminados</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Retomar sinc. após %d horas</item>
-        <item quantity="one">Retomar sinc. após %d hora</item>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">A retomar sinc. em %d minutos…</item>
+        <item quantity="one">A retomar sinc. em %d minuto…</item>
     </plurals>
-    <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Retomar sinc. após %d minutos</item>
-        <item quantity="one">Retomar sinc. após %d minuto</item>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">%s minutos atrás</item>
+        <item quantity="one">%s minuto atrás</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">%s horas atrás</item>
+        <item quantity="one">%s hora atrás</item>
     </plurals>
 </resources>

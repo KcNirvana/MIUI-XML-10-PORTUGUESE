@@ -1257,7 +1257,7 @@ As chamadas de emergência apenas estão disponíveis com rede móvel"</string>
   <string name="wifi_calling">Chamadas Wi-Fi</string>
   <string name="wifi_call_setting_vodafone_de">Chamadas Wi-Fi</string>
   <string name="wifi_call_setting_vodafone_uk">Chamadas Wi-Fi</string>
-  <string name="wificall_switch_summary">O seu dispositivo vai trocar entre Wi-Fi e VoLTE quando a ligação for fraca</string>
+  <string name="wificall_switch_summary">Utilize o Wi-Fi para efectuar chamadas sempre que possível</string>
   <string name="wificall_switch_title">Chamadas Wi-Fi</string>
   <string name="wild_prompt_str">Substituir o caracter universal por</string>
   <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>

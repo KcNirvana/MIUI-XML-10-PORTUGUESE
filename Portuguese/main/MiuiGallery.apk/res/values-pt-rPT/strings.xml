@@ -32,6 +32,11 @@
   <string name="adjust_saturation">Saturação</string>
   <string name="adjust_sharpen">Nitidez</string>
   <string name="adjust_vignette">Vinheta</string>
+  <string name="agreement_agree">Aceitar</string>
+  <string name="agreement_optional_tip">(Opcional)</string>
+  <string name="agreement_quit">Sair</string>
+  <string name="agreement_required_tip">(Obrigatório)</string>
+  <string name="agreement_summary">Documentos legais</string>
   <string name="ai_album_open_switch_button_title">Análise de fotos</string>
   <string name="ai_album_requesting_title">A IA ainda está a processar as suas fotos. Volte novamente mais tarde</string>
   <string name="ai_album_setting_sub_title">Permita que a IA identifique pessoas, lugares e objectos nas suas fotos para as conseguir localizar mais rápido</string>
@@ -836,6 +841,15 @@ para personalizar a galeria"</string>
   <string name="people_mark_mode_title_no_mark_name">Seleccione uma pessoa</string>
   <string name="people_page_label">Pessoas</string>
   <string name="people_page_unname">Sem nome</string>
+  <string name="permissin_contract_desc">Para atribuir nomes de pessoas em fotos</string>
+  <string name="permission_contract_name">Contactos</string>
+  <string name="permission_optional_category">Permissões opcionais</string>
+  <string name="permission_phone_desc">Para pedidos de rede baseados no ID do dispositivo</string>
+  <string name="permission_phone_name">Telefone</string>
+  <string name="permission_require_category">Permissões obrigatórias</string>
+  <string name="permission_storage_desc">Para mostrar, editar e guardar fotos</string>
+  <string name="permission_storage_name">Armazenamento</string>
+  <string name="permission_use_desc">Permissões</string>
   <string name="pet_album_display_name">Fotos do animal de estimação</string>
   <string name="petabyteShort">PB</string>
   <string name="photo">Fotos</string>
@@ -1104,6 +1118,7 @@ para personalizar a galeria"</string>
   <string name="secret_reason_unknow_reasons">Erro desconhecido</string>
   <string name="secret_reason_video_not_support">Não é possível adicionar vídeos a álbuns ocultos</string>
   <string name="see_ignore_faces">Ver as pessoas que ignorou</string>
+  <string name="select_all">Seleccionar tudo</string>
   <string name="select_image_operation">A adicionar fotos</string>
   <string name="select_item_face">"Isto é '%s'?"</string>
   <string name="select_origin_tip">Ficheiro original (%s)</string>

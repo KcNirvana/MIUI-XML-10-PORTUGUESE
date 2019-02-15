@@ -172,13 +172,6 @@
   <string name="error_invalid_path">Caminho incorrecto</string>
   <string name="error_not_support">Não suportado</string>
   <string name="error_open_file_failed_no_app_found">Não existem aplicações para concluir esta acção</string>
-  <string name="exo_controls_fastforward_description">Avanço rápido</string>
-  <string name="exo_controls_next_description">Música seguinte</string>
-  <string name="exo_controls_pause_description">Pausar</string>
-  <string name="exo_controls_play_description">Reproduzir</string>
-  <string name="exo_controls_previous_description">Música anterior</string>
-  <string name="exo_controls_rewind_description">Rebobinar</string>
-  <string name="exo_controls_stop_description">Parar</string>
   <string name="extended_storage_file_can_not_open">Não é possível abrir o ficheiro. Copie o ficheiro para o armazenamento interno primeiro</string>
   <string name="extract">Extrair</string>
   <string name="fail_to_create_folder_unknown">Não é possível criar a pasta</string>

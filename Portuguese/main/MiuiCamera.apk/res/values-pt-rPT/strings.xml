@@ -70,6 +70,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="autozoom_click_hint">Toque num objecto para começar o rastreio. Mantenha-se a pelo menos 3 metros para um efeito melhor</string>
   <string name="autozoom_disabled_hint">O rastreio foi parado</string>
   <string name="autozoom_hint">Rastreio de objectos</string>
+  <string name="autozoom_landscape_hint">Utilize o modo retrato para um melhor efeito</string>
   <string name="back_bokeh_use_hint">Certifique-se que o objecto não está a mais de 1,5 metros</string>
   <string name="beauty_body">Figura</string>
   <string name="beauty_body_body">Fino</string>
@@ -105,6 +106,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="cannot_connect_camera_twice">Ainda não é possível ligar-se à câmara. Tente reiniciar o dispositivo</string>
   <string name="cannot_connect_camera_volte_call">Está em curso uma videochamada. Tente mais tarde</string>
   <string name="cannot_move_warning_message">Ao tirar a foto mantenha o dispositivo quieto</string>
+  <string name="capture_back_pressed_hint">Prima novamente para sair</string>
   <string name="close_back_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
   <string name="close_front_flash_toast">O seu dispositivo está superaquecido. Não é possível utilizar o flash</string>
   <string name="color_effect_entry_berry">Bagas</string>
@@ -205,6 +207,8 @@ O objecto não pode estar a mais de dois metros</string>
   <string name="front_camera_hint_text_place">"Tirar selfies vai ser mais fácil
 se rodar o seu telefone"</string>
   <string name="front_camera_hint_text_rotate">Rode o seu telefone</string>
+  <string name="hand_gesture_open_tip">Mostre a sua palma para a câmara para iniciar o temporizador</string>
+  <string name="hand_gesture_tip">Disparo por palma</string>
   <string name="hibernate_hint">Toque no ecrã para ligar a Câmara</string>
   <string name="hint_ae_af_lock">Focagem / Exposição auto foram bloqueadas</string>
   <string name="hine_hht">"Com luz fraca, a câmara vai tirar várias fotos
@@ -228,6 +232,7 @@ Limpe a lente da câmara para um efeito melhor"</string>
   <string name="lighting_hint_usage">"Pode utilizar os efeitos de iluminação
 no modo Retrato"</string>
   <string name="lighting_pattern_dot">Pontos</string>
+  <string name="lighting_pattern_holi">Holi</string>
   <string name="lighting_pattern_leaf">Folhas</string>
   <string name="lighting_pattern_movie">Filmes</string>
   <string name="lighting_pattern_nature">Natural</string>
@@ -637,6 +642,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="spaceIsLow_content_external_storage_priority">O cartão SD está a ficar cheio</string>
   <string name="spaceIsLow_content_primary_storage_priority">O armazenamento USB está a ficar cheio</string>
   <string name="start_capture">OK</string>
+  <string name="super_night_toast">Mantenha o seu telefone quieto enquanto tira a foto</string>
   <string name="tap_to_exposure">Toque para ajustar a exposição manualmente</string>
   <string name="tap_to_focus">Toque para focar</string>
   <string name="text_ai_scene_selector_text_on">Silhueta</string>

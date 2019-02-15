@@ -371,8 +371,4 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">%1$d problemas que necessitam de optimização</item>
         <item quantity="one">%1$d problema que necessita de optimização</item>
     </plurals>
-    <plurals name="first_aid_card_float_window_summary">
-        <item quantity="other">%d aplicações podem ser mostradas incorrectamente. Restrinja as notificações flutuantes</item>
-        <item quantity="one">%d aplicação pode ser mostrada incorrectamente. Restrinja as notificações flutuantes</item>
-    </plurals>
 </resources>

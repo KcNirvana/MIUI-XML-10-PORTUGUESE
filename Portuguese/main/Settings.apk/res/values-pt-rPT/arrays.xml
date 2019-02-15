@@ -658,6 +658,11 @@
         <item>Compatibilidade</item>
         <item>Alta velocidade</item>
     </string-array>
+    <string-array name="dark_ui_mode_entries">
+        <item>Automático</item>
+        <item>Ligado</item>
+        <item>Desligado</item>
+    </string-array>
     <string-array name="data_usage_data_range">
         <item>Últimos 30 dias</item>
         <item>Definir ciclo de utilização…</item>

@@ -1203,9 +1203,11 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="daltonizer_type">Modo de correcção</string>
   <string name="daltonizer_type_overridden">Substituído por %1$s</string>
   <string name="dangerous_option">Opções de programador de alto risco</string>
-  <string name="dangerous_option_hint">%1$s está activado. Toque para alterar as definições</string>
+  <string name="dangerous_option_hint">\"%1$s\" está activado. Toque para alterar as definições</string>
   <string name="dangerous_option_hint_title">Funcionalidade de alto risco activada</string>
   <string name="dangerous_option_switch_title">Notificar acerca de funcionalidades de alto risco</string>
+  <string name="dark_ui_mode">Modo Escuro</string>
+  <string name="dark_ui_mode_title">Definir Modo Escuro</string>
   <string name="dashboard_title">Definições</string>
   <string name="data_size_label">Dados do utilizador</string>
   <string name="data_summary_format">%1$s utilizado desde %2$s</string>
@@ -1372,6 +1374,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="details_subtitle">Detalhes de utilização</string>
   <string name="dev_logpersist_clear_warning_message">Já não estamos a monitorizar utilizando o armazenamento persistente do registo. Necessitamos de eliminar o armazenamento persistente do registo no seu dispositivo</string>
   <string name="dev_logpersist_clear_warning_title">Limpar o armazenamento persistente do registo?</string>
+  <string name="dev_settings_disabled_warning">Active as opções de programador primeiro</string>
   <string name="dev_settings_warning_message">Estas definições destinam-se apenas à utilização para desenvolvimento. Poderão causar comportamento instável do dispositivo e nas aplicações nele instaladas</string>
   <string name="dev_settings_warning_title">Permitir definições de desenvolvimento?</string>
   <string name="developer_build">Beta</string>
@@ -2084,6 +2087,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="inactive_app_active_summary">Activa. Toque para desactivar</string>
   <string name="inactive_app_inactive_summary">Inactiva. Toque para activar</string>
   <string name="inactive_apps_title">Aplicações inactivas</string>
+  <string name="incall_show">Perfil de vídeo para chamadas efectuadas</string>
   <string name="include_app_data_title">Incluir dados de aplicações</string>
   <string name="incoming_call_breathing_light_color_title">Cor do LED das chamadas</string>
   <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED das chamadas</string>
@@ -2749,8 +2753,9 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="model_info">Modelo</string>
   <string name="model_name">Nome do modelo</string>
   <string name="model_number">Modelo do dispositivo</string>
-  <string name="modify_instruction_password_settings">Definições do padrão</string>
-  <string name="modify_privacy_password">Alterar padrão</string>
+  <string name="modify_instruction_password_settings">Definir palavra-passe</string>
+  <string name="modify_privacy_password">Alterar palavra-passe</string>
+  <string name="more_dangerous_option_hint">As funcionalidades de alto risco incluindo \"%1$s\" estão activas. Toque para alterar as definições</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">Não foi possível mover aplicação. %1$s</string>
   <string name="move_app_to_internal">Mover para o telefone</string>
