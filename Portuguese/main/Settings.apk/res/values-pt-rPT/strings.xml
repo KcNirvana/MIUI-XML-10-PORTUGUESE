@@ -2111,7 +2111,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="input_pattern_hint_text">Desenhar padrão de desbloqueio</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
   <string name="input_settings">Definições de entrada</string>
-  <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar da utilização dessas aplicações?</string>
+  <string name="install_all_warning">Os dados deste telefone e os dados pessoais estão mais vulneráveis a ataques de aplicações de fontes desconhecidas. Ao instalar aplicações desta fonte, concorda que é o único responsável por qualquer dano causado a este telefone ou pela perda de dados que possa resultar da utilização dessas aplicações</string>
   <string name="install_applications">Fontes desconhecidas</string>
   <string name="install_applications_title">Permitir todas as fontes de aplicações</string>
   <string name="install_other_apps">Instalação de aplicações desconhecidas</string>

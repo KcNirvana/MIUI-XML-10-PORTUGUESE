@@ -317,6 +317,7 @@ Todos os dados existentes da aplicação vão ser guardados"</string>
   <string name="unknown_apps_dlg_text2">\"Definições\"</string>
   <string name="unknown_apps_dlg_text3"></string>
   <string name="unknown_installer">Ferramentas não identificadas</string>
+  <string name="untrusted_external_source_warning">Para sua segurança, o seu telefone não permite a instalação de aplicações desconhecidas desta fonte</string>
   <string name="v7_preference_off">Desligado</string>
   <string name="v7_preference_on">Ligado</string>
   <string name="virus_scan_caller_unknown">Desconhecido</string>
