@@ -759,10 +759,7 @@ Sair desta página agora?"</string>
     <string name="mw_snippets_disabled_generic_prompt">Obter conteúdo personalizado</string>
     <string name="mw_snippets_disabled_signed_out_instructions">Para obter conteúdo personalizado pelo Google, inicie sessão no Chrome.</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
-    <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Definir hora</string>
     <string name="mw_updating_chrome">A atualizar o Chrome…</string>
     <string name="mw_video_buffering_percent">A armazenar</string>
@@ -1086,7 +1083,6 @@ Sair desta página agora?"</string>
     <string name="ssl_untrusted">Este certificado não é confiável.</string>
     <string name="ssl_warnings_header">Existem problemas com o certificado de segurança desta página.</string>
     <string name="start_save_page_capture">A guardar captura de ecrã…</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="storage_internal">Armazenamento interno</string>
     <string name="storage_permission_request_toast">A aplicação Transferências requer acesso ao armazenamento do dispositivo</string>
     <string name="storage_sd_card">Cartão SD</string>
