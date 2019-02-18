@@ -36,7 +36,7 @@
         <item>Azul</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
-        <item>Página anterior / seguinte</item>
+        <item>Anterior/Seguinte</item>
         <item>Trocar separadores</item>
         <item>Nada</item>
     </string-array>
@@ -79,9 +79,9 @@
     </string-array>
     <string-array name="weather_type">
         <item>Céu limpo</item>
-        <item>Com nuvens</item>
         <item>Nublado</item>
-        <item>Nevoeiro</item>
+        <item>Nublado</item>
+        <item>Nebuloso</item>
         <item>Tempestade forte</item>
         <item>Aguaceiros</item>
         <item>Tempestade chuvosa</item>

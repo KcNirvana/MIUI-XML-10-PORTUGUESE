@@ -9,8 +9,12 @@
         <item quantity="one">%d item bloqueado</item>
     </plurals>
     <plurals name="articles_updated_amount">
-        <item quantity="other">%1$d artigos atualizados para si</item>
-        <item quantity="one">%1$d artigo atualizado para si</item>
+        <item quantity="other">Confira %1$d novos artigos</item>
+        <item quantity="one">Confira %1$d novo artigo</item>
+    </plurals>
+    <plurals name="auto_play_next_tips">
+        <item quantity="other">Reproduzir o próximo vídeo em %d segundos</item>
+        <item quantity="one">Reproduzir o próximo vídeo em %d segundo</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">Eliminar %d tarefas?</item>
@@ -22,7 +26,7 @@
     </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Últimos %d dias</item>
-        <item quantity="one">Último %d dia</item>
+        <item quantity="one">Últimos %d dias</item>
     </plurals>
     <plurals name="mw_matches_found">
         <item quantity="other">%1$d de %2$d</item>
@@ -81,19 +85,19 @@
         <item quantity="one">%d minuto restante</item>
     </plurals>
     <plurals name="videos_updated_amount">
-        <item quantity="other">%1$d vídeos atualizados para si</item>
-        <item quantity="one">%1$d vídeo atualizado para si</item>
+        <item quantity="other">Confira %1$d novos vídeos</item>
+        <item quantity="one">Confira %1$d novo vídeo</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$d visualizações</item>
+        <item quantity="one">%1$d visualização</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">Céu limpo</item>
         <item quantity="one">Céu limpo</item>
     </plurals>
-    <plurals name="last_num_days">
-        <item quantity="other">Últimos %d dias</item>
-        <item quantity="one">Último %d dia</item>
-    </plurals>
-    <plurals name="matches_found">
-        <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">1 resultado</item>
+    <plurals name="vote_all_people">
+        <item quantity="other">%d pessoas votaram</item>
+        <item quantity="one">%d pessoa votou</item>
     </plurals>
 </resources>
