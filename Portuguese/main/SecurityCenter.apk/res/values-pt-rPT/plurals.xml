@@ -238,6 +238,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">%d dias desde o último check-up</item>
         <item quantity="one">%d dia desde o último check-up</item>
     </plurals>
+    <plurals name="hints_scan_danger_result_with_number">
+        <item quantity="other">%d riscos encontrados</item>
+        <item quantity="one">%d risco encontrado</item>
+    </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">"%d riscos, "</item>
         <item quantity="one">"%d risco, "</item>

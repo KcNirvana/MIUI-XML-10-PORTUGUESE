@@ -104,7 +104,7 @@ Envie este código ao supervisor"</string>
   <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Mi</string>
   <string name="error_invalid_bind_address">O endereço de email que introduziu é inválido</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi</string>
-  <string name="facebook">Facebook</string>
+  <string name="exit">Sair</string>
   <string name="failed_dup_secure_phone_number">Este número de telefone já está associado a outra Conta Mi</string>
   <string name="find_device_access_denied">Não é possível obter estado. Acesso negado</string>
   <string name="find_device_account_error">Não é possível obter estado devido a um erro na conta</string>
@@ -132,6 +132,8 @@ Envie este código ao supervisor"</string>
   <string name="get_phone_bind_exceed_limit">O número de telefone associado ao número da conta atingiu o máximo(3). Não pode associar mais contas</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="guest_account_label">Conta Mi de Convidado</string>
+  <string name="i_agree">OK</string>
+  <string name="i_agree_continue">Continuar</string>
   <string name="identity">Identificação</string>
   <string name="inconsistent_pwd">As palavra-passe não correspondem</string>
   <string name="input_email_address_notice">Iremos utilizar este email para verificar a sua conta</string>
@@ -175,6 +177,7 @@ Envie este código ao supervisor"</string>
   <string name="oauth_scopes_intro">%2$s vai obter as seguintes permissões: %3$s</string>
   <string name="oauth_title">Iniciar sessão com a Conta Mi</string>
   <string name="ok">OK</string>
+  <string name="optional_permissions">Permissões opcionais</string>
   <string name="passport_Resend">Reenviar</string>
   <string name="passport_access_denied">Acesso negado</string>
   <string name="passport_account_hint_text">Email/Número de telefone/ID da Conta Mi</string>
@@ -292,6 +295,7 @@ Para activar a sua conta siga o
   <string name="passport_phone_ticket_login">Iniciar sessão com SMS</string>
   <string name="passport_prev">Voltar</string>
   <string name="passport_privacy_policy">Política de Privacidade</string>
+  <string name="passport_privacy_policy_required">Política de Privacidade (necessário)</string>
   <string name="passport_pwd_generate_failure">Não foi possível gerar palavra-passe</string>
   <string name="passport_pwd_generating">A gerar…</string>
   <string name="passport_querying_phone_info">A pedir informações da conta…</string>
@@ -379,6 +383,7 @@ Para activar a sua conta siga o
   <string name="passport_user_agreement_p2">Termos de Utilização</string>
   <string name="passport_user_agreement_p3">" e "</string>
   <string name="passport_user_agreement_p4">Política de Privacidade</string>
+  <string name="passport_user_agreement_required">Termos de Utilização (necessário)</string>
   <string name="passport_user_id_notice">O seu ID Conta Mi é %s</string>
   <string name="passport_user_reg_region">País/Região</string>
   <string name="passport_user_reg_region_warning">Não vai poder alterar o seu país/região assim que a conta for criada</string>
@@ -394,6 +399,10 @@ Para activar a sua conta siga o
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
   <string name="passport_wrong_voice">O código que introduziu está incorrecto</string>
   <string name="passport_yes">Sim</string>
+  <string name="permission_group_contacts">Contactos</string>
+  <string name="permission_group_phone">Telefone</string>
+  <string name="permission_group_sms">SMS</string>
+  <string name="permission_group_storage">Armazenamento</string>
   <string name="phone_num_use_for">Número de telefone utilizado para:</string>
   <string name="photoPickerNotFoundText">Sem fotos disponíveis</string>
   <string name="push_notification_content">Obter código de verificação</string>
@@ -429,6 +438,7 @@ Para activar a sua conta siga o
   <string name="search_user_detail_path">Definições/Conta Mi/Informações pessoais</string>
   <string name="search_user_detail_top_key_words">Informações pessoais,Alterar foto de perfil,Alterar utilizador,Alterar alcunha,Alterar data de nascimento,Alterar sexo</string>
   <string name="send_diagnosis_log">Enviar registo de diagnóstico</string>
+  <string name="select_all">Seleccionar tudo</string>
   <string name="send_email_activate_message">Email de verificação enviado</string>
   <string name="service_error">Erro de serviço</string>
   <string name="sending">A enviar…</string>

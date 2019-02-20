@@ -55,7 +55,7 @@
   <string name="available_playlist_name_format">Nova lista de reprodução %d</string>
   <string name="avoid_to_use_traffic_summary">Mostrar aviso de utilização de dados móveis</string>
   <string name="avoid_to_use_traffic_title">Utilizar dados móveis para reproduzir músicas</string>
-  <string name="back_confirm">Prima novamente para pôr a aplicação em segundo plano</string>
+  <string name="back_confirm">Toque novamente para pôr a aplicação em segundo plano</string>
   <string name="banner_op">Música</string>
   <string name="bluetooth_device">Dispositivo áudio Bluetooth</string>
   <string name="buffering">Aguarde…</string>

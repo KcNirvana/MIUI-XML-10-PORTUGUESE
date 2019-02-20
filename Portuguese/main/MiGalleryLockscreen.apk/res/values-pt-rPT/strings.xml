@@ -112,7 +112,7 @@
   <string name="detail_toast_favor_permission">Permitir que os papéis de parede aleatórios possam aceder ao armazenamento em Segurança</string>
   <string name="dislike">Eliminar</string>
   <string name="dlg_cancel">Cancelar</string>
-  <string name="double_click_to_exit_activity">Prima novamente para sair</string>
+  <string name="double_click_to_exit_activity">Toque novamente para sair</string>
   <string name="explorer_activity_title">Papéis de parede aleatórios</string>
   <string name="favor_list_no_data">Sem itens</string>
   <string name="favor_list_title">Favoritos</string>

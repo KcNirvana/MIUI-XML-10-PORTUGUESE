@@ -55,6 +55,8 @@
   <string name="no_sound">Sem som</string>
   <string name="operation_delete">Eliminar</string>
   <string name="operation_send">Enviar</string>
+  <string name="permission_intro_microphone">Para gravar som quando a origem do som for o microfone</string>
+  <string name="permission_intro_storage">Para guardar gravações de ecrã</string>
   <string name="quit_recording">Sair do Gravador de Ecrã</string>
   <string name="recording_failure">Não foi possível gravar. Comece de novo</string>
   <string name="recording_max_size">A gravação foi parada e guardada porque o vídeo atingiu o tamanho máximo. Comece a gravar de onde ficou se ainda não terminou</string>

@@ -1180,6 +1180,8 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="crypt_keeper_setup_time_remaining">Aguarde enquanto o telefone está a ser encriptado. Tempo restante: ^1</string>
   <string name="crypt_keeper_setup_title">Encriptação</string>
   <string name="crypt_keeper_switch_input_method">Trocar método de entrada</string>
+  <string name="crypt_keeper_switch_to_pattern">Utilizar padrão</string>
+  <string name="crypt_keeper_switch_to_pin">Utilizar PIN</string>
   <string name="crypt_keeper_unplugged_text">Ligue o carregador e tente novamente</string>
   <string name="crypt_keeper_warn_wipe">Aviso: O seu dispositivo vai ser apagado após mais ^1 tentativa(s) falhada(s) de desbloqueio!</string>
   <string name="cryptkeeper_emergency_call">Chamada de emergência</string>
@@ -4103,6 +4105,7 @@ Para utilizar a fixação no ecrã:
   <string name="settings_license_activity_title">Licenças de terceiros</string>
   <string name="settings_license_activity_unavailable">Ocorreu um erro ao carregar as licenças</string>
   <string name="settings_notify_need_backup">Faça uma cópia das suas definições para a Mi Cloud para as aceder após trocar de telefone</string>
+  <string name="settings_notify_new_version">Actualização disponível. Toque para ver detalhes</string>
   <string name="settings_notify_phone_recycled">O seu número de telefone foi reciclado. Tente adicionar um número de telefone diferente</string>
   <string name="settings_safetylegal_activity_loading">A carregar…</string>
   <string name="settings_safetylegal_activity_title">Informações de segurança</string>
