@@ -138,7 +138,8 @@
   <string name="recognize_fail">Não foi possível ler o código</string>
   <string name="refresh">Actualizar</string>
   <string name="scan_result">Resultados</string>
-  <string name="sdk_not_ready">A prepara SDK. Tente novamente mais tarde</string>
+  <string name="sdk_not_ready">A preparar SDK. Tente novamente mais tarde</string>
+  <string name="search_menu_title">Pesquisa</string>
   <string name="secure_access_web_url">Ir para o website</string>
   <string name="see_app_details">Ver detalhes da aplicação</string>
   <string name="select_dialog_confirm">OK</string>

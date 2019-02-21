@@ -582,6 +582,9 @@
   <string name="cpu_usage_view_action_btn_text">Toque para ver</string>
   <string name="create_shortcut">Criar um atalho no ecrã inicial para o Acelerador de jogos</string>
   <string name="cta_dialog_msg">O centro de Segurança necessita de ligação à Internet e acesso à localização para funcionar normalmente</string>
+  <string name="cta_dialog_msg">Tem de concordar com a nossa &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar Segurança. Segurança também necessita de ligar à Internet e aceder à sua localização. Concorda?</string>
+  <string name="cta_dialog_negative">sair</string>
+  <string name="cta_dialog_positive">Concordar</string>
   <string name="cta_dialog_title">Termos e Condições</string>
   <string name="cta_settings">Permitir ligação à Internet</string>
   <string name="current_network_state_not_need_diagnose">A ligação à Internet está normal</string>
