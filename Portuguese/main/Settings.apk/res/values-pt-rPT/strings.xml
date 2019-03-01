@@ -235,7 +235,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="aod_lock_screen_date_12">"EEEE, d de MMMM"</string>
   <string name="aod_mode_bg">Segundo plano</string>
   <string name="aod_mode_clock">Relógio</string>
-  <string name="aod_mode_style">Estilo de horas</string>
+  <string name="aod_mode_style">Estilo de relógio</string>
   <string name="aod_mode_summary">Mostrar horas, data e mensagens com o ecrã desligado</string>
   <string name="aod_mode_time_summary">Programar hora para ligar ou desligar o modo Sempre ligado</string>
   <string name="aod_mode_time_title">Programar</string>
@@ -795,6 +795,9 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="bluetooth_scan_for_devices">Pesquisar dispositivos</string>
   <string name="bluetooth_search_for_devices">Actualizar</string>
   <string name="bluetooth_searching_for_devices">A pesquisar…</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Áudio Bluetooth aptX modo adaptável</string>
+  <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Activar áudio Bluetooth
+aptX adaptável: modo codec"</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits de áudio Bluetooth por amostra</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleccionar codec de áudio Bluetooth:
 Bits por amostra"</string>
@@ -3225,7 +3228,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_camera">Câmara</string>
   <string name="power_cell">Inactividade do telefone</string>
-  <string name="power_center">Gestão da bateria</string>
+  <string name="power_center">Optimização de bateria</string>
   <string name="power_charge_remaining">%1$s para carregar</string>
   <string name="power_charging_duration">%1$s - %2$s até ficar completa</string>
   <string name="power_checker">Controlo de energia</string>
@@ -3244,7 +3247,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="power_key_start_enjoy">Saber mais acerca do assistente Google</string>
   <string name="power_key_start_guide">Waking Google Assistant using the Power button on full display devices</string>
   <string name="power_last_full_charge_summary">Há ^1</string>
-  <string name="power_mgr">Bateria</string>
+  <string name="power_mgr">Optimização de bateria</string>
   <string name="power_mode">Definições de energia</string>
   <string name="power_mode_balanced_title">Modo equilibrado</string>
   <string name="power_optimize">Poupança de bateria</string>

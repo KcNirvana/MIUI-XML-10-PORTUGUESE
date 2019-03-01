@@ -197,6 +197,14 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="other">Outros</string>
   <string name="other_settings">Outras definições</string>
   <string name="other_warning_settings">Outros alertas</string>
+  <string name="permission_device_info">Informação de dispositivo</string>
+  <string name="permission_device_introduce">Para reconhecer o ID dispositivo baseado no modelo e IMEI e fornecer serviços de localização baseado nas preferências de idioma</string>
+  <string name="permission_exit">Sair</string>
+  <string name="permission_privacy">Política de Privacidade (obrigatório)</string>
+  <string name="permission_select_all">Seleccionar tudo</string>
+  <string name="permission_storage">Armazenamento</string>
+  <string name="permission_storage_introduce">Para aceder a itens no dispositivo e guardar ficheiros</string>
+  <string name="permission_user_protocol">Termos de Utilização (obrigatório)</string>
   <string name="policy_settings">Termos e Condições</string>
   <string name="precipitation_degree_five">Torrencial</string>
   <string name="precipitation_degree_four">Forte</string>
@@ -276,6 +284,8 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="weather_alert_channel_name">Alertas</string>
   <string name="weather_service_channel_name">Serviços em segundo plano</string>
   <string name="weather_alert">Alertas de tempo</string>
+  <string name="weather_introduce">Sempre consigo, faça chuva ou sol</string>
+  <string name="weather_permission_agree">Aceitar</string>
   <string name="wind_direction_no_data">Vento</string>
   <string name="wind_miles_unit">%1$s mph</string>
   <string name="wind_unit">%1$s km/h</string>

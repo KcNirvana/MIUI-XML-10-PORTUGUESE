@@ -13,6 +13,7 @@
   <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Vá ao site oficial da MIUI para obter a ferramenta de desbloqueio</string>
   <string name="game_booster">Acelerador de jogos</string>
+  <string name="gamebox_no_network_btn">Actualizar</string>
   <string name="gb_alipays_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
   <string name="gb_weixinpay_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
   <string name="main_toolbar_purchase">Comprar</string>

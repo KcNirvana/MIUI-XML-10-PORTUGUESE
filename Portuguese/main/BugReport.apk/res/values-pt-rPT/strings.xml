@@ -79,6 +79,10 @@
   <string name="feedback_probability_label">Probabilidade</string>
   <string name="feedback_remind_login_btn">Iniciar sessão</string>
   <string name="feedback_report_remind_login_desc">Iniciar sessão na sua Conta Mi para os nossos serviços técnicos entrarem em contacto consigo. Pode ver o estado dos seus relatórios em \"Os meus relatórios\"</string>
+  <string name="feedback_reproductivity_everytime">Sempre</string>
+  <string name="feedback_reproductivity_occasionally">Ocasionalmente</string>
+  <string name="feedback_reproductivity_often">Frequentemente</string>
+  <string name="feedback_reproductivity_once">Uma vez</string>
   <string name="feedback_retest_label">Passos para reproduzir</string>
   <string name="feedback_select_images">Adicionar imagens</string>
   <string name="feedback_select_modem_log">Adicionar registos do modem</string>

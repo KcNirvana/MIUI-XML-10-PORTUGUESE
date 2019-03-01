@@ -218,7 +218,6 @@
   <string name="card_title_annual_foods">Deliciosos %1$s</string>
   <string name="card_title_annual_pets">Patas peludas em %1$s</string>
   <string name="card_title_annual_travel">As minhas viagens em %1$s</string>
-  <string name="card_title_last_week_end">Os meus fins de semana</string>
   <string name="card_title_monthly_foods">Deliciosos</string>
   <string name="card_title_monthly_pets">Patas peludas</string>
   <string name="card_title_party">Festas</string>
@@ -589,6 +588,8 @@ efeitos de fotos"</string>
   <string name="free_view_desc">Visão 3D</string>
   <string name="gallery_setting">Definições</string>
   <string name="gallery_sync_disable_toast">A sincronização com a Galeria está desligada</string>
+  <string name="generate_story_summary">A MIUI vai analisar as suas fotos e criar álbuns de histórias. Desligue esta opção para parar de criar</string>
+  <string name="generate_story_title">Álbuns de histórias</string>
   <string name="get_album_info_in_process">A obter detalhes do álbum partilhado…</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
@@ -627,6 +628,8 @@ efeitos de fotos"</string>
   <string name="image_invalid_path">Caminho inválido</string>
   <string name="image_not_found">Não foi possível localizar imagem</string>
   <string name="image_quota_fulfiled">Demasiadas imagens. Elimine algumas imagens e tente novamente</string>
+  <string name="image_selection_summary">A MIUI vai analisar as suas fotos e marcar as melhores. Desligue esta funcionalidade para remover as marcas das fotos</string>
+  <string name="image_selection_title">Seleccionar a melhor foto</string>
   <string name="image_with_time">Foto tirada em %s</string>
   <string name="image_with_time_and_location">Foto tirada em %1$s. Localização: %2$s.</string>
   <string name="impunity_declaration_settings">Notificação de ligação à Internet</string>
@@ -818,6 +821,7 @@ para personalizar a galeria"</string>
   <string name="operation_send">Enviar</string>
   <string name="operation_set_contact_photo">Definir como foto de contacto</string>
   <string name="operation_set_slide_wallpaper">Definir como papel de parede de diapositivos</string>
+  <string name="operation_set_video_wallpaper">Definir como vídeo de papel de parede</string>
   <string name="operation_set_wallpaper">Definir como papel de parede</string>
   <string name="operation_share">Partilhar</string>
   <string name="operation_show_in_photos_tab">Mostrar em Fotos</string>
@@ -983,6 +987,7 @@ para personalizar a galeria"</string>
   <string name="recent_album_empty_title">Não adicionou fotos novas recentemente</string>
   <string name="recommanded_face_abandon_tip">Removido das sugestões</string>
   <string name="recommanded_face_added_tip">Adicionado a \"%s\"</string>
+  <string name="recommend_category_title">Picagens da galeria</string>
   <string name="recovery_merge">Unir</string>
   <string name="recovery_merge_or_rename">Unir álbuns</string>
   <string name="recovery_merge_or_rename_message">Existe um álbum com este nome. Unir?</string>
@@ -1130,6 +1135,8 @@ para personalizar a galeria"</string>
   <string name="send_too_many_files_error">Pode enviar até %d itens de uma vez</string>
   <string name="set_as_slide_wallpaper_description">Esta imagem é uma miniatura. Transferir o original?</string>
   <string name="set_as_slide_wallpaper_title">Definir como papel de parede de diapositivos</string>
+  <string name="set_as_video_wallpaper_description">Transferir este item e utilizá-lo como vídeo de papel de parede?</string>
+  <string name="set_as_video_wallpaper_title">Definir vídeo de papel de parede</string>
   <string name="set_as_wallpaper_description">Esta imagem é uma miniatura. Transferir o original?</string>
   <string name="set_as_wallpaper_title">Definir como papel de parede</string>
   <string name="set_face_group_toast_msg_new_user">Segure na foto de uma pessoa para unir ou ignorar</string>
@@ -1138,6 +1145,7 @@ para personalizar a galeria"</string>
   <string name="set_face_group_toast_title_old_user">As pessoas podem ser organizadas em grupos</string>
   <string name="set_face_image">Definir uma nova foto de perfil</string>
   <string name="set_group">Definir grupo</string>
+  <string name="set_video_wallpaper_failed">Não é possível utilizar este item como vídeo de papel de parede</string>
   <string name="set_wallpaper_get_image_failed">Não foi possível transferir imagem. Tente novamente mais tarde</string>
   <string name="setup_network_connection">Definições de rede</string>
   <string name="share">Partilhar</string>

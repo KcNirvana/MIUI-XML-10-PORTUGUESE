@@ -293,6 +293,10 @@
   <string name="no_visiable_calendar_select_account">Adicionar conta</string>
   <string name="no_visiable_calendar_title">Adicionar conta</string>
   <string name="notification_channel_name">Lembretes do calendário</string>
+  <string name="notification_open_setting_button_exit">Não, obrigado</string>
+  <string name="notification_open_setting_button_ok">Permitir</string>
+  <string name="notification_open_setting_message">Não vai receber notificações acerca de eventos até dar permissão ao Calendário para lhe enviar notificações</string>
+  <string name="notification_open_setting_title">Permitir notificações de Calendário?</string>
   <string name="olympic_rank">Posição</string>
   <string name="olympic_total">Total</string>
   <string name="olympic_vs">VS</string>

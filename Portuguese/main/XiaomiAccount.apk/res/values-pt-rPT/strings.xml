@@ -133,7 +133,7 @@ Envie este código ao supervisor"</string>
   <string name="get_phone_verifycode_exceed_limit">Foram enviados demasiados códigos de verificação para este número. Aguarde 24 horas e tente novamente</string>
   <string name="guest_account_label">Conta Mi de Convidado</string>
   <string name="i_agree">OK</string>
-  <string name="i_agree_continue">Continuar</string>
+  <string name="i_agree_continue">Concordar</string>
   <string name="identity">Identificação</string>
   <string name="inconsistent_pwd">As palavra-passe não correspondem</string>
   <string name="input_email_address_notice">Iremos utilizar este email para verificar a sua conta</string>
