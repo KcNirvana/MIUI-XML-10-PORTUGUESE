@@ -2756,7 +2756,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="mode_disable">Desligado</string>
   <string name="mode_enable">Ligado</string>
   <string name="model_info">Modelo</string>
-  <string name="model_name">Nome do modelo</string>
+  <string name="model_name">Modelo</string>
   <string name="model_number">Modelo do dispositivo</string>
   <string name="modify_instruction_password_settings">Definir palavra-passe</string>
   <string name="modify_privacy_password">Alterar palavra-passe</string>
