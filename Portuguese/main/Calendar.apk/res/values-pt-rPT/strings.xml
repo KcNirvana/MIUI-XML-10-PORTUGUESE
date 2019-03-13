@@ -103,7 +103,6 @@
   <string name="date_interval_text_to">A %1$s</string>
   <string name="date_jump_hint">Ir directamente para uma data</string>
   <string name="date_jump_title">Ir para a data</string>
-  <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="date_today">" (hoje)"</string>
   <string name="day_view_new_event_hint">+ Novo evento</string>
   <string name="default_reminder_mode">Lembretes</string>
