@@ -1200,6 +1200,10 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="current_use_hce_wallet">Está a utilizar a HCE Wallet</string>
   <string name="current_use_uicc_se">A utilizar elemento de segurança no cartão SIM</string>
   <string name="current_zone">(actual)</string>
+  <string name="cutout_mode_always">Mostrar sempre o entalhe</string>
+  <string name="cutout_mode_default">Auto</string>
+  <string name="cutout_mode_settings_title">Algumas aplicações podem ser mostradas incorrectamente se personalizar o modo como o entalhe é mostrado</string>
+  <string name="cutout_mode_title">Entalhe em aplicações individuais</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
   <string name="daltonizer_mode_disabled">Desactivado</string>
   <string name="daltonizer_mode_monochromacy">Monocromacia</string>

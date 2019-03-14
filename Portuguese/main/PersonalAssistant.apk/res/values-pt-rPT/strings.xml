@@ -115,6 +115,8 @@
   <string name="cleanup_memory">Limpar cache</string>
   <string name="cleanup_power">Limp. Prof.</string>
   <string name="clear">Limpar</string>
+  <string name="clock_alarm">Alarme</string>
+  <string name="clock_parent">Relógio</string>
   <string name="closed">Desligado</string>
   <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
   <string name="commute">Map suggestions</string>
@@ -153,6 +155,8 @@
   <string name="dialog_report_title">The format is invalid</string>
   <string name="dialog_report_toast">Reported successfully</string>
   <string name="drive">Drive</string>
+  <string name="disclaimer_content">Esta funcionalidade é fornecida por %1$s. Toda a responsabilidade do serviço fica a cargo de %1$s. Deve contactar %1$s se tiver mais questões</string>
+  <string name="disclaimer_title">Aviso</string>
   <string name="duokan_open">Add Duokan card</string>
   <string name="duokan_setting_brief">Keep reading from the place you left off.</string>
   <string name="empty_card_btn">Open app</string>
@@ -261,6 +265,8 @@
   <string name="function_youku_title">Youku</string>
   <string name="function_zhihu_search">Pesquisa</string>
   <string name="function_zhihu_title">Zhihu</string>
+  <string name="google_assistant">Assistente</string>
+  <string name="google_parent">Google</string>
   <string name="hold_down_adjustment_order">Prima e segure para arrastar os itens</string>
   <string name="home">Casa</string>
   <string name="home_and_company">Casa e trabalho</string>
@@ -319,6 +325,8 @@
   <string name="mi_sport">Contador de passos</string>
   <string name="mi_sport_go_install">Transferir</string>
   <string name="mi_wallet">Mi Wallet</string>
+  <string name="midrop_parent">Mi Drop</string>
+  <string name="midrop_send">Enviar</string>
   <string name="miuishare_account_activate_confirmation">Activation required</string>
   <string name="miuishare_account_activate_ok">Activate</string>
   <string name="miuishare_account_login_cancel">Cancel</string>
@@ -383,6 +391,7 @@
   <string name="paycode_sdk_parent">Shortcut payment (no app required)</string>
   <string name="paycode_sdk_parent_title">Shortcut payment</string>
   <string name="payment">My payments</string>
+  <string name="phone_check">Optimização</string>
   <string name="place_label">Frequent places</string>
   <string name="preferences">Preferências</string>
   <string name="preferences_label">Preferências</string>
@@ -576,6 +585,8 @@
   <string name="walk">Walk</string>
   <string name="weibo_name">New post</string>
   <string name="weibo_parent">Weibo</string>
+  <string name="whatsapp_parent">WhatsApp</string>
+  <string name="whatsapp_photos">Fotos</string>
   <string name="which_transport">How do you normally get to your destination?</string>
   <string name="widget_fav">favorite</string>
   <string name="widget_fav_open">Show favorite card</string>

@@ -27,7 +27,14 @@
   <string name="alaka_required">Deve pagar por esta música se a quiser ouvir</string>
   <string name="album_label">Capas do álbum</string>
   <string name="album_name">Álbum</string>
+  <string name="all_album_count">Todos os álbuns (%d)</string>
+  <string name="all_albums">Todos os álbuns</string>
+  <string name="all_artists">Todos os artistas</string>
+  <string name="all_playlist_count">Todas as listas de reprodução (%d)</string>
+  <string name="all_playlists">Todas as listas de reprodução</string>
+  <string name="all_songs">Todas as músicas</string>
   <string name="all_tracks">Todas as músicas</string>
+  <string name="all_videos">Todos os vídeos</string>
   <string name="already_download">A transferir…</string>
   <string name="already_download_btn">A transferir…</string>
   <string name="already_favorited">Já foi adicionada aos favoritos</string>
@@ -448,6 +455,8 @@
   <string name="search_for_album">Álbum</string>
   <string name="search_for_artist">Artista</string>
   <string name="search_hint">Pesquisar artistas, músicas, álbuns</string>
+  <string name="search_hint_local">Pesquisar músicas no dispositivo</string>
+  <string name="search_hint_online">Pesquisar artistas, músicas, álbuns online</string>
   <string name="search_history_clear_all">Limpar</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_menu_title">Pesquisar</string>
@@ -527,8 +536,10 @@
   <string name="tab_artist">Artistas</string>
   <string name="tab_artist_list">Artista</string>
   <string name="tab_folder">Pastas</string>
+  <string name="tab_playlist">Listas de reprodução</string>
   <string name="tab_track">Músicas</string>
   <string name="tab_track_list">Músicas</string>
+  <string name="tab_video">Vídeos</string>
   <string name="take_effect_afater_restart">Reiniciar a aplicação Música para que esta configuração tenha efeito</string>
   <string name="talkback_back">Voltar</string>  
   <string name="talkback_device">Reproduzir noutros dispositivos</string>

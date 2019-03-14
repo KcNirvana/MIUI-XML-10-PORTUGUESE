@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessbility_suggestion_dropdown_closed">Sem sugestões</string>
+  <string name="accessbility_suggestion_dropdown_opened">Sugestão de contactos aberta</string>
   <string name="accessibility_add_attendee">Adicionar participante</string>
   <string name="accessibility_all_day">Evento de dia inteiro</string>  
   <string name="accessibility_pick_start_date">Data de início</string>
@@ -10,6 +12,7 @@
   <string name="account_and_calendar">Contas</string>
   <string name="action_bar_date_button_title">Calcular datas</string>
   <string name="action_bar_return">Voltar</string>
+  <string name="action_label">Voltar</string>
   <string name="action_text_card_manager">Canal</string>
   <string name="ad_card_connecting">A ligar…</string>
   <string name="ad_card_download_count">A transferir %1$s</string>
@@ -23,6 +26,7 @@
   <string name="add_anniversary">Adicionar aniversário</string>
   <string name="add_countdown">Adicionar contagem decrescente</string>
   <string name="add_event">Adicionar evento</string>
+  <string name="address">Endereço</string>
   <string name="agenda_month_empty_hint">Sem eventos hoje</string>
   <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
   <string name="agenda_view">Eventos</string>
@@ -61,6 +65,9 @@
   <string name="change_response_title">Alterar resposta</string>
   <string name="check_reminded_text">Ver lembretes</string>
   <string name="chinese_leap">Intercalar</string>
+  <string name="chips_action_cancel">Cancelar</string>
+  <string name="chips_action_copy">Copiar</string>
+  <string name="chips_permission_text">Permitir sugestão de contactos</string>
   <string name="chongsha">Fantasmas</string>
   <string name="close_alarm">Desligar</string>
   <string name="copy_email">Copiar endereço de email</string>
@@ -115,10 +122,10 @@
   <string name="directory_searching_fmt">A pesquisar %s…</string>
   <string name="discard_label">Cancelar</string>
   <string name="does_not_repeat">Evento único</string>
-  <string name="done">Voltar</string>
   <string name="download">Transferir</string>
   <string name="downloading">A transferir…</string>
   <string name="downloading_wallpaper">Transferir papel de parede</string>
+  <string name="dropdown_delete_button_desc">Remover %s dos destinatários</string>
   <string name="edit_date_calculate_days_backward_error_hint">Não pode ser calculado para a frente</string>
   <string name="edit_date_calculate_days_empty_hint">Introduza o número de dias</string>
   <string name="edit_date_calculate_days_forward_error_hint">Não pode ser calculado para trás</string>
@@ -325,9 +332,9 @@
   <string name="pull_to_refresh_hint">Puxe para carregar eventos de %1$d</string>
   <string name="refresh">Actualizar</string>
   <string name="refreshing_hint">Aguarde…</string>
+  <string name="reminder_overdue">Expirado</string>
   <string name="repeat_activity_label">Repetir</string>
   <string name="repeat_custom_activity_label">Personalizar</string>
-  <string name="repeat_custom_prompt">a cada %1$s em %2$s</string>
   <string name="repeat_custom_prompt_daily">a cada %1$s</string>
   <string name="repeat_custom_prompt_sentence">Evento vai repetir %1$s</string>
   <string name="repeat_custom_prompt_splitter">", "</string>
@@ -414,7 +421,6 @@
   <string name="too_long_name">O nome do evento é demasiado longo</string>
   <string name="travel_airport">Aeroporto</string>
   <string name="travel_carriage_number_text">Carro</string>
-  <string name="travel_eta_advice">%2$s minutos a %1$s</string>
   <string name="travel_ets_advice">Conduzir para %2$s antes de %1$s</string>
   <string name="travel_event_add_successfully">Evento criado</string>
   <string name="travel_event_title_flight">Voo: %1$s-%2$s %3$s</string>

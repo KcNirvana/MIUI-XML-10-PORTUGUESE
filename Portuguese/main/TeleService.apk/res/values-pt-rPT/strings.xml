@@ -872,6 +872,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_mode_evdo_only_choice">Apenas EvDo</string>
   <string name="preferred_network_mode_evdo_only_summary">Tipo de rede preferida: Apenas EvDo</string>
   <string name="preferred_network_mode_global_summary">Tipo de rede preferida: Global (CDMA/EVDO/LTE/GSM/WCDMA)</string>
+  <string name="preferred_network_mode_gsm_only">Apenas GSM</string>
   <string name="preferred_network_mode_gsm_only_choice">Apenas GSM</string>
   <string name="preferred_network_mode_gsm_only_summary">Tipo de rede preferida: Apenas GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA (auto)</string>
@@ -881,6 +882,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_mode_lte_cdma_summary">Tipo de rede preferida: LTE/CDMA</string>
   <string name="preferred_network_mode_lte_gsm_umts_summary">Tipo de rede preferida: LTE/GSM/UMTS</string>
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Tipo de rede preferida: GSM/WCDMA/LTE</string>
+  <string name="preferred_network_mode_lte_only">Apenas LTE</string>
   <string name="preferred_network_mode_lte_summary">Tipo de rede preferida: LTE</string>
   <string name="preferred_network_mode_lte_wcdma_summary">Tipo de rede preferida: LTE/WCDMA</string>
   <string name="preferred_network_mode_summary">Alterar o modo de funcionamento da rede</string>
@@ -896,6 +898,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_mode_td_scdma_wcdma_lte_summary">Tipo de rede preferida: TD-SCDMA/WCDMA/LTE</string>
   <string name="preferred_network_mode_td_scdma_wcdma_summary">Tipo de rede preferida: TD-SCDMA/WCDMA</string>
   <string name="preferred_network_mode_title">Tipo de rede preferida</string>
+  <string name="preferred_network_mode_wcdma_only">Apenas WCDMA</string>
   <string name="preferred_network_mode_wcdma_only_choice">Apenas WCDMA</string>
   <string name="preferred_network_mode_wcdma_only_summary">Tipo de rede preferida: Apenas WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Tipo de rede preferida: WCDMA preferido</string>

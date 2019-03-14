@@ -63,6 +63,7 @@
   <string name="description_uploadtime">Actualização</string>
   <string name="description_version">Versão</string>
   <string name="description_version_szie">Versão: %1$s Tamanho: %2$s</string>
+  <string name="desktop_effects">Efeitos de ecrã inicial</string>
   <string name="desktop_wallpaper">Ecrã inicial</string>
   <string name="detail_recommend_title">Recomendados</string>
   <string name="dev_options">Opções de programador</string>
@@ -70,6 +71,7 @@
   <string name="download_failed">Não foi possível transferir</string>
   <string name="download_preview_failed">Não é possível carregar pré-visualização</string>
   <string name="download_success">Transferência concluída</string>
+  <string name="dynamic_video_wallpaper">Papel de parede 24 horas</string>
   <string name="exit_extreme_mode_dialog_agree">Concordar</string>
   <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
   <string name="exit_extreme_mode_dialog_title">Sair do modo extremo</string>
@@ -79,8 +81,10 @@
   <string name="fail_to_add_account">Não é possível adicionar conta</string>
   <string name="favorite_list">Favoritos</string>
   <string name="favorite_list_format">Adicionar %1$s aos favoritos</string>
-  <string name="find_more_theme">Pesquisar mais</string>
-  <string name="find_more_wallpapers">Pesquisar mais</string>
+  <string name="find_more_font">Procurar mais</string>
+  <string name="find_more_theme">Procurar mais</string>
+  <string name="find_more_wallpapers">Procurar mais</string>
+  <string name="float_wallpaper_is_here">Papel de parede transparente</string>
   <string name="gift_anonymous">Anónimo</string>
   <string name="gift_operation_fail_dlg_abandon">Cancelar</string>
   <string name="gift_operation_fail_dlg_retry">Tente novamente</string>
@@ -190,6 +194,7 @@
   <string name="online_search_hint">Pesquisar recursos online</string>
   <string name="password_toggle_content_description">Tornar palavra-passe vísivel</string>
   <string name="pref_privacy_policy">Política de Privacidade</string>
+  <string name="present_local_fonts">Os meus tipos de letra</string>
   <string name="present_local_themes">Os meus temas</string>
   <string name="present_local_themes_subtitle">Personalize o seu dispositivo</string>
   <string name="present_official_themes">As nossas escolhas</string>
@@ -318,8 +323,6 @@
   <string name="resource_expand_full_text">Expandir</string>
   <string name="resource_failed_to_load_list">Não é possível carregar os temas</string>
   <string name="resource_free_download">Transferir gratuitamente</string>
-  <string name="resource_free_trial_15_days">Experimentar 15 dias gratuitamente</string>
-  <string name="resource_free_use_last_one_day">A sua demonstração expira amanhã</string>
   <string name="resource_get_auth_checking">A verificar autorização…</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Já foram autorizados 10 dispositivos nesta conta</string>
   <string name="resource_get_auth_exceed_max_limit_title">O número de dispositivos autorizados foi excedido</string>
@@ -343,7 +346,6 @@
   <string name="resource_no_result">Sem resultados</string>
   <string name="resource_notification_default">Notificações</string>
   <string name="resource_on_trial">A testar: %1$s</string>
-  <string name="resource_on_use">A utilizar: %1$s</string>
   <string name="resource_online">Online</string>
   <string name="resource_online_picker">Escolher toque online</string>
   <string name="resource_pack_confirm">Mesmo já tendo comprado %1$d componentes neste tema, ainda é mais barato se comprar o conjunto completo</string>
@@ -470,6 +472,7 @@
   <string name="theme_component_title_contact">Teclado de marcação</string>
   <string name="theme_component_title_font">Tipos de letra</string>
   <string name="theme_component_title_framework">Limites</string>
+  <string name="theme_component_title_homepage">Início</string>
   <string name="theme_component_title_icon">Ícones</string>
   <string name="theme_component_title_launcher">Bandeja dos favoritos</string>
   <string name="theme_component_title_lockstyle">Ecrã de bloqueio</string>
@@ -523,6 +526,7 @@
   <string name="tips_theme_gate_transfer_fail">Não foi possível abrir esta página. Aguarde um momento e tente novamente</string>
   <string name="title_component">Personalizar tema</string>
   <string name="title_my_audio_resource">Os meus toques</string>
+  <string name="title_my_miwallpaper_desktop_effects">Efeitos de ecrã inicial</string>
   <string name="title_my_miwallpaper_resource">Os meus papéis de parede animados</string>
   <string name="title_my_wallpaper_resource">Os meus papéis de parede</string>
   <string name="title_my_miwallpaper_video_file_resource">Os meus vídeos de papel de parede</string>
@@ -530,6 +534,15 @@
   <string name="title_system_audio_resource">Toques do sistema</string>
   <string name="title_system_wallpaper_resource">Papéis de parede do sistema</string>
   <string name="to_activate_the_account">Activar a sua Conta Mi agora</string>
+  <string name="transparent_wallpaper">Papel de parede transparente</string>
+  <string name="transparent_wallpaper_apply_success">Definido com sucesso. Pode desligar esta funcionalidade em Temas &gt; Perfil &gt; Funcionalidades Beta</string>
+  <string name="transparent_wallpaper_enable_success">Ligado com sucesso</string>
+  <string name="transparent_wallpaper_guide">Ir para Temas</string>
+  <string name="transparent_wallpaper_guide_tip">Pode seleccionar um papel de parede transparente nos Temas agora</string>
+  <string name="transparent_wallpaper_white_wallpaper">Tornar o fundo branco</string>
+  <string name="transparent_wallpaper_white_wallpaper_failed">Não é possível tornar o fundo branco</string>
+  <string name="transparent_wallpaper_white_wallpaper_success">O fundo está branco agora</string>
+  <string name="transparent_wallpaper_white_wallpaper_tip">Os papéis de parede transparente ficam melhor em fundos brancos</string>
   <string name="uid_change_dialog_message">Eliminou actualizações. Reinicie o dispositivo para poder utilizar os temas</string>
   <string name="uid_change_dialog_ok">Percebi</string>
   <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
@@ -544,6 +557,7 @@
   <string name="video_data_tips_message">Utilizar dados móveis pode gerar custos adicionais. Continuar mesmo assim?</string>
   <string name="video_data_tips_title">Aviso de utilização de dados</string>
   <string name="video_silence_apply_success">Vídeo sem som configurado com sucesso</string>
+  <string name="video_wallpaper_import">Toque para adicionar itens</string>
   <string name="wallpaper_apply">Aplicar</string>
   <string name="wallpaper_crop">Cortar</string>
   <string name="wallpaper_decoded_error">Não é possível carregar o papel de parede</string>
@@ -555,6 +569,7 @@
   <string name="wallpaper_scroll_type_tips">Slideshow de papéis de parede</string>
   <string name="wallpaper_set_as_both">Definir ambos</string>
   <string name="wallpaper_set_as_desktop">Definir como ecrã principal</string>
+  <string name="wallpaper_set_as_float_wallpaper">Papel de parede transparente (Beta)</string>
   <string name="wallpaper_set_as_lockscreen">Definir como ecrã de bloqueio</string>
   <string name="wallpaper_settings">Definições do papel de parede</string>
   <string name="wallpaper_settings_loading_text">Aguarde…</string>
