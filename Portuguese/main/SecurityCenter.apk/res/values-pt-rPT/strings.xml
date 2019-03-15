@@ -1055,8 +1055,8 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="hints_scan_result_no_finish">Verificação não concluída. Toque para começar de novo</string>
   <string name="hints_scan_result_phone_safe">Seguro</string>
   <string name="hints_scan_result_safe">Seguro</string>
-  <string name="hints_scanning">A verificar</string>
-  <string name="hints_scanning_text">A verificar</string>
+  <string name="hints_scanning">"A verificar "</string>
+  <string name="hints_scanning_text">"A verificar "</string>
   <string name="hints_virus_apk_list_item_summary">apk</string>
   <string name="hints_virus_apk_summary">%s (apk)</string>
   <string name="hints_virus_app_list_item_summary">aplicação</string>

@@ -467,7 +467,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="debug_view_attributes">Activar visualização de atributos</string>
   <string name="default_lockscreen_unlock_hint_text">Deslizar para cima para desbloquear</string>
   <string name="default_theme">Predefinido</string>
-  <string name="delete">Eliminar</string>
+  <string name="delete">ELIMINAR</string>
   <string name="demo_mode">Modo demonstração</string>
   <string name="description_direction_left">Deslize para a esquerda para %s</string>
   <string name="description_direction_up">Deslize para cima para %s</string>

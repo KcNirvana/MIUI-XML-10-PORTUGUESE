@@ -134,6 +134,7 @@
   <string name="item_resource_audio_optional_color_ring">Toque de retorno</string>
   <string name="item_resource_audio_optional_notification_ring">Notificações</string>
   <string name="item_resource_audio_optional_phone_ring">Toques</string>
+  <string name="lab">Funcionalidades Beta</string>
   <string name="live_wallpaper">Papéis de parede animados</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_resource_detail_fail">Não é possível carregar o recurso</string>
@@ -510,6 +511,7 @@
   <string name="theme_purchased_non_local">Online</string>
   <string name="theme_select_others">Explorar</string>
   <string name="theme_setting">Definições</string>
+  <string name="theme_to_comment">Nada mau!</string>
   <string name="theme_user_agreement_allow">Concordar</string>
   <string name="theme_user_agreement_content1">"Ao utilizar este produto, está a concordar com "</string>
   <string name="theme_user_agreement_content2">Termos de Utilização</string>
