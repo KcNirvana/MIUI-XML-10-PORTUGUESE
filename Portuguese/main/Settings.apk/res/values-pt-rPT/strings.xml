@@ -231,8 +231,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="aod_clock_style_title">Estilo de relógio</string>
   <string name="aod_close_color_inversion">Esta funcionalidade não pode ser utilizada com a inversão de cores. Desligue a inversão de cores</string>
   <string name="aod_got_it">Percebi</string>
-  <string name="aod_lock_screen_date">"EEEE, d de MMMM"</string>
-  <string name="aod_lock_screen_date_12">"EEEE, d de MMMM"</string>
+  <string name="aod_lock_screen_date">"EE, d de MMMM"</string>
+  <string name="aod_lock_screen_date_12">"EE, d de MMMM"</string>
   <string name="aod_mode_bg">Segundo plano</string>
   <string name="aod_mode_clock">Relógio</string>
   <string name="aod_mode_style">Estilo de relógio</string>
@@ -1204,6 +1204,8 @@ Para continuar a utilizar o telefone, deve executar um restauro de fábrica. Qua
   <string name="cutout_mode_default">Auto</string>
   <string name="cutout_mode_settings_title">Algumas aplicações podem ser mostradas incorrectamente se personalizar o modo como o entalhe é mostrado</string>
   <string name="cutout_mode_title">Entalhe em aplicações individuais</string>
+  <string name="cutout_type_desc">Ligar para suavizar as curvas de entalhe</string>
+  <string name="cutout_type_title">Ajuste da forma do entalhe</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermelho-verde)</string>
   <string name="daltonizer_mode_disabled">Desactivado</string>
   <string name="daltonizer_mode_monochromacy">Monocromacia</string>
@@ -2479,6 +2481,7 @@ para o Segundo espaço"</string>
   <string name="lockscreen_settings_title">Preferências do ecrã de bloqueio</string>
   <string name="login_account_dialog_message">Iniciar sessão com a sua Conta Mi e ligue a sincronização com a Mi Cloud</string>
   <string name="login_account_dialog_title">Iniciar sessão com a sua Conta Mi</string>
+  <string name="login_account_summary">Gerir contas, serviços cloud, pagamentos e mais</string>
   <string name="login_action">Iniciar sessão</string>
   <string name="long_press_back_key">Toque longo no botão Voltar</string>
   <string name="long_press_buttom_key">Toque longo no botão Voltar no ecrã de bloqueio</string>
@@ -2696,6 +2699,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_lab_slogan">Aprender. Explorar. Descobrir.</string>
   <string name="miui_lab_super_resolution_title">Super resolução</string>
   <string name="miui_master_clear_summary">Elimina todos os dados do telefone</string>
+  <string name="miui_more_special_feature">Descobrir novas funcionalidades</string>
   <string name="miui_optimization_disabled">Desligar optimização MIUI</string>
   <string name="miui_sos_audio_summary">Reproduzir mensagem SOS após o contacto de emergência atender</string>
   <string name="miui_sos_audio_title">Mensagem de voz SOS</string>
@@ -2742,6 +2746,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_sos_settings_category">Definições SOS</string>
   <string name="miui_sos_statusbar_summary">Toque para desligar</string>
   <string name="miui_sos_statusbar_title">A emergência SOS está activada</string>
+  <string name="miui_special_feature">Funcionalidades especiais</string>
   <string name="miui_touch_filtered_warning">Se uma aplicação estiver a bloquear a janela de permissões,If an app is blocking a permissions dialog, arraste o item sobreposto para fora ou feche a aplicação</string>
   <string name="miui_updater">Actualizações</string>
   <string name="miui_userguide">Guia do utilizador</string>
@@ -2765,6 +2770,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="modify_instruction_password_settings">Definir palavra-passe</string>
   <string name="modify_privacy_password">Alterar palavra-passe</string>
   <string name="more_dangerous_option_hint">As funcionalidades de alto risco incluindo \"%1$s\" estão activas. Toque para alterar as definições</string>
+  <string name="more_installed_services_title">Mais serviços transferidos</string>
   <string name="move_app">Mover</string>
   <string name="move_app_failed_dlg_text">Não foi possível mover aplicação. %1$s</string>
   <string name="move_app_to_internal">Mover para o telefone</string>
@@ -3097,10 +3103,19 @@ Seleccione o seu sistema operativo:"</string>
   <string name="open_wifi_connect_title">Ligado a %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Este perfil de trabalho é gerido por:</string>
   <string name="optimization_cancel">Cancelar</string>
+  <string name="ota_disable_automatic_update">Actualizações de sistema automáticas</string>
+  <string name="otg_button">OTG</string>
+  <string name="otg_closed">Desligado</string>
+  <string name="otg_opened">Ligado</string>
+  <string name="otg_settings">OTG</string>
+  <string name="otg_tip">"O USB On-The-Go permite ligar pen drives e teclados portáteis USB ao seu dispositivo.
+
+O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="other_advanced_settings">Definições adicionais</string>
   <string name="other_device_info">Outros</string>
   <string name="other_personal_settings">Definições adicionais</string>
   <string name="other_relative">Outras</string>
+  <string name="other_settings_sync_settings">Sincronização</string>
   <string name="other_sound_category_preference_title">Outros sons e vibrações</string>
   <string name="other_sound_settings">Outros sons</string>
   <string name="others">Outros</string>
@@ -3902,6 +3917,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_oldman_mode_entry_name">Modo Leve;Modo Leve;Modo lite</string>
   <string name="search_onekey_migrate">Mi Mover;Migração num clique</string>
   <string name="search_other_advanced_settings">Definições adicionais;Definições adicionais</string>
+  <string name="search_other_settings_sync_settings">Sincronização;Automático;Apenas Wi-Fi</string>
   <string name="search_owner_info_settings_title">Info. do proprietário</string>
   <string name="search_page_layout_settings">Tamanho do texto;Tamanho da fonte;Fonte pequena;Fonte grande;Fonte média;Fonte EEG;Fonte enorme;Tamanho de fonte</string>
   <string name="search_permission_manager">Permissões;Acesso root</string>
@@ -3964,6 +3980,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_trusted_credentials">Credenciais fidedignas;Assinatura da aplicação;Assinaturas da aplicação;Credenciais;Assinatura</string>
   <string name="search_tts_settings_title">Saída de texto para voz;TTS</string>
   <string name="search_turn_on_security_lock">Escolher bloqueio de ecrã;Bloqueio de ecrã;Adicionar bloqueio de ecrã;Bloqueio de ecrã</string>
+  <string name="search_unlogin_account_title">Conta Mi;ID Conta Mi;Conta;ID Conta</string>
   <string name="search_usb_tethering_button_text">Partilha de ligação USB;Partilha de ligação;USB</string>
   <string name="search_user_agreement">Termos de Serviço</string>
   <string name="search_user_dict_settings_title">Dicionário pessoal;Dicionário</string>
@@ -4634,7 +4651,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="system_alert_window_on">Sim</string>
   <string name="system_alert_window_settings">Sobreposição a outras aplicações</string>
   <string name="system_alert_window_summary">%1$d de %2$d aplicações permitidas a sobreporem-se a outras aplicações</string>
-  <string name="system_and_device_section_title">Sistema e dispositivo</string>
+  <string name="system_and_device_section_title">Definições de sistema</string>
   <string name="system_app">(Sistema)</string>
   <string name="system_app_settings">Aplicações de sistema</string>
   <string name="system_apps_updater">Actualizar aplicações de sistema</string>
@@ -4704,6 +4721,7 @@ Uma abordagem da Google à sincronização de dados, que permite aceder aos cont
   <string name="to_close">Desligar</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduzir palavra-passe</string>
   <string name="toast_need_login">Iniciar sessão na sua Conta Mi</string>
+  <string name="toast_sta_ap_works_wifi_display_disable">Não é possível transmitir quando o PA Móvel está ligado</string>
   <string name="total">Não incomodar</string>
   <string name="total_info">Silenciar sons e desligar vibração excepto para os alarmes</string>
   <string name="total_info_no_vibrator">Silenciar sons excepto para os alarmes</string>
@@ -4875,6 +4893,8 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="unlock_set_unlock_pin_title">PIN</string>
   <string name="unlock_set_unlock_summary">Definir um bloqueio de ecrã</string>
   <string name="unlock_setup_wizard_fingerprint_details">Assim que configurar um bloqueio de ecrã, também pode configurar a sua impressão digital em Definições &gt; Segurança</string>
+  <string name="unlogin_account_summary">Todos os serviços Mi. Uma Conta Mi</string>
+  <string name="unlogin_account_title">Início de sessão Conta Mi</string>
   <string name="unmute_sound_title">Som de restauro do som</string>
   <string name="unmount_inform_text">O armazenamento USB vai ser desmontado</string>
   <string name="unrestrict_max_aspect_ratio_title">Estas aplicações estão optimizadas para o modo ecrã inteiro</string>

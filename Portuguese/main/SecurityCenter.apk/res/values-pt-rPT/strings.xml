@@ -1883,6 +1883,7 @@ Esta funcionalidade não é suportada para aplicações de sistema"</string>
   <string name="section_title_clear_acc">Limpar cache</string>
   <string name="section_title_security_defend">Segurança</string>
   <string name="section_title_system">Segurança do sistema</string>
+  <string name="security_center_slogan">Segurança. Sempre alerta</string>
   <string name="security_scan_optimizing">A optimizar…</string>
   <string name="see_detail">Detalhes</string>
   <string name="see_more_content">Actualize o centro de jogos para ver mais destaques</string>
@@ -2248,6 +2249,9 @@ Esta funcionalidade não é suportada para aplicações de sistema"</string>
   <string name="thermal_tips_message">Jogar no modo desempenho pode levar a sobreaquecimento</string>
   <string name="thermal_tips_title">Atenção</string>
   <string name="third_application">Aplicações instaladas</string>
+  <string name="third_desktop_dialog_content">Como os launchers de terceiros podem ter vários problemas, apenas os launchers verificados pela MIUI pode ser definidos como predefinidos</string>
+  <string name="third_desktop_dialog_ok">Percebi</string>
+  <string name="third_desktop_dialog_title">Erro</string>
   <string name="three_percent_total_pkg">%s (3%% dos dados mensais)</string>
   <string name="tips_dialog_title">Não sabe o seu limite</string>
   <string name="tips_message">Para ver o detalhe do seu plano de dados, marque %2$s (%1$s)</string>

@@ -26,7 +26,7 @@
   <string name="activity_main_update_time">Actualizado %1$s</string>
   <string name="activity_main_update_time_expire">Dados expirados</string>
   <string name="activity_main_update_time_right_now">agora mesmo</string>
-  <string name="activity_minute_rain_location_fail_msg">Não foi possível encontrar localização. A localização predefinida do mapa é Pequim</string>
+  <string name="activity_minute_rain_location_fail_msg">Não foi possível obter uma localização precisa. Alterado para a cidade actual</string>
   <string name="activity_weathermain_locationg">A localizar…</string>
   <string name="activity_weathermain_locationg_error">Não foi possível encontrar localização</string>
   <string name="add_city">Adicionar</string>

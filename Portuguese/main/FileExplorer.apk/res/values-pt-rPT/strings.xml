@@ -74,7 +74,6 @@
   <string name="category_type_other">Outros</string>
   <string name="category_video">Vídeos</string>
   <string name="category_zip">Ficheiros</string>
-  <string name="change_sticker">Escolher outro sticker</string>
   <string name="choose_report_comment_reason">Porque é que está a reportar este comentário?</string>
   <string name="choose_report_reason">Porque é que está a reportar este vídeo?</string>
   <string name="clean_hint">Toque para libertar espaço</string>
@@ -658,7 +657,6 @@
   <string name="video_upload_retry_title">Tente novamente</string>
   <string name="video_upload_title">Seleccionar vídeo</string>
   <string name="video_uploaded">Carregado</string>
-  <string name="view_more_sticker">Ver mais stickers</string>
   <string name="wechat_btn_bind">WeChat</string>
   <string name="wechat_platform">WeChat</string>
   <string name="wechat_video">Vídeo em %s</string>

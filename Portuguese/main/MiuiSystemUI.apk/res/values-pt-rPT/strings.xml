@@ -280,6 +280,8 @@
   <string name="alarm_template_far">em %1$s</string>
   <string name="always_use_accessory">Utilizar por predefinição para este acessório USB</string>
   <string name="always_use_device">Utilize por predefinição para este dispositivo USB</string>
+  <string name="aod_lock_screen_date">"EE, d 'de' MMMM"</string>
+  <string name="aod_lock_screen_date_12">"EE, d 'de' MMMM"</string>
   <string name="app_info">Informação da aplicação</string>
   <string name="app_label">UI de Sistema</string>
   <string name="app_name">Ecrã de bloqueio</string>
@@ -608,6 +610,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_rotated_right">Vire a sua cabeça para a esquerda</string>
   <string name="face_unlock_sc_status">Puxe para abrir a câmara</string>
   <string name="face_unlock_stay_away_screen">Mantenha-se 25 a 40 cm afastado do ecrã</string>
+  <string name="face_unlock_success">Dados do rosto verificados com sucesso</string>
   <string name="face_unlock_success_stay_screen_msg">Manter-se no ecrã de bloqueio após o rosto ser verificado. Deslizar para cima para abrir o ecrã inicial</string>
   <string name="face_unlock_success_stay_screen_title">Manter-se no ecrã de bloqueio após desbloquear</string>
   <string name="failed_to_open_app_settings_toast">Não foi possível abrir definições de %1$s</string>
@@ -1300,6 +1303,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_wifi_off_label">Wi-Fi desligado</string>
   <string name="quick_settings_wifi_on_label">Wi-Fi ligado</string>
   <string name="quick_settings_work_mode_label">Modo trabalho</string>
+  ~<string name="rapid_charge_mode_tip">Carregamento rápido</string>
   <string name="recent_cannot_dock">Não é possível utilizar o ecrã dividido no Segundo espaço</string>
   <string name="recent_dock_tip">Toque para seleccionar aplicações</string>
   <string name="recent_menu_item_info">Info</string>

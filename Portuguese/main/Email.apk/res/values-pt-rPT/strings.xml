@@ -443,6 +443,7 @@
   <string name="folder_drafts_name_en0">Rascunhos</string>
   <string name="folder_drafts_name_en1">Rascunho</string>
   <string name="folder_drafts_name_en2">[Gmail]/Rascunhos</string>
+  <string name="folder_empty_to_fresh">O email não está sincronizado. Puxe para actualizar</string>
   <string name="folder_junk_name_cn0">Spam</string>
   <string name="folder_junk_name_cn1">Lixo</string>
   <string name="folder_junk_name_cn2">[Gmail]/Spam</string>
@@ -453,6 +454,7 @@
   <string name="folder_junk_name_en4">Lixo</string>
   <string name="folder_list_display_all">Mostrar todas as pastas</string>
   <string name="folder_list_display_only_import">Mostrar apenas pastas importantes</string>
+  <string name="folder_no_mails">Sem emails nesta pasta</string>
   <string name="folder_picker_title">Seleccionar pastas</string>
   <string name="folder_removed">Removido de %1$s</string>
   <string name="folder_sent_name_cn0">Enviado</string>
@@ -1053,6 +1055,7 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definiç�
   <string name="widget_other_views">Outros</string>
   <string name="wipe_account_fail_description">Toque aqui para obter permissões</string>
   <string name="wipe_account_fail_title">Erro ao eliminar informações pessoais</string>
+  <string name="wipe_account_fail_description_remind">Devido a permissões, pode haver dados residuais nos calendários e contactos após eliminar a conta, elimine-a manualmente</string>
   <string name="wps_title">Email WPS</string>
   <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="yes">Sim</string>

@@ -173,6 +173,12 @@
   <string name="miuishare_title_share">Partilhar</string>
   <string name="miuishare_wechat_timeline_title">Momentos Wechat</string>
   <string name="miuishare_weibo_title">Weibo</string>
+  <string name="mix_global_option">Geral</string>
+  <string name="mix_global_option_des">Notificações, Telefone, Mensagens e outros elementos do sistema</string>
+  <string name="mix_home_option_des">Papel de parede e relógio</string>
+  <string name="mix_icons_option_des">Ícones do ecrã inicial</string>
+  <string name="mix_lockscreen_option_des">Papel de parede e relógio</string>
+  <string name="mix_tip">Componentes do tema</string>
   <string name="multi_sim_ringtone_settings_dialog_message">O toque vai ser aplicado a ambos os cartões SIM</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Percebi</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">Não mostrar novamente</string>
@@ -570,7 +576,7 @@
   <string name="wallpaper_personal_dialog_title">Personalização de papéis de parede</string>
   <string name="wallpaper_scroll_type_tips">Slideshow de papéis de parede</string>
   <string name="wallpaper_set_as_both">Definir ambos</string>
-  <string name="wallpaper_set_as_desktop">Definir como ecrã principal</string>
+  <string name="wallpaper_set_as_desktop">Definir como ecrã inicial</string>
   <string name="wallpaper_set_as_float_wallpaper">Papel de parede transparente (Beta)</string>
   <string name="wallpaper_set_as_lockscreen">Definir como ecrã de bloqueio</string>
   <string name="wallpaper_settings">Definições do papel de parede</string>

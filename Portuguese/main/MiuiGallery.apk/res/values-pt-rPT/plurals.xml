@@ -144,9 +144,9 @@
         <item quantity="other">%1$d fotos ignoradas devido a erros na renderização</item>
         <item quantity="one">1 foto ignorada devido a erros na renderização</item>
     </plurals>
-    <plurals name="file_count_format">
-        <item quantity="other">%1$d itens no total</item>
-        <item quantity="one">%1$d item no total</item>
+    <plurals name="video_count_format">
+        <item quantity="other">%1$d ficheiros</item>
+        <item quantity="one">%1$d ficheiro</item>
     </plurals>
     <plurals name="number_of_images_and_videos_to_upload">
         <item quantity="other">%1$d itens a aguardar para serem copiados</item>
@@ -179,6 +179,10 @@
     <plurals name="number_of_videos_to_upload">
         <item quantity="other">%1$d vídeos a aguardar para serem copiados</item>
         <item quantity="one">1 vídeo a aguardar para ser copiado</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">%1$d itens no total</item>
+        <item quantity="one">%1$d item no total</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
         <item quantity="other">As fotos seleccionadas não estão no dispositivo. Transferir utilizando os dados móveis?</item>

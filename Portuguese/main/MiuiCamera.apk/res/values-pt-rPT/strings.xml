@@ -9,7 +9,7 @@
   <string name="accessibility_beauty_panel_open">Menu Embelezar ligado</string>
   <string name="accessibility_beauty_switch_closed">Embelezar desligado</string>
   <string name="accessibility_beauty_switch_open">Embelezar ligado</string>
-  <string name="accessibility_bokeh_adjust">A ajustar efeito blur</string>
+  <string name="accessibility_bokeh_adjust">A ajustar efeito desfocar</string>
   <string name="accessibility_bokeh_level">Abertura f%1$s</string>
   <string name="accessibility_bokeh_normal">Efeito desfocar da câmara desligado</string>
   <string name="accessibility_bokeh_on">Efeito desfocar da câmara ligado</string>
@@ -67,7 +67,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="ai_scene_top_moon_off">Modo luz fraca</string>
   <string name="ai_scene_top_tip">Modo Lua</string>
   <string name="audio_focus_exit_button_text">Desligar Focagem Áudio</string>
-  <string name="autozoom_click_hint">Toque num objecto para começar o rastreio. Mantenha-se a pelo menos 3 metros para um efeito melhor</string>
+  <string name="autozoom_click_hint">Toque num objecto para o manter em foco enquanto se mexe. Mantenha-se a pelo menos 3 metros para um efeito melhor</string>
   <string name="autozoom_disabled_hint">O rastreio foi parado</string>
   <string name="autozoom_hint">Rastreio de objectos</string>
   <string name="autozoom_landscape_hint">Utilize o modo retrato para um melhor efeito</string>
@@ -266,6 +266,8 @@ no modo Retrato"</string>
   <string name="live_sticker_fragment_tab_name">Stickers</string>
   <string name="live_sticker_network_error_hint">Erro de rede</string>
   <string name="live_sticker_updating">A actualizar…</string>
+  <string name="macro_mode">Macro</string>
+  <string name="macro_mode_tip">A distância entre as lentes e o objecto não deve exceder 10cm</string>
   <string name="message_snap_double_confirm">Toque longo no botão Volume liga o NFC. Substituir esta funcionalidade?</string>
   <string name="module_name_beauty">Embelezar</string>
   <string name="module_name_capture">Foto</string>
@@ -313,7 +315,7 @@ o fundo nas suas fotos"</string>
   <string name="portrait_mode_lowlight_hint">Está demasiado escuro</string>
   <string name="portrait_mode_too_close_hint">Está demasiado perto do objecto</string>
   <string name="portrait_mode_too_far_hint">Coloque o objecto a mais ou menos 2 metros</string>
-  <string name="portrait_mode_use_hint_for_bokeh">"Experimento o Modo Retrato.
+  <string name="portrait_mode_use_hint_for_bokeh">"Experimente o Modo Retrato.
 Mantenha a pessoa nítida ao desfocar o fundo"</string>
   <string name="portrait_mode_use_hint">"O Modo Retrato desfoca o fundo
 e traz as pessoas que estão na frente"</string>
@@ -379,6 +381,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_device_watermark_title">"Marca d'água"</string>
   <string name="pref_camera_dual_enable_title">Ligar câmara dupla</string>
   <string name="pref_camera_dual_sat_enable_title">Ligar câmara SAT dupla</string>
+  <string name="pref_camera_exposuretime_entry_auto">Automático</string>
   <string name="pref_camera_face_info_watermark_title">Adicionar idade na foto</string>
   <string name="pref_camera_facedetection_auto_hidden_title">Ocultar moldura de detecção de rosto automaticamente</string>
   <string name="pref_camera_facedetection_title">Detecção de rosto</string>
@@ -520,6 +523,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_ultra_wide_ldc_description">Corrigir objectos distorcidos automaticamente</string>
   <string name="pref_camera_ultra_wide_ldc_title">Correção de distorção em disparos amplos</string>
   <string name="pref_camera_ultra_wide_mode_title">Modo ângulo amplo</string>
+  <string name="pref_camera_video_bokeh_off">Efeito desfocar desligado</string>
+  <string name="pref_camera_video_bokeh_on">Efeito desfocar</string>
   <string name="pref_camera_video_duration_entry_10">10 minutos</string>
   <string name="pref_camera_video_duration_entry_120">Sem limite</string>
   <string name="pref_camera_video_duration_entry_30">30 minutos</string>

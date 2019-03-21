@@ -95,7 +95,7 @@
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_services">Serviços</string>
   <string name="default_folder_title_tools">Ferramentas</string>
-  <string name="default_screen_preview_title">Toque para definir o ecrã predefinido</string>
+  <string name="default_screen_preview_title">Definir o ecrã predefinido</string>
   <string name="delete">Eliminar</string>
   <string name="delete_screen">Eliminar ecrã</string>
   <string name="delete_wallpaper_message">Eliminar %1$d papel de parede?</string>
@@ -103,15 +103,13 @@
   <string name="disable_wallpaper_scroll">Desligar efeito de movimento</string>
   <string name="double_tap_to_lock_title">Duplo toque no ecrã para bloquear</string>
   <string name="download_action">Transferir</string>
-  <string name="dual_app">Aplicações clonadas</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$2d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+  <string name="dual_app">Clonar aplicações</string>
   <string name="edit_folder_title">Editar nome da pasta</string>
   <string name="edit_mode_group">Agrupar</string>
   <string name="edit_mode_group_error_full">Sem espaço suficiente</string>
   <string name="edit_mode_group_error_in_folder">Feche a pasta antes de agrupar ícones</string>
   <string name="edit_mode_group_error_one_folder">Não é possível duplicar uma pasta com os ícones seleccionados</string>
+  <string name="edit_mode_top_menu_finish">Concluído</string>
   <string name="edit_mode_uninstall">Desinstalar</string>
   <string name="editing_add_widget_tips">Editar widgets</string>
   <string name="editing_mode_enter_tip_text">Junte ou afaste dois ou mais dedos para editar o ecrã inicial</string>
@@ -213,6 +211,7 @@
   <string name="menu_default_screen_preview">Definir o ecrã predefinido</string>
   <string name="menu_edit">Editar ecrã inicial</string>
   <string name="menu_exit_scene">Sair do Espaço Mi</string>
+  <string name="menu_finish">Concluído</string>
   <string name="menu_item_add_item">Colocar no ecrã inicial</string>
   <string name="menu_launcher_setting">Definições do launcher</string>
   <string name="menu_lock">Bloquear o layout do ecrã inicial</string>
@@ -339,7 +338,6 @@
   <string name="uninstall_xspace_dialog_title_format">Desinstalar aplicação clonada %s?</string>
   <string name="unknown_artist_name">Artista desconhecido</string>
   <string name="unnamed_folder_name">Pasta</string>
-  <string name="use_theme_screen_cells_title">Permitir que o tema sobreponha o layout do ecrã</string>
   <string name="wallpaper">Papel de parede</string>
   <string name="wallpaper_auto_change_title">Ecrã de bloqueio</string>
   <string name="wallpaper_failed_message">Não foi possível definir</string>
@@ -353,4 +351,5 @@
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Pesquisar</string>
   <string name="widget_quick_function">Funções rápidas</string>
+  <string name="widgets_preview_title">Adicionar widget</string>
 </resources>

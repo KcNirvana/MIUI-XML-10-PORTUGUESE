@@ -46,6 +46,8 @@
   <string name="HIPS_Perm_Settings_Desc">modificar definições de sistema</string>
   <string name="HIPS_Perm_SystemAlert">Mostrar notificações pop-up</string>
   <string name="HIPS_Perm_SystemAlert_Desc">mostrar notificações pop-up</string>
+  <string name="HIPS_Perm_UDevice_ID">Partilhar informações do dispositivo com os programadores de jogo para os ajudar a melhorar a sua experiência de jogo</string>
+  <string name="HIPS_Perm_UDevice_ID_DESC">partilhar informações do dispositivo com os programadores de jogo para os ajudar a melhorar a sua experiência de jogo</string>
   <string name="HIPS_Perm_VideoRecorder">Aceder à câmara</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">aceder à câmara para tirar fotos ou vídeos</string>
   <string name="HIPS_Perm_WIFI_Connectivity">Alterar conectividade do Wi-Fi</string>
