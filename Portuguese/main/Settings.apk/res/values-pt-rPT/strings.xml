@@ -2699,7 +2699,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_lab_slogan">Aprender. Explorar. Descobrir.</string>
   <string name="miui_lab_super_resolution_title">Super resolução</string>
   <string name="miui_master_clear_summary">Elimina todos os dados do telefone</string>
-  <string name="miui_more_special_feature">Descobrir novas funcionalidades</string>
+  <string name="miui_more_special_feature">Novas funcionalidades</string>
   <string name="miui_optimization_disabled">Desligar optimização MIUI</string>
   <string name="miui_sos_audio_summary">Reproduzir mensagem SOS após o contacto de emergência atender</string>
   <string name="miui_sos_audio_title">Mensagem de voz SOS</string>
@@ -3107,7 +3107,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="otg_button">OTG</string>
   <string name="otg_closed">Desligado</string>
   <string name="otg_opened">Ligado</string>
-  <string name="otg_settings">OTG</string>
+  <string name="otg_settings">USB OTG</string>
   <string name="otg_tip">"O USB On-The-Go permite ligar pen drives e teclados portáteis USB ao seu dispositivo.
 
 O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>

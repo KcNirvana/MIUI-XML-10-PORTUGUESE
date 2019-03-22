@@ -454,7 +454,7 @@
   <string name="folder_junk_name_en4">Lixo</string>
   <string name="folder_list_display_all">Mostrar todas as pastas</string>
   <string name="folder_list_display_only_import">Mostrar apenas pastas importantes</string>
-  <string name="folder_no_mails">Sem emails nesta pasta</string>
+  <string name="folder_no_mails">Sem emails</string>
   <string name="folder_picker_title">Seleccionar pastas</string>
   <string name="folder_removed">Removido de %1$s</string>
   <string name="folder_sent_name_cn0">Enviado</string>

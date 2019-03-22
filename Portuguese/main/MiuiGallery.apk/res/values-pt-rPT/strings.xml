@@ -266,7 +266,7 @@
   <string name="cleaner_video_action">Eliminar agora</string>
   <string name="cleaner_video_description">Eliminar vídeos que ocupam espaço</string>
   <string name="cleaner_video_pick_delete_selected">Eliminar vídeos seleccionados</string>
-  <string name="cleaner_video_title">Eliminar</string>
+  <string name="cleaner_video_title">Vídeos</string>
   <string name="click_download_gif">Toque para transferir GIF</string>
   <string name="click_top_right">Toque neste ícone</string>
   <string name="close">Fechar</string>
