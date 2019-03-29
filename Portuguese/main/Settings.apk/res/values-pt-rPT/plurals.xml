@@ -223,10 +223,6 @@
         <item quantity="other">Mostrar %d itens ocultos</item>
         <item quantity="one">Mostrar %d item oculto</item>
     </plurals>
-    <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">Os %1$d atalhos acima estão activos</item>
-        <item quantity="one">O %1$d atalho acima está activo</item>
-    </plurals>
     <plurals name="show_audio_logcat_countdown">
         <item quantity="other">Está a %1$d passos de criar um registo de áudio</item>
         <item quantity="one">Está a %1$d passo de criar um registo de áudio</item>

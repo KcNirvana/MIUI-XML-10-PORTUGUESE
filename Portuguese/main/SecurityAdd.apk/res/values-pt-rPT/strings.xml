@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Plugin do serviço de Segurança</string>
+  <string name="ad_downloading">A transferir…</string>
+  <string name="app_name">Plugin do serviço de sistema</string>
   <string name="cancel_button">Cancelar</string>
   <string name="fastboot_locked_answer_1">O fastboot é o método tradicional para flashar dispositivos Mi. Quando o dispositivo está no modo fastboot, todos os dados guardados nele podem ser facilmente conseguidos e eliminados. Nós bloqueamos o fastboot para certificar que os seus dados estão seguros em caso de perda do dispositivo</string>
   <string name="fastboot_locked_answer_2">Em caso de perda do dispositivo, o fastboot garante a segurança dos dados guardados nele. Se desbloquear o fastboot, não vai conseguir bloquear o dispositivo remotamente ou eliminar os seus dados utilizando o Localizar Dispositivo. Por isso, não recomendamos o desbloqueio do fastboot no seu dispositivo</string>
@@ -10,7 +11,6 @@
   <string name="fastboot_locked_question_3">Eu conheço os riscos mas necessito de desbloquear o meu dispositivo. O que devo fazer?</string>
   <string name="fastboot_status_locked_info">O fastboot não está desbloqueado neste dispositivo</string>
   <string name="fastboot_status_locked_summary">Não consigo ter acesso root</string>
-  <string name="fastboot_unlock_web_home">https://unlock.update.miui.com</string>
   <string name="fastboot_unlock_web_title">Vá ao site oficial da MIUI para obter a ferramenta de desbloqueio</string>
   <string name="game_booster">Acelerador de jogos</string>
   <string name="gamebox_no_network_btn">Actualizar</string>

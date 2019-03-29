@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+    <string-array name="feature_desc">
+       <item>Saudações matinais: Inscreva-se para receber saudações todas as manhãs</item>
+       <item>Combine o ecrã de bloqueio predefinido com temas personalizados para poder utilizar os papéis de parede aleatórios</item>
+    </string-array>
+ </resources>

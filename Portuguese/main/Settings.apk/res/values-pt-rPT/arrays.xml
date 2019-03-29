@@ -171,7 +171,8 @@
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráfico</item>
-        <item>Percentagem</item>
+        <item>Percentagem (no ícone)</item>
+        <item>Percentagem (ao lado)</item>
         <item>Barra no topo</item>
     </string-array>
     <string-array name="bearer_entries">
@@ -334,16 +335,6 @@
         <item>Padrão</item>
         <item>PIN</item>
         <item>Palavra-passe</item>
-    </string-array>
-    <string-array name="check_importance_entries">
-        <item>Recomendada</item>
-        <item>Importante</item>
-        <item>Não importante</item>
-    </string-array>
-    <string-array name="check_importance_summary">
-        <item>A MIUI decide que notificações devem aparecer</item>
-        <item>As notificações vão aparecer na área de notificações</item>
-        <item>As notificações vão aparecer numa pasta separada</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
@@ -744,6 +735,16 @@
         <item>Aumenta o desempenho do dispositivo</item>
         <item>Pode reduzir desempenho do dispositivo</item>
     </string-array>
+    <string-array name="fold_entries">
+        <item>Recomendada</item>
+        <item>Importante</item>
+        <item>Não importante</item>
+    </string-array>
+    <string-array name="fold_summaries">
+        <item>A MIUI decide que notificações devem aparecer</item>
+        <item>As notificações vão aparecer na área de notificações</item>
+        <item>As notificações vão aparecer numa pasta separada</item>
+    </string-array>
     <string-array name="handy_mode_size_text_entries">
         <item>4.5 polegadas</item>
         <item>4.0 polegadas</item>
@@ -1011,6 +1012,14 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>10 minutos</item>
         <item>Nunca</item>
     </string-array>
+    <string-array name="notification_shade_shortcut_entries">
+        <item>Pesquisa</item>
+        <item>Definições</item>
+    </string-array>
+    <string-array name="notification_style_entries">
+        <item>MIUI</item>
+        <item>Android</item>
+    </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Perguntar</item>
         <item>Nunca permitir</item>
@@ -1073,14 +1082,6 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     <string-array name="startup_hips_action">
         <item>Permitir</item>
         <item>Negar</item>
-    </string-array>
-    <string-array name="status_bar_settings_notification_shade_shortcut_entries">
-        <item>Pesquisa</item>
-        <item>Definições</item>
-    </string-array>
-    <string-array name="status_bar_settings_notification_style_entries">
-        <item>MIUI</item>
-        <item>Android</item>
     </string-array>
     <string-array name="status_bar_settings_qs_layout_entries">
         <item>Predefinido</item>

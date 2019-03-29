@@ -24,6 +24,8 @@
   <string name="add_music">Adicionar músicas</string>
   <string name="add_to_last_of_playlist">Adicionar ao fim da lista de reprodução</string>
   <string name="add_to_playlist_successful">Adicionado com sucesso</string>
+  <string name="added_next_play">Adicionada à seguinte</string>
+  <string name="agreement_desc">Termos de Utilização (obrigatório)</string>
   <string name="alaka_required">Deve pagar por esta música se a quiser ouvir</string>
   <string name="album_label">Capas do álbum</string>
   <string name="album_name">Álbum</string>
@@ -91,6 +93,7 @@
   <string name="current_version">Versão actual</string>
   <string name="data_usage_warning">Utilização de dados movéis</string>
   <string name="data_usage_warning_summary">Se utilizar a sua ligação de dados móveis para transmitir música de alta qualidade pode aumentar o consumo de dados</string>
+  <string name="data_use_desc">Documentos legais</string>
   <string name="date_format_str">dd-MM-yyyy</string>
   <string name="delete">Eliminar</string>
   <string name="delete_download">Eliminar</string>
@@ -323,6 +326,7 @@
   <string name="modify_progress">Editar o progresso da letra</string>
   <string name="modify_progress_helper">Deslize para cima e para baixo para ajustar o andamento letras</string>
   <string name="modify_song_info">Editar informações da música</string>
+  <string name="modify_song_info_success">As informações da música foram actualizadas</string>
   <string name="more">Mais</string>
   <string name="more_add_song_list">Adicionar à lista de reprodução</string>
   <string name="more_milink">Mi Link</string>
@@ -423,6 +427,7 @@
   <string name="preset_music_playlist">Lista de reprodução Mi Música</string>
   <string name="priority_storage">Guardar no cartão SD</string>
   <string name="priority_storage_summary">Guardar músicas automaticamente para o cartão SD</string>
+  <string name="privacy_desc">Política de Privacidade (obrigatório)</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="project_device">Telefone Mi</string>
   <string name="prompt_grant_write_settings_permission">Permitir alterar definições de sistema</string>

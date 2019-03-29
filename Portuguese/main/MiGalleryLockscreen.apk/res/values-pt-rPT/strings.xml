@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_download_fail">Não foi possível transferir</string>
+  <string name="about_downloading">A transferir %s</string>
+  <string name="about_item_function">Novas funcionalidades</string>
+  <string name="about_net_error">Verifique a sua ligação de rede e tente novamente</string>
+  <string name="about_newest">Os papéis de parede aleatórios estão actualizados</string>
+  <string name="about_update">Actualizar</string>
   <string name="ad_feed_badge">Anúncios</string>
   <string name="ad_pop_btn_hidden">Ocultar</string>
   <string name="ad_pop_des">Transferir:</string>
@@ -26,6 +32,7 @@
   <string name="cancel_international">Cancelar</string>
   <string name="cancel_lockscreen">Cancelar</string>
   <string name="cancel_network">Sair</string>
+  <string name="carousel_declaration_cta">"Os papéis de paredes aleatórios necessitam duma ligação à Internet para funcionar normalmente. Para obter acesso a conteúdo online, tem de concordar com a nossa &lt;a href='%s'&gt;Política de Privacidade&lt;/a&gt;. Concorda?"</string>
   <string name="carousel_declaration_des">Veja lugares lindos e obtenha surpresas excitantes com os papéis de parede aleatórios</string>
   <string name="carousel_declaration_des2">Adicione as suas imagens aos papéis de parede aleatórios</string>
   <string name="carousel_declaration_des_new">Receba recomendações personalizadas e escolha imagens novas todos os dias</string>
@@ -39,6 +46,10 @@
   <string name="choose_to_signup">Não. Vou criar um</string>
   <string name="clear_history">Limpar histórico de pesquisa</string>
   <string name="clear_search_edittext">Limpar</string>
+  <string name="comment_pop_cancel">Agora não</string>
+  <string name="comment_pop_content">Dê-nos um comentário se gostar!</string>
+  <string name="comment_pop_ok">Avaliar</string>
+  <string name="comment_pop_title">Avalie os papéis de parede aleatórios</string>
   <string name="create_shortcut">Criar atalho no ecrã inicial</string>
   <string name="confirm">Ligar</string>
   <string name="current_connection_invalid">Aguarde até que o dispositivo ligue à rede</string>
@@ -137,6 +148,15 @@
   <string name="lks_left_net_error">Não foi possível ligar à rede</string>
   <string name="lks_logo_desc2">Papéis de parede novos diariamente</string>
   <string name="lks_subscription_toast">Papel de parede alterado</string>
+  <string name="llks_pop_btm_des">Comece o dia com um sorriso</string>
+  <string name="llks_pop_btm_des_backup">Tenha um ótimo começo de dia</string>
+  <string name="llks_pop_btm_title">Bom dia</string>
+  <string name="llks_pop_btm_title_backup">Saudações matinais</string>
+  <string name="llks_pop_i_know">Percebi</string>
+  <string name="llks_pop_top_des">Receba novas imagens regularmente</string>
+  <string name="llks_pop_top_des_backup">Entregues no seu ecrã diariamente</string>
+  <string name="llks_pop_top_title">Novos papéis de parede</string>
+  <string name="llks_pop_top_title_backup">Imagens novas</string>
   <string name="load_hdpicture_complete">Imagem original carregada</string>
   <string name="loading">Aguarde…</string>
   <string name="like">Adicionar aos favoritos</string>
@@ -155,6 +175,7 @@
   <string name="mode_title">Recomendações</string>
   <string name="more_article">Mais artigos</string>
   <string name="need_open_gallery">Ligar papéis de parede aleatórios</string>
+  <string name="new_feature_title">O que há de novo</string>
   <string name="nick_name">Nome</string>
   <string name="no_long_show">Não mostrar novamente</string>
   <string name="ok_enable_network_prov">Concordar</string>
@@ -186,6 +207,8 @@
   <string name="search_menu_title">Pesquisar</string>
   <string name="search_str">Popular</string>
   <string name="select_package">Seleccionar versão</string>
+  <string name="setting_about_item_des">Versão</string>
+  <string name="setting_about_item_title">Acerca de papéis de parede aleatórios</string>
   <string name="setting_des">Pode definir os seus diapositivos em Definições &gt; Ecrã de bloqueio e palavra-passe &gt; Papéis de parede aleatórios</string>
   <string name="setting_head">Definições</string>
   <string name="setting_ok">Definições</string>
@@ -212,6 +235,7 @@
   <string name="sst_custom_wallpaper_desc">Seleccionar imagens da galeria e recomendações</string>
   <string name="sst_custom_wallpaper_title">Diapositivos personalizados</string>
   <string name="sst_custom_wallpaper_title2">Diapositivos</string>
+  <string name="sst_disable_unopen">Funcionalidade beta</string>
   <string name="sst_effect_next_wallpaper">Defina um novo papel de parede para aplicar as mudanças</string>
   <string name="sst_favor_desc">Ver favoritos</string>
   <string name="sst_favor_title">Favoritos</string>
@@ -224,6 +248,7 @@
   <string name="sst_mode_selection">Modo</string>
   <string name="sst_more_subscription">Mais subscrições</string>
   <string name="sst_morning_greeting_desc">Obtenha uma imagem nova todas as manhãs</string>
+  <string name="sst_morning_greeting_disable_toast">Esta funcionalidade vai estar disponível em breve</string>
   <string name="sst_morning_greeting_title">Saudações matinais</string>
   <string name="sst_new_feature">Novas funcionalidades</string>
   <string name="sst_no_favor_wallpaper_hint">Sem papéis de parede favoritos</string>
@@ -254,16 +279,18 @@
   <string name="sst_wifi_only_title">Actualizar papéis de parede utilizando dados móveis</string>
   <string name="subscribe_item_checked">Subscrito</string>
   <string name="subscribe_item_unchecked">Não subscrito</string>
-  <string name="summary">"Concordar com a nossa <a href ='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a> para ver conteúdo online"</string>
-  <string name="summary2">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente"</string>
-  <string name="summary_international">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'>Termos de Utilização</a> e <a href='http://www.miui.com/res/doc/privacy/en.html'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente"</string>
+  <string name="summary">"Concordar com a nossa <a href ='%s'>Política de Privacidade</a> para ver conteúdo online"</string>
+  <string name="summary2">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='%1$s'>Termos de Utilização</a> e <a href='%2$s'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente"</string>
+  <string name="summary_international">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='%1$s'>Termos de Utilização</a> e <a href='%2$s'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente"</string>
   <string name="tab_user_title_bar_text">Definições</string>
   <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
   <string name="theme_apply_success">Aplicado com sucesso</string>
   <string name="theme_applying">A aplicar…</string>
-  <string name="theme_des">Os papéis de parede aleatórios apenas suportam o tema predefinido da MIUI</string>
-  <string name="theme_ok">Definir tema predefinido</string>
-  <string name="theme_title">Não está a utilizar o tema predefinido</string>
+  <string name="theme_des">Aplicar o tema predefinido e ligar os papéis de parede aleatórios novamente</string>
+  <string name="theme_des_lock_style">Aplicar o ecrã de bloqueio predefinido e ligar os papéis de parede aleatórios novamente</string>
+  <string name="theme_ok">Definições</string>
+  <string name="theme_title">Alterar para o tema predefinido</string>
+  <string name="theme_title_lock_style">Alterar para o ecrã de bloqueio predefinido</string>
   <string name="ticket_hint">Código de verificação</string>
   <string name="ticket_invalid">O código introduzido não é válido</string>
   <string name="ticket_sign_in">Iniciar sessão via SMS</string>

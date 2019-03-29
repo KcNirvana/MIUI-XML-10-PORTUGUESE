@@ -125,6 +125,8 @@
   <string name="home_apply_failured">Não é possível definir papel de parede do ecrã inicial</string>
   <string name="home_apply_success">Papel de parede do ecrã inicial definido</string>
   <string name="in_the_end">Sem mais itens para mostrar</string>
+  <string name="incall_show_find_more">Procurar mais</string>
+  <string name="incall_show_title">Vídeos de perfil</string>
   <string name="incompatible_dialog_cancel">Não aplicar</string>
   <string name="incompatible_dialog_message">Este tema não é totalmente compatível com a versão MIUI instalada. Alguns elementos podem ser mostrados incorrectamente</string>
   <string name="incompatible_dialog_ok">Percebi</string>
