@@ -30,8 +30,7 @@
   <string name="agenda_month_empty_hint">Sem eventos hoje</string>
   <string name="agenda_tomorrow">AMANHÃ, %1$s</string>
   <string name="agenda_view">Eventos</string>
-  <string name="alarm_label">Rejeitar</string>
-  <string name="alert_reminder_divider">|</string>
+  <string name="alarm_label">Percebi</string>
   <string name="alert_reminder_expired">Expirado</string>
   <string name="alert_title">Notificações do calendário</string>
   <string name="anniversary_event_title">Aniversário: %1$s</string>
@@ -62,6 +61,7 @@
   <string name="can_not_modify_allday_event">Não é possível alterar evento de dia inteiro</string>
   <string name="can_not_modify_event">Não é possível alterar</string>
   <string name="can_not_modify_repeating_acrossing_days_event">Não é possível alterar eventos de vários dias</string>
+  <string name="cancel_reminder_later">Cancelar lembrete</string>
   <string name="change_response_title">Alterar resposta</string>
   <string name="check_reminded_text">Ver lembretes</string>
   <string name="chinese_leap">Intercalar</string>
@@ -112,6 +112,7 @@
   <string name="date_jump_title">Ir para a data</string>
   <string name="date_today">" (hoje)"</string>
   <string name="day_view_new_event_hint">+ Novo evento</string>
+  <string name="default_reminder_later_time">Intervalo predefinido para \"Lembrar mais tarde\"</string>
   <string name="default_reminder_mode">Lembretes</string>
   <string name="delete_recurring_event_title">Eliminar %s?</string>
   <string name="delete_this_event_title">Eliminar este evento?</string>
@@ -289,13 +290,15 @@
   <string name="more_string">+%1$s</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="new_event_description">Novo</string>
+  <string name="next_alarm_time">Próximo lembrete às %1$s</string>
   <string name="no_contact_birthday_hint">Sem aniversários para importar</string>
   <string name="no_events_hint">Sem eventos</string>
   <string name="no_network">"Não foi possível ligar à rede.
  Verifique as definições de rede e tente novamente"</string>
   <string name="no_network_btn">Tente novamente</string>
   <string name="no_title_label">(Sem título)</string>
-  <string name="no_visiable_calendar_message">É necessário adicionar uma conta do calendário. Clique em Adicionar conta para continuar</string>
+  <string name="no_visiable_calendar_message">É necessário adicionar uma conta do calendário. Toque em \"Adicionar conta\" para continuar</string>
+  <string name="no_visiable_calendar_message_only_for_xiaomi_account">É necessário adicionar uma conta do calendário. Toque em \"Adicionar conta\" para continuar</string>
   <string name="no_visiable_calendar_select_account">Adicionar conta</string>
   <string name="no_visiable_calendar_title">Adicionar conta</string>
   <string name="notification_channel_name">Lembretes do calendário</string>
@@ -332,6 +335,7 @@
   <string name="pull_to_refresh_hint">Puxe para carregar eventos de %1$d</string>
   <string name="refresh">Actualizar</string>
   <string name="refreshing_hint">Aguarde…</string>
+  <string name="reminder_later">Lembrar mais tarde</string>
   <string name="reminder_overdue">Expirado</string>
   <string name="repeat_activity_label">Repetir</string>
   <string name="repeat_custom_activity_label">Personalizar</string>

@@ -399,6 +399,7 @@
   <string name="sc_allow_network_dialog_message">Permitir que esta aplicação se ligue à Internet para obter actualizações?</string>
   <string name="scanning">A verificar…</string>
   <string name="search_history">Pesquisar histórico</string>
+  <string name="security_center_slogan">Segurança. Sempre de guarda</string>
   <string name="see_more">Mais</string>
   <string name="set_immediately">Definir</string>
   <string name="seton_immediately">Ligar</string>

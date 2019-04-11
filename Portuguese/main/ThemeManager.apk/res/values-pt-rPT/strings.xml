@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_setting_hint">"Toque no botão no canto superior direito para ligar este serviço.
+Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede transparentes nas aplicações seleccionadas"</string>
   <string name="accessibiliy_description_content_account">Perfil</string>
   <string name="accessibiliy_description_content_ad">Anúncios</string>
   <string name="accessibiliy_description_content_add_resource">Adicionar itens</string>
@@ -17,6 +19,8 @@
   <string name="add_resource_detail_fail">Não é possível adicionar recurso</string>
   <string name="all_resources">Todos</string>
   <string name="app_ad_title">Recomendações diárias</string>
+  <string name="app_disable_transparent_wallpaper">Sem papel de parede transparente</string>
+  <string name="app_enable_transparent_wallpaper">Com papel de parede transparente</string>
   <string name="app_name">Temas</string>
   <string name="apply_default_font_tip">Continuar a utilizar o tipo de letra do sistema?</string>
   <string name="apply_font_btn_exclude">Agora não</string>
@@ -72,6 +76,9 @@
   <string name="download_preview_failed">Não é possível carregar pré-visualização</string>
   <string name="download_success">Transferência concluída</string>
   <string name="dynamic_video_wallpaper">Papel de parede 24 horas</string>
+  <string name="enable_accessibility">Necessário permissões de acessibilidade</string>
+  <string name="enable_accessibility_hint">Pode ligar este serviço em Temas. Depois pode seleccionar que aplicações devem executar com papéis de parede transparentes</string>
+  <string name="enable_transparent_wallpaper">Utilizar papel de parede transparente</string>
   <string name="exit_extreme_mode_dialog_agree">Concordar</string>
   <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
   <string name="exit_extreme_mode_dialog_title">Sair do modo extremo</string>
@@ -84,7 +91,6 @@
   <string name="find_more_font">Procurar mais</string>
   <string name="find_more_theme">Procurar mais</string>
   <string name="find_more_wallpapers">Procurar mais</string>
-  <string name="float_wallpaper_is_here">Papel de parede transparente</string>
   <string name="gift_anonymous">Anónimo</string>
   <string name="gift_operation_fail_dlg_abandon">Cancelar</string>
   <string name="gift_operation_fail_dlg_retry">Tente novamente</string>
@@ -117,6 +123,7 @@
   <string name="gift_use_confirmation_dlg_title">Enviar este presente?</string>
   <string name="gift_use_fail_dlg_title">Erro</string>
   <string name="gift_used">Enviar</string>
+  <string name="go_accessibility_setting">Seleccionar</string>
   <string name="hide_free">Ocultar %1$s gratuitos</string>
   <string name="hide_incompatible">Ocultar %1$s incompatíveis</string>
   <string name="hide_pull_down_message">Ocultar?</string>
@@ -125,6 +132,12 @@
   <string name="home_apply_failured">Não é possível definir papel de parede do ecrã inicial</string>
   <string name="home_apply_success">Papel de parede do ecrã inicial definido</string>
   <string name="in_the_end">Sem mais itens para mostrar</string>
+  <string name="incall_show_apply">Vídeo de perfil para chamadas efectuadas</string>
+  <string name="incall_show_apply_fail">Não foi possível definir</string>
+  <string name="incall_show_apply_success">"Aplicado com sucesso. Para desligar esta funcionalidade,
+vá a Definições &gt; Sons e vibração &gt; Vídeos de perfil"</string>
+  <string name="incall_show_apply_success_without_ringtone">"Aplicado com sucesso. Este vídeo não tem som. Vai ser utilizado o toque original.
+Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt; Vídeos de perfil"</string>
   <string name="incall_show_find_more">Procurar mais</string>
   <string name="incall_show_title">Vídeos de perfil</string>
   <string name="incompatible_dialog_cancel">Não aplicar</string>
@@ -154,6 +167,7 @@
   <string name="lockscreen_magazine_title">Papéis de parede aleatórios</string>
   <string name="lockscreen_wallpaper">Ecrã de bloqueio</string>
   <string name="lockstyle_personal_settings">Personalizar</string>
+  <string name="loop_wallpaper_is_here">Apresentação de papéis de parede disponíveis</string>
   <string name="mi_wallpaper">Papéis de parede MIUI</string>
   <string name="miuishare_account_activate_confirmation">Activar Conta Mi</string>
   <string name="miuishare_account_activate_ok">Activar</string>
@@ -181,6 +195,7 @@
   <string name="mix_icons_option_des">Ícones do ecrã inicial</string>
   <string name="mix_lockscreen_option_des">Papel de parede e relógio</string>
   <string name="mix_tip">Componentes do tema</string>
+  <string name="multi_sim_mms_ringtone_settings_dialog_message">Este toque vai ser aplicado a ambos os cartões SIM</string>
   <string name="multi_sim_ringtone_settings_dialog_message">O toque vai ser aplicado a ambos os cartões SIM</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Percebi</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">Não mostrar novamente</string>
@@ -219,6 +234,7 @@
   <string name="purchased_list_current">Temas optimizados</string>
   <string name="purchased_list_legacy">Temas básicos</string>
   <string name="recently_used">Utilizados recentemente</string>
+  <string name="reenable_accessibility">Ocorreu um erro. Verifique as permissões de acessibilidade</string>
   <string name="refresh_footer_all_loaded">É tudo por agora</string>
   <string name="refresh_footer_failed">Não foi possível carregar informações</string>
   <string name="refresh_footer_finish">Carregado com sucesso</string>
@@ -459,6 +475,7 @@
   <string name="the_picture_is_too_small">A imagem é demasiado pequena</string>
   <string name="theme_apply_audio_dialog_item_alarm">Alarme</string>
   <string name="theme_apply_audio_dialog_item_color_ring_back_tone">Toque personalizado</string>
+  <string name="theme_apply_audio_dialog_item_mms">Toque de mensagens</string>
   <string name="theme_apply_audio_dialog_item_notification">Notificações</string>
   <string name="theme_apply_audio_dialog_item_ringtone">Toque</string>
   <string name="theme_apply_failured">Não foi possível aplicar</string>
@@ -544,11 +561,20 @@
   <string name="title_system_audio_resource">Toques do sistema</string>
   <string name="title_system_wallpaper_resource">Papéis de parede do sistema</string>
   <string name="to_activate_the_account">Activar a sua Conta Mi agora</string>
+  <string name="transparency_pref_summary">Escolher a transparência do papel de parede</string>
+  <string name="transparency_pref_title">Opacidade</string>
   <string name="transparent_wallpaper">Papel de parede transparente</string>
-  <string name="transparent_wallpaper_apply_success">Definido com sucesso. Pode desligar esta funcionalidade em Temas &gt; Perfil &gt; Funcionalidades Beta</string>
+  <string name="transparent_wallpaper_apply_success">Definido com sucesso</string>
+  <string name="transparent_wallpaper_disable">Desligado</string>
+  <string name="transparent_wallpaper_enable">Ligado</string>
   <string name="transparent_wallpaper_enable_success">Ligado com sucesso</string>
+  <string name="transparent_wallpaper_filter_pref_summary">Os papéis de parede transparentes não vão ser mostrados em aplicações restringidas</string>
+  <string name="transparent_wallpaper_filter_pref_title">Seleccionar aplicações que devem ser executadas com papéis de parede transparentes</string>
+  <string name="transparent_wallpaper_filter_set_successfully">Definido com sucesso</string>
+  <string name="transparent_wallpaper_filter_setting">Aplicações individualmente</string>
   <string name="transparent_wallpaper_guide">Ir para Temas</string>
   <string name="transparent_wallpaper_guide_tip">Pode seleccionar um papel de parede transparente nos Temas agora</string>
+  <string name="transparent_wallpaper_pref_summary">Papéis de parede com opacidade de fundo reduzida</string>
   <string name="transparent_wallpaper_white_wallpaper">Tornar o fundo branco</string>
   <string name="transparent_wallpaper_white_wallpaper_failed">Não é possível tornar o fundo branco</string>
   <string name="transparent_wallpaper_white_wallpaper_success">O fundo está branco agora</string>
@@ -572,14 +598,36 @@
   <string name="wallpaper_crop">Cortar</string>
   <string name="wallpaper_decoded_error">Não é possível carregar o papel de parede</string>
   <string name="wallpaper_detail_load_page_no_network">Ligue-se à rede e tente novamente</string>
+  <string name="wallpaper_loop_add_success">Adicionado com sucesso</string>
+  <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adicionado à apresentação</string>
+  <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Adicionado à apresentação</string>
+  <string name="wallpaper_loop_desc_all_walpaper">Criar uma apresentação personalizada</string>
+  <string name="wallpaper_loop_desc_desk_walpaper">Criar uma apresentação personalizada para o ecrã inicial</string>
+  <string name="wallpaper_loop_desc_lock_walpaper">Criar uma apresentação personalizada para o ecrã de bloqueio</string>
+  <string name="wallpaper_loop_interval_15min">A cada 15 minutos</string>
+  <string name="wallpaper_loop_interval_1d">Todos os dias</string>
+  <string name="wallpaper_loop_interval_1h">A cada hora</string>
+  <string name="wallpaper_loop_interval_desc">Definir um intervalo de tempo para a apresentação</string>
+  <string name="wallpaper_loop_interval_title">Alterar papel de parede</string>
+  <string name="wallpaper_loop_manage">Gerir</string>
+  <string name="wallpaper_loop_more_options">Definições adicionais</string>
+  <string name="wallpaper_loop_my_desk_wallpaper">Os meus papéis de parede do ecrã inicial</string>
+  <string name="wallpaper_loop_my_lock_wallpaper">Os meus papéis de parede do ecrã de bloqueio</string>
+  <string name="wallpaper_loop_order_desc">Seleccionar a ordem em que os slides aparecem</string>
+  <string name="wallpaper_loop_order_loop">Original</string>
+  <string name="wallpaper_loop_order_shuffle">Aleatório</string>
+  <string name="wallpaper_loop_order_title">Ordenação</string>
+  <string name="wallpaper_loop_title">Apresentação de papéis de parede</string>
+  <string name="wallpaper_loop_title_desk_wallpaper">Apresentação de papéis de parede do ecrã inicial</string>
+  <string name="wallpaper_loop_title_lock_walpaper">Apresentação de papéis de parede do ecrã de bloqueio</string>
   <string name="wallpaper_personal_dialog_agree">Personalizar</string>
   <string name="wallpaper_personal_dialog_content">Utilize esta funcionalidade para ver uma selecção de papéis de parede personalizado consoante os seus interesses. Pode desligar esta funcionalidade nas definições. Personalizar agora?</string>
   <string name="wallpaper_personal_dialog_disagree">Não, obrigado</string>
   <string name="wallpaper_personal_dialog_title">Personalização de papéis de parede</string>
-  <string name="wallpaper_scroll_type_tips">Slideshow de papéis de parede</string>
+  <string name="wallpaper_scroll_type_tips">Apresentação de papéis de parede</string>
   <string name="wallpaper_set_as_both">Definir ambos</string>
   <string name="wallpaper_set_as_desktop">Definir como ecrã inicial</string>
-  <string name="wallpaper_set_as_float_wallpaper">Papel de parede transparente (Beta)</string>
+  <string name="wallpaper_set_as_float_wallpaper">Definir como papel de parede transparente</string>
   <string name="wallpaper_set_as_lockscreen">Definir como ecrã de bloqueio</string>
   <string name="wallpaper_settings">Definições do papel de parede</string>
   <string name="wallpaper_settings_loading_text">Aguarde…</string>

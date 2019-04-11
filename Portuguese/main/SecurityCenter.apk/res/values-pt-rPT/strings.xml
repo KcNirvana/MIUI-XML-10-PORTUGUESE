@@ -186,6 +186,7 @@
   <string name="app_manager_factory_reset">Desinstalar actualizações</string>
   <string name="app_manager_factory_reset_dlg_msg">Todas as actualizações desta aplicação vão ser desinstaladas</string>
   <string name="app_manager_factory_reset_dlg_title">Desinstalar actualizações?</string>
+  <string name="app_manager_find_apps">Procurar aplicações</string>
   <string name="app_manager_force_stop_dlg_text">Se forçar a paragem desta aplicação, ela pode funcionar mal</string>
   <string name="app_manager_force_stop_dlg_title">Forçar paragem</string>
   <string name="app_manager_full_screen_summary">Permitir que as aplicações seleccionadas funcionem em modo ecrã inteiro</string>
@@ -992,6 +993,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_msg_transparent_dispaly_summary">Transparência</string>
   <string name="gb_network_status_bad">Não foi possível ligar à rede</string>
   <string name="gb_new_feature">Nova funcionalidade</string>
+  <string name="gb_shortcut_pref_title">Atalho de ecrã inicial</string>
   <string name="gb_sign_notification_title">"Aumentar a velocidade de rede para jogos "</string>
   <string name="gs_slip_gamebox_detail">Utilize o controlo para fazer o painel de atalhos aparecer</string>
   <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa <a href='http://www.miui.com/res/doc/privacy/pt.html'>Política de Privacidade</a>"</string>
@@ -1020,7 +1022,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gs_game_net_priority">Prioridades de ligação</string>
   <string name="gs_game_net_priority_detail">Limitar a velocidade de transferências para ter banda suficiente para jogar</string>
   <string name="gs_game_performance">Desempenho</string>
-  <string name="gs_game_shortcut">Melhore a sua experiência de jogo</string>
+  <string name="gs_game_shortcut">Melhorar a sua experiência de jogo</string>
   <string name="gs_gamebox">Atalhos</string>
   <string name="gs_gamebox_detail">Mostrar painel de atalhos</string>
   <string name="gs_gamebox_slip">Puxar para abrir</string>
@@ -1489,7 +1491,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="optimize_result_button_update_now">Actualizar</string>
   <string name="optimize_result_summary_sucurity_risk">Algumas definições de segurança estão desligadas. Ligue estas funcionalidades para ter mais segurança:</string>
   <string name="optimize_result_summary_system_default_settings">Utilizar as aplicações MIUI predefinidas aumenta o nível de estabilidade e segurança do sistema</string>
-  <string name="optimize_result_title_uninstall_apps">Aplicações</string>
+  <string name="optimize_result_title_uninstall_apps">Desinstalar aplicações</string>
   <string name="optimize_result_title_sucurity_risk">Encontrados riscos de segurança</string>
   <string name="optimize_result_title_system_default_settings">As definições predefinidas foram alteradas</string>
   <string name="optimize_result_toast_system_default_settings">As definições predefinidas foram repostas</string>
@@ -1840,6 +1842,11 @@ Esta funcionalidade não é suportada para aplicações de sistema"</string>
   <string name="section_title_system">Segurança do sistema</string>
   <string name="security_center_slogan">Segurança. Sempre alerta</string>
   <string name="security_scan_optimizing">A optimizar…</string>
+  <string name="securityadd_install_fail">Não foi possível actualizar o plugin. Tente novamente</string>
+  <string name="securityadd_update_tips_cancle">Agora não</string>
+  <string name="securityadd_update_tips_message">Actualize o plugin do serviço de Segurança para ter acesso às últimas funcionalidades. %1$dMB vão ser transferidos</string>
+  <string name="securityadd_update_tips_now">Actualizar</string>
+  <string name="securityadd_update_tips_title">Actualizar</string>
   <string name="see_detail">Detalhes</string>
   <string name="see_more_content">Actualize o centro de jogos para ver mais destaques</string>
   <string name="set_applock_password">Definir palavra-passe</string>

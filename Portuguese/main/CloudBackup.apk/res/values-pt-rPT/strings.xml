@@ -22,8 +22,10 @@
   <string name="btn_continue">Continuar</string>
   <string name="btn_restore_abort">Cancelar</string>
   <string name="btn_restore_cancel">Cancelar</string>
+  <string name="btn_restore_continue">Restaurar mesmo assim</string>
   <string name="btn_restore_resume">Continuar</string>
   <string name="btn_restore_retry">Tentar novamente</string>
+  <string name="btn_restore_wait">Aguardar por Wi-Fi</string>
   <string name="btn_retry">Verificar novamente</string>
   <string name="btn_skip">Ignorar este passo</string>
   <string name="button_cancel">Cancelar</string>
@@ -85,7 +87,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="confirm_cancel_restore_positive">Continuar</string>
   <string name="confirm_cancel_restore_title">Cancelar restauro?</string>
   <string name="confirm_restore">Restaurar</string>
-  <string name="confirm_restore_summary">O ecrã inicial vai reiniciar e as aplicações vão ser transferidas automaticamente quando ligado ao Wi-Fi</string>
+  <string name="confirm_restore_summary">O ecrã inicial vai reiniciar. As aplicações copiadas vão ser transferidas automaticamente</string>
   <string name="confirm_restore_title">Restaurar</string>
   <string name="customization"><u>Personalizar</u></string>
   <string name="date_format">dd/mm/yyyy</string>
@@ -93,7 +95,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="desktop_downloading">A transferir</string>
   <string name="desktop_failed">Erro</string>
   <string name="desktop_installing">A instalar</string>
-  <string name="desktop_wait_wifi">A aguardar</string>
+  <string name="desktop_wait_network">A aguardar…</string>
   <string name="desktop_waiting">A aguardar</string>
   <string name="device_delete_prompt">Eliminar cópia de %s?</string>
   <string name="dialog_btn_cancel_backup">Cancelar</string>
@@ -106,6 +108,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="dialog_msg_overwrite_backup">A cópia local é diferente da que está na Mi Cloud. Se continuar, a cópia actual vai substituir a anterior</string>
   <string name="dialog_msg_restore_require_wlan">Para restaurar cópias é necessário uma ligação Wi-Fi</string>
   <string name="dialog_title_require_wlan">Ligar ao Wi-Fi</string>
+  <string name="doing_calc_backup_data_size">A calcular tamanho…</string>
   <string name="doing_restore_home">A restaurar ecrã inicial e definições…</string>
   <string name="done_remove">Removido com sucesso</string>
   <string name="download_home_data">A transferir o layout do ecrã inicial…</string>
@@ -131,7 +134,9 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="miui_device_name">Android</string>
   <string name="msg_alert_cancel_restore">A restaurar itens. Parar agora?</string>
   <string name="msg_alert_restore_error">Não foi possível restaurar os itens da Mi Cloud. Tente novamente</string>
-  <string name="name_model">%2$s de %1$s</string>
+  <string name="msg_restore_start_with_metered_network">"O ecrã inicial vai reiniciar. As aplicações copiadas vão ser transferidas automaticamente. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s de ficheiros vão ser transferidos&lt;/font&gt;&lt;/b&gt;"</string>
+  <string name="msg_restore_with_metered_network_hint">Se restaurar estes itens, vão ser utilizados dados móveis</string>
+  <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; de ficheiros vão ser transferidos"</string>
   <string name="network_error">Ligue-se à rede</string>
   <string name="no_account">Sem sessão iniciada na Conta Mi</string>
   <string name="no_backup">Sem cópias na Mi Cloud</string>
@@ -144,8 +149,10 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="other_device_main_space">Primeiro espaço</string>
   <string name="other_device_second_space">Segundo espaço</string>
   <string name="process_whole_recovery">A restaurar \"%s\"</string>
+  <string name="provision_background_restore_more_data">Restaurar mais itens em segundo plano</string>
   <string name="provision_error_connect_msg">Teste a rede e tente novamente. As cópias não estão disponíveis quando o seu dispositivo está offline</string>
   <string name="provision_error_connect_title">Não é possível ligar à rede</string>
+  <string name="provision_restore_data">A restaurar itens</string>
   <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluídas na cópia vão ser movidas para o último ecrã inicial</string>
   <string name="query_restore_summary">Encontrou uma cópia da Mi Cloud para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias da Mi Cloud anteriores?</string>
   <string name="recover_from_micloud">Restaurar da cópia da Mi Cloud</string>
@@ -157,9 +164,22 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="remove_task_in_process">A eliminar…</string>
   <string name="remove_task_unfinished">Remoção não concluída</string>
   <string name="remove_unfinished">A remover. Tente novamente mais tarde</string>
+  <string name="restore_app_order_finish">Concluído</string>
+  <string name="restore_app_order_loading">Aguarde…</string>
+  <string name="restore_app_order_retry">Tentar novamente</string>
+  <string name="restore_app_order_retry_desc">"Não foi possível ligar à rede.
+Verifique as suas definições de rede e tente novamente"</string>
+  <string name="restore_app_order_search_hint">Pesquisar por itens para definir prioridade</string>
+  <string name="restore_app_order_search_installed">Aplicações neste dispositivo</string>
+  <string name="restore_app_order_search_normal">Aplicações não prioritárias</string>
+  <string name="restore_app_order_search_prior">Aplicações prioritárias</string>
   <string name="restore_cloud_backup_to_phone">Restaurar itens da Mi Cloud</string>
   <string name="restore_data_summary">Esta funcionalidade necessita de uma ligação à Internet</string>
   <string name="restore_data_title">Restaurar dados</string>
+  <string name="restore_detail_category_apps">Layout do ecrã inicial e aplicações</string>
+  <string name="restore_detail_category_settings">Definições</string>
+  <string name="restore_detail_more">Mais</string>
+  <string name="restore_detail_title">Seleccionar itens para restaurar</string>
   <string name="restore_finish_description">Restauro concluído</string>
   <string name="restore_finished_notification_content">Restaurados aplicações do ecrã inicial, definições de sistema, etc.</string>
   <string name="restore_from_cloud">Restaurar da cópia da Mi Cloud</string>
@@ -167,6 +187,8 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="restore_home_failed">Não foi possível restaurar o ecrã inicial</string>
   <string name="restore_home_screen_apps">Restaurar da cópia da Mi Cloud</string>
   <string name="restore_init_description">Iniciar restauro</string>
+  <string name="restore_network_pause">%s (Toque para retomar)</string>
+  <string name="restore_network_unconnect">%s (A aguardar por ligação)</string>
   <string name="restore_task_cancelling">A cancelar…</string>
   <string name="restore_task_in_process">A restaurar…</string>
   <string name="restore_unfinished">A restaurar. Tente novamente mais tarde</string>
@@ -182,6 +204,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="success_open_cloudbackup">Foram ligadas as cópias para as aplicações do ecrã inicial</string>
   <string name="title_alert_cancel_restore">Parar restauro</string>
   <string name="title_alert_restore_error">Não foi possível restaurar</string>
+  <string name="title_restore_with_current_network">Utilizar ligação actual para transferir ficheiros</string>
   <string name="total_space">Espaço total: %s</string>
   <string name="try_again">Toque para tentar novamente</string>
   <string name="try_continue">Toque para continuar</string>

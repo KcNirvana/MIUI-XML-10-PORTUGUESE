@@ -204,17 +204,17 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre %1$s que criem widgets e acedam aos seus dados</string>
   <string name="allow_data_usage_title">Permitir utilização de dados em roaming</string>
   <string name="allow_device_id_access">Aplicações com acesso ao ID de dispositivo</string>
-  <string name="allow_float_summary">Mostrar notificações no topo do ecrã</string>
+  <string name="allow_float_summary">Permitir notificações flutuantes</string>
   <string name="allow_float_title">Notificações flutuantes</string>
-  <string name="allow_keyguard_summary">Mostrar otificações no ecrã de bloqueio</string>
+  <string name="allow_keyguard_summary">Permitir notificações no ecrã de bloqueio</string>
   <string name="allow_keyguard_title">Notificações no ecrã de bloqueio</string>
-  <string name="allow_lights_title">Allow breathing light tips</string>
+  <string name="allow_lights_title">Permitir utilização de LED de notificações</string>
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
   <string name="allow_overlay_description">Esta permissão permite que uma aplicação possa ser mostrada em cima de outras aplicações que estiver a utilizar e pode interferir com a utilização da interface em outras aplicações ou mudar aquilo que pensa que está a ver nas outras aplicações</string>
   <string name="allow_sound">Permitir som</string>
-  <string name="allow_sound_title">Permitir som</string>
-  <string name="allow_vibrate_title">Permitir vibração</string>
+  <string name="allow_sound_title">Som</string>
+  <string name="allow_vibrate_title">Vibração</string>
   <string name="alpha_build">" | Alpha"</string>
   <string name="always">Sempre</string>
   <string name="always_allow_bind_appwidgets_text">Escolheu permitir que esta aplicação crie widgets e aceda aos dados</string>
@@ -488,7 +488,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="backup_pw_cancel_button_text">Cancelar</string>
   <string name="backup_pw_set_button_text">Definir palavra-passe da cópia de segurança</string>
   <string name="backup_section_title">Cópia e restauro</string>
-  <string name="badge_title">Mostrar emblema</string>
+  <string name="badge_title">Ícone</string>
   <string name="band_mode_failed">Sem sucesso</string>
   <string name="band_mode_loading">A carregar lista de bandas…</string>
   <string name="band_mode_set">Definir</string>
@@ -633,7 +633,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="block_list_remove_dialog_title">Remover \"%s\" da lista de bloqueio</string>
   <string name="block_list_summary">Ver os dispositivos que não estão permitidos de ligar a este PA Móvel</string>
   <string name="block_list_title">Lista de bloqueio</string>
-  <string name="block_title">Mostrar notificações</string>
+  <string name="block_title">Notificações</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Ligado ao áudio multimédia</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Utilizar para áudio multimédia</string>
@@ -2034,14 +2034,17 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gxzw_anim_rhythm">Ritmo</string>
   <string name="gxzw_anim_star">Estrelas</string>
   <string name="gxzw_anim_title">Animação de impressão digital</string>
+  <string name="gxzw_aod_show_summary">O ícone de impressão digital vai ser mostrado com o ecrã desligado. Esta funcionalidade aumenta o consumo de bateria</string>
+  <string name="gxzw_aod_show_tittle">Ícone de impressão digital com o ecrã desligado</string>
   <string name="gxzw_dialog_message">Para ser possível utilizar o sensor de impressão digital no ecrã, não utilize protectores de ecrã</string>
   <string name="gxzw_dialog_not_show_again">Não mostrar novamente</string>
   <string name="gxzw_dialog_ok">Percebi</string>
-  <string name="gxzw_dialog_title">About in-screen fingerprint sensor</string>
+  <string name="gxzw_dialog_title">Acerca do sensor de impressão digital</string>
+  <string name="gxzw_enroll_again">Levante o dedo e prima o sensor novamente</string>
   <string name="handy_mode">Modo Uma Mão</string>
   <string name="handy_mode_enable">Modo Uma Mão</string>
   <string name="handy_mode_size">Tamanho do ecrã</string>
-  <string name="handy_mode_tips">Deslize para a esquerda ou para a direita desde o botão Início para puxar a imagem para um dos lados</string>
+  <string name="handy_mode_tips">"Deslize para a esquerda ou para a direita desde o botão Início para puxar a imagem para um dos lados. "</string>
   <string name="handy_mode_tips_full_screen">Quando estiver a utilizar os gestos de ecrã inteiro, pode ligar o Modo Uma Mão utilizando o menu flutuante. Pode também trocar para botões em vez de gestos</string>
   <string name="haptic_feedback_enable_title">Vibração ao tocar</string>
   <string name="haptic_feedback_level">Vibração</string>
@@ -2107,8 +2110,8 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="imei_information_title">Informações do IMEI</string>
   <string name="immediately_destroy_activities">Não manter actividades</string>
   <string name="immediately_destroy_activities_summary">Destruir todas as actividades assim que forem abandonadas</string>
-  <string name="importance_default">Predefinida</string>
-  <string name="importance_high">Alta</string>
+  <string name="importance_default">Alta</string>
+  <string name="importance_high">Urgente</string>
   <string name="importance_low">Média</string>
   <string name="importance_min">Baixa</string>
   <string name="importance_title">Importância</string>
@@ -2117,7 +2120,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="inactive_app_active_summary">Activa. Toque para desactivar</string>
   <string name="inactive_app_inactive_summary">Inactiva. Toque para activar</string>
   <string name="inactive_apps_title">Aplicações inactivas</string>
-  <string name="incall_show">Perfil de vídeo para chamadas recebidas</string>
+  <string name="incall_show">Vídeo de perfil para chamadas recebidas</string>
   <string name="include_app_data_title">Incluir dados de aplicações</string>
   <string name="incoming_call_breathing_light_color_title">Cor do LED das chamadas</string>
   <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED das chamadas</string>
@@ -2287,10 +2290,14 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="launch_google_search">Iniciar Assistente Google</string>
   <string name="launch_recents">Iniciar Recentes</string>
   <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
+  <string name="launcher_icon">Ícones</string>
   <string name="launcher_title">Ecrã inicial e Recentes</string>
   <string name="launching_cit">A iniciar testes de hardware</string>
   <string name="launching_pho">A iniciar informações do telefone. Por favor, aguarde</string>
   <string name="launching_rep">A reportar…</string>
+  <string name="layout_exhuge_font_take_effect_tips">O texto XXL apenas funciona em Telefone, Mensagens e Contactos</string>
+  <string name="layout_exhuge_font_tips">Mais opções disponíveis em %1$s</string>
+  <string name="layout_exhuge_font_tips_reg">Acessibilidade e tamanho do ecrã</string>
   <string name="layout_size_exhuge">XXL</string>
   <string name="layout_size_exhuge_text">Enorme</string>
   <string name="layout_size_huge">XL</string>
@@ -2315,7 +2322,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="legal_workday_message">(Ignorar feriados)</string>
   <string name="license_title">Licença</string>
   <string name="lift_to_wake_title">Activar ao levantar</string>
-  <string name="lights_title">Piscar luz</string>
+  <string name="lights_title">LED de notificações</string>
   <string name="line_breaking_summary">Optimizar quebra da linha de parágrafo</string>
   <string name="line_breaking_title">Optimizar texto</string>
   <string name="link_speed_label">Velocidade do link:</string>
@@ -3037,13 +3044,13 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notes_privacy_password_role_instruction">As suas notas privadas vão ser armazenadas aqui</string>
   <string name="notifi_channels">Categorias de notificações</string>
   <string name="notifi_channels_other">Outras</string>
-  <string name="notifi_importance_default">Emitir som</string>
-  <string name="notifi_importance_high">Emitir som e aparecer no ecrã</string>
+  <string name="notifi_importance_default">Emitir som e mostrar no ecrã de bloqueio</string>
+  <string name="notifi_importance_high">Emitir som, mostrar no ecrã de bloqueio e permitir opções de ecrã inteiro</string>
   <string name="notifi_importance_low">Sem som</string>
-  <string name="notifi_importance_min">Sem interrupção sonora ou visual</string>
+  <string name="notifi_importance_min">Sem som e não mostrar no ecrã de bloqueio</string>
   <string name="notifi_importance_none">Desligado</string>
   <string name="notifi_importance_unspecified">Deixar a aplicação decidir</string>
-  <string name="notifi_no_channels">Esta aplicação não publicou notificações</string>
+  <string name="notifi_no_channels">Esta aplicação ainda não recebeu notificações</string>
   <string name="notification_app_settings_button">Definições de notificações</string>
   <string name="notification_badge_title">Permitir ponto de notificação</string>
   <string name="notification_badging_title">Permitir pontos de notificação</string>
@@ -3058,7 +3065,9 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notification_content_block_title">Mostrar notificações</string>
   <string name="notification_fold_description1">A pasta de notificações foi introduzida na MIUI 9. Esta funcionalidade filtra as notificações não importantes e coloca-as numa pasta em separado</string>
   <string name="notification_fold_description2">A MIUI vai memorizar as notificações que toca e utilizar critérios de selecção para determinar se são importantes</string>
-  <string name="notification_fold_description3">SSe as notificações que considera importantes ainda forem para a pasta de notificações, reporte-nos o problema. Nós valorizamos os seus comentários</string>
+  <string name="notification_fold_description3">Se as notificações que considera importantes ainda forem para a pasta de notificações, reporte-nos o problema. Nós valorizamos os seus comentários</string>
+  <string name="notification_fold_footer_icon_summary">Mostrar o ícone das aplicações quando as notificações não importantes estiverem agrupadas</string>
+  <string name="notification_fold_footer_icon_title">Mostrar ícone das aplicações</string>
   <string name="notification_fold_summary">Todas as notificações não importantes vão aparecer numa pasta separada</string>
   <string name="notification_fold_title">Pasta de notificações</string>
   <string name="notification_importance_blocked">Nunca mostrar notificações</string>
@@ -3092,6 +3101,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notification_sound_title">Toque de notificação predefinido</string>
   <string name="notification_style_title">Estilo de notificações</string>
   <string name="notification_suggestion_summary">Mostrar ou ocultar conteúdo de notificações</string>
+  <string name="notification_suggestion_title">Controlar notificações do ecrã de bloqueio</string>
   <string name="notification_summary_level">Nível %d</string>
   <string name="notification_summary_none">Ligado para todas as aplicações</string>
   <string name="notification_toggle_off">Desligado</string>
@@ -3189,6 +3199,8 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="page_layout_31">Jack Tang</string>
   <string name="page_layout_32">Play Store</string>
   <string name="page_layout_33">Google</string>
+  <string name="page_layout_34">Telefone</string>
+  <string name="page_layout_35">Notas</string>
   <string name="page_layout_4">Música</string>
   <string name="page_layout_5">Vídeo</string>
   <string name="page_layout_6">Aplicações</string>
@@ -3196,7 +3208,11 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="page_layout_8">Vida Mi</string>
   <string name="page_layout_9">Temas</string>
   <string name="page_layout_confirm_message">O seu dispositivo tem de reiniciar para aplicar estas alterações. Leva cerca de 1 minuto</string>
+  <string name="page_layout_confirm_message_enlarge">O texto, imagens e ícones vão ser aumentados. Alguns ícones podem mudar de lugar</string>
+  <string name="page_layout_confirm_message_narrow">O texto, imagens e ícones vão ser diminuídos. Alguns ícones podem mudar de lugar</string>
   <string name="page_layout_confirm_title">Alterar definições de ecrã</string>
+  <string name="page_layout_confirm_title_enlarge">Items maiores</string>
+  <string name="page_layout_confirm_title_narrow">Itens menores</string>
   <string name="page_layout_godzilla_title">Enorme</string>
   <string name="page_layout_huge_title">Muito grande</string>
   <string name="page_layout_large_title">Grande</string>
@@ -3652,7 +3668,11 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="reset_network_complete_toast">As definições de rede foram repostas</string>
   <string name="reset_network_confirm_title">Repor?</string>
   <string name="reset_network_data">Dados móveis</string>
-  <string name="reset_network_desc">Isto vai repor todas definições de rede</string>
+  <string name="reset_network_desc">"Isto vai repor todas definições de rede, incluindo:
+
+<li>Wi-Fi</li>
+<li>Dados móveis</li>
+<li>Bluetooth</li>"</string>
   <string name="reset_network_final_button_text">Repor definições</string>
   <string name="reset_network_final_desc">Repor todas as definições de rede? Não é possível anular esta acção!</string>
   <string name="reset_network_title">Reposição das definições rede</string>
@@ -4008,7 +4028,6 @@ Para utilizar a fixação no ecrã:
   <string name="search_sound_settings">Sons e vibração;Volumes;Modo silêncio;Definições de áudio;Suprimir ruído</string>
   <string name="search_status_bar_settings">Notificações e barra de estado;Notificações;barra de estado</string>
   <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora;Nome da operadora</string>
-  <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio; mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_manage_notification">Notificações da aplicação;Notificações</string>
   <string name="search_status_bar_settings_show_carrier">Mostrar nome da operadora;Nome da operadora</string>
   <string name="search_status_bar_settings_show_network_speed">Mostrar velocidade da ligação;Velocidade da ligação</string>
@@ -5324,13 +5343,6 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_alert_lockdown_by_device_owner">A aplicação %1$s gere o dispositivo e não permite a modificação ou a eliminação desta rede Wi-Fi. Para mais informações, contacte o administrador</string>
   <string name="wifi_allow_scan_with_traffic">Permitir sempre a detecção de Wi-Fi em roaming</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permitir/impedir a detecção de Wi-Fi em roaming com base na quantidade de tráfego de dados presente na interface</string>
-  <string name="wifi_and_mobile_skipped_message">"Se ignorar o Wi-Fi:
-
-"<li>O seu dispositivo não vai ter uma ligação à Internet.</li>"
-
-"<li>Não vai receber actualizações de software até se ligar à Internet.</li>"
-
-"<li>Neste momento, não pode activar as funcionalidades de protecção do dispositivo."</li></string>
   <string name="wifi_ap_band_config">Seleccionar banda do PA</string>
   <string name="wifi_ap_choose_2G">Banda de 2,4 GHz</string>
   <string name="wifi_ap_choose_5G">Banda de 5 GHz</string>
@@ -5728,6 +5740,7 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="wizard_back">Voltar</string>
   <string name="wizard_finish">Concluir</string>
   <string name="wizard_next">Seguinte</string>
+  <string name="words_title">Texto</string>
   <string name="work_alarm_ringtone_title">Som do alarme de trabalho predefinido</string>
   <string name="work_profile_confirm_remove_message">Se continuar, todas as aplicações e todos os dados neste perfil são eliminados</string>
   <string name="work_profile_confirm_remove_title">Remover perfil de trabalho?</string>

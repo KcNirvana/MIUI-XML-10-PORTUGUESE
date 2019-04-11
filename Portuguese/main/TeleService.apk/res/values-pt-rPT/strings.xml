@@ -462,6 +462,7 @@
   <string name="fdn_list_with_label">Lista FDN (%s)</string>
   <string name="fdn_summary">Restringir chamadas para lista FDN ou para números com determinados prefixos</string>
   <string name="fdn_with_label">Números de marcação fixa (%s)</string>
+  <string name="fiveg_switch_title">Rede 5G</string>
   <string name="flash_when_ring_summary">Acender luz de flash ao receber chamadas</string>
   <string name="flash_when_ring_title">Acender flash quando tocar</string>
   <string name="fw_change_failed">"Não foi possível alterar o número de reencaminhamento.

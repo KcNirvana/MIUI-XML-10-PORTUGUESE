@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="loan_repayment_detail">
+        <item quantity="other">Detalhe da amortização (%d anos)</item>
+        <item quantity="one">Detalhe da amortização (%d ano)</item>
+    </plurals>
+    <plurals name="loan_repayment_detail_unit">
+        <item quantity="other">Detalhe da amortização (CNY)(%d anos)</item>
+        <item quantity="one">Detalhe da amortização (CNY)(%d anos)</item>
+    </plurals>
     <plurals name="mortgage_summary_years">
         <item quantity="other">%1$d anos (%2$d meses)</item>
         <item quantity="one">%1$d anos (%2$d meses)</item>

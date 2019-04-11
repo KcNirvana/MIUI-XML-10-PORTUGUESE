@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="alert_message_delete">
+        <item quantity="other">Eliminar %1$s itens?</item>
+        <item quantity="one">Eliminar %1$s item?</item>
+    </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$s ainda não foram sincronizados</item>
         <item quantity="one">%1$s ainda não foi sincronizado</item>
+    </plurals>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">%1$s notas removidas da pasta</item>
+        <item quantity="one">%1$s nota removida da pasta</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">%1$s notas movidas para %2$s</item>
+        <item quantity="one">%1$s nota movida para %2$s</item>
+    </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d segundos restantes</item>
+        <item quantity="one">%d segundo restante</item>
+    </plurals>
+    <plurals name="toast_notes_hidden_count">
+        <item quantity="other">%1$s notas ocultadas</item>
+        <item quantity="one">%1$s nota ocultada</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">%1$s notas mostradas</item>
+        <item quantity="one">%1$s nota mostrada</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">%d caracteres</item>
+        <item quantity="one">%d caracter</item>
     </plurals>
     <plurals name="folder_terms">
         <item quantity="other">%1$s pastas</item>
@@ -11,13 +39,5 @@
     <plurals name="note_terms">
         <item quantity="other">%1$s notas</item>
         <item quantity="one">%1$s nota</item>
-    </plurals>
-    <plurals name="record_last_ten_seconds_reminder">
-        <item quantity="other">%d segundos restantes</item>
-        <item quantity="one">%d segundo restante</item>
-    </plurals>
-    <plurals name="word_count">
-        <item quantity="other">%d caracteres</item>
-        <item quantity="one">%d caracter</item>
     </plurals>
 </resources>

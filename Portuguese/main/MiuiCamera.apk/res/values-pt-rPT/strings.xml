@@ -79,6 +79,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="beauty_body_reset_tip">Efeitos de figura repostos</string>
   <string name="beauty_body_shoulder">Ombros</string>
   <string name="beauty_body_slim_count_tip">Os efeitos de figura apenas funcionam para fotos de uma pessoa</string>
+  <string name="beauty_body_whole">Corpo</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Beleza</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">A remodelar</string>
   <string name="beauty_fragment_tab_name_beauty">Embelezar</string>
@@ -157,6 +158,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="custom_watermark_words">"Marca d'água personalizada"</string>
   <string name="custom_watermark_words_input_hint">Introduzir texto</string>
   <string name="custom_watermark_words_save_success">Guardado com sucesso</string>
+  <string name="dialog_google_lens_option_0">Google Lens (recomendado)</string>
   <string name="dialog_ok">OK</string>
   <string name="do_not_remind_me">Não mostrar novamente</string>
   <string name="dual_camera_lens_covered_toast">A lente está tapada</string>
@@ -211,6 +213,7 @@ se rodar o seu telefone"</string>
   <string name="hand_gesture_tip">Disparo por palma</string>
   <string name="hibernate_hint">Toque no ecrã para ligar a Câmara</string>
   <string name="hint_ae_af_lock">A focagem/exposição automática foi bloqueada</string>
+  <string name="hint_ae_af_lock_extra">A focagem/exposição automática foi bloqueada. Troque para Google Lens nas definições da Câmara</string>
   <string name="hint_ae_lock">A exposição automática foi bloqueada</string>
   <string name="hine_hht">"Com luz fraca, a câmara vai tirar várias fotos
 e criar uma com o mínimo de ruído"</string>
@@ -417,9 +420,12 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_jpegquality_entry_normal">Média (padrão)</string>
   <string name="pref_camera_jpegquality_title">Qualidade de imagem</string>
   <string name="pref_camera_long_press_shutter_feature_title">Premir e segurar o botão de disparo</string>
+  <string name="pref_camera_long_press_viewfinder_lock_ae_af">Bloqueio AE/AF</string>
+  <string name="pref_camera_long_press_viewfinder_title">Definições do visor</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Disparo Contínuo</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focagem</string>
   <string name="pref_camera_long_pressing_shutter_title">Prima e segure o botão de disparo para bloquear AE/AF/AWB</string>
+  <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Bloqueio AE/AF</string>
   <string name="pref_camera_magic_mirror_title">Espelho Mágico</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_mfnr_sat_enable_title">Ligar MFNR</string>
@@ -463,7 +469,7 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_picturesize_entry_3328x1872">6M(3328x1872)</string>
   <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Ecrã inteiro 16:9</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">Ecrã inteiro</string>
   <string name="pref_camera_picturesize_entry_standard">Padrão 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Frame da câmara</string>
   <string name="pref_camera_portrait_mode_entry_off">O Modo Retrato está desligado</string>
@@ -556,7 +562,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_front_mirror_entry_on">Ligado</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="pref_front_mirror_title">Espelhar câmara frontal</string>
-  <string name="pref_google_lens">Lente do Google</string>
+  <string name="pref_google_lens_summary">Aponte a sua câmara para as informações do contacto, URLs e códigos QR para ver as opções disponíveis</string>
+  <string name="pref_google_lens_title">Sugestões Google Lens</string>
   <string name="pref_groupshot_with_primitive_title">Guardar também as fotos originais</string>
   <string name="pref_manual_exposure_title">Tempo de exposição</string>
   <string name="pref_new_slow_motion_video_quality_240_720only">Apenas pode gravar vídeos HD (720p) com 240fps</string>
@@ -687,5 +694,12 @@ O modo ângulo amplo vem ajudar quando não se consegue mover para longe da cena
   <string name="video_reach_size_limit">Limite de tamanho atingido</string>
   <string name="view_privacy_policy">Ver Política de Privacidade</string>
   <string name="wait">Aguarde…</string>
+  <string name="wideselfie_press_shoot_key_to_start">Toque no botão de disparo</string>
+  <string name="wideselfie_result_image_lossless">Não foi possível guardar o panorama</string>
+  <string name="wideselfie_rotate_slowly">Rode o telefone de lado lentamente</string>
+  <string name="wideselfie_rotate_to_back">Incline o telefone para trás</string>
+  <string name="wideselfie_rotate_to_front">Incline o telefone para a frente</string>
+  <string name="wideselfie_rotate_to_left_slowly">Rode o telefone para a esquerda lentamente</string>
+  <string name="wideselfie_rotate_to_right_slowly">Rode o telefone para a direita lentamente</string>
   <string name="zoom_no_support_tip_48M">O zoom não funciona no modo 48MP</string>
 </resources>

@@ -82,7 +82,7 @@
   <string name="item_title_currency">Moeda</string>
   <string name="item_title_dress_size">Tamanho de roupa</string>
   <string name="item_title_length_conversion">Comprimento</string>
-  <string name="item_title_mortgage">Hipoteca</string>
+  <string name="item_title_mortgage">Crédito habitação</string>
   <string name="item_title_relationship">Termos parentais</string>
   <string name="item_title_scientific_calculator">Científica</string>
   <string name="item_title_tax">Taxas</string>
@@ -105,9 +105,7 @@
   <string name="loan_interest_rate">Taxa de juro</string>
   <string name="loan_pay_years">Período do empréstimo</string>
   <string name="loan_payback_way">Amortizações</string>
-  <string name="loan_repayment_detail">Amortizações detalhadas</string>
   <string name="loan_repayment_detail_loading">A carregar amortizações…</string>
-  <string name="loan_repayment_detail_unit">Amortizações detalhadas (CNY)</string>
   <string name="menuDesc">Menu</string>
   <string name="minusDesc">Menos</string>
   <string name="mortgage_amount">Total (×10K)</string>
@@ -133,7 +131,7 @@
   <string name="mortgage_interest_rate">Juros comerciais</string>
   <string name="mortgage_item_repayment">Método de pagamento</string>
   <string name="mortgage_item_start_time">Data de início</string>
-  <string name="mortgage_item_years">Período de hipoteca</string>
+  <string name="mortgage_item_years">Período de empréstimo</string>
   <string name="mortgage_loans_amount">Valor da hipoteca</string>
   <string name="mortgage_provident_found_interest_rate">Taxa de juro do empréstimo</string>
   <string name="mortgage_repayment_amount">Valor do pagamento</string>

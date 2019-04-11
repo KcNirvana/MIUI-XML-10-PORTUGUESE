@@ -18,7 +18,6 @@
   <string name="abc_shareactionprovider_share_with_application">Partilhar com %s</string>
   <string name="abc_toolbar_collapse_description">Fechar</string>
   <string name="app_name">Vídeos</string>
-  <string name="browser_error">Temporáriamente indisponível. Tente novamente mais tarde</string>
   <string name="cancel">Cancelar</string>
   <string name="canceled">Cancelado</string>
   <string name="cast_ad_label">Anúncios</string>
@@ -74,21 +73,6 @@
   <string name="dialog_privacy_title">Autorizações</string>
   <string name="dialog_revoke_privacy_info_new2">Após revogar a autorização, a aplicação vai parar de reunir dados e eliminar todos os seus dados dos servidores. Revogar a autorização mesmo assim?</string>
   <string name="dialog_revoke_privacy_title">Revogar autorização</string>
-  <string name="enable_background_audio">Reproduzir em segundo plano</string>
-  <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
-  <string name="error_drm_unknown">An unknown DRM error occurred</string>
-  <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
-  <string name="error_mg_content_not_available">This Content is not available in your country.</string>
-  <string name="error_mg_no_content">No content available for this movie. Please try again later</string>
-  <string name="error_mg_no_content_for_tv">No content available for this Tv Show. Please try again later</string>
-  <string name="error_msg_invalid_url">Invalid URL. Please try again later</string>
-  <string name="error_msg_no_network">No network connection detected. Please ensure you are connected to a network source and try again.</string>
-  <string name="error_msg_server_error">Server is not available at this moment.Please try again.</string>
-  <string name="error_msg_socket_timeout">Socket Timeout. Please try again later</string>
-  <string name="error_msg_video_play_time_out">"Sorry, we're unable to play this video right now. Please try again after some time."</string>
-  <string name="error_msg_video_play_time_out_title">Timed out</string>
-  <string name="error_no_content">Sem conteúdo</string>
-  <string name="error_title">Informações</string>
   <string name="exit">Sair</string>
   <string name="explore_on_mi_video">Veja mais em Vídeos</string>
   <string name="failed_to_fetch_data">Não foi possível carregar informação</string>
@@ -98,13 +82,6 @@
   <string name="fw_reload_sub_title">Toque no ecrã para tentar novamente</string>
   <string name="fw_reload_title">Não foi possível ligar à rede</string>
   <string name="grant_write_settings_permission">Conceda esta permissão para controlar o brilho</string>
-  <string name="lbl_connection_failed_alert_title">Erro na ligação</string>
-  <string name="lbl_player_local_video_deleted_alert_dialog_text">Este vídeo não pode ser reproduzido</string>
-  <string name="lbl_player_no_network">No network connection detected. Please ensure you are connected to a network source and try again.</string>
-  <string name="lbl_player_response_failed_alert_dialog_text">"Sorry, your request can't be completed right now. Please try again after some time."</string>
-  <string name="lbl_url_alert">Informações</string>
-  <string name="logging_normal">Normal</string>
-  <string name="logging_verbose">Verbose</string>
   <string name="login">Iniciar sessão</string>
   <string name="lp_base_folder">Cartão SD</string>
   <string name="lp_speed_title">Velocidade de reprodução</string>
@@ -313,6 +290,19 @@
   <string name="ovp_video_plugin_installation">A instalar %1$s…</string>
   <string name="ovp_video_plugin_installation_failure">Não foi possível instalar %1$s</string>
   <string name="ovp_video_plugin_installation_two">Aguarde…</string>
+  <string name="permission_continue">Continuar</string>
+  <string name="permission_info">"O Vídeos necessita de acesso ao IMEI do seu dispositivo para:
+
+Personalizar melhor os serviços para seu dispositivo
+Aumentar a segurança da sua conta"</string>
+  <string name="permission_info1">O Vídeos necessita de acesso ao IMEI do seu dispositivo para:</string>
+  <string name="permission_info2">Personalizar melhor os serviços para seu dispositivo</string>
+  <string name="permission_info3">Aumentar a segurança da sua conta</string>
+  <string name="permission_phone">Telefone</string>
+  <string name="permission_phone_desc">Para aceder ao estado do dispositivo e pausar a reprodução durante chamadas</string>
+  <string name="permission_storage">Armazenamento</string>
+  <string name="permission_storage_desc">Para aceder a itens, guardar ficheiros, mostrar e reproduzir vídeos locais</string>
+  <string name="permission_title">Permissões necessárias</string>
   <string name="player_replay_btn_text">Replay</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Puxe para actualizar…</string>
   <string name="pull_to_refresh_from_bottom_refreshing_label">Aguarde…</string>
@@ -392,7 +382,6 @@ Check out other videos!"</string>
   <string name="signup_type_user_default">LoginSDK consumer</string>
   <string name="slid_fail_message">Não foi possível guardar</string>
   <string name="slide_save_message">A gerar vídeo…</string>
-  <string name="storage_permission_denied">Permission to access storage was denied</string>
   <string name="switch_ratio_pause">Playback speed is unstable. Switching back to the default speed…</string>
   <string name="t_downloading">A transferir:</string>
   <string name="t_exit_app">Toque novamente para sair</string>
@@ -409,9 +398,6 @@ Check out other videos!"</string>
   <string name="t_network_error">Ocorreu um erro de rede</string>
   <string name="t_ovp_check_delete_favor">Seleccionar itens para remover</string>
   <string name="t_start_download">A iniciar transferência:</string>
-  <string name="txt_cancel_download">Cancelar</string>
-  <string name="txt_download_complete">Transferência concluída</string>
-  <string name="txt_watch_now">Ver agora</string>
   <string name="ui_log_tip">Tap this area to hide, press and hold to clear old logs. Drag logs manually.</string>
   <string name="update">Actualizar</string>
   <string name="v_app_name">Vídeos</string>

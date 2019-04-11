@@ -28,6 +28,7 @@
   <string name="enable_find_device_error">Não foi possível ligar Localizar Dispositivo. %1$s</string>
   <string name="enable_find_device_success">Localizar Dispositivo está ligado</string>
   <string name="enable_micloud">Inicie sessão para utilizar a Mi Cloud</string>
+  <string name="enable_sync_setting_title">A configurar serviços…</string>
   <string name="error_data_in_transfer">A sincronização vai terminar em %s horas</string>
   <string name="error_data_in_transfer_title">Mi Cloud indisponível</string>
   <string name="error_network">Não é possível ligar à rede</string>
@@ -315,6 +316,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilizar apenas Wi-Fi para sincronizar fotos</string>
   <string name="privacy_policy">Política de Privacidade</string>
+  <string name="provision_sync_items_loading">A preparar para sincronizar…</string>
   <string name="reading_status">A carregar estado…</string>
   <string name="reading_status_failure">Não foi possível carregar estado</string>
   <string name="search_cloudbackup_pref">Cópias da Mi Cloud</string>
@@ -379,6 +381,8 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="user_agreement_p5">"
 "</string>
   <string name="user_agreement_title">Termos de Serviço da Mi Cloud</string>
+  <string name="user_detail_agreement">Termos de Utilização</string>
+  <string name="user_detail_privacy_policy">Política de Privacidade</string>
   <string name="user_storage_info_available_text_prefix">%s disponíveis</string>
   <string name="warning_bar_action_add_short_cut">Adicionar</string>
   <string name="warning_bar_action_close">Fechar</string>

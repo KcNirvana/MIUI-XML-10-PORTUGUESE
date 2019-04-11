@@ -78,7 +78,7 @@
   <string name="got_it">Percebi</string>
   <string name="gps">Navegar</string>
   <string name="import_contact">Importar contacto</string>
-  <string name="impunity_declaration_content">"O Digitalizador necessita de utilizar a sua câmara. Ao cliquar em \"Concordar\", está a concordar com a nossa &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\" style=\"color:#ff32b4ff;\"&gt;Política de Privacidade&lt;/a&gt;&lt;/font&gt; e dar permissão de ligar à Internet"</string>
+  <string name="impunity_declaration_content">O Digitalizador necessita de utilizar a sua câmara e tirar fotos. Ao clicar em \"Concordar\", está a concordar com a nossa Política de Privacidade e dar permissão de ligar à Internet</string>
   <string name="impunity_declaration_negative_text">Sair</string>
   <string name="impunity_declaration_title">Política de Privacidade</string>
   <string name="keywords_search_code">Digitalizador;Digitalizar;Código QR</string>

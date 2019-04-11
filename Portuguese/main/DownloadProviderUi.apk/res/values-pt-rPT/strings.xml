@@ -37,6 +37,8 @@
   <string name="cancle">Cancelar</string>
   <string name="choose_open_time">Escolher quando quer começar</string>
   <string name="clear_data">Limpar</string>
+  <string name="close">Fechar</string>
+  <string name="close_ad">Fechar anúncios</string>
   <string name="complete_time">Concluído:</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete_downloads_message">%d transferências vão ser eliminadas</string>
