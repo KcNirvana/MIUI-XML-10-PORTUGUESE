@@ -139,6 +139,7 @@ https://appleid.apple.com/#!&amp;page=signin para desactivar"</string>
   <string name="err_binder_died">A aplicação parou</string>
   <string name="err_filesystem_mount">Não foi possível aceder ao armazenamento do router</string>
   <string name="err_low_storage">Sem espaço suficiente</string>
+  <string name="err_no_gms">Aplicação incompatível. Instale esta aplicação separadamente</string>
   <string name="err_not_allow">Não suportado</string>
   <string name="err_pkg_not_exist">Não foi possível localizar a aplicação</string>
   <string name="err_router_disconnected">Verifique a sua ligação ao router e tente novamente</string>
@@ -434,6 +435,7 @@ Liberte pelo menos %s"</string>
   <string name="trans_detail_category_user_app_data">Dados da aplicação</string>
   <string name="trans_detail_category_userdata">Aplicações</string>
   <string name="trans_detail_item_app_data_selected_tip">Foram seleccionadas as aplicações correspondentes</string>
+  <string name="trans_detail_item_app_data_skip_data">Não é possível transferir os dados da aplicação</string>
   <string name="trans_detail_item_app_data_too_large_tip">O item é demasiado grande para transferir</string>
   <string name="trans_detail_list_footer">Nota: Pode escolher transferir aplicações separadamente. Se seleccionar dados da aplicação, as aplicações correspondentes vão ser transferidas</string>
   <string name="trans_detail_page_tip">Quanto mais itens transferir mais demorado vai ser</string>

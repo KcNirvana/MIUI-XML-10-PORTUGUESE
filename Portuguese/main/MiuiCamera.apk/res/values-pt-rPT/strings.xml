@@ -76,7 +76,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="beauty_body_body">Fino</string>
   <string name="beauty_body_head">Cabeça</string>
   <string name="beauty_body_legged">Pernas</string>
-  <string name="beauty_body_reset_tip">Efeitos de figura repostos</string>
+  <string name="beauty_body_reset_tip">Efeitos de figura removidos</string>
   <string name="beauty_body_shoulder">Ombros</string>
   <string name="beauty_body_slim_count_tip">Os efeitos de figura apenas funcionam para fotos de uma pessoa</string>
   <string name="beauty_body_whole">Corpo</string>
@@ -84,7 +84,7 @@ e optimiza as suas fotos baseado nesta informação"</string>
   <string name="beauty_fragment_tab_name_3d_remodeling">A remodelar</string>
   <string name="beauty_fragment_tab_name_beauty">Embelezar</string>
   <string name="beauty_fragment_tab_name_makeup">Avançado</string>
-  <string name="beauty_reset_toast">Efeitos de Embelezar removidos com sucesso</string>
+  <string name="beauty_reset_toast">Efeitos de figura repostos</string>
   <string name="beauty_tab_name_live_beauty">Embelezar</string>
   <string name="beauty_tab_name_live_filter">Filtros</string>
   <string name="bokeh_use_hint">Efeito de profundidade</string>
@@ -263,10 +263,9 @@ no modo Retrato"</string>
   <string name="live_speed_extreme_fast">Super rápido</string>
   <string name="live_speed_extreme_slow">Super lento</string>
   <string name="live_speed_fast">Rápido</string>
-  <string name="live_speed_fragment_tab_name">Velocidade</string>
+  <string name="live_speed_fragment_tab_name">Vel. de gravação</string>
   <string name="live_speed_normal">Regular</string>
   <string name="live_speed_slow">Lento</string>
-  <string name="live_sticker_fragment_tab_name">Stickers</string>
   <string name="live_sticker_network_error_hint">Erro de rede</string>
   <string name="live_sticker_updating">A actualizar…</string>
   <string name="macro_mode">Macro</string>

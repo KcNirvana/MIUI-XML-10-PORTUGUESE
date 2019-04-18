@@ -66,6 +66,7 @@
   <string name="feedback_description">Descrição</string>
   <string name="feedback_description_bugreport_hint">Nalguns casos (…) o meu telefone funciona mal (…)</string>
   <string name="feedback_description_hint">Descreva o problema que encontrou</string>
+  <string name="feedback_description_hint_suggestion">Diga-nos como gostaria de melhorar a MIUI</string>
   <string name="feedback_description_label">Descrição</string>
   <string name="feedback_description_suggest_hint">Eu gostaria de adicionar uma nova funcionalidade (…) porque preciso (…)</string>
   <string name="feedback_detail_tile">Progresso</string>
@@ -74,6 +75,7 @@
   <string name="feedback_history_remind_login_desc">Iniciar sessão na sua Conta Mi para ver os detalhes e o estado dos seus relatórios</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_jira_key">Chave JIRA: %s</string>
+  <string name="feedback_jira_key_place_holder">A criar Jira…</string>
   <string name="feedback_package_log_failed">Não foi possível comprimir registos</string>
   <string name="feedback_phone_model_label">Modelo do telefone</string>
   <string name="feedback_probability_label">Probabilidade</string>

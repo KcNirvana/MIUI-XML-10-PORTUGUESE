@@ -204,11 +204,11 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre %1$s que criem widgets e acedam aos seus dados</string>
   <string name="allow_data_usage_title">Permitir utilização de dados em roaming</string>
   <string name="allow_device_id_access">Aplicações com acesso ao ID de dispositivo</string>
-  <string name="allow_float_summary">Permitir notificações flutuantes</string>
+  <string name="allow_float_summary">Mostrar notificações flutuantes</string>
   <string name="allow_float_title">Notificações flutuantes</string>
-  <string name="allow_keyguard_summary">Permitir notificações no ecrã de bloqueio</string>
+  <string name="allow_keyguard_summary">Mostrar notificações no ecrã de bloqueio</string>
   <string name="allow_keyguard_title">Notificações no ecrã de bloqueio</string>
-  <string name="allow_lights_title">Permitir utilização de LED de notificações</string>
+  <string name="allow_lights_title">LED de notificações</string>
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
   <string name="allow_overlay_description">Esta permissão permite que uma aplicação possa ser mostrada em cima de outras aplicações que estiver a utilizar e pode interferir com a utilização da interface em outras aplicações ou mudar aquilo que pensa que está a ver nas outras aplicações</string>
@@ -5546,6 +5546,9 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_priority_type_summary">Definir prioridade para cada ponto de acesso manualmente</string>
   <string name="wifi_priority_type_title">Definir prioridade do PA manualmente</string>
   <string name="wifi_property">Propriedades Wi-Fi</string>
+  <string name="wifi_protection_on">Ligada</string>
+  <string name="wifi_protection_settings_title">Protecção Wi-Fi</string>
+  <string name="wifi_protection_tip">A MIUI liga automaticamente a protecção Wi-Fi. Quando o telefone analisa o Wi-Fi, aleatoriamente endereça o endereço MAC para impedir o roubo de dados privados e proteger o dispositivo</string>
   <string name="wifi_quick_toggle_summary">Ligar Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Guardada</string>

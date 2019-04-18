@@ -42,14 +42,13 @@
   <string name="account_user_base_info">Informações pessoais</string>
   <string name="account_user_birthday">Data de nascimento</string>
   <string name="account_user_details">Informações pessoais</string>
-  <string name="account_user_email">Email</string>
+  <string name="account_user_email">Email de recuperação</string>
   <string name="account_user_gender">Género</string>
   <string name="account_user_id">ID Conta Mi</string>
   <string name="account_user_name">Nome</string>
   <string name="account_user_name_dialog_title">Introduzir utilizador</string>
   <string name="account_user_other_info">Outras informações</string>
-  <string name="account_user_phone">Telefone</string>
-  <string name="account_user_recovery_phone">Telefone de recuperação</string>
+  <string name="account_user_phone">Telefone de recuperação</string>
   <string name="account_user_region">Região</string>
   <string name="account_xiaomi_service">Serviços</string>
   <string name="action_add_phone">Adicionar número de telefone</string>
@@ -57,6 +56,7 @@
   <string name="activate_email_notice">Certifique-se que activa a sua conta dentro de 24 horas</string>
   <string name="activity_not_found_notice">Não é possível encontrar a aplicação</string>
   <string name="add_account">Associar conta</string>
+  <string name="agreement_and_privacy">Termos de Utilização e Política de Privacidade</string>
   <string name="app_name">Conta Mi</string>
   <string name="auth_fail_warning">Sessão expirada. Tente novamente mais tarde</string>
   <string name="authorize_title">Autorização</string>
@@ -247,6 +247,7 @@ Para activar a sua conta siga o
   <string name="passport_extra_gdpr_license">Criar a sua Conta Mi significa que concordou que a Xiaomi vai obter, processar, utilizar os seus dados pessoais e outros dados específicos na nossa Política de Privacidade. Consulte a nossa Política de Privacidade para saber como processamos e utilizamos os dados pessoais</string>
   <string name="passport_failed_to_send_activate_email">Não foi possível enviar email de activação</string>
   <string name="passport_find_password_on_web_msg">Visite account.mi.com para repor a sua palavra-passe</string>
+  <string name="passport_first_login_prompt">A Conta Mi vai ser criada automaticamente quando iniciar sessão pela primeira vez</string>
   <string name="passport_forget_password"><u>Esqueceu a palavra-passe?</u></string>
   <string name="passport_forget_password_no_underline">Esqueceu a palavra-passe?</string>
   <string name="passport_get_back_pwd">Recuperar palavra-passe da conta</string>
@@ -422,6 +423,7 @@ Para activar a sua conta siga o
   <string name="restart_phone_bind_message">Pode levar algum tempo a receber a mensagem. Começar de novo mesmo assim?</string>
   <string name="restart_phone_bind_title">Alterar telefone de recuperação</string>
   <string name="same_new_and_old_pwd">Não pode ser a mesma que a actual</string>
+  <string name="scan_barcode">Digitalizar código QR</string>
   <string name="scan_barcode_title">Para iniciar sessão na sua Conta Mi digitalize o código QR</string>
   <string name="search_account_security">Segurança da conta</string>
   <string name="search_account_security_desc">Definições da conta</string>

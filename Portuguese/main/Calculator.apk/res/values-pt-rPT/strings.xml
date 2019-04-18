@@ -2,7 +2,12 @@
 <resources>
   <string name="app_name">Calculadora</string>
   <string name="app_name_danfa">Calculadora</string>
+  <string name="app_notification_info">A Calculadora está a ser executada em segundo plano</string>
   <string name="base_rate">Taxa de juro base</string>
+  <string name="btn_float_window_alpha">Ajustar opacidade</string>
+  <string name="btn_float_window_back_to_app">Maximizar Calculadora</string>
+  <string name="btn_float_window_close">Fechar Calculadora</string>
+  <string name="btn_float_window_resize">Redimensionar Calculadora</string>
   <string name="cal_convert_to_word_figure">Converter para caracteres financeiros</string>
   <string name="cal_copy">Copiar</string>
   <string name="cal_edit_mode">Modo edição</string>
@@ -51,6 +56,7 @@
   <string name="error">Erro</string>
   <string name="error_fomrat">Erro de formato</string>
   <string name="factorialDesc">Logaritmo</string>
+  <string name="float_window_guide_text">Toque minimizar a calculadora</string>
   <string name="from_num">100</string>
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Quilómetros por hora</string>
@@ -72,6 +78,8 @@
   <string name="global_search_key_word_figure">Caracteres financeiros</string>
   <string name="golbal_search_calculator_setting">Calculadora;Definições da Calculadora;Definições</string>
   <string name="golbal_search_path_calculator_setting">Aplicações de Sistema/Calculadora/Definições</string>
+  <string name="help_content_desc">Ajuda</string>
+  <string name="hint_floatwindow_alpha_guide_text">Toque para ajustar opacidade</string>
   <string name="home_title_calculator">Calculadora</string>
   <string name="install">Instalar</string>
   <string name="install_scanner_to_continued_use">O Digitalizador está desinstalado. Instalar novamente?</string>
@@ -421,6 +429,8 @@
   <string name="unit_year">Y</string>
   <string name="unit_year_format">Ano %s</string>
   <string name="unit_yuan">CNY</string>
+  <string name="user_agreement">Termos de Utilização</string>
+  <string name="view_float_window_move">Mover Calculadora</string>
   <string name="voiceDesc">Controlos de voz</string>
   <string name="wf_word_figure">Caracteres financeiros</string>
   <string name="word_figure_guide_text">Prima e segure o texto para converter</string>

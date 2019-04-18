@@ -666,6 +666,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="gxzw_try_again">Tente novamente</string>
   <string name="gxzw_try_more_again">Tente novamente</string>
   <string name="gxzw_use_password">Utilize a sua palavra-passe para desbloquear</string>
+  <string name="gxzw_use_password_to_unlock">Introduza a palavra-passe</string>
   <string name="headset">Auriculares</string>
   <string name="hidden_notifications_cancel">Não, obrigado</string>
   <string name="hidden_notifications_setup">Configurar</string>
