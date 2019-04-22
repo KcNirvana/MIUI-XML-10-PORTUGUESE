@@ -309,9 +309,14 @@
   <string name="battery_info_status_full">Carregada</string>
   <string name="battery_info_status_not_charging">Não está a carregar</string>
   <string name="battery_info_status_unknown">Desconhecido</string>
+  <string name="battery_low_button_not_open_power_save">Agora não</string>
+  <string name="battery_low_button_open_power_save">Ligar</string>
   <string name="battery_low_percent_format">%d%% restante</string>
+  <string name="battery_low_percent_format_save_mode_closed">Menos de %d%% restante. Carregue o seu dispositivo</string>
+  <string name="battery_low_percent_format_save_mode_open">Menos de %d%% restante. Ligue a poupança de bateria</string>
   <string name="battery_low_percent_format_saver_started">%s restantes. A poupança de bateria está ligada</string>
   <string name="battery_low_title">Ligar carregador</string>
+  <string name="battery_low_title_power_save">Poupança de bateria</string>
   <string name="battery_low_why">Definições</string>
   <string name="battery_panel_title">Utilização de bateria</string>
   <string name="battery_profiles">Utilizar perfis de bateria</string>
@@ -574,6 +579,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_data_manage_delete_msg">Eliminar rosto</string>
   <string name="face_data_manage_delete_sure">Não vai poder desbloquear o seu dispositivo utilizando os dados do seu rosto depois de o eliminar</string>
   <string name="face_data_manage_delete_title">Dados do rosto</string>
+  <string name="face_data_manage_unlock_liftcamera_msg">Após ligarem as luzes do ecrã, deslize para cima para desbloquear o dispositivo utilizando o rosto</string>
   <string name="face_data_manage_unlock_msg">Desbloquear dispositivo utilizando o seu rosto</string>
   <string name="face_data_manage_unlock_slide_msg">Substituir os atalhos pelo desbloqueio com o rosto</string>
   <string name="face_data_manage_unlock_title">Desbloquear utilizando o seu rosto</string>
@@ -590,6 +596,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_down">Levante a sua cabeça</string>
   <string name="face_unlock_fail">Não foi possível verificar rosto</string>
   <string name="face_unlock_fail_retry">Não foi possível verificar rosto. Toque para tentar novamente</string>
+  <string name="face_unlock_fail_retry_global">Toque para utilizar o desbloqueio por rosto</string>
   <string name="face_unlock_identify_error">Erro no reconhecimento</string>
   <string name="face_unlock_not_found">Não foi possível reconhecer o seu rosto</string>
   <string name="face_unlock_not_roi">Mantenha o seu rosto dentro do quadrado</string>
@@ -1186,6 +1193,10 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
 - Bloquear todas as notificações da aplicação"</string>
   <string name="power_remaining_charging_duration_only">%1$s restante até estar carregada</string>
   <string name="power_remaining_duration_only">Cerca de %1$s restante</string>
+  <string name="power_save_ps_clean">Limpar cache quando o dispositivo estiver bloqueado</string>
+  <string name="power_save_ps_close_setting">Desligar os serviços em segundo plano para poupar bateria</string>
+  <string name="power_save_ps_freeze">Desactivar aplicações em segundo plano</string>
+  <string name="power_save_ps_limit">Restringir a actividade das aplicações de sistema</string>
   <string name="profile_owned_footer">O perfil pode ser monitorizado</string>
   <string name="prompt_danger">Perigoso</string>
   <string name="prompt_detecting">A detectar</string>

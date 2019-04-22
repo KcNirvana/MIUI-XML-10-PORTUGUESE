@@ -206,6 +206,7 @@
   <string name="fortune_name">Chamada</string>
   <string name="fortune_name_hint">Indique</string>
   <string name="fortune_no_name">Preencha</string>
+  <string name="free_day_default_banner_title">Boas férias!</string>
   <string name="from_google_group_calendar">Calendário Google</string>
   <string name="gadget_no_events">Sem eventos para breve no calendário</string>
   <string name="gadget_title">Calendário</string>
@@ -285,7 +286,7 @@
   <string name="month_view">Mês</string>
   <string name="monthly">Mensalmente</string>
   <string name="monthly_on_day">Mensalmente (mesmo dia)</string>
-  <string name="monthly_on_day_count">Mensalmente (%1$s %2$s de cada mês)</string>
+  <string name="monthly_on_day_count">Mensalmente (%1$s de cada mês)</string>
   <string name="more_match">Mais eventos</string>
   <string name="more_string">+%1$s</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
@@ -463,6 +464,7 @@
   <string name="widget_select_style">Escolher um estilo</string>
   <string name="work_day_indication">:-(</string>
   <string name="wuxing">Cinco</string>
+  <string name="work_day_default_banner_title">Bom trabalho!</string>
   <string name="xiaomi_calendar_display_name">Calendário Conta Mi</string>
   <string name="xingxiu">Alphard</string>
   <string name="yearly">Anualmente (cada %s)</string>

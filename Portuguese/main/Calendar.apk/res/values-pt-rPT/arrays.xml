@@ -15,13 +15,6 @@
         <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
     </string-array>
-    <string-array name="ordinal_labels">
-        <item>primeiro</item>
-        <item>segundo</item>
-        <item>terceiro</item>
-        <item>quarto</item>
-        <item>último</item>
-    </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
         <item>Apenas no modo silêncio</item>
@@ -32,6 +25,43 @@
         <item>Sábado</item>
         <item>Domingo</item>
         <item>Segunda-feira</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>primeira segunda</item>
+        <item>primeira terça</item>
+        <item>primeira quarta</item>
+        <item>primeira quinta</item>
+        <item>primeira sexta</item>
+        <item>primeiro sábado</item>
+        <item>primeiro domingo</item>
+        <item>segunda segunda</item>
+        <item>segunda terça</item>
+        <item>segunda quarta</item>
+        <item>segunda quinta</item>
+        <item>segunda sexta</item>
+        <item>segundo sábado</item>
+        <item>segundo domingo</item>
+        <item>terceira segunda</item>
+        <item>terceira terça</item>
+        <item>terceira quarta</item>
+        <item>terceira quinta</item>
+        <item>terceira sexta</item>
+        <item>terceiro sábado</item>
+        <item>terceiro domingo</item>
+        <item>quarta segunda</item>
+        <item>quarta terça</item>
+        <item>quarta quarta</item>
+        <item>quarta quinta</item>
+        <item>quarta sexta</item>
+        <item>quarto sábado</item>
+        <item>quarto domingo</item>
+        <item>última segunda</item>
+        <item>última terça</item>
+        <item>última quarta</item>
+        <item>última quinta</item>
+        <item>última sexta</item>
+        <item>último sábado</item>
+        <item>último domingo</item>
     </string-array>
     <string-array name="response_labels1">
         <item>Sem resposta</item>

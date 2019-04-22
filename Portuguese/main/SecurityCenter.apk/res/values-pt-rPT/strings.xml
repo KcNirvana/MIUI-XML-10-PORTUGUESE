@@ -1628,6 +1628,10 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_save_mode_summary">Monitorizar processos em segundo plano e desligar a sincronização</string>
   <string name="power_save_on_time_end_time_summary_na">Até</string>
   <string name="power_save_on_time_start_time_summary_na">De</string>
+  <string name="power_save_ps_clean">Limpar cache quando o dispositivo estiver bloqueado</string>
+  <string name="power_save_ps_close_setting">Desligar os serviços em segundo plano para poupar bateria</string>
+  <string name="power_save_ps_freeze">Desactivar aplicações em segundo plano</string>
+  <string name="power_save_ps_limit">Restringir a actividade das aplicações de sistema</string>
   <string name="power_save_started_summary_text">A poupança de bateria está ligada. Reduz a actividade em segundo plano, pára a sincronização e minimiza as animações de sistema</string>
   <string name="power_save_summary_text">Ligar a poupança de bateria para reduzir a actividade das aplicações em segundo plano, parar a sincronização e ocultar as animações de sistema</string>
   <string name="power_save_title_text">Poupança de bateria</string>
