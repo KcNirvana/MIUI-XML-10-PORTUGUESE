@@ -95,6 +95,8 @@ para poder vê-las em qualquer momento"</string>
   <string name="do_not_ask">Não perguntar novamente</string>
   <string name="dont_import">Agora não</string>
   <string name="downloading_space">A transferir…</string>
+  <string name="dual_animation">Animações</string>
+  <string name="dual_animation_description">Mostrar animações quando as aplicações clonadas são executadas</string>
   <string name="enable">Ligar</string>
   <string name="encrypt_space_delete_dialog_click_message">"*Se não necessita de mover dados, %s"</string>
   <string name="encrypt_space_delete_dialog_click_message_action">elimine e crie o Segundo espaço agora</string>

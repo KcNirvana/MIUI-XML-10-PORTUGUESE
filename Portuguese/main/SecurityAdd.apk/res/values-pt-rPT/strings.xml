@@ -3,6 +3,8 @@
   <string name="ad_downloading">A transferir…</string>
   <string name="app_name">Plugin do serviço de sistema</string>
   <string name="cancel_button">Cancelar</string>
+  <string name="dual_app_title">Aplicações clonadas</string>
+  <string name="dual_app_words">Toda a conta merece a sua própria aplicação</string>
   <string name="fastboot_locked_answer_1">O fastboot é o método tradicional para flashar dispositivos Mi. Quando o dispositivo está no modo fastboot, todos os dados guardados nele podem ser facilmente conseguidos e eliminados. Nós bloqueamos o fastboot para certificar que os seus dados estão seguros em caso de perda do dispositivo</string>
   <string name="fastboot_locked_answer_2">Em caso de perda do dispositivo, o fastboot garante a segurança dos dados guardados nele. Se desbloquear o fastboot, não vai conseguir bloquear o dispositivo remotamente ou eliminar os seus dados utilizando o Localizar Dispositivo. Por isso, não recomendamos o desbloqueio do fastboot no seu dispositivo</string>
   <string name="fastboot_locked_answer_3">Deve utilizar a ferramenta de desbloqueio do site MIUI. Para desbloquear o dispositivo, necessitamos que o dispositivo seja seu. Por isso, deve iniciar sessão com a sua Conta Mi e ligar o Localizar Dispositivo</string>
@@ -28,6 +30,7 @@
   <string name="pm_lable_name">Acerca do acesso root</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>
   <string name="privacy_prompt_traffic_purchase_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
+  <string name="search_menu_title">Pesquisa</string>
   <string name="share">Partilhar</string>
   <string name="title_share_link">Partilhar URL</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>

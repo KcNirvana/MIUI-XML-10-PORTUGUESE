@@ -508,6 +508,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="dlg_summary_nfc">Desligar NFC</string>
   <string name="dlg_summary_title">A poupança extrema de bateria pára toda a actividade em segundo plano. Se quiser que uma aplicação seja executada em segundo plano, adicione-a às excepções</string>
   <string name="dnd_is_off">Não incomodar está desligado</string>
+  <string name="dnd_notification_warnings_title">As chamadas e notificações vão ser silenciadas até desligar o modo Não incomodar</string>
   <string name="do_disclosure_generic">Este dispositivo é gerido pela sua organização</string>
   <string name="do_disclosure_with_name">Este dispositivo é gerido por %s</string>
   <string name="do_not_silence">Não silenciar</string>
@@ -1074,6 +1075,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="notification_channel_controls_closed_accessibility">Controlos de notificações da aplicação %1$s fechados</string>
   <string name="notification_channel_controls_opened_accessibility">Controlos de notificações da aplicação %1$s abertos</string>
   <string name="notification_channel_disabled">Deixará de receber estas notificações</string>
+  <string name="notification_channel_dnd">Não incomodar</string>
   <string name="notification_channel_general">Mensagens gerais</string>
   <string name="notification_channel_location">Localização</string>
   <string name="notification_channel_screenshot">Capturas de ecrã</string>
