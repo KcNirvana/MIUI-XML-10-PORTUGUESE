@@ -39,6 +39,7 @@
   <string name="agreement_summary">Documentos legais</string>
   <string name="ai_album_open_switch_button_title">Análise de fotos</string>
   <string name="ai_album_requesting_title">A IA ainda está a processar as suas fotos. Volte novamente mais tarde</string>
+  <string name="ai_album_setting_key_word">Procurar fotos</string>
   <string name="ai_album_setting_sub_title">Permita que a IA identifique pessoas, lugares e objectos nas suas fotos para as conseguir localizar mais rápido</string>
   <string name="ai_album_setting_title">Identificação de objectos nas fotos</string>
   <string name="album_already_exists_check">Ver</string>
@@ -189,6 +190,8 @@
   <string name="backuped_title">Cópia feita com sucesso</string>
   <string name="backuping_title_gprs">A copiar com dados móveis…</string>
   <string name="backuping_title_normal">A copiar…</string>
+  <string name="base_btn_cancel">Cancelar</string>
+  <string name="base_btn_download">Transferir</string>
   <string name="begin_share">Foi criado o álbum de bebé \"%s\". Pode agora partilhá-lo</string>
   <string name="begin_share_toast">Criar um álbum em separado para esta criança antes de o partilhar?</string>
   <string name="blank_app_name"/>
@@ -545,6 +548,7 @@ efeitos de fotos"</string>
   <string name="filter_category_master">Mestres</string>
   <string name="filter_category_portrait">Retrato</string>
   <string name="filter_category_scene">Paisagem</string>
+  <string name="filter_category_sky">Céu</string>
   <string name="filter_film_blackwhite">P&amp;B</string>
   <string name="filter_film_dew">Sereno</string>
   <string name="filter_film_fade">Desvanecer</string>
@@ -587,6 +591,17 @@ efeitos de fotos"</string>
   <string name="filter_scene_series">Reflexos</string>
   <string name="filter_scene_vivid">Vívido</string>
   <string name="filter_scene_warm">Sol</string>
+  <string name="filter_sky_cloudy">Com nuvens</string>
+  <string name="filter_sky_detect_forbidden_tips">Não foi possível detectar o céu</string>
+  <string name="filter_sky_download_failed">"Não foi possível transferir o plugin. Verifique as suas definições de rede e tente novamente</string>
+  <string name="filter_sky_download_finish">Plugin transferido com sucesso</string>
+  <string name="filter_sky_download_sdk_without_wifi_msg">"If you aren't connected to Wi-Fi, you can use mobile data to download the plug-in (%1$dMB) that allows you to replace the sky on your photos."</string>
+  <string name="filter_sky_download_sdk_without_wifi_title">Transferir plugin</string>
+  <string name="filter_sky_dusk">Escuro</string>
+  <string name="filter_sky_glow">Quente</string>
+  <string name="filter_sky_rainbow">Arco-íris</string>
+  <string name="filter_sky_sunny">Com sol</string>
+  <string name="filter_sky_sunset">Pôr do sol</string>
   <string name="finish_create_baby_album_toast">Criado um álbum para \"%s\" na Mi Cloud</string>
   <string name="finish_fill_baby">Criar</string>
   <string name="flash_off">Sem flash</string>
@@ -1293,6 +1308,7 @@ para personalizar a galeria"</string>
   <string name="today">Hoje</string>
   <string name="too_many_recipients">Não pode adicionar mais de %2$s destinatários (actualmente adicionados %1$s)</string>
   <string name="trash_bin">Lixo</string>
+  <string name="trash_bin_key_word">Fotos eliminadas</string>
   <string name="trash_bin_summary">Ver fotos guardadas que foram eliminadas recentemente</string>
   <string name="try_again_later">Tente novamente mais tarde</string>
   <string name="try_to_send">Enviar</string>

@@ -119,6 +119,7 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="error_retry_later">Não foi possível concluir a acção. Tente novamente mais tarde</string>
   <string name="error_unknown">Erro</string>
   <string name="get_device_id_error">Não foi possível obter o ID do dispositivo</string>
+  <string name="hint_restore_cross_space">O layout do ecrã inicial pode ser mostrado incorrectamente se transferir itens entre espaços</string>
   <string name="home_hint_global_launcher">Launcher Poco</string>
   <string name="home_hint_other_launcher">Outro launcher</string>
   <string name="home_restore_error">Não foi possível restaurar o ecrã inicial</string>
@@ -195,6 +196,7 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restoring_file_title_no_progress">A restaurar ficheiros…</string>
   <string name="restoring_settings">A restaurar definições…</string>
   <string name="retry">Tentar novamente</string>
+  <string name="selected">Seleccionado</string>
   <string name="self_device_main_space">O Primeiro espaço deste telefone</string>
   <string name="self_device_second_space">O Segundo espaço deste telefone</string>
   <string name="settings_backup">Definições do sistema</string>
@@ -208,6 +210,7 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="total_space">Espaço total: %s</string>
   <string name="try_again">Toque para tentar novamente</string>
   <string name="try_continue">Toque para continuar</string>
+  <string name="unselected">Não seleccionado</string>
   <string name="unsupported_home">Actualize a MIUI para a última versão</string>
   <string name="wait_icon_download">A transferir os ícones da aplicação</string>
 </resources>

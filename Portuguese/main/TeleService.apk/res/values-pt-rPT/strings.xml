@@ -530,6 +530,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="ivr_parameter_settings">Definições dos parâmetros IVR</string>
   <string name="ivr_type_settings">Definições de plano de dados</string>
   <string name="ivr_type_settings_hint">Introduzir o seu código de plano de dados</string>
+  <string name="jump_to_mobile_network_setting">Definições de rede móvel</string>
   <string name="labelCDMAMore">Definições de chamadas CDMA</string>
   <string name="labelCF">Reencaminhamento de chamadas</string>
   <string name="labelCFB">Reencaminhar quando estiver ocupado</string>
@@ -1024,7 +1025,9 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="search_app_name">Telefone;Gravação de chamadas;Reencaminhamento de chamadas;Chamada em espera;Lista de bloqueio;Códigos de país;VoIP;Chamadas não atendidas;SIP;T9;FDN</string>
   <string name="search_networks">Pesquisar redes</string>
   <string name="selectContact">Seleccionar contacto</string>
-  <string name="select_automatically">Escolher automaticamente</string>
+  <string name="select_application">Seleccionar aplicação</string>
+  <string name="select_automatically">Seleccionar automaticamente</string>
+  <string name="select_dds_dialog_title">Seleccionar SIM de dados predefinido</string>
   <string name="select_voice_call_sim">Escolher cartão SIM</string>
   <string name="sendSms">Enviar SMS</string>
   <string name="send_button">Enviar</string>

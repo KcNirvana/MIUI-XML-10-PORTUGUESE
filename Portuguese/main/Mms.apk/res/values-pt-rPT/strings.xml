@@ -161,6 +161,7 @@
   <string name="dialog_message_mx">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI. Vai ser cobrada uma SMS pela activação deste serviço. Tem de concordar com os nossos \"%1$s\" e \"%2$s\" antes de utilizar</string>
   <string name="dialog_message_networking">As Mensagens necessitam de ligar à Internet e aceder à sua localização para fornecer serviços. Permitir?</string>
   <string name="dialog_message_rcs">As Mensagens China Mobile permite enviar mensagens gratuitas para outros utilizadores China Mobile. Tem de concordar com \"%1$s\" antes de utilizar</string>
+  <string name="dialog_sim_locked_confirm">OK</string>
   <string name="dialog_title_fake_cell_detect_error">Correções</string>
   <string name="dialog_title_mx_rcs">Mi Message</string>
   <string name="dialog_title_networking">Termos e Condições</string>

@@ -426,6 +426,9 @@ Taxa de amostragem"</string>
   <string name="car_lockscreen_disclaimer_title">Conduza com segurança</string>
   <string name="change_theme_reboot">Para alterar o tema necessita de reiniciar</string>
   <string name="chooseUsbActivity">Escolher uma aplicação para o dispositivo USB</string>
+  <string name="choose_clock_title_left_top">Esquerda</string>
+  <string name="choose_clock_title_middle">Centrado</string>
+  <string name="choose_clock_title_vertical">Vertical</string>
   <string name="clear_all_notifications_text">Limpar tudo</string>
   <string name="click_expand">Toque para expandir</string>
   <string name="click_to_enter_text">Toque para ver</string>
@@ -508,7 +511,7 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="dlg_summary_nfc">Desligar NFC</string>
   <string name="dlg_summary_title">A poupança extrema de bateria pára toda a actividade em segundo plano. Se quiser que uma aplicação seja executada em segundo plano, adicione-a às excepções</string>
   <string name="dnd_is_off">Não incomodar está desligado</string>
-  <string name="dnd_notification_warnings_title">As chamadas e notificações vão ser silenciadas até desligar o modo Não incomodar</string>
+  <string name="dnd_notification_warnings_title">Não incomodar ligado. As chamadas e notificações vão ser silenciadas</string>
   <string name="do_disclosure_generic">Este dispositivo é gerido pela sua organização</string>
   <string name="do_disclosure_with_name">Este dispositivo é gerido por %s</string>
   <string name="do_not_silence">Não silenciar</string>
@@ -619,6 +622,13 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_sc_status">Puxe para abrir a câmara</string>
   <string name="face_unlock_stay_away_screen">Mantenha-se 25 a 40 cm afastado do ecrã</string>
   <string name="face_unlock_success">Dados do rosto verificados com sucesso</string>
+  <string name="face_unlock_success_show_message_dialog_msg">Permitir notificações no ecrã de bloqueio</string>
+  <string name="face_unlock_success_show_message_dialog_negative_btn">Não obrigado</string>
+  <string name="face_unlock_success_show_message_dialog_positive_btn">Permitir</string>
+  <string name="face_unlock_success_show_message_dialog_title">Notificações no ecrã de bloqueio</string>
+  <string name="face_unlock_success_show_message_msg">Mostrar apenas a origem da notificação quando o dispositivo está bloqueado e adicionar os detalhes quando os dados do rosto forem verificados</string>
+  <string name="face_unlock_success_show_message_title">Mostrar os detalhes das notificações após verificar os dados do rosto</string>
+  <string name="face_unlock_success_show_message_toast">As notificações vão ser mostradas no ecrã de bloqueio</string>
   <string name="face_unlock_success_stay_screen_msg">Manter-se no ecrã de bloqueio após o rosto ser verificado. Deslizar para cima para abrir o ecrã inicial</string>
   <string name="face_unlock_success_stay_screen_title">Manter-se no ecrã de bloqueio após desbloquear</string>
   <string name="failed_to_open_app_settings_toast">Não foi possível abrir definições de %1$s</string>
@@ -1096,7 +1106,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="notification_low_battery_action_btn">Ligar</string>
   <string name="notification_low_battery_need_charge">Bateria fraca. Carregue o seu dispositivo</string>
   <string name="notification_low_battery_open_save_mode">Ligar a poupança de bateria</string>
-  <string name="notification_low_battery_title">Bateria fraca: %d%%</string>
+  <string name="notification_low_battery_title">Menos de %d%% de bateria restante</string>
   <string name="notification_manager">Gerir notificações</string>
   <string name="notification_manager_des">Filtrar e gerir notificações</string>
   <string name="notification_menu_filter_description">Notificações não importantes</string>

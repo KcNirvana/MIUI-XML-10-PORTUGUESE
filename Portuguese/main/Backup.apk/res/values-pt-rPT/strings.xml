@@ -289,6 +289,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="perm_read_phone_state">Ler o estado do telefone</string>
   <string name="perm_read_sms">Ler mensagens</string>
   <string name="perm_storage">Ler e escrever no armazenamento externo</string>
+  <string name="phone_title">Definições do telefone</string>
   <string name="platform_chooser_item_android_mi">Telefone Mi</string>
   <string name="platform_chooser_item_android_others">Outras marcas</string>
   <string name="platform_chooser_item_ios">Importar de dispositivo Apple</string>

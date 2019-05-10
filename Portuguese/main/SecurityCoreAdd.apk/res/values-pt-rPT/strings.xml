@@ -38,6 +38,7 @@ esta funcionalidade vai ser adicionada automaticamente ao Segundo espaço"</stri
   <string name="closeSecondSpace">Eliminar Segundo espaço</string>
   <string name="closeSecondSpaceSummary">Eliminar Segundo espaço e os seus dados</string>
   <string name="closeSuccess">Desligado</string>
+  <string name="close_kid_space_success">Espaço criança eliminado</string>
   <string name="close_second_space">Segundo espaço eliminado</string>
   <string name="close_second_space_success">Segundo espaço eliminado</string>
   <string name="closed">Desligado</string>
@@ -202,6 +203,7 @@ Pode também transferi-las separadamente"</string>
   <string name="install">Instalar</string>
   <string name="install_error">Não foi possível instalar. Tente novamente</string>
   <string name="invalid_qr_code">Código QR inválido</string>
+  <string name="kid_mode_label">Espaço criança</string>
   <string name="list_empty_text">Vazio</string>
   <string name="list_empty_text_xspace">Instale WeChat/QQ/Weibo, crie aplicações clonadas e tente novamente</string>
   <string name="loading">Aguarde…</string>

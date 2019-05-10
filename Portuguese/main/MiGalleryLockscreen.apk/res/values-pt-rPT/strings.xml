@@ -146,6 +146,8 @@
   <string name="isornot_your_mi_account">É esta a sua Conta Mi?</string>
   <string name="lks_left_net_deny">A ligação de rede está restringida</string>
   <string name="lks_left_net_error">Não foi possível ligar à rede</string>
+  <string name="lks_left_top_notice">Toque para voltar ao topo</string>
+  <string name="lks_left_top_notice_refresh">Toque para ver novos items</string>
   <string name="lks_logo_desc2">Papéis de parede novos diariamente</string>
   <string name="lks_subscription_toast">Papel de parede alterado</string>
   <string name="llks_pop_btm_des">Comece o dia com um sorriso</string>
@@ -157,6 +159,15 @@
   <string name="llks_pop_top_des_backup">Entregues no seu ecrã diariamente</string>
   <string name="llks_pop_top_title">Novos papéis de parede</string>
   <string name="llks_pop_top_title_backup">Imagens novas</string>
+  <string name="llks_setting_view_title">Ecrã adicional</string>
+  <string name="llks_simple_mode">Modo leve</string>
+  <string name="llks_simple_mode_desc">Layout simples e atalhos adicionais</string>
+  <string name="llks_standard_mode">Predefinido</string>
+  <string name="llks_standard_mode_desc">Papéis de parede, histórias e recomendações diárias</string>
+  <string name="llks_tools_gallery_name">Pap~eis de parede aleatórios</string>
+  <string name="llks_tools_nfc_name">NFC</string>
+  <string name="llks_tools_remote_control_name">C. Remoto</string>
+  <string name="llks_tools_smart_devices_name">Mi Home</string>
   <string name="load_hdpicture_complete">Imagem original carregada</string>
   <string name="loading">Aguarde…</string>
   <string name="like">Adicionar aos favoritos</string>
@@ -277,6 +288,8 @@
   <string name="sst_wallpaper_history_title">Histórico</string>
   <string name="sst_wifi_only_desc">Desligar para apenas actualizar em Wi-Fi</string>
   <string name="sst_wifi_only_title">Actualizar papéis de parede utilizando dados móveis</string>
+  <string name="subscribe_apply_wp">Papel de parede de ecrã de bloqueio aplicado com sucesso</string>
+  <string name="subscribe_dlg_content">Subscrever para obter papéis de parede entregues no seu ecrã de bloqueio diariamente</string>
   <string name="subscribe_item_checked">Subscrito</string>
   <string name="subscribe_item_unchecked">Não subscrito</string>
   <string name="summary">"Concordar com a nossa <a href ='%s'>Política de Privacidade</a> para ver conteúdo online"</string>
@@ -284,13 +297,17 @@
   <string name="summary_international">"Ao utilizar esta funcionalidade, está a concordar com os nossos <a href ='%1$s'>Termos de Utilização</a> e <a href='%2$s'>Política de Privacidade</a>. Esta aplicação necessita de ligar à Internet para funcionar normalmente"</string>
   <string name="tab_user_title_bar_text">Definições</string>
   <string name="theme_apply_failured">Não é possível aplicar. Tente novamente mais tarde</string>
+  <string name="theme_apply_lockscreen_success">Aplicado com sucesso</string>
   <string name="theme_apply_success">Aplicado com sucesso</string>
   <string name="theme_applying">A aplicar…</string>
+  <string name="theme_close_maml">Os papéis de parede aleatórios vão substituir o papel de parede do ecrã de bloqueio</string>
   <string name="theme_des">Aplicar o tema predefinido e ligar os papéis de parede aleatórios novamente</string>
   <string name="theme_des_lock_style">Aplicar o ecrã de bloqueio predefinido e ligar os papéis de parede aleatórios novamente</string>
+  <string name="theme_des_maml">Os outros componentes do tema actual não vão ser afectados. O tema vai ser actualizado</string>
   <string name="theme_ok">Definições</string>
   <string name="theme_title">Alterar para o tema predefinido</string>
   <string name="theme_title_lock_style">Alterar para o ecrã de bloqueio predefinido</string>
+  <string name="theme_title_subscribe">Subscrever os papéis de parede aleatórios</string>
   <string name="ticket_hint">Código de verificação</string>
   <string name="ticket_invalid">O código introduzido não é válido</string>
   <string name="ticket_sign_in">Iniciar sessão via SMS</string>
@@ -298,6 +315,7 @@
   <string name="toast_ad_down_tip2">A transferir %s…</string>
   <string name="toast_load_hd_fail">Não foi possível carregar a imagem original</string>
   <string name="toast_neterror_tip">Não foi possível ligar à rede</string>
+  <string name="toast_update_no_more_newest_feeds">Sem novos itens</string>
   <string name="top_search_tip">Procure pelas categorias que gosta</string>
   <string name="uninstall_introducation_text_desc">Os papéis de parede aleatórios entregam imagens directamente para o seu ecrã de bloqueio. Certifique-se que consegue fazer isto antes de desinstalar</string>
   <string name="uninstall_introduction_text_title">Acerca de papéis de parede aleatórios</string>

@@ -8,6 +8,14 @@
          <item quantity="other">%1$s pessoas que subscreveram</item>
          <item quantity="one">%1$s pessoa que subscreveu</item>
      </plurals>
+     <plurals name="llks_tools_remote_control_data">
+        <item quantity="other">%d itens</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="llks_tools_smart_devices_data">
+        <item quantity="other">%d dispositivos</item>
+        <item quantity="one">%d dispositivo</item>
+    </plurals>
      <plurals name="lockscreen_magazine_system_subscribe">
          <item quantity="other">%1$s papéis de parede</item>
          <item quantity="one">%1$s papel de parede</item>

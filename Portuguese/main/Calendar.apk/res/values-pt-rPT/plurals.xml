@@ -83,6 +83,18 @@
         <item quantity="other">Pode introduzir até %1$d dias</item>
         <item quantity="one">Pode introduzir até %1$d dia</item>
     </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" dias"</item>
+        <item quantity="one">" dia"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" hours"</item>
+        <item quantity="one">" hour"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" minutos"</item>
+        <item quantity="one">" minuto"</item>
+    </plurals>
     <plurals name="reminder_later_toast">
         <item quantity="other">Próximo lembrete em %1$d minutos</item>
         <item quantity="one">Próximo lembrete em %1$d minuto</item>

@@ -29,6 +29,7 @@ Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede
   <string name="apply_theme_with_ringtones">Utilizar toques do tema</string>
   <string name="audio_duration_minutes_format">%1$d minutos</string>
   <string name="audio_duration_seconds_format">%1$d segundos</string>
+  <string name="audition_ringtone">Reproduzir</string>
   <string name="automatically_update_using_theme_tips">Actualizar automaticamente</string>
   <string name="backup_theme_dialog_message">Fazer cópia do seu tema actual?</string>
   <string name="backup_theme_dialog_ok">Fazer cópia</string>
@@ -55,6 +56,7 @@ Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede
   <string name="component_title_settings_video_wallpaper">Papéis de parede com efeitos especiais</string>
   <string name="component_title_video_wallpaper">Vídeos de papel de parede</string>
   <string name="component_title_wallpaper">Papéis de parede</string>
+  <string name="count_down_tip">%ds restantes</string>
   <string name="current_using_desktop_wallpaper_text">Ecrã inicial</string>
   <string name="current_using_lockscreen_wallpaper_text">Ecrã de bloqueio</string>
   <string name="current_version_incompatible">Não compatível</string>
@@ -150,6 +152,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="item_resource_audio_optional_notification_ring">Notificações</string>
   <string name="item_resource_audio_optional_phone_ring">Toques</string>
   <string name="lab">Funcionalidades Beta</string>
+  <string name="like_list">Itens que gostei</string>
   <string name="live_wallpaper">Papéis de parede animados</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_resource_detail_fail">Não é possível carregar o recurso</string>
@@ -217,6 +220,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="online_precust_scenery">Cenários</string>
   <string name="online_search_hint">Pesquisar recursos online</string>
   <string name="password_toggle_content_description">Tornar palavra-passe vísivel</string>
+  <string name="playing_ringtone">A reproduzir</string>
   <string name="pref_privacy_policy">Política de Privacidade</string>
   <string name="present_local_fonts">Os meus tipos de letra</string>
   <string name="present_local_themes">Os meus temas</string>
@@ -253,7 +257,6 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="resource_alarm_default">Alarme</string>
   <string name="resource_app_name">Ver recursos</string>
   <string name="resource_apply">Aplicar</string>
-  <string name="resource_apply_trial">Testar agora</string>
   <string name="resource_back">Voltar</string>
   <string name="resource_buy">Comprar</string>
   <string name="resource_can_not_selected">%1$s não pode(m) ser seleccionado(s)</string>
@@ -324,7 +327,6 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="resource_download">Transferir</string>
   <string name="resource_download_notification_title_many">%1$s temas transferidos</string>
   <string name="resource_download_notification_title_one">Tema transferido</string>
-  <string name="resource_download_trial">Testar gratuitamente</string>
   <string name="resource_downloaded_title">Recursos transferidos</string>
   <string name="resource_downloading">A transferir</string>
   <string name="resource_exchange">Resgatar</string>
@@ -536,7 +538,6 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="theme_purchased_non_local">Online</string>
   <string name="theme_select_others">Explorar</string>
   <string name="theme_setting">Definições</string>
-  <string name="theme_to_comment">Nada mau!</string>
   <string name="theme_user_agreement_allow">Concordar</string>
   <string name="theme_user_agreement_content1">"Ao utilizar este produto, está a concordar com "</string>
   <string name="theme_user_agreement_content2">Termos de Utilização</string>
@@ -579,6 +580,13 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="transparent_wallpaper_white_wallpaper_failed">Não é possível tornar o fundo branco</string>
   <string name="transparent_wallpaper_white_wallpaper_success">O fundo está branco agora</string>
   <string name="transparent_wallpaper_white_wallpaper_tip">Os papéis de parede transparente ficam melhor em fundos brancos</string>
+  <string name="trial_count_empty">Sem mais itens gratuitos hoje. Volte amanhã!</string>
+  <string name="trial_count_tip">O período gratuito termina em %1$s:%2$s:%3$s</string>
+  <string name="trial_for_free">Teste grátis</string>
+  <string name="trial_get_failed_tip">Termine de ver o vídeo para obter o tema</string>
+  <string name="trial_get_success_tip">Parabéns!Tem uma avaliação gratuita de 3 dias</string>
+  <string name="trial_now">Experimentar agora</string>
+  <string name="try_5_min">Experimentar por 5 minutos</string>
   <string name="uid_change_dialog_message">Eliminou actualizações. Reinicie o dispositivo para poder utilizar os temas</string>
   <string name="uid_change_dialog_ok">Percebi</string>
   <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
@@ -588,6 +596,11 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="using_theme_next_automatic_update">Actualizações automáticas</string>
   <string name="using_theme_next_automatic_update_summary">Actualizar temas automaticamente Wi-Fi quando o ecrã estiver bloqueado</string>
   <string name="using_theme_show_ad">Recomendações</string>
+  <string name="video_ad_click">Experimentar agora</string>
+  <string name="video_ad_try_for_free">Teste grátis</string>
+  <string name="video_ad_uncomplete_tip">Termine de ver o vídeo para obter o tema</string>
+  <string name="video_ad_uncomplete_tip_cancel">Cancelar</string>
+  <string name="video_ad_uncomplete_tip_continue">Continuar a ver</string>
   <string name="using_wallpaper_personal">Selecção personalizada</string>
   <string name="video_audio_apply_success">Vídeo com som configurado com sucesso</string>
   <string name="video_data_tips_message">Utilizar dados móveis pode gerar custos adicionais. Continuar mesmo assim?</string>

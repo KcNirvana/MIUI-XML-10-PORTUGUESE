@@ -18,6 +18,7 @@
   <string name="business_card">Cartão comercial</string>
   <string name="business_card_result_title">Cartão comercial</string>
   <string name="business_card_title">Coloque o cartão dentro do quadrado</string>
+  <string name="business_card_with_qr_code">Coloque o cartão ou código QR dentro do quadrado</string>
   <string name="business_copy">Copiar</string>
   <string name="business_new_contacts">Criar contacto</string>
   <string name="business_no_result">Não foi possível reconhecer o cartão. Tente novamente</string>
