@@ -359,6 +359,10 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">%d dias restantes até à sessão do acelerador de rede terminar</item>
         <item quantity="one">%d dia restantes até à sessão do acelerador de rede terminar</item>
     </plurals>
+    <plurals name="function_shield_num">
+        <item quantity="other">%d funcionalidades</item>
+        <item quantity="one">%d funcionalidade</item>
+    </plurals>
     <plurals name="hide_txt_hint_with_blank_2">
         <item quantity="other">    +%1$d mais caracteres</item>
         <item quantity="one">    +%1$d mais caracter</item>

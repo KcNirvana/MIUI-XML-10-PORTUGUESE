@@ -562,6 +562,7 @@
   <string name="charging_text_battery_nearly_full">Quase carregada</string>
   <string name="charging_text_battery_perfect">Totalmente carregada</string>
   <string name="choose">Escolher</string>
+  <string name="choose_gs_show_way">Seleccionar orientação da página inicial</string>
   <string name="clean_immediately">Limpar</string>
   <string name="cleaned">Limpo</string>
   <string name="clear_garbage">Limpar lixo para libertar espaço</string>
@@ -889,8 +890,12 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="free_time_traffic_title">Introduzir o limite de dados do período</string>
   <string name="free_traffic_settings">Limite de dados por período</string>
   <string name="function_close">Desligado</string>
-  <string name="function_shield_summary">Restringir o brilho automático, os gestos de capturas de ecrã e o Modo de Leitura</string>
-  <string name="function_shield_summary_m">Restringir o brilho automático e os gestos de capturas de ecrã</string>
+  <string name="function_shield_auto_bright">Desligar brilho automático</string>
+  <string name="function_shield_eye_shield">Desligar Modo de Leitura</string>
+  <string name="function_shield_pull_notification_bar">Não abrir a área de notificações</string>
+  <string name="function_shield_settings_title">Restringir funcionalidades a jogar</string>
+  <string name="function_shield_summary">Restringir as funcionalidades seleccionadas quando estiver a jogar</string>
+  <string name="function_shield_three_finger">Restringir os gestos de capturas de ecrã</string>
   <string name="function_shield_title">Experiência melhorada</string>
   <string name="fw_blocked">Lista de bloqueio</string>
   <string name="fw_blocked_count">"Bloqueadas "</string>
@@ -995,7 +1000,6 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_new_feature">Nova funcionalidade</string>
   <string name="gb_shortcut_pref_title">Atalho de ecrã inicial</string>
   <string name="gb_sign_notification_title">"Aumentar a velocidade de rede para jogos "</string>
-  <string name="gs_slip_gamebox_detail">Utilize o controlo para fazer o painel de atalhos aparecer</string>
   <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa <a href='http://www.miui.com/res/doc/privacy/pt.html'>Política de Privacidade</a>"</string>
   <string name="get_sys_info">A obter informações…</string>
   <string name="gigabyteShort">GB</string>
@@ -1031,6 +1035,10 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gs_open_game_booster_summary">Aumentar a velocidade de rede para jogos</string>
   <string name="gs_performance_mode">Modo desempenho</string>
   <string name="gs_performance_mode_detail">Optimizar o desempenho do sistema para jogos</string>
+  <string name="gs_show_way">Orientação da página inicial</string>
+  <string name="gs_show_way_horizontal">Horizontal</string>
+  <string name="gs_show_way_vertical">Vertical</string>
+  <string name="gs_slip_gamebox_detail">Utilize o controlo para fazer o painel de atalhos aparecer</string>
   <string name="guide_get_operator_error">"<font color='#33b4ff'><u>Operadora errada?</u></font>"</string>
   <string name="guide_operator_text">"A sua operadora actual: "</string>
   <string name="guide_quck_open">Ligar</string>
@@ -1729,8 +1737,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="privacy_apps_manage_dialog_title">Acerca de aplicações ocultas</string>
   <string name="privacy_apps_manager_dialog_message">Esta aplicação não vai ser mostrada no ecrã inicial após a ocultar. Ocultar esta aplicação agora?</string>
   <string name="privacy_apps_tutorial">Tutorial</string>
-  <string name="privacy_apps_tutorial_prompt_pageone">"Quando oculta uma aplicação, é movida para uma pasta oculta. O atalho no ecrã inicial é ocultado também.
-Esta funcionalidade não é suportada para aplicações de sistema"</string>
+  <string name="privacy_apps_tutorial_prompt_pageone">Esta funcionalidade permite ocultar ícones das aplicações para que não apareçam no ecrã inicial</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Após introduzir a palavra-passe, a pasta com as aplicações ocultas vai aparecer</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste 2 dedos no ecrã para ver uma mensagem a pedir a sua palavra-passe do Bloqueio de aplicações</string>
   <string name="privacy_declare_dialog_title">Termos de Serviço</string>

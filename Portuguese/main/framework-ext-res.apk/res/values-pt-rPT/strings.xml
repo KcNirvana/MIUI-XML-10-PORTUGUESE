@@ -146,6 +146,8 @@
   <string name="silence_mode">Modo silêncio</string>
   <string name="sim_added_reboot_confirm">Reiniciar</string>
   <string name="sim_added_reboot_title">O cartão SIM vai ser activado depois de reiniciar o dispositivo</string>
+  <string name="sim_lock_non_ais_msg">O seu cartão SIM não é totalmente compatível com este telefone</string>
+  <string name="sim_lock_now_ais_title">SIM %1$d</string>
   <string name="softap_notifif_summary">%d ligado</string>
   <string name="softap_notifif_title">PA Móvel \"%s\" está ligado</string>
   <string name="standard">Silêncio</string>

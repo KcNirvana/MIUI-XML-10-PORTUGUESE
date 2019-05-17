@@ -2,6 +2,7 @@
 <resources>
   <string name="action_settings">Definições</string>
   <string name="app_name">Contador de passos</string>
+  <string name="connect_wifi">Sem ligações Wi-Fi disponíveis</string>
   <string name="joyose_name">Joyose</string>
   <string name="permstep_description">Permitir que a aplicação leia as informações dos passos do seu telefone</string>
   <string name="permstep_label">ler passos</string>

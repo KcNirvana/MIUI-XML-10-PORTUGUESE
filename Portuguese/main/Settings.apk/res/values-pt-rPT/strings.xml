@@ -488,8 +488,8 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="backup_pw_cancel_button_text">Cancelar</string>
   <string name="backup_pw_set_button_text">Definir palavra-passe da cópia de segurança</string>
   <string name="backup_section_title">Cópia e restauro</string>
-  <string name="backup_set_clear_success">Turned off backup password successfully</string>
-  <string name="backup_set_clear_title">Turn off backup password</string>
+  <string name="backup_set_clear_success">Palavra-passe da cópia desligada</string>
+  <string name="backup_set_clear_title">Desligar palavra-passe da cópia</string>
   <string name="backup_set_confirm">OK</string>
   <string name="backup_set_confirm_clear">Desligar</string>
   <string name="backup_set_enter_new_pw">Introduzir a nova palavra-passe da cópia</string>
@@ -3916,6 +3916,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_accessibility_screen_magnification_title">Gestos de ampliação;Ampliação</string>
   <string name="search_accessibility_settings">Acessibilidade</string>
   <string name="search_account_list">Outras contas;Conta;Contas</string>
+  <string name="search_add_facerecoginition_text">Desbloqueio por rosto;Reconhecimento de rosto</string>
   <string name="search_advanced_settings">Definições avançadas;Wi-Fi;Definições Wi-Fi;Definições Wi-Fi</string>
   <string name="search_airplane_mode">Modo avião;Modo voo;Avião;Modo Avião;Avião;Vôo</string>
   <string name="search_alarm_sound_title">Toque do alarme;toque do alarme;alarme</string>
@@ -3980,6 +3981,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_lock_settings">Ecrã de bloqueio e segurança;Desbloquear com Bluetooth;Desbloquear com dispositivo Bluetooth</string>
   <string name="search_lock_sounds_enable_title">Som de bloqueio de ecrã;Ligar som de bloqueio de ecrã</string>
   <string name="search_manage_device_admin">Administradores do dispositivo;Admin;Administrador</string>
+  <string name="search_manage_facerecoginition_text">Desbloqueio por rosto;Reconhecimento de rosto</string>
   <string name="search_manage_notification_access_title">Acesso a notificações;Notificações;Permissão de notificação</string>
   <string name="search_master_clear_title">Repor definições de fábrica</string>
   <string name="search_menu">Pesquisar definições</string>

@@ -621,7 +621,6 @@ Se voltar a activar os dados móveis podem ocorrer custos adicionais"</string>
   <string name="face_unlock_rotated_right">Vire a sua cabeça para a esquerda</string>
   <string name="face_unlock_sc_status">Puxe para abrir a câmara</string>
   <string name="face_unlock_stay_away_screen">Mantenha-se 25 a 40 cm afastado do ecrã</string>
-  <string name="face_unlock_success">Dados do rosto verificados com sucesso</string>
   <string name="face_unlock_success_show_message_dialog_msg">Permitir notificações no ecrã de bloqueio</string>
   <string name="face_unlock_success_show_message_dialog_negative_btn">Não obrigado</string>
   <string name="face_unlock_success_show_message_dialog_positive_btn">Permitir</string>
@@ -761,7 +760,6 @@ Utilize apenas o carregador fornecido"</string>
   <string name="keyguard_charged">Carregada</string>
   <string name="keyguard_charging_back_to_lockscreen">Voltar para o ecrã de bloqueio</string>
   <string name="keyguard_charging_info_battery_used_time_text">Na bateria</string>
-  <string name="keyguard_charging_info_click_to_detail">Ver detalhes</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Descarregou</string>
   <string name="keyguard_charging_info_last_charge_time">d/MM H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Hoje %s</string>
@@ -773,6 +771,9 @@ Utilize apenas o carregador fornecido"</string>
   <string name="keyguard_charging_info_tip_text4">Não utilize o seu dispositivo activamente enquanto estiver a carregar</string>
   <string name="keyguard_charging_info_tip_text5">As baterias demoram mais tempo a carregar quando estão quentes</string>
   <string name="keyguard_charging_info_tip_text6">Desligue o ecrã para refrescar o seu dispositivo</string>
+  <string name="keyguard_charging_normal_and_level_tip">A carregar %d%%</string>
+  <string name="keyguard_charging_quick_and_level_tip">Carregamento rápido %d%%</string>
+  <string name="keyguard_charging_super_quick_and_level_tip">A carregar rapidamente %d%%</string>
   <string name="keyguard_indication_charging_time">A carregar (%s até à carga máxima)</string>
   <string name="keyguard_indication_charging_time_fast">A carregar rapidamente (%s até à carga máxima)</string>
   <string name="keyguard_indication_charging_time_slowly">A carregar lentamente (%s até à carga máxima)</string>
@@ -926,9 +927,10 @@ d 'de' MMMM"</string>
   <string name="lock_screen_magazine_default_content">Porção diária de novas imagens</string>
   <string name="lock_screen_magazine_default_title">Papéis de parede aleatórios</string>
   <string name="lock_screen_magazine_global_button_text">Mais</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Mais</string>
+  <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Introduzir</string>
   <string name="lock_screen_no_sim_card_emergency_only">Apenas cham. emergência</string>
   <string name="lock_screen_no_sim_card_no_service">Sem serviço</string>
-  <string name="lock_wallpaper_enter">Entrar</string>
   <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
   <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
   <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
