@@ -3,6 +3,16 @@
   <string name="ad_downloading">A transferir…</string>
   <string name="app_name">Plugin do serviço de sistema</string>
   <string name="cancel_button">Cancelar</string>
+  <string name="dialog_market_score_cancel">Cancelar</string>
+  <string name="dialog_market_score_dislike">Comentar</string>
+  <string name="dialog_market_score_like">5 estrelas!</string>
+  <string name="dialog_market_score_positive_button">Comentar</string>
+  <string name="dialog_market_score_submit">Submeter</string>
+  <string name="dialog_market_score_subtitle_step1">Toque nas estrelas para avaliar esta aplicação</string>
+  <string name="dialog_market_score_subtitle_step2">Pode deixar um comentário também</string>
+  <string name="dialog_market_score_subtitle_step3">Avaliar esta aplicação</string>
+  <string name="dialog_market_score_title_step1_format">Gostar de \"%s\"?</string>
+  <string name="dialog_market_score_title_step2">Obrigado pelos comentários!</string>
   <string name="dual_app_title">Aplicações clonadas</string>
   <string name="dual_app_words">Toda a conta merece a sua própria aplicação</string>
   <string name="fastboot_locked_answer_1">O fastboot é o método tradicional para flashar dispositivos Mi. Quando o dispositivo está no modo fastboot, todos os dados guardados nele podem ser facilmente conseguidos e eliminados. Nós bloqueamos o fastboot para certificar que os seus dados estão seguros em caso de perda do dispositivo</string>

@@ -280,7 +280,7 @@ Para activar a sua conta siga o
   <string name="passport_login_instead_reg">Utilizar este número</string>
   <string name="passport_login_instead_reg_with_email">Utilizar este email</string>
   <string name="passport_login_other_account">Outra conta</string>
-  <string name="passport_login_prompt">Uma Conta Mi. Todos os serviços Mi</string>
+  <string name="passport_login_prompt">Todos os serviços Mi. Uma Conta Mi</string>
   <string name="passport_login_recycle_account_no">Não</string>
   <string name="passport_login_recycle_account_yes">Sim</string>
   <string name="passport_login_title">Inicie sessão na sua Conta Mi</string>
@@ -399,6 +399,7 @@ Para activar a sua conta siga o
   <string name="passport_wrong_phone_number_format">O formato do número de telefone que introduziu é inválido</string>
   <string name="passport_wrong_vcode">O código que introduziu está incorrecto</string>
   <string name="passport_wrong_voice">O código que introduziu está incorrecto</string>
+  <string name="passport_wx_bind_account_limit">Não é possível criar conta agora. Tente outro método</string>
   <string name="passport_yes">Sim</string>
   <string name="permission_group_contacts">Contactos</string>
   <string name="permission_group_phone">Telefone</string>
@@ -430,6 +431,7 @@ Para activar a sua conta siga o
   <string name="search_account_security_key_words">Alterar telefone,Alterar email</string>
   <string name="search_account_security_path">Definições/Conta Mi/Segurança da conta</string>
   <string name="search_app_name">Conta Mi</string>
+  <string name="search_menu_title">Pesquisa</string>
   <string name="search_mi_account">Conta Mi</string>
   <string name="search_mi_account_desc">Conta Mi</string>
   <string name="search_mi_account_key_words">Conta Mi,Iniciar sessão,Mi Cloud,Definições da conta, Gestão da conta,Informações Mi Pay</string>

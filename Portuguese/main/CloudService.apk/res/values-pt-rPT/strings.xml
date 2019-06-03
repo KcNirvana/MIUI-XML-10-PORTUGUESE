@@ -35,8 +35,7 @@
   <string name="error_server">Erro do servidor</string>
   <string name="error_unknown">Não foi possível iniciar sessão</string>
   <string name="find_device">Localizar Dispositivo</string>
-  <string name="find_device_dspt_provision">"Se perder o seu dispositivo, pode ir a %s para localizar, bloquear ou reinicializar. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições
-"</string>
+  <string name="find_device_dspt_provision">Se perder o seu dispositivo, pode ir a &lt;font color=#ff0000&gt;%s&lt;/font&gt; para localizar, bloquear ou reinicializar. Pode ligar ou desligar esta funcionalidade em qualquer altura nas Definições</string>
   <string name="find_device_error_network">Verifique a sua ligação de dados e tente novamente</string>
   <string name="find_device_error_server">Erro de servidor</string>
   <string name="find_device_gdpr_prompt">Ao ligar Localizar Dispositivo, está a concordar com <u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a></u>. Se necessitar de revogar a autorização, desligue esta funcionalidade</string>
@@ -170,7 +169,7 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_main_network_error">Não é possível ligar à rede</string>
   <string name="micloud_main_simple_last_sync_time">Última sincronização: %s</string>
   <string name="micloud_main_simple_off">Sinc. desligada</string>
-  <string name="micloud_main_sync_mode_summary">Os itens acima vão ser sincronizados em tempo real. Isto pode aumentar o consumo de bateria</string>
+  <string name="micloud_main_sync_mode_summary">Sincronizar todos os itens excepto fotos e vídeos em tempo real. Isto pode aumentar o consumo de bateria</string>
   <string name="micloud_main_sync_mode_title">Sincronização em tempo real</string>
   <string name="micloud_main_wait_charge">Carregue o dispositivo totalmente para continuar a sincronização</string>
   <string name="micloud_main_wait_charge_sleep">Desligue o ecrã e carregue o dispositivo totalmente para continuar a sincronização</string>

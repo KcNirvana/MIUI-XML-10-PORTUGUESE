@@ -203,7 +203,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="allow_bind_app_widget_activity_allow_bind_title">Deseja criar widget e permitir acesso?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Permitir sempre %1$s que criem widgets e acedam aos seus dados</string>
   <string name="allow_data_usage_title">Permitir utilização de dados em roaming</string>
-  <string name="allow_device_id_access">Aplicações com acesso ao ID de dispositivo</string>
+  <string name="allow_device_id_access">Seleccionar aplicações que podem utilizar o ID de dispositivo</string>
   <string name="allow_float_summary">Mostrar notificações flutuantes</string>
   <string name="allow_float_title">Notificações flutuantes</string>
   <string name="allow_keyguard_summary">Mostrar notificações no ecrã de bloqueio</string>
@@ -211,6 +211,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="allow_lights_title">LED de notificações</string>
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
+  <string name="allow_oaid_used">Permitir utilizando o ID de dispositivo</string>
   <string name="allow_overlay_description">Esta permissão permite que uma aplicação possa ser mostrada em cima de outras aplicações que estiver a utilizar e pode interferir com a utilização da interface em outras aplicações ou mudar aquilo que pensa que está a ver nas outras aplicações</string>
   <string name="allow_sound">Permitir som</string>
   <string name="allow_sound_title">Som</string>
@@ -1434,7 +1435,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_display_layout_title">Funcionalidades</string>
   <string name="device_edit_title">Mudar o nome do telefone</string>
   <string name="device_feedback">Enviar comentários acerca do dispositivo</string>
-  <string name="device_id">ID de dispositivo</string>
+  <string name="device_id">ID de dispositivo para recomendações personalizadas</string>
   <string name="device_info_default">Desconhecido</string>
   <string name="device_info_label">Informações do dispositivo</string>
   <string name="device_info_not_available">Não disponível</string>
@@ -1450,6 +1451,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_name_input_hint">Introduzir nome</string>
   <string name="device_name_input_overlength">Passou o limite de caracteres</string>
   <string name="device_name_usage_point">Outros dispositivos próximos podem ver este nome</string>
+  <string name="device_oaid">ID de dispositivo</string>
   <string name="device_picker">Escolher dispositivo Bluetooth</string>
   <string name="device_rear_camera">Câmara traseira</string>
   <string name="device_screen_consumption">Consumo do ecrã</string>
@@ -2276,8 +2278,6 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="keywords_wifi">wifi;wi-fi;Wi-Fi-;WiFi;wlan;WLAN</string>
   <string name="keywords_wifi_calling">wifi wi-fi chamada telefonar</string>
   <string name="keywords_write_settings">gravar modificar definições do sistema</string>
-  <string name="kilobyteShort">KB</string>
-  <string name="kilobyte_per_second">K/s</string>
   <string name="label_mi_stats">Analíticas Mi</string>
   <string name="language_keyboard_settings_title">Idioma e introdução</string>
   <string name="language_picker_title">Idiomas</string>
@@ -2608,8 +2608,6 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="media_volume_option_title">Volume multimédia</string>
   <string name="media_volume_summary">Definir volume para música e vídeos</string>
   <string name="media_volume_title">Multimédia</string>
-  <string name="megabyteShort">MB</string>
-  <string name="megabyte_per_second">M/s</string>
   <string name="mem_details_title">Detalhes da memória</string>
   <string name="mem_state_subtitle">Estados da memória</string>
   <string name="mem_use_free_type">Livre</string>
@@ -2779,7 +2777,8 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_sos_statusbar_summary">Toque para desligar</string>
   <string name="miui_sos_statusbar_title">A emergência SOS está activada</string>
   <string name="miui_special_feature">Funcionalidades especiais</string>
-  <string name="miui_touch_filtered_warning">Se uma aplicação estiver a bloquear a janela de permissões,If an app is blocking a permissions dialog, arraste o item sobreposto para fora ou feche a aplicação</string>
+  <string name="miui_touch_filtered_touchassistant_warning">A caixa de diálogo de permissões está escondida pelo menu flutuante. Mova o menu flutuante ou desligue esta funcionalidade</string>
+  <string name="miui_touch_filtered_warning">Se uma aplicação estiver a bloquear a janela de permissões, arraste o item sobreposto para fora ou feche a aplicação</string>
   <string name="miui_updater">Actualizações</string>
   <string name="miui_userguide">Guia do utilizador</string>
   <string name="mms_breathing_light_color_title">Cor do LED das mensagens</string>
@@ -3690,11 +3689,14 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="resolver_settings_label">Ordenar</string>
   <string name="restore_default_apn">A restaurar as definições APN predefinidas</string>
   <string name="restore_default_apn_completed">A reposição das definições predefinidas do APN foi concluída</string>
-  <string name="restore_device_id_content">Repor as recomendações personalizadas</string>
-  <string name="restore_device_id_title">Restaurar ID do dispositivo</string>
-  <string name="restore_dialog_content">Restaurar ID do dispositivo vai repor as suas recomendações personalizadas</string>
-  <string name="restore_dialog_positive">Restaurar</string>
+  <string name="restore_device_id_content">As recomendações personalizadas vão ser repostas</string>
+  <string name="restore_device_id_title">Repor ID do dispositivo</string>
+  <string name="restore_dialog_content">Repor o ID do dispositivo vai repor as suas recomendações personalizadas</string>
+  <string name="restore_dialog_positive">Repor</string>
   <string name="restore_dialog_title">Atenção</string>
+  <string name="restore_oaid_content">Repor o ID do dispositivo actual vai criar um novo. Repor agora?</string>
+  <string name="restore_oaid_positive">Repor</string>
+  <string name="restore_oaid_title">A repor o ID do dispositivo</string>
   <string name="restr_pin_enter_admin_pin">Introduzir PIN de administrador</string>
   <string name="restrict_bg_app">Restringir</string>
   <string name="restrict_max_aspect_ratio_title">Estas aplicações não funcionam bem em modo ecrã inteiro</string>
@@ -3803,6 +3805,7 @@ Esta definição vai afectar todos os utilizadores deste telefone"</string>
   <string name="screen_paper_mode_global_summary">Utilizar Modo de Leitura para todas as aplicações</string>
   <string name="screen_paper_mode_global_title">Todas as aplicações</string>
   <string name="screen_paper_mode_hdr_toast">O Modo de Leitura vai ser desligado enquanto reproduz vídeos HDR. Vai ser ligado automaticamente quando acabar a reprodução</string>
+  <string name="screen_paper_mode_hdr_toast_new">O Modo de Leitura vai ser desligado na reprodução de vídeos HDR e verificação de impressão digital. Vai ser ligado automaticamente quando estas acções estiverem concluídas</string>
   <string name="screen_paper_mode_local_summary">Utilizar Modo de Leitura nas aplicações que seleccionou</string>
   <string name="screen_paper_mode_local_title">Aplicações seleccionadas</string>
   <string name="screen_paper_mode_off_apps_title">Não utilizar Modo de Leitura</string>
@@ -4428,8 +4431,6 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_expandable_under_keyguard">Mostrar em ecrã de bloqueio seguro</string>
   <string name="status_bar_settings_manage_notification">Notificações das aplicações</string>
   <string name="status_bar_settings_notification_bar">Área de notificações</string>
-  <string name="status_bar_settings_notification_led_custom">Personalizar cor</string>
-  <string name="status_bar_settings_notification_sound_custom">Som personalizado</string>
   <string name="status_bar_settings_notification_use_app_icon">Utilizar ícones da aplicação para notificações</string>
   <string name="status_bar_settings_qs_layout">Definições rápidas</string>
   <string name="status_bar_settings_show_lte_for_4g">Mostrar LTE em vez de 4G</string>

@@ -652,6 +652,9 @@ Motivo: \"%s\""</string>
   <string name="menu_set_ring_tone">Definir toque</string>
   <string name="menu_settings">Definições</string>
   <string name="menu_share">Partilhar</string>
+  <string name="menu_share_qrcode">QR code</string>
+  <string name="menu_share_text">Texto</string>
+  <string name="menu_share_vcard_file">Ficheiro</string>
   <string name="menu_show_all_calls">Mostrar todas as chamadas</string>
   <string name="menu_show_voicemails_only">Mostrar apenas mensagens de voz</string>
   <string name="menu_splitAggregate">Separar</string>
@@ -1033,8 +1036,10 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="set_data_package">Definir um plano de dados primeiro</string>
   <string name="set_default">Definir como predefinido</string>
   <string name="set_photo_failed_msg">Não foi possível atribuir foto</string>
+  <string name="share_contact_as">Partilhar contacto como</string>
   <string name="share_error">Este contacto não pode ser partilhado</string>
   <string name="share_over_limit">Não é possível partilhar mais de 1000 contactos</string>
+  <string name="share_qrcode">Partilhar código QR</string>
   <string name="share_via">Enviar via</string>
   <string name="share_visible_contacts">Partilhar contactos</string>
   <string name="shortcutActivityTitle">Escolher atalho</string>

@@ -323,9 +323,13 @@
   <string name="news_change">Alterar</string>
   <string name="no_network">Não é possível ligar à rede. Tente mais tarde</string>
   <string name="no_network_btn">Tente novamente</string>
+  <string name="notification_garbage_cleanup_summary">O lixo atingiu %s</string>
+  <string name="notification_garbage_cleanup_title">Limpar lixo</string>
+  <string name="notification_low_memory_cache_summary">Menos de 1.5GB de espaço disponível</string>
+  <string name="notification_low_memory_cache_title">Limpar cache</string>
+  <string name="notification_low_memory_deepclean_summary">A Limpeza Profunda pode libertar espaço no seu dispositivo</string>
+  <string name="notification_low_memory_deepclean_title">Espaço de armazenamento baixo</string>
   <string name="notification_summary_after_auto_cleanup">Limpo %s</string>
-  <string name="notification_summary_of_garbage_cleanup">Toque para libertar espaço</string>
-  <string name="notification_title_of_garbage_cleanup">%s de lixo</string>
   <string name="notify_when">Obter uma notificação quando o tamanho do lixo atingir os 100MB</string>
   <string name="ok">OK</string>
   <string name="onekeyclean_boost_available">%s disponíveis</string>
@@ -485,7 +489,7 @@
   <string name="wechat_qq_celan_tab_video">Vídeos</string>
   <string name="wechat_qq_celan_tab_voice">Voz</string>
   <string name="wechat_qq_chat_files">Histórico de conversas</string>
-  <string name="wechat_qq_deep_clean_button_text">Limpeza profunda</string>
+  <string name="wechat_qq_deep_clean_button_text">Limpeza Profunda</string>
   <string name="wechat_qq_normal_files">Lixo</string>
   <string name="whatsapp_btn_quick_cleanup">Limpar %s</string>
   <string name="whatsapp_clean_exit_confirm_cancel">Cancelar</string>

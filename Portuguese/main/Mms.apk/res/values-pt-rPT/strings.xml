@@ -246,6 +246,7 @@
   <string name="guild_add_recipients">Toque para adicionar destinatários dos contactos</string>
   <string name="guild_msim_switcher">Toque para trocar de cartão SIM</string>
   <string name="has_invalid_recipient">Destinatários inválidos: &lt;%1$s&gt;</string>
+  <string name="heduohao_sub_sim_card">Sub</string>
   <string name="hidden_sender_address">Ocultar endereço do remetente</string>
   <string name="hold_to_talk">Segure para falar</string>
   <string name="hybrid_check_network">Definições de rede</string>
@@ -526,6 +527,7 @@
   <string name="received_label">"Recebida: "</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recipient_label">Destinatário: </string>
+  <string name="recipients_contain_sub_sim_number">Existe um SIM secundário nos destinatários. Envie esta mensagem utilizando o SIM secundário</string>
   <string name="recipients_over_size">Demasiados destinatários</string>
   <string name="recommend_bar_cancel">Ignorar</string>
   <string name="recommend_bar_message_mx">O Mi Message permite enviar mensagens gratuitas para outros dispositivos MIUI</string>
@@ -686,6 +688,9 @@
   <string name="storage_limits_setting">Definir limites</string>
   <string name="storage_limits_setting_dismiss">Sem limites</string>
   <string name="storage_unavailable">Sem espaço disponível</string>
+  <string name="sub_sim_card">Sub</string>
+  <string name="sub_sim_card_indicator">Sub %d</string>
+  <string name="sub_sim_not_support_mms">Não é possível enviar MMS utilizando o SIM secundário</string>
   <string name="subject_hint">Assunto</string>
   <string name="subject_label">"Assunto: "</string>
   <string name="switch_to_editor">Modo edição</string>

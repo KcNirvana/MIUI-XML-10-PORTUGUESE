@@ -35,6 +35,11 @@
         <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup">
+        <item>Desligado</item>
+        <item>Todos os eventos</item>
+        <item>Mais relevantes</item>
+    </string-array>
     <string-array name="open_alarm_repeating_labels">
         <item>Apenas desta vez</item>
         <item>Definir lembrete repetido</item>

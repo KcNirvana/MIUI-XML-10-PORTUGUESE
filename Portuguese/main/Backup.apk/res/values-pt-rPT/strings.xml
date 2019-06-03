@@ -178,6 +178,7 @@ Certifique-se que o disco USB tem espaço suficiente antes de começar"</string>
   <string name="flash_drive_restore_btn">Restaurar dum disco USB</string>
   <string name="flash_drive_search_backup_files">"A pesquisar por cópias USB…
 Não altere ou mude o nome dos ficheiros de cópia"</string>
+  <string name="gallery_summary">Definições da galeria (fotos não incluídas)</string>
   <string name="guarded_mode_dialog_backup_message">Não são permitidas cópias de segurança no Modo Convidado</string>
   <string name="guarded_mode_dialog_title">Está em Modo Convidado</string>
   <string name="guarded_mode_dialog_transfer_message">Não é possível utilizar Mi Mover no Modo Convidado</string>
@@ -284,7 +285,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="notif_trans_sending_failed">Não foi possível enviar dados</string>
   <string name="notif_trans_wait_for_reconnecting">A ligação foi interrompida. Ligue novamente</string>
   <string name="old_soft_name">Ligar via código QR</string>
-  <string name="old_way">Pode também ligar utilizando um código QR. Toque para gerar o código</string>
+  <string name="old_way">Pode também gerar um código QR no novo dispositivo e digitalizá-lo utilizando o antigo</string>
   <string name="page_loading">Aguarde…</string>
   <string name="password">Palavra-passe</string>
   <string name="password_null">A palavra-passe não pode estar vazia</string>
@@ -609,12 +610,17 @@ Liberte espaço ou faça várias transferências mais pequenas"</string>
   <string name="usb_trans_old_phone_low_space_title">Sem espaço suficiente</string>
   <string name="usb_trans_select_data_no_space">"Apenas estão disponíveis %s no seu disco USB.
 Liberte espaço ou transfira apenas itens importantes"</string>
+  <string name="user_feedback">Comentários</string>
   <string name="user_name">ID Apple ID ou email</string>
   <string name="user_name_null">O utilizador não pode estar vazio</string>
   <string name="user_notice_declaration_ignore">Não mostrar novamente</string>
   <string name="user_notice_message">Algumas funcionalidades necessitam de uma ligação à Internet para funcionar normalmente</string>
   <string name="user_notice_title">Atenção</string>
   <string name="view_password_description">Mostrar palavra-passe</string>
+  <string name="wait_link">"Abra o Mi Mover no dispositivo antigo,
+toque \"Sou um remetente\" e seleccione o PA Móvel a ligar.
+Não feche a página até a ligação estar estabelecida"</string>
+  <string name="waiting">Aguarde…</string>
   <string name="wifi_title">Definições de Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">Não foi possível iniciar a transferência. Verifique o estado do gestor de transferências</string>
   <string name="xiaomi_external_storage_unavailable">Armazenamento não disponível. Verifique o cartão SD</string>

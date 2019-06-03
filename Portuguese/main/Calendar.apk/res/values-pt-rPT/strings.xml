@@ -337,6 +337,9 @@
   <string name="preferences_import_credit_repayment">Pagamentos do cartão de crédito</string>
   <string name="preferences_import_travel">Bilhetes de comboio</string>
   <string name="preferences_notification_ringtone_title">Som</string>
+  <string name="preferences_popup_alert_smart_summary">A MIUI vai identificar automaticamente quais os eventos mais relevantes</string>
+  <string name="preferences_popup_alert_smart_tips">Substituir as notificações tradicionais por alertas pop-up para evitar perder eventos importantes. Os alertas pop não vão aparecer quando estiver a jogar ou a ver vídeos em ecrã inteiro</string>
+  <string name="preferences_popup_alert_title">Alertas pop-up</string>
   <string name="preferences_title">Calendário</string>
   <string name="preferences_use_home_tz_descrip">Mostrar calendários e horários de eventos no seu fuso horário quando viajar</string>
   <string name="preferences_use_home_tz_title">Utilizar o fuso horário local</string>

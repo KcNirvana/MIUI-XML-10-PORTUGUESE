@@ -1107,8 +1107,6 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="item_system_auto_download">Transferir actualizações automaticamente</string>
   <string name="item_usb_debug">Depuração USB</string>
   <string name="item_virus_lib">Actualizar as definições de vírus automaticamente</string>
-  <string name="kilobyteShort">KB</string>
-  <string name="kilobyte_per_second">KB/s</string>
   <string name="label_callwait">Notificações de chamada em espera</string>
   <string name="label_mi_stats">Analítica Mi</string>
   <string name="last_check_canceled">Verificação anterior foi cancelada</string>
@@ -1213,7 +1211,7 @@ da operadora"</string>
   <string name="managed_user_title">Todas as aplicações de trabalho</string>
   <string name="manual_input_free_traffic">Definir a utilização de dados no período de menor tráfego</string>
   <string name="manual_input_traffic">Definir utilização de dados</string>
-  <string name="manual_item_white_list_summary">Impedir que as aplicações seleccionadas sejam optimizadas</string>
+  <string name="manual_item_white_list_summary">Impedir que os itens seleccionados sejam optimizados</string>
   <string name="manual_item_white_list_title">Excepções</string>
   <string name="mark_agent">Bloquear agências reportadas</string>
   <string name="mark_agent_block">Reportado como agência</string>
@@ -1244,8 +1242,6 @@ da operadora"</string>
   <string name="mark_time_setting_dialog_title">Reportar número</string>
   <string name="mark_time_text">%d</string>
   <string name="marked_by_user">"Marcou como "</string>
-  <string name="megabyteShort">MB</string>
-  <string name="megabyte_per_second">MB/s</string>
   <string name="memory_check_content">Libertos %s</string>
   <string name="memory_clean_memory_size_tip">Cache</string>
   <string name="memory_clean_no_need_clean">Tudo parece bem</string>

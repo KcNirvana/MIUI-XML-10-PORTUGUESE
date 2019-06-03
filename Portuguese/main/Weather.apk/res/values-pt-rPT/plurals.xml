@@ -24,10 +24,6 @@
         <item quantity="other">%1$s segundos após comentar</item>
         <item quantity="one">%1$s segundo após comentar</item>
     </plurals>
-    <plurals name="view_realtime_clear">
-        <item quantity="other">Céu limpo</item>
-        <item quantity="one">Céu limpo</item>
-    </plurals>
     <plurals name="tts_report_temperature_high_centigrade">
         <item quantity="other">Temperatura máxima: %1$s°C</item>
         <item quantity="one">Temperatura máxima: %1$s°C</item>
@@ -43,5 +39,9 @@
     <plurals name="tts_report_temperature_low_fahrenheit">
         <item quantity="other">Temperatura mínima: %1$s°F</item>
         <item quantity="one">Temperatura mínima: %1$s°F</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Céu limpo</item>
+        <item quantity="one">Céu limpo</item>
     </plurals>
 </resources>
