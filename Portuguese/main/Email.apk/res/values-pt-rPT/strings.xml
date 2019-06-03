@@ -75,11 +75,12 @@
   <string name="account_setup_basics_manual_setup_action">Configuração manual</string>
   <string name="account_setup_basics_mi_mail_login_help">Pode ser necessário verificar a sua conta via SMS para receber emails</string>
   <string name="account_setup_basics_password_label">Palavra-passe</string>
+  <string name="account_setup_basics_password_label_authcode">Introduza a palavra-passe ou código de verificação</string>
   <string name="account_setup_basics_title">Adicionar conta</string>
   <string name="account_setup_check_settings_check_incoming_msg">A validar as definições do servidor…</string>
   <string name="account_setup_check_settings_check_outgoing_msg">A validar as definições SMTP…</string>
   <string name="account_setup_check_settings_retr_info_msg">A recuperar informações da conta…</string>
-  <string name="account_setup_correct_address_tips">Insira o endereço de email</string>
+  <string name="account_setup_correct_address_tips">O email introduzido não é válido</string>
   <string name="account_setup_creating_account_msg">A criar a conta…</string>
   <string name="account_setup_deleting_account_msg">A remover conta…</string>
   <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
@@ -162,9 +163,10 @@
   <string name="ad_merge">Anúncios e notificações</string>
   <string name="add_account">Adicionar conta</string>
   <string name="add_account_keywords">Adicionar conta;adicionar conta de email</string>
+  <string name="add_account_search">Adicionar conta</string>
   <string name="add_attachment">Adicionar anexo</string>
   <string name="add_calendar">Lembrar</string>
-  <string name="add_file_exception">Adicionar excepção. Tente adicionar de outra localização</string>
+  <string name="add_file_exception">Não foi possível adicionar. Tente adicionar de outra localização</string>
   <string name="add_label">Adicionar pasta</string>
   <string name="add_pre_message_attachments">Adicionar os anexos de pré-mensagem?</string>
   <string name="add_pre_message_attachments_no">Não adicionar</string>
@@ -174,6 +176,10 @@
   <string name="always_bcc_myself">Enviar sempre Bcc para mim</string>
   <string name="always_show_images">Mostrar sempre imagens deste remetente</string>
   <string name="app_name">Email</string>
+  <string name="appraise_des">Gosta da nossa aplicação?</string>
+  <string name="appraise_good">Sim</string>
+  <string name="appraise_ignore">Mais tarde</string>
+  <string name="appraise_negative">Não</string>
   <string name="archive">Arquivar</string>
   <string name="archived">Arquivada</string>
   <string name="att_download_failed_content">Não é possível transferir o anexo desta mensagem</string>
@@ -202,6 +208,7 @@
   <string name="attachment_not_exists">O anexo não está disponível!</string>
   <string name="attachment_open_SecurityException_hint">Pode não ter permissões para abrir este ficheiro ou o ficheiro pode estar danificado</string>
   <string name="attachment_open_SecurityException_title">Não é possível abrir o ficheiro</string>
+  <string name="attachment_opening_mode">Aplicações para anexos</string>
   <string name="attachment_size_exceed_limit">O tamanho excede o limite do servidor</string>
   <string name="attachment_stop_all">Parar</string>
   <string name="attachment_text">Texto</string>
@@ -250,7 +257,6 @@
   <string name="chat_item_msg_people_unit">pessoas</string>
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">A confirmar as definições do servidor…</string>
-  <string name="chinese">Chinês</string>
   <string name="choosertitle_sharevia">Partilhar por</string>
   <string name="clear">Limpar</string>
   <string name="clear_display_images_whitelist_dialog_message">Não mostrar mais imagens em linha dos remetentes que permitiu anteriormente</string>
@@ -338,12 +344,14 @@
   <string name="date_message_received_today">Hoje, %1$s</string>
   <string name="debug_mode_preferencecategory">Defina o modo de registo</string>
   <string name="debug_mode_settings">Definições do modo depuração</string>
-  <string name="default_">PREDEFINIDAS</string>
-  <string name="default_setup">DEFINIÇÕES PREDEFINIDAS</string>
+  <string name="default_">Predefinidas</string>
+  <string name="default_opening_attchemnt_mode">Abrir anexos utilizando aplicações predefinidas</string>
+  <string name="default_setup">Definições predefinidas</string>
   <string name="default_signature">Enviado do meu telefone Mi</string>
   <string name="default_signature_2">Enviado do meu %s</string>
   <string name="del_account_questionnair_hint">Pode-nos dizer porque está a remover esta conta?</string>
   <string name="delete">Eliminar</string>
+  <string name="delete_contact_content">Eliminar este contacto agora?</string>
   <string name="delete_message_flow">Eliminar fluxo de mensagens</string>
   <string name="delete_message_flow_keywords">Eliminar fluxo de mensagens;eliminar redireccionamento</string>
   <string name="deleted">Eliminada</string>
@@ -503,6 +511,7 @@
   <string name="gmail_server_authorization_deleted">Não foi possível autenticar. Tente adicionar esta conta novamente</string>
   <string name="gmail_web_login_go">OK</string>
   <string name="gmail_web_login_required_message">Iniciar sessão no Gmail</string>
+  <string name="have_auth_code">Eu tenho um código</string>
   <string name="header_category_account">Contas</string>
   <string name="header_category_other">Comentários</string>
   <string name="header_label_general_preferences">Definições gerais</string>
@@ -535,9 +544,11 @@
   <string name="loading_conversations">A carregar…</string>
   <string name="loading_from_remote">A carregar…</string>
   <string name="local_search">Pesquisa local</string>
+  <string name="local_search_result">%s resultados</string>
   <string name="log_save_path">Localização dos ficheiros de registo</string>
   <string name="login">Iniciar sessão</string>
   <string name="login139">Iniciar sessão com China Mobile</string>
+  <string name="login_err_message">A palavra-passe introduzida não é válida. Pode necessitar dum código de verificação para iniciar sessão. Se necessitar de repor a sua palavra-passe, visite https://email.163.com/</string>
   <string name="login_failed_ticker">Não é possível iniciar sessão em %s</string>
   <string name="login_failed_title">Não é possível iniciar a sessão</string>
   <string name="login_mail">Iniciar sessão</string>
@@ -671,8 +682,8 @@
   <string name="notification_action_undo_remove_label">Marcador removido</string>
   <string name="notification_exchange_calendar_added">Calendário do Exchange adicionado</string>
   <string name="notify_channel_new_mail">Novos emails</string>
-  <string name="notify_channel_no_disterb">Sem modo Não incomodar</string>
-  <string name="notify_channel_permission_notice">Aviso de permissões</string>
+  <string name="notify_channel_no_disterb">Modo Não incomodar</string>
+  <string name="notify_channel_permission_notice">Permissões necessárias</string>
   <string name="notify_channel_send_fail">Envio falhado</string>
   <string name="notify_channel_service">Sincronização em segundo plano</string>
   <string name="oauth_error_description">Não foi possível autenticar</string>
@@ -685,6 +696,7 @@
   <string name="one_day">1 dia</string>
   <string name="one_month">1 mês</string>
   <string name="one_week">1 semana</string>
+  <string name="open_androidp_warning">Avisar acerca de SDK não oficiais 9.0</string>
   <string name="open_calendar_and_contacts_permission">Permitir que o Email aceda aos contactos e calendário nas Definições</string>
   <string name="open_external_storage_and_calendar_permission">Permitir que o Email aceda ao armazenamento e calendário nas Definições</string>
   <string name="open_external_storage_and_contacts_and_calendar_permission">Permitir que o Email aceda ao armazenamento, contactos e calendário nas Definições</string>
@@ -797,6 +809,8 @@
   <string name="preview_attachment">Pré-visualizar</string>
   <string name="previous_action">Voltar</string>
   <string name="print">Imprimir</string>
+  <string name="print_scheduler_title">Imprimir tudo</string>
+  <string name="privacy_des">Os registos contém informações sobre o email e o seu dispositivo. Esta informação é utilizada para localizar problemas rapidamente. Ao clicar \"%1$s\", está a concordar com os nossos \"%2$s\"</string>
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="prompt_title">Perguntar</string>
   <string name="protocol_setting_toast">Toque no canto superior direito para ir às definições depois de concordar</string>
@@ -857,6 +871,7 @@
   <string name="read_string">conversa lida</string>
   <string name="recipient_needed">Adicione pelo menos um destinatário</string>
   <string name="recipient_needed_title">Aviso</string>
+  <string name="recommend_protocal">Protocolo recomendado</string>
   <string name="reduce_the_receiving_frequencye_summary">Sincronizar caixa de entrada com menos frequência quando Não incomodar está ligado</string>
   <string name="reduce_the_receiving_frequencye_title">Sincronizar com menos frequência</string>
   <string name="refresh">Actualizar</string>
@@ -864,6 +879,7 @@
   <string name="refreshing_done">Concluída</string>
   <string name="release_to_refresh">Largue para actualizar</string>
   <string name="remind_attachment_size_limit">Os seus emails devem ser menores que %sMB</string>
+  <string name="remote_no_mail">Não existem mais emails no servidor</string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_folder">Remover de %1$s</string>
   <string name="remove_star">Remover estrela</string>
@@ -1021,6 +1037,8 @@ Remover conta?"</string>
   <string name="unread_string">conversa não lida</string>
   <string name="unzip_file_failed">Não foi possível descompactar ficheiro</string>
   <string name="update_date_format_templete">HH:mm \'do dia\' d \'de\' MMMM</string>
+  <string name="update_domain_summary">Actualizar configurações e lista de domínio</string>
+  <string name="update_domain_title">Actualizar domínio</string>
   <string name="update_to_wps_mail">Disfrute de mais funcionalidade com WPS Mail</string>
   <string name="updated_at">Actualizado às %1$s</string>
   <string name="upload_log">Enviar</string>
@@ -1044,6 +1062,7 @@ Remover conta?"</string>
   <string name="wait_for_manual_sync_body">"Esta conta não está configurada para sincronizar automaticamente.
 Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definições de sincronização</b> para configurar esta conta para sincronizar emails automaticamente</string>
   <string name="wait_for_sync_title">A aguardar sincronização</string>
+  <string name="wait_while_update_db">Aguarde um momento durante a actualização de base de dados</string>
   <string name="webview_logout">Pode tentar iniciar sessão novamente</string>
   <string name="webview_logout_cancel">Agora não</string>
   <string name="webview_logout_sure">Tentar novamente</string>
@@ -1055,7 +1074,7 @@ Toque "<b>Sincronizar agora</b> para sincronizar emails, ou <b>Alterar definiç�
   <string name="widget_other_views">Outros</string>
   <string name="wipe_account_fail_description">Toque aqui para obter permissões</string>
   <string name="wipe_account_fail_title">Erro ao eliminar informações pessoais</string>
-  <string name="wipe_account_fail_description_remind">Devido a permissões, pode haver dados residuais nos calendários e contactos após eliminar a conta, elimine-a manualmente</string>
+  <string name="wipe_account_fail_description_remind">Devido a restrições de utilização de dados, pode haver dados residuais no Calendário e Contactos após eliminar a conta, elimine-a manualmente</string>
   <string name="wps_title">Email WPS</string>
   <string name="wrong_password">A palavra-passe que introduziu está incorrecta</string>
   <string name="yes">Sim</string>

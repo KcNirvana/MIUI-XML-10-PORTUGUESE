@@ -39,8 +39,7 @@
 "</string>
   <string name="find_device_error_network">Verifique a sua ligação de dados e tente novamente</string>
   <string name="find_device_error_server">Erro de servidor</string>
-  <string name="find_device_gdpr_prompt">Ao ligar Localizar Dispositivo, está a concordar com a nossa Política de Privacidade. Se necessitar de revogar a autorização, desligue esta funcionalidade</string>
-  <string name="find_device_gdpr_prompt_policy_doc_name">Política de Privacidade</string>
+  <string name="find_device_gdpr_prompt">Ao ligar Localizar Dispositivo, está a concordar com <u><a href="app://com.miui.cloudservice.gdpr.license">Política de Privacidade</a></u>. Se necessitar de revogar a autorização, desligue esta funcionalidade</string>
   <string name="find_device_operation_failure_rpc">Não foi possível realizar a operação devido ao um erro de RPC</string>
   <string name="find_device_send_sms_alert">Se trocar de cartão SIM, pode ser enviada outra mensagem para reactivar este serviço</string>
   <string name="find_device_service_title">Localizar Dispositivo</string>

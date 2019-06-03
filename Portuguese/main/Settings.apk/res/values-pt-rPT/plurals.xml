@@ -20,10 +20,6 @@
         <item quantity="other">Atraso muito longo (%1$d ms)</item>
         <item quantity="one">Atraso muito longo (%1$d ms)</item>
     </plurals>
-    <plurals name="aod_dual_togother_city">
-        <item quantity="other">" %1$s horas %2$s"</item>
-        <item quantity="one">" %1$s hora %2$s"</item>
-    </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">Desligado para %d aplicações</item>
         <item quantity="one">Desligado para %d aplicações</item>

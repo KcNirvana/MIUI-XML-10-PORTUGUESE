@@ -280,8 +280,6 @@
   <string name="alarm_template_far">em %1$s</string>
   <string name="always_use_accessory">Utilizar por predefinição para este acessório USB</string>
   <string name="always_use_device">Utilize por predefinição para este dispositivo USB</string>
-  <string name="aod_lock_screen_date">"EE, d 'de' MMMM"</string>
-  <string name="aod_lock_screen_date_12">"EE, d 'de' MMMM"</string>
   <string name="app_info">Informação da aplicação</string>
   <string name="app_label">UI de Sistema</string>
   <string name="app_name">Ecrã de bloqueio</string>

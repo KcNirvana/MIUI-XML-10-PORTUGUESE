@@ -97,6 +97,7 @@
   <string name="popup_camera_calibrate_now">Calibrar</string>
   <string name="popup_camera_calibrate_success">Calibrado com sucesso. Pode abrir a câmara frontal agora</string>
   <string name="popup_camera_front_failed">Não foi possível abrir a câmara frontal. Tente novamente</string>
+  <string name="popup_camera_front_when_use">A Câmara necessita de abrir a câmara frontal. Abrir agora?</string>
   <string name="popup_camera_popup_falied_times_calibrate">Não foi possível abrir a câmara frontal. Tente calibrar a câmara</string>
   <string name="popup_camera_sure">Percebi</string>
   <string name="popup_camera_sure_wait">Percebi (%ds)</string>

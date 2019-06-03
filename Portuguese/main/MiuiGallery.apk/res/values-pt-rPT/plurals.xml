@@ -80,6 +80,10 @@
         <item quantity="other">%d vídeos</item>
         <item quantity="one">%d vídeo</item>
     </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">Colagens podem conter 1-%d fotos</item>
+        <item quantity="one">Colagens podem conter 1-%d foto</item>
+    </plurals>
     <plurals name="creation_max_image">
         <item quantity="other">Seleccione até %d fotos</item>
         <item quantity="one">Seleccione até %d foto</item>

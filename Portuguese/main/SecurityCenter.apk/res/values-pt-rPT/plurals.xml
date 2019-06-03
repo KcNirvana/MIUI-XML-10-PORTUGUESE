@@ -124,6 +124,14 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">Adicionar %d minutos</item>
         <item quantity="one">Adicionar %d minuto</item>
     </plurals>
+    <plurals name="notification_battery_scan_consume_abnormal_title_split">
+        <item quantity="other">%2$d aplicações, incluindo %1$s, estão a descarregar a bateria</item>
+        <item quantity="one">%2$d aplicação, incluindo %1$s, está a descarregar a bateria</item>
+    </plurals>
+    <plurals name="pc_abnormal_scan_result_model_result_title">
+        <item quantity="other">%d aplicações estão a descarregar a bateria</item>
+        <item quantity="one">%d aplicação está a descarregar a bateria</item>
+    </plurals>
     <plurals name="people">
         <item quantity="other">Transferido por %1$d pessoas</item>
     </plurals>

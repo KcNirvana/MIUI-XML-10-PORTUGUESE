@@ -270,6 +270,9 @@
   <string name="cleaner_video_description">Eliminar vídeos que ocupam espaço</string>
   <string name="cleaner_video_pick_delete_selected">Eliminar vídeos seleccionados</string>
   <string name="cleaner_video_title">Vídeos</string>
+  <string name="clear_dup_medias">Limpar fotos duplicadas</string>
+  <string name="clear_dup_success">Limpo com sucesso</string>
+  <string name="clear_dup_tip">A limpar fotos duplicadas</string>
   <string name="click_download_gif">Toque para transferir GIF</string>
   <string name="click_top_right">Toque neste ícone</string>
   <string name="close">Fechar</string>

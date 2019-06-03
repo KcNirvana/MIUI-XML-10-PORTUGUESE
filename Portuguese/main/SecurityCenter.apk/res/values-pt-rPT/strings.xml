@@ -1418,6 +1418,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="note_sms_none">Sem mensagens</string>
   <string name="noti_back_diving_mode_title">Modo imersivo ligado. Toque para desligar</string>
   <string name="notification_battery_consume_abnormal_title">A bateria está a descarregar muito depressa</string>
+  <string name="notification_battery_scan_consume_abnormal_summary">Toque para corrigir</string>
+  <string name="notification_battery_scan_consume_abnormal_title_set">%s está a descarregar a bateria</string>
   <string name="notification_exit_power_save_mode">Poupança de bateria desligada</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
   <string name="notification_mask_summary">Ocultar o conteúdo das notificações no ecrã de bloqueio e na área de notificações</string>
@@ -1532,6 +1534,13 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="password_type">Alterar palavra-passe</string>
   <string name="password_type_underline"><u>Alterar palavra-passe</u></string>
   <string name="password_xspace_forget_pattern_message">Para alterar a palavra-passe do Segundo espaço, deve eliminar o Segundo espaço actual e criar um novo</string>
+  <string name="pc_abnormal_scan_button_text">Fechar aplicações</string>
+  <string name="pc_abnormal_scan_reason_prevent_standby">Impede que o sistema entre no modo de inactividade</string>
+  <string name="pc_abnormal_scan_reason_reconnect">Tenta-se ligar à rede com muita frequência</string>
+  <string name="pc_abnormal_scan_reason_runtime_exception">É executado anormalmente</string>
+  <string name="pc_abnormal_scan_reason_scan_wifi">Procura por Wi-Fi com muita frequência</string>
+  <string name="pc_abnormal_scan_reason_use_GPS">Utiliza serviços de localização com muita frequência</string>
+  <string name="pc_abnormal_scan_reason_wake_system">Liga o sistema com muita frequência</string>
   <string name="pc_activity_title">Optimizar bateria</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instalação via USB</string>

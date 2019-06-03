@@ -4,16 +4,40 @@
         <item>Apenas este evento</item>
         <item>Todos os eventos da série</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Apenas desta vez</item>
+        <item>Desligar os lembretes repetidos</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Para a frente</item>
+        <item>Para trás</item>
+    </string-array>
+    <string-array name="default_reminder_labels">
+        <item>Na hora do evento</item>
+        <item>5 minutos antes</item>
+        <item>10 minutos antes</item>
+        <item>15 minutos antes</item>
+        <item>30 minutos antes</item>
+        <item>1 hora antes</item>
+        <item>1 dia antes</item>
+        <item>2 dias antes</item>
+        <item>1 semana antes</item>
+    </string-array>
     <string-array name="default_reminder_later_time_labels">
         <item>5 minutos</item>
         <item>10 minutos</item>
         <item>15 minutos</item>
         <item>30 minutos</item>
+        <item>1 hora</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Apenas este evento</item>
         <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Apenas desta vez</item>
+        <item>Definir lembrete repetido</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Sempre</item>
@@ -156,21 +180,6 @@
         <item>Auckland</item>
         <item>Fiji</item>
         <item>Tonga</item>
-    </string-array>
-    <string-array name="date_calculate_spinner">
-        <item>Para a frente</item>
-        <item>Para trás</item>
-    </string-array>
-    <string-array name="default_reminder_labels">
-        <item>Na hora do evento</item>
-        <item>5 minutos antes</item>
-        <item>10 minutos antes</item>
-        <item>15 minutos antes</item>
-        <item>30 minutos antes</item>
-        <item>1 hora antes</item>
-        <item>1 dia antes</item>
-        <item>2 dias antes</item>
-        <item>1 semana antes</item>
     </string-array>
     <string-array name="repeat_choose_day">
         <item>1º</item>

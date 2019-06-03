@@ -364,7 +364,6 @@
   <string name="operation_rename_message">Mudar o nome da pasta</string>
   <string name="operation_reply">Comentar</string>
   <string name="operation_send">Enviar</string>
-  <string name="operation_share">Partilhar</string>
   <string name="operation_show_privacy_policy">Mostrar Política de Privacidade</string>
   <string name="operation_show_sys">Mostrar ficheiros ocultos</string>
   <string name="operation_unfavorite">Remover dos favoritos</string>
@@ -376,9 +375,6 @@
   <string name="partial_delete_failure">Não foi possível eliminar alguns ficheiros. Tente novamente</string>
   <string name="partial_encrypt_success">Não foi possível ocultar alguns ficheiros. Tente novamente</string>
   <string name="path_download">Gerir as suas transferências</string>
-  <string name="path_hot_sticker">Stickers populares</string>
-  <string name="path_hot_video">Ver vídeos populares gratuitamente</string>
-  <string name="path_kuai_chuan">Transferências P2P</string>
   <string name="path_recent_file">Gerir ficheiros no seu dispositivo</string>
   <string name="permission_denial">Não foi possível aceder aos ficheiros. Permita que o Explorador possa aceder a ficheiros nas Definições</string>
   <string name="permission_required">Não foi possível aceder aos ficheiros. Permita que o Explorador possa aceder a ficheiros nas Definições</string>
@@ -427,7 +423,6 @@
   <string name="qq_not_installed">QQ não está instalado</string>
   <string name="qq_platform">QQ</string>
   <string name="qzone_platform">Qzone</string>
-  <string name="recent_show">Recentes</string>
   <string name="recommend">Recomendar</string>
   <string name="remote_video_report_success">Obrigado pelo seu comentário! Vamos dar seguimento assim que possível</string>
   <string name="rename_alert">Se mudar a extensão deste ficheiro, pode não conseguir abri-lo</string>
@@ -472,10 +467,7 @@
   <string name="search_guid_hint">Pesquisar ficheiros</string>
   <string name="search_hint">Pesquisar</string>
   <string name="search_history">Pesquisar histórico</string>
-  <string name="search_hot_sticker">Stickers; Transferir stickers</string>
-  <string name="search_hot_video">Vídeos populares;Carregar vídeos;Carregar vídeo</string>
   <string name="search_keyword">Etiquetas</string>
-  <string name="search_kuai_chuan">Mi Drop;Mi Mover</string>
   <string name="search_recent_file">Explorador;Ficheiro;Ficheiros;Gerir ficheiros</string>
   <string name="search_result">Resultados</string>
   <string name="search_result_more">Mais</string>
