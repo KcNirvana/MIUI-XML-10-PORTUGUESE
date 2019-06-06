@@ -938,7 +938,7 @@ para personalizar a galeria"</string>
   <string name="photo_editor_navigator_module_downloading">A transferir %s…</string>
   <string name="photo_editor_navigator_need_download">Ligue-se à Internet para transferir %s</string>
   <string name="photo_editor_remove_watermark">"Remover marca d'água"</string>
-  <string name="photo_editor_remove_watermark_on">Adicionar marca d'água</string>
+  <string name="photo_editor_remove_watermark_on">"Adicionar marca d'água"</string>
   <string name="photo_editor_remover">Eliminar</string>
   <string name="photo_editor_rotate">Rodar</string>
   <string name="photo_editor_saving">A guardar…</string>

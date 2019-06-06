@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accessibility_battery_level">Bateria a %d porcento</string>
+  <string name="accessibility_battery_level_charging">Bateria a carregar. %d porcento</string>
+  <string name="always_style">Sempre</string>
+  <string name="aod_close_color_inversion">Esta funcionalidade não pode ser combinada com a inversão de cores. Desligue a inversão de cores primeiro</string>
+  <string name="aod_lock_screen_date">"EE, d 'de' MMMM"</string>
+  <string name="aod_lock_screen_date_12">"EE, d 'de' MMMM"</string>
+  <string name="aod_mode_preview">Pré-visualizar</string>
+  <string name="aod_mode_style">Estilo de relógio e fundo</string>
+  <string name="aod_mode_style_title">Mais opções</string>
+  <string name="aod_mode_summary">Mostrar relógio, data, notificações e imagens de fundo quando o ecrã estiver desligado</string>
+  <string name="aod_mode_time_summary">Programar hora para ligar ou desligar Modo Sempre Ligado</string>
+  <string name="aod_mode_time_title">Programar</string>
+  <string name="aod_mode_title">Modo Sempre Ligado</string>
+  <string name="aod_show_style_title">Mostrar itens</string>
+  <string name="aod_to_close">Desligar</string>
+  <string name="cancel">Cancelar</string>
+  <string name="paper_mode_end_time_title">Desligar</string>
+  <string name="paper_mode_start_time_title">Ligar</string>
+  <string name="scheduled_style">Programado</string>
+  <string name="search_menu_title">Pesquisa</string>
+  <string name="summary">"Para reduzir o consumo de bateria, os itens não vão ser mostrados nas seguintes situações:
+1. Quando o dispositivo estiver no escuro por um longo tempo
+2. Quando Não incomodar estiver ligado"</string>
+  <string name="temporary_style">Por 10 segundos após tocar</string>
+</resources>
