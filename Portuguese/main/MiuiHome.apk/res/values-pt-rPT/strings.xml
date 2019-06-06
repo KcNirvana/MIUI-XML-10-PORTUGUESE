@@ -30,6 +30,7 @@
   <string name="announce_for_open_default_preview">Abriu as as definições de ecrãs predefinidos</string>
   <string name="announce_for_open_folder">Abriu a pasta %1$s</string>
   <string name="announce_for_open_launcher_menu">Abriu o menu</string>
+  <string name="announce_for_search_bar">Barra de pesquisa</string>
   <string name="announce_for_show_uninstall_dialog">Cancelar ou confirmar</string>
   <string name="announce_for_unchecked">%1$s, não verificado</string>
   <string name="announce_for_widget_span">Largura %1$d, altura %2$d</string>
@@ -283,7 +284,8 @@
   <string name="preferences_general_title">Definições adicionais</string>
   <string name="preferences_title">Definições do launcher</string>
   <string name="preferred_app_settings_not_selected">Não seleccionada</string>
-  <string name="process"/>
+  <string name="privacy_thumbnail_blur_summary">Desfocar pré-visualização de aplicações em Recentes</string>
+  <string name="privacy_thumbnail_blur_title">Desfocar pré-visualização de aplicações</string>
   <string name="quick_app">Aplicações rápidas</string>
   <string name="recents_config_title">Recentes</string>
   <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>

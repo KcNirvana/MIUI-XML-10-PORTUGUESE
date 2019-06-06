@@ -9,6 +9,9 @@
   <string name="button_queue_for_wifi">Aguardar</string>
   <string name="button_start_now">Transferir</string>
   <string name="call_record">Chamadas gravadas</string>
+  <string name="call_record_list_group_all">Todas</string>
+  <string name="call_record_list_group_connected">Ligadas</string>
+  <string name="call_record_list_group_unconnected">Não ligadas</string>
   <string name="clear_records">Eliminar gravações sincronizadas</string>
   <string name="cloud_record_open">Sincronizar gravações</string>
   <string name="cloud_record_tip">Sincronizar gravações com a Mi Cloud</string>
@@ -71,10 +74,11 @@
   <string name="preference_enable_earpiece_summary">Utilizar auriculares para reprodução externa de áudio</string>
   <string name="preference_enable_earpiece_title">Utilizar auriculares para reprodução</string>
   <string name="preference_led_indicator">Notificações no ecrã de bloqueio</string>
-  <string name="preference_led_indicator_prompt">Durante a gravação mostrar informação na barra de estado e activar o LED de notificações no ecrã de bloqueio</string>
+  <string name="preference_led_indicator_prompt">Durante a gravação mostrar informação na barra de estado e activar o LED de notificações</string>
   <string name="preference_record_scenes_dialog_title">Escolher tipo de gravação</string>
   <string name="preference_scenes">Tipo de gravação</string>
   <string name="preference_silent_mode">Silenciar toque ao gravar</string>
+  <string name="preference_status_bar_indicator_prompt">Mostrar atalho na barra de estado enquanto estiver a gravar</string>
   <string name="preference_tip_rename">Atribuir nome às gravações manualmente</string>
   <string name="privacy_policy_title">Política de Privacidade</string>
   <string name="recognition_error_cancel">Cancelado</string>
@@ -133,6 +137,9 @@
   <string name="search_tip_rename">Atribuir nome às gravações manualmente</string>
   <string name="share">Partilhar</string>
   <string name="share_dialog_title">Partilhar utilizando</string>
+  <string name="shortcut_records">Gravações</string>
+  <string name="shortcut_start_record">Iniciar gravação</string>
+  <string name="shortcut_stop_record">Parar gravação</string>
   <string name="sound_recorder_settings">Definições</string>
   <string name="speech_recognition_complete">Concluído</string>
   <string name="speech_recognition_running_tip">Em execução</string>

@@ -925,6 +925,7 @@ d 'de' MMMM"</string>
   <string name="lock_screen_magazine_default_content">Porção diária de novas imagens</string>
   <string name="lock_screen_magazine_default_title">Papéis de parede aleatórios</string>
   <string name="lock_screen_magazine_global_button_text">Mais</string>
+  <string name="lock_screen_magazine_label">Abrir papéis de parede aleatórios</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_global_text">Mais</string>
   <string name="lock_screen_magazine_preview_fullscreen_bottom_button_text">Introduzir</string>
   <string name="lock_screen_no_sim_card_emergency_only">Apenas cham. emergência</string>

@@ -357,7 +357,7 @@
   <string name="pref_content_cleanup_white_list_none">Nenhuma</string>
   <string name="pref_summary_auto_clean_and_alert">Programar limpeza para iniciar automaticamente</string>
   <string name="pref_summary_auto_update_cleanup_db">Última actualização %s</string>
-  <string name="pref_summary_cleanup_white_list">Prevenir que as aplicações seleccionadas sejam limpas</string>
+  <string name="pref_summary_cleanup_white_list">Prevenir que os ficheiros seleccionados sejam limpos</string>
   <string name="pref_summary_expand_cache_group">Mostrar detalhes da cache automaticamente</string>
   <string name="pref_summary_garbage_auto_clean_content">Escolha quais os itens a limpar automaticamente</string>
   <string name="pref_summary_garbage_cleanup_check_size">Limpar automaticamente quando o lixo atinge um determinado tamanho</string>

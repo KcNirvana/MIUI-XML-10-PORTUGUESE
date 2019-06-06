@@ -923,6 +923,11 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
   <string name="gamebox_app_not_find">Instale a aplicação primeiro</string>
   <string name="gamebox_browser_not_find">Instale o Navegador primeiro</string>
+  <string name="gamebox_display_1">Nenhum</string>
+  <string name="gamebox_display_2">Saturado</string>
+  <string name="gamebox_display_3">Brilhante</string>
+  <string name="gamebox_display_4">Brilhante e saturado</string>
+  <string name="gamebox_display_set">"Melhoria visual: "</string>
   <string name="gamebox_dnd">Não incomodar</string>
   <string name="gamebox_func_antimsg_close">Notificações flutuantes permitidas</string>
   <string name="gamebox_func_antimsg_open">Notificações flutuantes restringidas</string>
@@ -975,6 +980,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_advance_settings_vibration_4d">Vibração 4D</string>
   <string name="gb_advance_settings_vibration_4d_summary">Demonstrar acções no jogo utilizando a vibração</string>
   <string name="gb_ad_game_size">MB</string>
+  <string name="gb_add_game_hint">Adicionar itens da lista de aplicações</string>
   <string name="gb_create_icon_summary">Criar atalho no ecrã inicial</string>
   <string name="gb_description_image_button_answer">Atender</string>
   <string name="gb_description_image_button_reject">Rejeitar</string>
@@ -989,6 +995,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_first_window_start">Começar a jogar</string>
   <string name="gb_first_window_summary">Acelerar velocidade e desempenho do sistema</string>
   <string name="gb_first_window_title">Acelerador de jogos</string>
+  <string name="gb_global_settings">Definições gerais</string>
   <string name="gb_msg_completely_shielded">Ocultar mensagens</string>
   <string name="gb_msg_completely_shielded_summary">Ocultar</string>
   <string name="gb_msg_not_shielded_summary">Mostrar</string>
@@ -1757,6 +1764,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="prompt_input_time_illegal">Não é possível definir esta hora. Altere-a e tente novamente</string>
   <string name="protocol_exception_title">Diagnósticos de protocolo de rede</string>
   <string name="protocol_loop_back_exception_summary">O teste local falhou. Para reportar este problema à MIUI, seleccione a aplicação reportar erros para enviar um registo a partir o seu dispositivo</string>
+  <string name="qucick_replay_instrument">Utilizar respostas rápidas nas notificações das aplicações seleccionadas (p.e. WhatsApp, WeChat, QQ)</string>
   <string name="quick_optimize_checking">A verificar</string>
   <string name="quick_optimize_no_fix_issue_subtitle">Não foi possível estender a vida da bateria</string>
   <string name="quick_optimize_no_fix_issue_title">Não foi possível corrigir os problemas de bateria</string>
@@ -1766,6 +1774,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="quick_optimize_sub_summary_text">Adicionado %s à vida da bateria</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">O telefone está a consumir muita bateria</string>
   <string name="quick_optimize_suggest_battery_over_heat">O telefone está a sobreaquecer</string>
+  <string name="quick_replay_list_title">Aplicações disponíveis</string>
+  <string name="quick_reply_title">Respostas rápidas</string>
   <string name="quite_all_string">Cancelar</string>
   <string name="reach_daily_limit_value_body">Reduzir a sua utilização de dados móveis</string>
   <string name="reach_daily_limit_value_title">Limite de dados diário atingido</string>

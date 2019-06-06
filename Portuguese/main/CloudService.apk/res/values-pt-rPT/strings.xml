@@ -121,7 +121,7 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_dspt">Utilizar a Mi Cloud para sincronizar dados e localizar o seu dispositivo,</string>
   <string name="micloud_dspt_provision">Utilizar a Mi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
   <string name="micloud_dspt_provision_xms">Utilizar a Mi Cloud para sincronizar dados</string>
-  <string name="micloud_find_device_close_alert_content">Se desligar esta funcionalidade, não vai poder localizar o seu dispositivo em caso de o perder</string>
+  <string name="micloud_find_device_close_alert_content">Se desligar Localizar Dispositivo, não vai poder localizar o seu dispositivo em caso de o perder</string>
   <string name="micloud_find_device_close_alert_negtive">Desligar mesmo assim</string>
   <string name="micloud_find_device_close_alert_positive">Manter ligado</string>
   <string name="micloud_find_device_close_alert_title">Desligar Localizar Dispositivo?</string>

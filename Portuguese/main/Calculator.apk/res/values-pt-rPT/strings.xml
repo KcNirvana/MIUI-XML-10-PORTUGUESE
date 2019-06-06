@@ -241,6 +241,7 @@
   <string name="tax_medical">Médicos</string>
   <string name="tax_param_error">Introduza as taxas correctas do seguro</string>
   <string name="tax_payment_period">Número de pagamentos</string>
+  <string name="tax_rate_provider_east_money">Calculado consoante as novas taxas reguladoras. Dados fornecidos por East Money</string>
   <string name="tax_result_real_get">Após taxas</string>
   <string name="tax_social_insurance">Seguro social</string>
   <string name="tax_thershold_foreign">%s (nacionalidade estrangeira)</string>

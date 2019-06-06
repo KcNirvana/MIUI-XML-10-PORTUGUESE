@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_frequent_phrases">Adicionar frases frequentes</string>
   <string name="android_ringtone_default_with_actual">Toque predefinido (%1$s)</string>
   <string name="android_ringtone_silent">Nenhum</string>
   <string name="android_ringtone_unknown">Toque desconhecido</string>
@@ -28,17 +27,12 @@
   <string name="cta_permission_delimiter">, </string>
   <string name="cta_title">Termos de Utilização</string>
   <string name="day_following_good_friday"/>
-  <string name="delete_frequent_phrases">Eliminar frases frequentes</string>
-  <string name="delete_frequent_phrases_confirm">Eliminar as frases frequentes seleccionadas?</string>
   <string name="device_hongmi">Redmi</string>
   <string name="device_pad">Mi Pad</string>
   <string name="device_xiaomi">Telefone Mi</string>
   <string name="double_seventh_day"/>
   <string name="easter">Páscoa</string>
-  <string name="edit_frequent_phrases">Editar frases frequentes</string>
   <string name="fools_day">Dia das mentiras</string>
-  <string name="frequent_phrases_des">Introduza frases frequentes com apenas alguns toques enquanto edita o texto</string>
-  <string name="frequent_phrases_size_exceeded">Pode adicionar até %1$d frases frequentes. Elimine as desnecessárias para adicionar mais</string>
   <string name="glockenspiel">Glockenspiel</string>
   <string name="good_friday"/>
   <string name="grain_buds"/>
@@ -81,9 +75,6 @@
   <string name="lunar_yi"/>
   <string name="lunar_yue"/>
   <string name="lunar_zheng"/>
-  <string name="menu_add_frequent_phrases">Adicionar</string>
-  <string name="menu_delete">Eliminar</string>
-  <string name="menu_edit">Editar</string>
   <string name="maml_component_customization_title">Definições</string>
   <string name="miui_device_name">Dispositivo MIUI</string>
   <string name="national_day"/>

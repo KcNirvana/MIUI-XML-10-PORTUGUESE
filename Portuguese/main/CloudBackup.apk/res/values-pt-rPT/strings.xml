@@ -8,9 +8,12 @@
   <string name="as_new_device_summary">Eliminar cópias anteriores da Mi Cloud</string>
   <string name="authentication_failed">Não foi possível verificar conta</string>
   <string name="back_up_task_in_process">A fazer cópia…</string>
-  <string name="back_up_task_unfinished">Cópia não concluída</string>
+  <string name="back_up_task_unfinished">Não foi possível copiar</string>
   <string name="backing_up_to_micloud">A fazer cópia…</string>
   <string name="backup_fail_wifi_needed">Não foi possível fazer cópia. Necessário Wi-Fi</string>
+  <string name="backup_failed_reason_cloud_space_not_enough">Sem espaço suficiente na Mi Cloud. Actualize o seu plano ou liberte algum espaço</string>
+  <string name="backup_failed_reason_disk_space_not_enough">Sem espaço suficiente. Liberte algum espaço primeiro</string>
+  <string name="backup_failed_reason_network_error">Erro de rede. Aguarde um momento e tente novamente</string>
   <string name="backup_finished_notification_content">Foi feita a cópia das aplicações do ecrã inicial, definições de sistema, etc.</string>
   <string name="backup_now">Fazer cópia agora</string>
   <string name="backup_size">Tamanho: %s</string>
@@ -181,6 +184,8 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restore_detail_category_settings">Definições</string>
   <string name="restore_detail_more">Mais</string>
   <string name="restore_detail_title">Seleccionar itens para restaurar</string>
+  <string name="restore_failed_reason_disk_space_not_enough">Sem espaço suficiente. Liberte algum espaço primeiro</string>
+  <string name="restore_failed_reason_network_error">Erro de rede. Aguarde um momento e tente novamente</string>
   <string name="restore_finish_description">Restauro concluído</string>
   <string name="restore_finished_notification_content">Restaurados aplicações do ecrã inicial, definições de sistema, etc.</string>
   <string name="restore_from_cloud">Restaurar da cópia da Mi Cloud</string>
@@ -192,6 +197,7 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restore_network_unconnect">%s (A aguardar por ligação)</string>
   <string name="restore_task_cancelling">A cancelar…</string>
   <string name="restore_task_in_process">A restaurar…</string>
+  <string name="restore_task_unfinished">Não foi possível restaurar</string>
   <string name="restore_unfinished">A restaurar. Tente novamente mais tarde</string>
   <string name="restoring_file_title_no_progress">A restaurar ficheiros…</string>
   <string name="restoring_settings">A restaurar definições…</string>

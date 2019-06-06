@@ -15,7 +15,7 @@
   <string name="add_to_album_success">Adicionado ao álbum</string>
   <string name="add_to_album_tip">Fotos da Mi Cloud</string>
   <string name="add_to_favorites_failed">Não foi possível adicionar aos favoritos</string>
-  <string name="add_to_secret_exist">A foto já existe no álbum oculto</string>
+  <string name="add_to_secret_exist">Este item já existe no álbum oculto</string>
   <string name="add_to_secret_fail">Não foi possível adicionar ao álbum oculto</string>
   <string name="add_to_secret_failed_with_reason">Não foi possível adicionar item ao álbum oculto. %1$s</string>
   <string name="add_to_secret_successful">Adicionado ao álbum oculto</string>
@@ -196,6 +196,13 @@
   <string name="begin_share_toast">Criar um álbum em separado para esta criança antes de o partilhar?</string>
   <string name="blank_app_name"/>
   <string name="browse_category_title">Navegação</string>
+  <string name="burst_image_download_item_title" formatted="false">Transferir original (%s|%s)</string>
+  <string name="burst_preview_title">Disparo Contínuo</string>
+  <string name="burst_save_all">Guardar tudo</string>
+  <string name="burst_save_choice_title" formatted="false">Seleccionados %d de %d</string>
+  <string name="burst_save_confirm_dialog_title">A guardar fotos</string>
+  <string name="burst_save_error_msg">Não foi possível guardar</string>
+  <string name="burst_save_processing">A processar…</string>
   <string name="buy_member_tip">Tornar-se membro</string>
   <string name="by_email">Email</string>
   <string name="by_others">Outro</string>
@@ -355,7 +362,8 @@
   <string name="custom_select_title_select_all">Seleccionar tudo</string>
   <string name="custom_select_title_select_item">Seleccionar itens</string>
   <string name="debugging_tip">Gerar dados de depuração</string>
-  <string name="debugging_info">A informação de depuração foi gerada. Toque OK para abrir a pasta</string>
+  <string name="decrypt_video_failed">Não foi possível preparar vídeo</string>
+  <string name="decrypting_video">A preparar vídeo…</string>
   <string name="default_relation_name">Novo grupo</string>
   <string name="define_by_user">Personalizado</string>
   <string name="delete">Eliminar</string>
@@ -408,6 +416,10 @@
   <string name="downloading_dialog_message">Pode seleccionar a qualidade das imagens transferidas ou desligar as transferências automáticas nas Definições</string>
   <string name="downloading_title">Transferir fotos da Mi Cloud</string>
   <string name="edit_baby_info">Ver informação do bebé</string>
+  <string name="editor_cancel">Cancelar</string>
+  <string name="editor_export">Guardar</string>
+  <string name="editor_talkback_redo">Refazer</string>
+  <string name="editor_talkback_undo">Anular</string>
   <string name="email_picker_title">Adicionar email partilhado</string>
   <string name="empty_description_conditions">Lembre-se das histórias que importam</string>
   <string name="empty_description_no_cards">Lembre-se das histórias que importam</string>
@@ -582,7 +594,7 @@ efeitos de fotos"</string>
   <string name="filter_people_movie">Filme</string>
   <string name="filter_people_nature">Natural</string>
   <string name="filter_people_pink">Blush</string>
-  <string name="filter_people_riddle">Enigma</string>
+  <string name="filter_people_riddle">Doces</string>
   <string name="filter_people_sepia">Sépia</string>
   <string name="filter_people_story">História</string>
   <string name="filter_people_tea">Chá</string>
@@ -607,6 +619,7 @@ efeitos de fotos"</string>
   <string name="filter_sky_sunset">Pôr do sol</string>
   <string name="finish_create_baby_album_toast">Criado um álbum para \"%s\" na Mi Cloud</string>
   <string name="finish_fill_baby">Criar</string>
+  <string name="first_time_add_video_to_secret_tips">Actualize a Galeria para poder ocultar vídeos</string>
   <string name="flash_off">Sem flash</string>
   <string name="flash_on">Flash utilizado</string>
   <string name="frame_not_support_image_ratio">Esta resolução não é suportada</string>
@@ -925,6 +938,7 @@ para personalizar a galeria"</string>
   <string name="photo_editor_navigator_module_downloading">A transferir %s…</string>
   <string name="photo_editor_navigator_need_download">Ligue-se à Internet para transferir %s</string>
   <string name="photo_editor_remove_watermark">"Remover marca d'água"</string>
+  <string name="photo_editor_remove_watermark_on">Adicionar marca d'água</string>
   <string name="photo_editor_remover">Eliminar</string>
   <string name="photo_editor_rotate">Rodar</string>
   <string name="photo_editor_saving">A guardar…</string>
@@ -933,6 +947,7 @@ para personalizar a galeria"</string>
   <string name="photo_editor_talkback_confirm">Confirmar</string>
   <string name="photo_editor_talkback_crop_16_9">16 por 9</string>
   <string name="photo_editor_talkback_crop_1_1">1 por 1</string>
+  <string name="photo_editor_talkback_crop_2_3">2 por 3</string>
   <string name="photo_editor_talkback_crop_3_4">3 por 4</string>
   <string name="photo_editor_talkback_crop_4_3">4 por 3</string>
   <string name="photo_editor_talkback_crop_9_16">9 por 16</string>
@@ -1024,14 +1039,14 @@ para personalizar a galeria"</string>
   <string name="refocus_discard_confirm_message">Guardar alterações?</string>
   <string name="refocus_discard_negative_btn">Rejeitar</string>
   <string name="refocus_discard_positive_btn">Guardar</string>
-  <string name="refocus_photo_not_support">Não é possível aplicar o efeito blur a esta foto</string>
+  <string name="refocus_photo_not_support">Não é possível aplicar o efeito desfocar a esta foto</string>
   <string name="refocus_save_cancel">Cancelar</string>
   <string name="refocus_save_title">Seleccionar formato</string>
   <string name="refocus_save_to_photo">Guardar como imagem</string>
   <string name="refocus_save_to_video">Guardar como vídeo</string>
   <string name="refocus_saving">A guardar…</string>
-  <string name="refocus_title">Efeito blur</string>
-  <string name="refocus_type_static">Nível do efeito blur</string>
+  <string name="refocus_title">Efeito desfocar</string>
+  <string name="refocus_type_static">Nível do efeito desfocar</string>
   <string name="refocus_type_video">Trilhas leves</string>
   <string name="relation_text_empty_alert">Adicionar relacionamento</string>
   <string name="relation_text_family">Membro da família</string>
@@ -1217,6 +1232,12 @@ para personalizar a galeria"</string>
   <string name="slim_running">A optimizar…</string>
   <string name="slim_space">Libertado</string>
   <string name="slim_stop">Parar optimização</string>
+  <string name="special_type_eye_repair">Corrigir olhos fechados utilizando a IA</string>
+  <string name="special_type_hdr">HDR</string>
+  <string name="special_type_night_beauty">Embelezar IA</string>
+  <string name="special_type_night_mode">Modo Noite IA</string>
+  <string name="special_type_portrait">Retrato IA</string>
+  <string name="special_type_wide_angle">Ângulo amplo IA</string>
   <string name="start_debug">Depurar Galeria</string>
   <string name="start_to_use_face_albumset">Ordenar por pessoas</string>
   <string name="sticker_ad">Leaflets</string>
@@ -1336,14 +1357,14 @@ para personalizar a galeria"</string>
   <string name="video_editor_adjust">Melhorar</string>
   <string name="video_editor_analyzing">A analisar vídeo…</string>
   <string name="video_editor_audio">Áudio</string>
+  <string name="video_editor_audio_antiquity">Retro</string>
   <string name="video_editor_audio_custom">Seleccionar</string>
-  <string name="video_editor_audio_dynamic">Techno</string>
-  <string name="video_editor_audio_love">Romântico</string>
-  <string name="video_editor_audio_memory">Nostalgia</string>
+  <string name="video_editor_audio_dream">Sonhos</string>
+  <string name="video_editor_audio_electronics">Electro</string>
   <string name="video_editor_audio_none">Nenhum</string>
-  <string name="video_editor_audio_rock">Rock</string>
-  <string name="video_editor_audio_sad">Balada</string>
-  <string name="video_editor_audio_young">Ukulele</string>
+  <string name="video_editor_audio_quiet">Zen</string>
+  <string name="video_editor_audio_summertime">Verão</string>
+  <string name="video_editor_audio_vitality">Vitalidade</string>
   <string name="video_editor_auto_trim">Redução auto.</string>
   <string name="video_editor_auto_trim_tip">A reduzir…</string>
   <string name="video_editor_cancel">Cancelar</string>

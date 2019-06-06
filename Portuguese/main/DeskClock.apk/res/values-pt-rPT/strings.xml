@@ -160,6 +160,9 @@
   <string name="setting_alarm_arriving_summary">Enviar uma notificação antes de tocar</string>
   <string name="setting_alarm_arriving_title">Notificação antes de tocar</string>
   <string name="settings">Definições</string>
+  <string name="shortcut_new_alarm">Definir alarme</string>
+  <string name="shortcut_start_timer">Iniciar temporizador</string>
+  <string name="shortcut_stop_watch">Iniciar cronómetro</string>
   <string name="shut_down_keep_screen">O ecrã não vai permanecer ligado</string>
   <string name="shutdown_alarm_disable_summary">O alarme não vai tocar com o telefone desligado</string>
   <string name="shutdown_alarm_enable_summary">O alarme vai tocar com o telefone desligado</string>

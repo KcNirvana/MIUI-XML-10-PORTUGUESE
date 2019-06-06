@@ -52,6 +52,10 @@
         <item quantity="other">%d registos da lista de bloqueio</item>
         <item quantity="one">%d registo da lista de bloqueio</item>
     </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">%d frases frequentes</item>
+        <item quantity="one">%d frase frequente</item>
+    </plurals>
     <plurals name="dirty_secretphoto_count">
         <item quantity="other">%d fotos ocultas não sincronizadas. Termine sessão após todos os itens estarem sincronizados senão vão ser eliminados</item>
         <item quantity="one">"%d foto oculta não sincronizada. Termine sessão após todos os itens estarem sincronizados senão vão ser eliminados</item>

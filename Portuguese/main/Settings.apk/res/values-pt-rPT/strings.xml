@@ -485,6 +485,10 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="backup_set_enter_pw_title">Introduzir a palavra-passe da cópia</string>
   <string name="backup_set_error_pw">A palavra-passe introduzida está incorrecta</string>
   <string name="backup_set_modify_title">Alterar a palavra-passe da cópia</string>
+  <string name="backup_set_new_continue">Continuar</string>
+  <string name="backup_set_new_exit">Sair</string>
+  <string name="backup_set_new_pw_confirm_hint">Atenção</string>
+  <string name="backup_set_new_pw_confirm_summary">Os seus itens vão ser copiados automaticamente agora. Criar uma palavra-passe para as cópias vai parar as cópias automáticas. Continuar mesmo assim?</string>
   <string name="backup_set_new_pw_title">Introduzir a nova palavra-passe da cópia</string>
   <string name="backup_set_null_pw">Introduzir a palavra-passe primeiro</string>
   <string name="backup_set_pw_confirm_title">Confirmar a nova palavra-passe da cópia</string>
@@ -1445,6 +1449,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="device_miui_more">Ver mais</string>
   <string name="device_miui_version">Versão MIUI</string>
   <string name="device_miui_version_for_POCO">Versão MIUI (para POCO)</string>
+  <string name="device_miui_version_parameters">Versão MIUI</string>
   <string name="device_miui_version_update">Actualização MIUI disponível</string>
   <string name="device_name">Nome do dispositivo</string>
   <string name="device_name_input_error">Erro ao guardar o nome do dispositivo</string>
@@ -3547,6 +3552,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="qtifeedback_settings_subtitle">Reporte de Qualcomm Technologies</string>
   <string name="qtifeedback_settings_title">Comentários de hardware</string>
   <string name="query_hint_text">Pesquisar definições</string>
+  <string name="quick_reply_title">Respostas rápidas</string>
   <string name="quick_settings_developer_tiles">Atalho de definições rápidas do programador</string>
   <string name="quiet">Não incomodar</string>
   <string name="quiet_group">Não incomodar</string>
