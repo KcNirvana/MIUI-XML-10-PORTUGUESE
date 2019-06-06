@@ -268,6 +268,7 @@ no modo Retrato"</string>
   <string name="live_speed_slow">Lento</string>
   <string name="live_sticker_network_error_hint">Erro de rede</string>
   <string name="live_sticker_updating">A actualizar…</string>
+  <string name="lying_direct_hint">Orientação actual</string>
   <string name="macro_mode">Macro</string>
   <string name="macro_mode_tip">A distância entre as lentes e o objecto não deve exceder 10cm</string>
   <string name="message_snap_double_confirm">Toque longo no botão Volume liga o NFC. Substituir esta funcionalidade?</string>
