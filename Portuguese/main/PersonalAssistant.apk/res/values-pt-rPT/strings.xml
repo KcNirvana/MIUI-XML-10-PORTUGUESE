@@ -134,13 +134,14 @@
   <string name="cta_dialog_negative">Sair</string>
   <string name="cta_dialog_positive">Concordar</string>
   <string name="cta_dialog_text_all">Para utilizar o assistente, deve ler e concordar com %1$s\"Termos de Utilização\" %2$s e %3$s \"Política de Privacidade\" %4$s. Este serviço necessita de ligação à Internet e acesso aos serviços de localização</string>
-  <string name="cta_dialog_text_new_user">Antes de utilizar o assistente, tem de concordar com %1$s\"Termos de Utilização\" %2$s e %3$s \"Política de Privacidade\" %4$s e %5$s\"Política de Privacidade do assistente\"%6$s. O assistente necessita de ligar à Internet e obter acesso à sua localização para funcionar normalmente. Toque \"Iniciar\" para concordar"</string>
+  <string name="cta_dialog_text_new_user">Antes de utilizar o assistente, tem de concordar com %1$s\"Termos de Utilização\" %2$s e %3$s \"Política de Privacidade\" %4$s e %5$s\"Política de Privacidade do assistente\"%6$s. O assistente necessita de ligar à Internet e obter acesso à sua localização para funcionar normalmente. Toque \"Iniciar\" para concordar</string>
   <string name="cta_dialog_text_old_user">Antes de utilizar o assistente, tem de concordar com %1$s\"Política de Privacidade do assistente\"%2$s. Toque \"Iniciar\" para concordar</string>
   <string name="cta_dialog_title">Termos e Condições</string>
   <string name="cta_negative">Fechar</string>
   <string name="cta_not_now">Agora não</string>
   <string name="cta_old_not_use">Agora não</string>
   <string name="cta_old_start">Iniciar</string>
+  <string name="cta_start">Iniciar</string>
   <string name="cta_positive">Detalhes</string>
   <string name="cta_text5">Este serviço necessita de ligação à Internet e acesso aos serviços de localização</string>
   <string name="cta_title">Bem vindo ao assistente</string>

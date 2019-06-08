@@ -211,7 +211,7 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="allow_lights_title">LED de notificações</string>
   <string name="allow_mock_location">Permitir locais fictícios</string>
   <string name="allow_mock_location_summary">Permitir locais fictícios</string>
-  <string name="allow_oaid_used">Permitir utilizando o ID de dispositivo</string>
+  <string name="allow_oaid_used">Permitir utilizar o ID de dispositivo</string>
   <string name="allow_overlay_description">Esta permissão permite que uma aplicação possa ser mostrada em cima de outras aplicações que estiver a utilizar e pode interferir com a utilização da interface em outras aplicações ou mudar aquilo que pensa que está a ver nas outras aplicações</string>
   <string name="allow_sound">Permitir som</string>
   <string name="allow_sound_title">Som</string>
@@ -3700,9 +3700,9 @@ Não vai perder quaisquer dados das aplicações"</string>
   <string name="restore_dialog_content">Repor o ID do dispositivo vai repor as suas recomendações personalizadas</string>
   <string name="restore_dialog_positive">Repor</string>
   <string name="restore_dialog_title">Atenção</string>
-  <string name="restore_oaid_content">Repor o ID do dispositivo actual vai criar um novo. Repor agora?</string>
+  <string name="restore_oaid_content">Repor o ID do dispositivo actual vai criar um novo</string>
   <string name="restore_oaid_positive">Repor</string>
-  <string name="restore_oaid_title">A repor o ID do dispositivo</string>
+  <string name="restore_oaid_title">Repor o ID do dispositivo</string>
   <string name="restr_pin_enter_admin_pin">Introduzir PIN de administrador</string>
   <string name="restrict_bg_app">Restringir</string>
   <string name="restrict_max_aspect_ratio_title">Estas aplicações não funcionam bem em modo ecrã inteiro</string>

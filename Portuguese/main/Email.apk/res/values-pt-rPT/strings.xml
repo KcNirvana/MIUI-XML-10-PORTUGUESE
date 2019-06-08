@@ -590,8 +590,8 @@
   <string name="mark_not_spam">Não é spam</string>
   <string name="mark_read">Lidas</string>
   <string name="mark_unread">Não lidas</string>
-  <string name="me_object_pronun">eu</string>
-  <string name="me_subject_pronun">eu</string>
+  <string name="me_object_pronun">mim</string>
+  <string name="me_subject_pronun">mim</string>
   <string name="meeting_accepted">Aceite: %s</string>
   <string name="meeting_allday">Quando: %s (todo o dia)</string>
   <string name="meeting_allday_recurring">Quando: %s (todo o dia, recorrente)</string>
