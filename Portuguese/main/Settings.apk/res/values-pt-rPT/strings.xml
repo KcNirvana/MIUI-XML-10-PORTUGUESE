@@ -1078,6 +1078,7 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
   <string name="close_optimization_message">O tamanho do tipo de letra, contas e outras partes da MIUI vão ser afectadas se desligar esta funcionalidade</string>
   <string name="close_optimization_option">Desligar</string>
+  <string name="close_privacy_thumbnail_blur_title">As pré-visualizações não estão desfocadas</string>
   <string name="cmcc_hardware_version">Versão de hardware</string>
   <string name="color_black">Preto</string>
   <string name="color_blue">Azul</string>
@@ -1109,12 +1110,15 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="confirm_enable_oem_unlock_text">AVISO: as funcionalidades de protecção do dispositivo não funcionam neste dispositivo enquanto esta definição estiver activada</string>
   <string name="confirm_enable_oem_unlock_title">Pretende permitir o desbloqueio de OEM?</string>
   <string name="confirm_erase">Eliminar</string>
+  <string name="confirm_fingerprint">Verifique a sua impressão digital</string>
   <string name="confirm_fingerprint_icon_content_description">Utilize a sua impressão digital para continuar</string>
   <string name="confirm_fingerprint_msg">Coloque o seu dedo no sensor</string>
   <string name="confirm_frp_credential_message">O seu dispositivo foi reposto com as definições de fábrica, pode desbloqueá-lo utilizando a sua palavra-passe anterior</string>
   <string name="confirm_frp_credential_skip_txt">Utilizar conta Google</string>
   <string name="confirm_frp_credential_title">Desbloqueio após reposição de fábrica</string>
   <string name="confirm_new_backup_pw_prompt">Reintroduzir novamente a sua nova palavra-passe para a cópia de segurança completa</string>
+  <string name="confirm_password_with_fingerprint">Utilize a impressão digital</string>
+  <string name="confirm_password_with_password">Introduza a palavra-passe</string>
   <string name="confirm_privacy_password">Introduza o padrão de Protecção de Privacidade</string>
   <string name="confirm_privacy_password_fingerprint">Digitalizar impressão ou introduzir padrão de Protecção de Privacidade</string>
   <string name="confirm_reset_aaid">OK</string>
@@ -3156,6 +3160,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="open_miui_optimization_title">Ligar optimização MIUI</string>
   <string name="open_optimization_message">Ligar optimização para disfrutar duma rápida e suave UI</string>
   <string name="open_optimization_option">Ligar</string>
+  <string name="open_privacy_thumbnail_blur_title">As pré-visualizações estão desfocadas</string>
   <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
   <string name="open_wifi_connect_title">Ligado a %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Este perfil de trabalho é gerido por:</string>
@@ -3497,6 +3502,8 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_relative">Privacidade</string>
   <string name="privacy_settings">Cópia e restauro</string>
   <string name="privacy_settings_title">Cópia e restauro</string>
+  <string name="privacy_thumbnail_blur_progress_message">Aguarde…</string>
+  <string name="privacy_thumbnail_blur_title">Desfocar pré-visualizações</string>
   <string name="private_gallery_need_to_unlock">Palavra-passe exigida</string>
   <string name="private_gallery_recording_intro_header">Desenhe um padrão de desbloqueio</string>
   <string name="private_gallery_reset_by_account">Para repor a palavra-passe, inicie sessão na sua Conta Mi</string>

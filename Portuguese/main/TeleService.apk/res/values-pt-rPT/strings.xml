@@ -668,6 +668,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="network_info_message">Mensagem de rede</string>
   <string name="network_lte">LTE (recomendado)</string>
   <string name="network_message">Mensagem de rede</string>
+  <string name="network_mode_updating_title">Tipo de rede</string>
   <string name="network_query_error">Erro ao procurar redes</string>
   <string name="network_settings_auto_select_title">Escolher a rede manualmente</string>
   <string name="network_settings_automatically_option">Escolher rede preferida automaticamente (%s)</string>
@@ -911,6 +912,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Rede 3G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Rede 4G (LTE)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Rede 4G (CDMA)</string>
+  <string name="preferred_network_type_pref_entries_5g_preferred">Rede 5G</string>
   <string name="preferred_network_type_pref_entries_auto">Automática</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g">Rede 2G</string>

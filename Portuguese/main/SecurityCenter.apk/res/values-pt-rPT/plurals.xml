@@ -112,6 +112,18 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">Encontrou %d problemas de bateria</item>
         <item quantity="one">Encontrou %d problema de bateria</item>
     </plurals>
+    <plurals name="pc_main_power_center_battery_day">
+        <item quantity="other">%s dias</item>
+        <item quantity="one">%s dia</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s hora</item>
+    </plurals>
+    <plurals name="pc_main_power_center_battery_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s minuto</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Descarregou %2$d%% nos últimos %1$d minutos</item>
         <item quantity="one">Descarregou %2$d%% no último %1$d minuto</item>

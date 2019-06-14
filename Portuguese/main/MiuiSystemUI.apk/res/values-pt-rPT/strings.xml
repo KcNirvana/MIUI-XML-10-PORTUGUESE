@@ -947,6 +947,8 @@ Tente novamente dentro de %d segundos"</string>
   <string name="lockscreen_unlock_left">O atalho esquerdo também desbloqueia</string>
   <string name="lockscreen_unlock_right">O atalho direito também desbloqueia</string>
   <string name="lockscreen_sim_error_message_short">Cartão SIM inválido</string>
+  <string name="long_screenshot_guide_text">"Toque para fazer
+uma captura de ecrã extensa"</string>
   <string name="long_screenshot_not_support_msg">A aplicação actual não suporta as capturas de ecrã extensas</string>
   <string name="long_screenshot_out_of_memory_error">A imagem é demasiado grande</string>
   <string name="long_screenshot_processing">A processar…</string>

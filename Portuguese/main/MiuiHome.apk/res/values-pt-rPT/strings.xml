@@ -106,7 +106,7 @@
   <string name="download_action">Transferir</string>
   <string name="dual_app">Clonar aplicações</string>
   <string name="edit_folder_title">Editar nome da pasta</string>
-  <string name="edit_mode_dual_app">Clonar aplicação</string>
+  <string name="edit_mode_dual_app">Clonar aplic.</string>
   <string name="edit_mode_group">Agrupar</string>
   <string name="edit_mode_group_error_cant_delete_system_apps">Não é possível desinstalar aplicações de sistema</string>
   <string name="edit_mode_group_error_full">Sem espaço suficiente</string>

@@ -241,6 +241,7 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_request_permission_confirm">Percebi</string>
   <string name="micloud_request_permission_content">A Mi Cloud necessita de permissões para sincronizar dados. Permitir que a Mi Cloud aceda ao Calendário, Contactos, Conta Mi, estado do cartão SIM, registos de chamadas e mensagens?</string>
   <string name="micloud_request_permission_title">A Mi Cloud necessita de permissões</string>
+  <string name="micloud_request_sync_too_frequent">Demasiados pedidos. Aguarde um momento e tente novamente</string>
   <string name="micloud_sec_dspt">e partilhar ficheiros com os seus amigos</string>
   <string name="micloud_setting_antispam_summary">Excepções e números de telefone bloqueados</string>
   <string name="micloud_setting_browser_summary">Marcadores, histórico e separadores</string>
@@ -371,6 +372,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="sync_sub_1_sms_1_intl_sms">A sua operadora pode cobrar por uma mensagem SMS nacional e uma internacional utilizadas para activar este serviço</string>
   <string name="sync_sub_2_intl_sms">"A sua operadora pode cobrar por duas mensagens SMS internacionais utilizadas para activar este serviço. "</string>
   <string name="sync_sub_2_sms">A sua operadora pode cobrar por duas mensagens SMS utilizadas para activar este serviço</string>
+  <string name="system_busy_or_network_error">Ocorreu um erro. Aguarde um momento e tente novamente</string>
   <string name="title_back">Voltar</string>
   <string name="title_reg">Criar Conta Mi</string>
   <string name="trying_to_connect_to_network">A ligar à rede…</string>
@@ -382,6 +384,7 @@ Esta funcionalidade encripta e envia o seu ID de dispositivo para os servidores 
   <string name="user_detail_agreement">Termos de Utilização</string>
   <string name="user_detail_privacy_policy">Política de Privacidade</string>
   <string name="user_storage_info_available_text_prefix">%s disponíveis</string>
+  <string name="waiting_for_sync">A aguardar…</string>
   <string name="warning_bar_action_add_short_cut">Adicionar</string>
   <string name="warning_bar_action_close">Fechar</string>
   <string name="warning_bar_action_turn_on_master_sync">Ligar</string>
