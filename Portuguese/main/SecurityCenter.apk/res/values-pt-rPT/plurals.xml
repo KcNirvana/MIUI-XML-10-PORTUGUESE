@@ -124,6 +124,42 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">%s minutos</item>
         <item quantity="one">%s minuto</item>
     </plurals>
+    <plurals name="power_main_battery_last_day">
+        <item quantity="other">%s dias restantes</item>
+        <item quantity="one">%s dia restante</item>
+    </plurals>
+    <plurals name="power_main_battery_last_hour">
+        <item quantity="other">%s horas restantes</item>
+        <item quantity="one">%s hora restante</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute">
+        <item quantity="other">%s minutos restantes</item>
+        <item quantity="one">%s minuto restante</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_day">
+        <item quantity="other">%s dias restantes</item>
+        <item quantity="one">%s dia restante</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_hour">
+        <item quantity="other">%s horas restante</item>
+        <item quantity="one">%s hora restante</item>
+    </plurals>
+    <plurals name="pc_main_sub_battery_text_minute">
+        <item quantity="other">%s minutes restante</item>
+        <item quantity="one">%s minute restante</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_day">
+        <item quantity="other">%s dias até estar carregada</item>
+        <item quantity="one">%s dia até estar carregada</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_hour">
+        <item quantity="other">%s horas até estar carregada</item>
+        <item quantity="one">%s hora até estar carregada</item>
+    </plurals>
+    <plurals name="pc_main_power_manager_minute">
+        <item quantity="other">%s minuto até estar carregada</item>
+        <item quantity="one">%s minuto até estar carregada</item>
+    </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
         <item quantity="other">Descarregou %2$d%% nos últimos %1$d minutos</item>
         <item quantity="one">Descarregou %2$d%% no último %1$d minuto</item>

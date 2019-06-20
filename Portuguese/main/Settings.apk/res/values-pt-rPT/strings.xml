@@ -1938,10 +1938,6 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="force_stop">Forçar paragem</string>
   <string name="force_stop_dlg_text">Se forçar a paragem desta aplicação, ela pode funcionar mal</string>
   <string name="force_stop_dlg_title">Forçar paragem</string>
-  <string name="force_touch">3D Touch</string>
-  <string name="force_touch_demo">Demonstração</string>
-  <string name="force_touch_enable">Ligar 3D Touch</string>
-  <string name="force_touch_enable_tips">Com o 3D Touch ligado, o toque longo no ícone da aplicação vai mostrar o menu de atalhos da aplicação</string>
   <string name="foreground_traffic">Primeiro plano %s</string>
   <string name="forget">Esquecer</string>
   <string name="forget_password_button_text"><u>Esqueceu a palavra-passe?</u></string>

@@ -169,8 +169,8 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_main_network_error">Não é possível ligar à rede</string>
   <string name="micloud_main_simple_last_sync_time">Última sincronização: %s</string>
   <string name="micloud_main_simple_off">Sinc. desligada</string>
-  <string name="micloud_main_sync_mode_summary">Sincronizar todos os itens excepto fotos e vídeos em tempo real. Isto pode aumentar o consumo de bateria</string>
-  <string name="micloud_main_sync_mode_title">Sincronização em tempo real</string>
+  <string name="micloud_main_sync_mode_summary">Sincronizar dados das aplicações em tempo real. Isto pode aumentar o consumo de bateria</string>
+  <string name="micloud_main_sync_mode_title">Sincronização rápida</string>
   <string name="micloud_main_wait_charge">Carregue o dispositivo totalmente para continuar a sincronização</string>
   <string name="micloud_main_wait_charge_sleep">Desligue o ecrã e carregue o dispositivo totalmente para continuar a sincronização</string>
   <string name="micloud_main_wait_wlan">A aguardar por Wi-Fi</string>

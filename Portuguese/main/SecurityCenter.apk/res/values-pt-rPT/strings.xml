@@ -487,6 +487,7 @@
   <string name="button_background_connection">Permitir</string>
   <string name="button_block_calls_from_cantacts">Desbloquear</string>
   <string name="button_block_calls_from_strangers">Desbloquear</string>
+  <string name="button_dark_mode">Corrigir</string>
   <string name="button_do_not_disturb">Desligar</string>
   <string name="button_eye_shield">Desligar</string>
   <string name="button_first_aid_kit">Corrigir agora</string>
@@ -1550,6 +1551,15 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instalação via USB</string>
   <string name="pc_main_activity_back">Voltar</string>
+  <string name="pc_main_battery_text_day">Adicionados %1$sm. Cerca de %2$sd restante</string>
+  <string name="pc_main_battery_text_day_hour">Adicionados %1$sm. Cerca de %2$sd %3$sh restante</string>
+  <string name="pc_main_battery_text_hour">Adicionados %1$sm. Cerca de %2$sh restante</string>
+  <string name="pc_main_battery_text_hour_minute">Adicionados %1$sm. Cerca de %2$sh %3$sm restante</string>
+  <string name="pc_main_battery_text_minute">Adicionados %1$sm. Cerca de %2$sm restante</string>
+  <string name="pc_main_power_manager_day_hour">%1$sd %2$sh até estar carregada</string>
+  <string name="pc_main_power_manager_hour_minute">%1$sh %2$sm até estar carregada</string>
+  <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante</string>
+  <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm restante</string>
   <string name="pc_settings_title">Definições de optimização de bateria</string>
   <string name="pc_to_phone_install">Instalação bloqueada de %s via USB</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
@@ -1634,6 +1644,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_dialog_super_save_msg">A ultra poupança de bateria restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, SMS e ligação à rede) disponíveis o maior tempo possível. Ligar a ultra poupança de bateria?</string>
   <string name="power_dialog_super_save_title">Ultra poupança de bateria</string>
   <string name="power_idle">Telefone inactivo</string>
+  <string name="power_main_battery_last_day_hour">%1$sd %2$sh restante</string>
+  <string name="power_main_battery_last_hour_minute">%1$sh %2$sm restante</string>
   <string name="power_optimize_auto_catagory_title">Problemas de bateria</string>
   <string name="power_optimize_battery_save_idea">Optimizar bateria</string>
   <string name="power_optimize_battery_save_more">Mais</string>
@@ -2120,6 +2132,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_cloud_space_full">Obter mais espaço de armazenamento e acesso a mais funcionalidades</string>
   <string name="summary_cmcc_app_check">Algumas aplicações não puderam ser verificadas</string>
   <string name="summary_consume_power">Foram detectados problemas de aquecimento</string>
+  <string name="summary_dark_mode">Algumas páginas são mostradas em preto devido a serviços de terceiros</string>
   <string name="summary_data_flow">Controle a utilização de dados móveis para evitar gastos desnecessários</string>
   <string name="summary_default_app">%s não está definida como aplicação de sistema predefinida</string>
   <string name="summary_dev">Evitar malware e proteger dados pessoais</string>
@@ -2278,7 +2291,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="title_cloud_space_full">Armazenamento da Mi Cloud cheio</string>
   <string name="title_cmcc_app_check">Verificação não está completa</string>
   <string name="title_consume_power_rank">Utilização de bateria</string>
-  <string name="title_data_flow">Controlar dados móveis</string>
+  <string name="title_dark_mode">Itens mostrados incorrectamente</string>
+  <string name="title_data_flow">Controlo de dados móveis</string>
   <string name="title_data_flow_monitor">A monitorização de utilização de dados está ligada</string>
   <string name="title_dev_model_off">Opções de programador desligadas</string>
   <string name="title_dev_no">Opções de programador ligadas</string>
@@ -2332,6 +2346,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="toast_add_virus_white_list_no_need_repeat">Esta excepção já existe</string>
   <string name="toast_auto_traffic_correct">A utilização de dados é ajustada automaticamente</string>
   <string name="toast_cleaner_cloudscan">Limpeza vai utilizar definições online</string>
+  <string name="toast_dark_mode_fixed">Corrigido com sucesso. Saia para aplicar as alterações</string>
   <string name="toast_flow_notification">Notificações de utilização de dados ligada</string>
   <string name="toast_garbage_lib">Actualizações automáticas de Limpeza ligada</string>
   <string name="toast_keyword_blank">Tem que introduzir uma palavra-chave</string>

@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_app_name">Acerca de Temas</string>
+  <string name="about_version_update">O que há de novo</string>
   <string name="accessibility_setting_hint">"Toque no botão no canto superior direito para ligar este serviço.
 Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede transparentes nas aplicações seleccionadas"</string>
   <string name="accessibiliy_description_content_account">Perfil</string>
@@ -18,6 +20,7 @@ Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede
   <string name="ad_app_is_downloading">A transferir…</string>
   <string name="add_resource_detail_fail">Não é possível adicionar recurso</string>
   <string name="all_resources">Todos</string>
+  <string name="already_latest_version">Actualizado</string>
   <string name="app_ad_title">Recomendações diárias</string>
   <string name="app_disable_transparent_wallpaper">Sem papel de parede transparente</string>
   <string name="app_enable_transparent_wallpaper">Com papel de parede transparente</string>
@@ -47,8 +50,14 @@ Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede
   <string name="card_retry">Tentar novamente</string>
   <string name="change_host_hint">Alterar host</string>
   <string name="change_wallpaper">Papel de parede</string>
+  <string name="character_counter_content_description">Limite de caracteres excedido em %1$d de %2$d</string>
+  <string name="check_has_new_version">Actualização disponível</string>
   <string name="classification_more_understand_you">Seleccione a sua categoria favorita</string>
   <string name="close">Fechar</string>
+  <string name="common_applying">A aplicar…</string>
+  <string name="common_downloading">A transferir…</string>
+  <string name="common_format_date_no_year">dd/MM</string>
+  <string name="common_skip">Ignorar</string>
   <string name="component_backup_preference_title">Fazer cópia do tema</string>
   <string name="component_category_finest_title">Geral</string>
   <string name="component_category_more_title">Avançado</string>
@@ -59,6 +68,7 @@ Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede
   <string name="count_down_tip">%ds restantes</string>
   <string name="current_using_desktop_wallpaper_text">Ecrã inicial</string>
   <string name="current_using_lockscreen_wallpaper_text">Ecrã de bloqueio</string>
+  <string name="current_version">Versão actual: %1$s</string>
   <string name="current_version_incompatible">Não compatível</string>
   <string name="deleting">A eliminar…</string>
   <string name="description_author">Autor</string>
@@ -159,6 +169,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="loading_resource_detail_info">Aguarde…</string>
   <string name="local_photos">Fotos locais</string>
   <string name="local_resouce_creator_name">Programador: %1$s</string>
+  <string name="lock_screen_apply">Definir como ecrã de bloqueio</string>
   <string name="lockscreen_apply_failured">Não é possível definir papel de parede no ecrã de bloqueio</string>
   <string name="lockscreen_apply_failured_but_home_apply_success">Papel de parede do ecrã inicial definido mas não foi possível definir no ecrã de bloqueio</string>
   <string name="lockscreen_apply_success">Papel de parede do ecrã de bloqueio definido</string>
@@ -198,6 +209,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="mix_icons_option_des">Ícones do ecrã inicial</string>
   <string name="mix_lockscreen_option_des">Papel de parede e relógio</string>
   <string name="mix_tip">Componentes do tema</string>
+  <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="multi_sim_mms_ringtone_settings_dialog_message">Este toque vai ser aplicado a ambos os cartões SIM</string>
   <string name="multi_sim_ringtone_settings_dialog_message">O toque vai ser aplicado a ambos os cartões SIM</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">Percebi</string>
@@ -206,6 +218,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="my_gifts">Presentes</string>
   <string name="my_gifts_purchased">Adquiridos</string>
   <string name="my_gifts_received">Recebidos</string>
+  <string name="network_exception">Não foi possível ligar à rede. Verifique as suas definições de rede e tente novamente</string>
   <string name="no_data">Não é possível ligar à rede</string>
   <string name="no_net_work_connection">Verifique as suas definições de rede e tente novamente</string>
   <string name="online_no_network">Não é possível ligar à Internet</string>
@@ -219,7 +232,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="online_precust_plant">Plantas</string>
   <string name="online_precust_scenery">Cenários</string>
   <string name="online_search_hint">Pesquisar recursos online</string>
-  <string name="password_toggle_content_description">Tornar palavra-passe vísivel</string>
+  <string name="password_toggle_content_description">Mostrar palavra-passe</string>
   <string name="playing_ringtone">A reproduzir</string>
   <string name="pref_privacy_policy">Política de Privacidade</string>
   <string name="present_local_fonts">Os meus tipos de letra</string>
@@ -362,6 +375,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="resource_import_successful">Concluído</string>
   <string name="resource_importing">A importar…</string>
   <string name="resource_is_off_shelf">Não disponível</string>
+  <string name="resource_is_off_shelf_can_not_share">Não é possível partilhar. O item já não está disponível</string>
   <string name="resource_list_title">Seleccionados recentemente</string>
   <string name="resource_local_picker">Escolher toque</string>
   <string name="resource_menu_refresh">Actualizar</string>
@@ -490,6 +504,9 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="theme_changed_failed_message">Não é possível aplicar tema</string>
   <string name="theme_changed_message">Tema aplicado</string>
   <string name="theme_changing_dialog_title">"A aplicar "</string>
+  <string name="theme_comment_dialog_cancel">Agora não</string>
+  <string name="theme_comment_dialog_message">Gosta do tema que está a utilizar? Nós gostariamos do seu comentário!</string>
+  <string name="theme_comment_dialog_ok">Avaliar</string>
   <string name="theme_component_title_alarm">Alarme</string>
   <string name="theme_component_title_alarmstyle">Estilo do alarme</string>
   <string name="theme_component_title_all">Temas</string>
@@ -596,6 +613,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="using_theme_next_automatic_update">Actualizações automáticas</string>
   <string name="using_theme_next_automatic_update_summary">Actualizar temas automaticamente Wi-Fi quando o ecrã estiver bloqueado</string>
   <string name="using_theme_show_ad">Recomendações</string>
+  <string name="version_update">Verificar actualizações</string>
   <string name="video_ad_click">Experimentar agora</string>
   <string name="video_ad_try_for_free">Teste grátis</string>
   <string name="video_ad_uncomplete_tip">Termine de ver o vídeo para obter o tema</string>

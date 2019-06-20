@@ -667,12 +667,12 @@
         <item>Definir ciclo de utilização…</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Hoje (Dados móveis</item>
-        <item>Este mês (Dados móveis)</item>
-        <item>Mês passado (Dados móveis)</item>
-        <item>Hoje (Wi-Fi)</item>
-        <item>Este mês (Wi-Fi)</item>
-        <item>Mês passado (Wi-Fi)</item>
+        <item>"Hoje (Dados móveis) "</item>
+        <item>"Este mês (Dados móveis) "</item>
+        <item>"Mês passado (Dados móveis) "</item>
+        <item>"Hoje (Wi-Fi) "</item>
+        <item>"Este mês (Wi-Fi) "</item>
+        <item>"Mês passado (Wi-Fi) "</item>
     </string-array>
     <string-array name="date_of_traffic">
         <item>"Hoje "</item>

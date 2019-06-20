@@ -162,7 +162,7 @@
   <string name="dialog_font_background">Background</string>
   <string name="dialog_font_light">Brightness</string>
   <string name="dialog_mark_like">Marked as important</string>
-  <string name="dialog_report_cancel">Cancel</string>
+  <string name="dialog_report_cancel">Cancelar</string>
   <string name="dialog_report_confirm">Report</string>
   <string name="dialog_report_desc">You can report page format errors to us. Report now?</string>
   <string name="dialog_report_title">The format is invalid</string>
@@ -615,10 +615,10 @@
   <string name="whatsapp_parent">WhatsApp</string>
   <string name="whatsapp_photos">Fotos</string>
   <string name="which_transport">How do you normally get to your destination?</string>
-  <string name="widget_fav">favorite</string>
+  <string name="widget_fav">Favoritos</string>
   <string name="widget_fav_open">Show favorite card</string>
-  <string name="widget_fav_setting_brief">Save favorites from multiple apps here</string>
-  <string name="widget_fav_setting_brief_detail">View all your favorites in one place.</string>
+  <string name="widget_fav_setting_brief">Guardar favoritos de várias aplicações aqui</string>
+  <string name="widget_fav_setting_brief_detail">Ver todos os seus favoritos num só lugar</string>
   <string name="widget_loading">Aguarde…</string>
   <string name="widget_more">Ver mais</string>
   <string name="widget_no_data">Sem favoritos</string>

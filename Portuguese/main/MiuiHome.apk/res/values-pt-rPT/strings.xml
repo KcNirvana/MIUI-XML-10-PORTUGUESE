@@ -2,6 +2,7 @@
 <resources>
   <string name="action_add_to_workspace">Adicionar ao espaço de trabalho</string>
   <string name="activity_not_found">A aplicação não está instalada no seu dispositivo</string>
+  <string name="activity_not_unlocked">Aguarde até o dispositivo estar totalmente reiniciado antes de abrir aplicações</string>
   <string name="add_screen">Adicionar ecrã</string>
   <string name="announce_for_app_move_in_folder">Movida para a posição %1$d na pasta</string>
   <string name="announce_for_checked">%1$s, verificado</string>
@@ -92,6 +93,7 @@
   <string name="custom_wallpaper_picker">Explorar</string>
   <string name="defalut_launcher_title">Launcher predefinido</string>
   <string name="default_folder_title_game">Jogos</string>
+  <string name="default_folder_title_meitu">Meitu</string>
   <string name="default_folder_title_recommend">Aplicações</string>
   <string name="default_folder_title_security">Sistema</string>
   <string name="default_folder_title_services">Serviços</string>
@@ -313,6 +315,9 @@
   <string name="setting_wallpaper_tip">Faça zoom ou deslize para ajustar</string>
   <string name="settings">Definições</string>
   <string name="settings_shortcut">Definições</string>
+  <string name="shake_to_align_icons">Agitar o dispositivo para preencher as células vazias com ícones</string>
+  <string name="shake_to_align_icons_summary">Agite o seu dispositivo enquanto estiver no modo de edição para preencher as automaticamente as células vazias com ícones</string>
+  <string name="shake_to_align_icons_title">Agitar para preencher</string>
   <string name="share">Partilhar</string>
   <string name="sharedUserId"/>
   <string name="show_all">Ver tudo</string>
@@ -328,6 +333,7 @@
   <string name="status_installing">A instalar</string>
   <string name="status_paused">Em pausa</string>
   <string name="status_pending">Pendente</string>
+  <string name="system_shortcuts_more_operation">Info. da aplicação</string>
   <string name="title_jeejen">Ecrã inicial Jeejen</string>
   <string name="title_select_live_folder">Seleccionar pasta</string>
   <string name="title_select_shortcut">Seleccionar atalho</string>
