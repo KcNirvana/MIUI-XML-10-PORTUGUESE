@@ -151,6 +151,8 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="err_volume_not_enough">Sem espaço de armazenamento suficiente</string>
   <string name="exit_private_space">Trocar</string>
   <string name="experience_more_features">Adicionar um dispositivo para ver todas as funcionalidades</string>
+  <string name="facebook_login">Iniciar sessão com Facebook</string>
+  <string name="facebook_send">Partilhar no Facebook</string>
   <string name="finger_print_num">Impressão digital %d</string>
   <string name="finger_print_of_use">Utilizar impressão digital</string>
   <string name="fingerprint_number_upper_limit">Demasiadas tentativas incorrectas</string>
@@ -200,12 +202,13 @@ Pode também transferi-las separadamente"</string>
   <string name="import_photo_suc">Fotos importadas</string>
   <string name="input_space_finger">Definir agora</string>
   <string name="input_space_password">Definir agora</string>
+  <string name="instagram_send">Parilhar no Instagram</string>
   <string name="install">Instalar</string>
   <string name="install_error">Não foi possível instalar. Tente novamente</string>
   <string name="invalid_qr_code">Código QR inválido</string>
   <string name="kid_mode_label">Espaço criança</string>
   <string name="list_empty_text">Vazio</string>
-  <string name="list_empty_text_xspace">Instale WeChat/QQ/Weibo, crie aplicações clonadas e tente novamente</string>
+  <string name="list_empty_text_xspace">Crie mais aplicações clonadas e tente novamente</string>
   <string name="loading">Aguarde…</string>
   <string name="loading_apps">A carregar aplicações…</string>
   <string name="loading_space">Aguarde…</string>
@@ -268,8 +271,8 @@ Caso contrário, pode não conseguir entrar no Segundo espaço através do ecrã
   <string name="radio_button_icon_switch_title">Utilizar um atalho</string>
   <string name="radio_button_password_switch_title">Utilizar uma palavra-passe</string>
   <string name="removeSuccess">Eliminado com sucesso</string>
-  <string name="remove_button">Remover e reiniciar</string>
-  <string name="remove_button_time">Remover e reiniciar (%ds)</string>
+  <string name="remove_button">Eliminar</string>
+  <string name="remove_button_time">Eliminar (%ds)</string>
   <string name="remove_second_space_msg">Todos os dados das aplicações do Segundo espaço vão ser perdidas após eliminar o Segundo espaço. Eliminar o Segundo espaço?</string>
   <string name="remove_user_click_message">"*Se não tem itens importantes no Segundo espaço, %s"</string>
   <string name="remove_user_click_message_action">pode eliminar o Segundo espaço e reiniciar o seu dispositivo</string>
@@ -382,7 +385,7 @@ Se não actualizar, as aplicações clonadas podem não funcionar correctamente 
   <string name="start_new_fingerprint_tips">"Utilizar a impressão digital do Segundo espaço
 para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="start_setting_guide_desc_title">Existem algumas definições para configurar</string>
-  <string name="stop_xspace_alert_content">Todas as aplicações clonadas vão ser eliminadas. Tem de reiniciar o seu dispositivo para aplicar esta alteração. Eliminar agora?</string>
+  <string name="stop_xspace_alert_content">Eliminar todas as aplicações clonadas e os seus dados?. O dispositivo vai ser reiniciado para aplicar esta alteração</string>
   <string name="stop_xspace_alert_title">Contas de aplic. clonadas</string>
   <string name="summary_switch_apps_settings">Seleccionar aplicações utilizadas no espaço actual</string>
   <string name="support_desc">Serviços de segurança fornecidos por Spaces Mobile</string>
@@ -431,22 +434,23 @@ para ir para o Segundo espaço através do ecrã de bloqueio"</string>
   <string name="undo_grant_dialog_message">A Xiaomi vai parar de obter as informações necessárias a esta funcionalidade (IMEI, ID dispositivo, versão de sistema, etc.) após revogar a autorização. Revogar agora?</string>
   <string name="undo_privacy_menu">Revogar autorização</string>
   <string name="undo_success">Revogado com sucesso</string>
-  <string name="use_xiaoai_open">Ligar utilizando o assistente de voz</string>
+  <string name="use_google_open">Ligar com assistente Google</string>
+  <string name="use_xiaoai_open">Ligar com Mi AI</string>
   <string name="wating">Aguarde…</string>
   <string name="weibo_send">Enviar para Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>
-  <string name="weixin_share">Partilhar para Momentos</string>
+  <string name="whatsapp_send">Parilhar no WhatsApp</string>
   <string name="xpsace_guide_button">Criar</string>
   <string name="xspace_account">Contas de aplic. clonadas</string>
   <string name="xspace_chocie">Aplicações suportadas</string>
   <string name="xspace_creating">A clonar aplicação…</string>
-  <string name="xspace_default_app_summary">Definir aplicação predefinida para pagamentos, partilha, favoritos e mais</string>
-  <string name="xspace_default_app_title">Aplicação predefinida</string>
+  <string name="xspace_default_app_summary">Seleccionar aplicações predefinidas para iniciar sessão, partilhar e assistente de voz</string>
+  <string name="xspace_default_app_title">Personalização</string>
   <string name="xspace_default_guide_notification_content">Toque para alterar</string>
   <string name="xspace_default_guide_notification_main_title">A utilizar aplicação predefinida</string>
   <string name="xspace_default_guide_notification_xspace_title">A utilizar aplicação clonada</string>
   <string name="xspace_default_setting_dialog_title"> predefinido</string>
-  <string name="xspace_default_setting_label">Aplicação predefinida</string>
+  <string name="xspace_default_setting_label">Personalização</string>
   <string name="xspace_description">"As aplicações clonadas cópias das aplicações que pode ser utilizadas separadamente com diferentes contas.
   
 Algumas aplicações clonadas necessitam do suporte dos serviços Google. Nesses casos, é criada uma aplicação clonada dos serviços Google"</string>

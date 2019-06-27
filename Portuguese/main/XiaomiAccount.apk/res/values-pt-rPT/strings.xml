@@ -60,15 +60,16 @@
   <string name="app_name">Conta Mi</string>
   <string name="auth_fail_warning">Sessão expirada. Tente novamente mais tarde</string>
   <string name="authorize_title">Autorização</string>
-  <string name="bind_facebook">Associar a sua Conta Facebook</string>
-  <string name="bind_qq">QQ</string>
+  <string name="bind_facebook">Associar a sua conta Facebook</string>
+  <string name="bind_google">Associar a sua conta Google</string>
   <string name="bind_safe_phone_msg">Adicionar o seu número de telefone para poder iniciar a sessão com a sua Conta Mi na próxima vez</string>
   <string name="bind_settings">Contas</string>
   <string name="bind_sina_weibo">Associar Conta Sina Weibo</string>
   <string name="bind_sns_description">Iniciar sessão com %s</string>
   <string name="bind_weibo_description">Adicionar os seus amigos de Sina Weibo</string>
   <string name="binded">Associada</string>
-  <string name="binded_description" formatted="false">%s foi associada à sua Conta Mi. O seu perfil foi actualizado com informação da Conta %s</string>
+  <string name="binded_description" formatted="false">"%s foi associada à sua Conta Mi.
+Pode iniciar sessão na sua Conta Mi com %s agora"</string>
   <string name="button_unbind">Desassociar</string>
   <string name="change_activate_email">Alterar endereço de email</string>
   <string name="change_email_address">Alterar endereço de email</string>

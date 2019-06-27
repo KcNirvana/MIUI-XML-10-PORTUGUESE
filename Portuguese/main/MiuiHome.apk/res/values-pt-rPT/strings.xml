@@ -315,8 +315,8 @@
   <string name="setting_wallpaper_tip">Faça zoom ou deslize para ajustar</string>
   <string name="settings">Definições</string>
   <string name="settings_shortcut">Definições</string>
-  <string name="shake_to_align_icons">Agitar o dispositivo para preencher as células vazias com ícones</string>
-  <string name="shake_to_align_icons_summary">Agite o seu dispositivo enquanto estiver no modo de edição para preencher as automaticamente as células vazias com ícones</string>
+  <string name="shake_to_align_icons">Agite o dispositivo para preencher as células vazias com ícones</string>
+  <string name="shake_to_align_icons_summary">Agitar o seu dispositivo enquanto estiver no modo de edição para preencher as automaticamente as células vazias com ícones</string>
   <string name="shake_to_align_icons_title">Agitar para preencher</string>
   <string name="share">Partilhar</string>
   <string name="sharedUserId"/>

@@ -651,6 +651,7 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="deep_save_memory_clean_summary">Limpar cache quando bloquear o dispositivo para prevenir aplicações de utilizarem bateria</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Definir horário de ligar e desligar o dispositivo</string>
   <string name="delete">Eliminar</string>
+  <string name="delete_all_sms">Eliminar tudo</string>
   <string name="deleted_apps">Aplicações eliminadas</string>
   <string name="delete_from_manual_item_white_list">Remover de excepções</string>
   <string name="delete_input">Eliminar</string>
@@ -1641,7 +1642,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_customize_giveup_change">Rejeitar alterações?</string>
   <string name="power_dialog_cancel">Cancelar</string>
   <string name="power_dialog_ok">OK</string>
-  <string name="power_dialog_super_save_msg">A ultra poupança de bateria restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, SMS e ligação à rede) disponíveis o maior tempo possível. Ligar a ultra poupança de bateria?</string>
+  <string name="power_dialog_super_save_msg">A ultra poupança de bateria restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a ultra poupança de bateria?</string>
   <string name="power_dialog_super_save_title">Ultra poupança de bateria</string>
   <string name="power_idle">Telefone inactivo</string>
   <string name="power_main_battery_last_day_hour">%1$sd %2$sh restante</string>
@@ -1944,6 +1945,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sms_blacklist">Lista de bloqueio de SMS</string>
   <string name="sms_cloud_block">Lista de bloqueio da Cloud</string>
   <string name="sms_contact_block">Bloquear SMS de contactos</string>
+  <string name="sms_delete_all_hint">Eliminar todas as mensagens agora?</string>
   <string name="sms_delete_hint">Eliminar todas as mensagens bloqueadas deste número?</string>
   <string name="sms_delete_title">Eliminar mensagens</string>
   <string name="sms_detail_correct_success_text">Estatísticas de utilização de dados da calibração anterior (%1$s):</string>
@@ -1956,7 +1958,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sms_service">Bloquear SMS de serviços</string>
   <string name="sms_smart_engine_update">Actualizar automaticamente filtro de mensagens</string>
   <string name="sms_smart_engine_update_now">Actualizar</string>
-  <string name="sms_stranger_block">Bloquear SMS de desconhecidos</string>
+  <string name="sms_stranger_block">Bloqueio de SMS</string>
   <string name="sorted_dialog_title">Ordenar por</string>
   <string name="sp_background_risk_dialog_summary">, verifique e corrija os riscos de pagamento</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Está ligado a uma rede pública Wi-Fi que pode ser insegura. Certifique-se que o seu pagamento está protegido antes de o concluir</string>

@@ -147,7 +147,9 @@
   <string name="status_bar_back">Toque para voltar ao Gravador</string>
   <string name="status_bar_recording">A gravar…</string>
   <string name="status_bar_recording_pause">Gravação em pausa</string>
+  <string name="text_btn_backward_3_seconds">3 segundos para trás</string>
   <string name="text_btn_complete">Parar</string>
+  <string name="text_btn_forward_3_seconds">3 segundos para a frente</string>
   <string name="text_btn_list">Gravações</string>
   <string name="text_btn_mark">Marcar</string>
   <string name="text_btn_pause">Pausar</string>
@@ -156,6 +158,10 @@
   <string name="text_btn_recording">Gravar</string>
   <string name="text_btn_wave">Acenar</string>
   <string name="text_finish">Confirmar</string>
+  <string name="text_play_speed_0_5">Velocidade 0.5X</string>
+  <string name="text_play_speed_1_0">Velocidade normal</string>
+  <string name="text_play_speed_1_5">Velocidade 1.5X</string>
+  <string name="text_play_speed_2_0">Velocidade 2X</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
   <string name="toast_max_record_time">%1$s pode gravar por cerca de %2$s</string>

@@ -31,6 +31,7 @@
   <string name="fast_connect_device_title_connecting">A ligar…</string>
   <string name="fast_connect_device_title_find_headset">Localizar %1$s</string>
   <string name="fast_connect_device_title_find_headset_others">Localizar outros %1$s</string>
+  <string name="fast_connect_headset_reset">Prima e segure o botão na caixa por %1$d segundos</string>
   <string name="goto_package">Abrir %1$s</string>
   <string name="install_package">Instalar %1$s para mais funcionalidades</string>
   <string name="mi_band_vibrate_alarm">Vibrar quando o alarme tocar</string>

@@ -289,6 +289,9 @@
   <string name="confirm_send_message_with_no_body">Não há texto no corpo da mensagem</string>
   <string name="confirm_send_message_with_no_subject">Esta mensagem não tem assunto</string>
   <string name="confirm_send_title">Pretende enviar esta mensagem?</string>
+  <string name="contact_add_options">Adicionar aos contactos</string>
+  <string name="contact_add_options_details1">Todos</string>
+  <string name="contact_add_options_details2">Apenas remetentes</string>
   <string name="contact_edit_set_black_list_from">Mover todos os emails deste remetente para Lixo</string>
   <string name="contact_edit_set_black_list_receive">Mover email com este destinatário para Lixo (apenas novos emails)</string>
   <string name="contact_edit_set_black_list_receive_summary">Eliminar emails que incluam este remetente nos campos Para ou CC</string>
@@ -505,6 +508,7 @@
   <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
   <string name="generic_attachment_problem">Não é possível anexar o ficheiro</string>
   <string name="get_database_exception">Limpar os dados desta aplicação nas Definições &gt; Aplicações de Sistema e tente novamente</string>
+  <string name="get_oauth_code">Obter código</string>
   <string name="gmail_acceleration">Utilizar um servidor proxy para aceder à conta do Gmail?</string>
   <string name="gmail_login_confirm_to_use_proxy">Utilizar um servidor proxy para aceder à conta do Gmail?</string>
   <string name="gmail_login_failed_non_proxy_title">Não foi possível aceder ao servidor Gmail</string>
@@ -637,6 +641,9 @@
   <string name="message_invite_title">Convite do calendário</string>
   <string name="message_saved">Mensagem guardada como rascunho</string>
   <string name="message_view_attachment_background_load">Os anexos da sua mensagem reencaminhada vão ser transferidos antes do envio</string>
+  <string name="mi_sync_erroe_toast">"Erro de rede: "</string>
+  <string name="mi_sync_erroe_toast_other">"Erro de servidor: "</string>
+  <string name="mi_sync_erroe_toast_other_details">Erro desconhecido</string>
   <string name="mibill_privacy_policy_button1">Mais tarde</string>
   <string name="mibill_privacy_policy_button2">Concordo</string>
   <string name="mibill_privacy_policy_description">Permitir que a Mi Wallet analise e faça a gestão das suas facturas automaticamente. Esta funcionalidade está inactiva por defeito para endereços de email empresariais</string>
@@ -668,7 +675,9 @@
   <string name="no_filtrable_email_account">Sem contas</string>
   <string name="no_mails">Sem emails</string>
   <string name="no_matched_attachment">Sem resultados</string>
+  <string name="no_more_mail">Sem mais mensagens</string>
   <string name="not_subject">(Sem assunto)</string>
+  <string name="no_search_results">Sem resultados</string>
   <string name="not_synced_title">Conta não sincronizada</string>
   <string name="note_text">Apenas possível na rede da China ou através da verificação de SMS</string>
   <string name="note_title">Configuração automática de email</string>
@@ -814,6 +823,7 @@
   <string name="privacy_policy">Política de Privacidade</string>
   <string name="prompt_title">Perguntar</string>
   <string name="protocol_setting_toast">Toque no canto superior direito para ir às definições depois de concordar</string>
+  <string name="pull_load_more">Puxe para carregar mais</string>
   <string name="pull_to_refresh">Puxe para actualizar</string>
   <string name="push_wps_better_confirm_download">Transferir</string>
   <string name="push_wps_better_confirm_exit">Agora não</string>
@@ -879,7 +889,8 @@
   <string name="refreshing_done">Concluída</string>
   <string name="release_to_refresh">Largue para actualizar</string>
   <string name="remind_attachment_size_limit">Os seus emails devem ser menores que %sMB</string>
-  <string name="remote_no_mail">Não existem mais emails no servidor</string>
+  <string name="remote_search_body_too_large_prompt">"O email é demasiado longo.
+Aguarde até estar totalmente sincronizado"</string>
   <string name="remove_account">Remover conta</string>
   <string name="remove_folder">Remover de %1$s</string>
   <string name="remove_star">Remover estrela</string>
@@ -905,6 +916,7 @@
   <string name="sdcard_cannot_use">Não é possível utilizar o cartão SD</string>
   <string name="search_bar_text">Pesquisar por mensagens e contactos</string>
   <string name="search_hint">Pesquisar email</string>
+  <string name="search_remote_again">Rede não disponível. Tente novamente</string>
   <string name="search_result">Resultados</string>
   <string name="search_tabs_name_all">Todos</string>
   <string name="search_tabs_name_recipient">Destinatário</string>
@@ -979,6 +991,7 @@
   <string name="sync_contacts_req_per_ignored">Permitir que o Email aceda aos seus contactos para sincronizar</string>
   <string name="sync_error">Não foi possível sincronizar</string>
   <string name="sync_error_message">O dispositivo não tem espaço de armazenamento suficiente para sincronizar</string>
+  <string name="sync_failed_mi_authority_view_detail">Ver detalhes</string>
   <string name="syncing_wait_restart">Tente novamente</string>
   <string name="syncing_wait_restart_title">A ligação ao servidor expirou</string>
   <string name="system_account_create_failed">Não foi possível criar a conta. Tente novamente</string>
@@ -1005,6 +1018,8 @@
   <string name="toast_bar_no_connection_network">Sem ligação à Internet</string>
   <string name="toast_bar_open_gmail_synchronization">Não foi possível ligar ao Gmail. Ligue o proxy do Gmail</string>
   <string name="toast_bar_send_fail_remind">Não foi possível enviar o email. Foi guardado na pasta \"Caixa de saída\"</string>
+  <string name="toast_bar_sync_failed_mi_authority">"Não foi possível sincronizar. Aguarde um momento e tente novamente. Veja os detalhes
+(Se está a utilizar um dispositivo não autorizado, ligue-se à Intranet ou utilize um código de verificação)"</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">Para sincronizar o calendário e contactos, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="toastbar_calendar_permission_switch_close">Para receber alertas do calendário, conceda ao Email as permissões necessárias nas Definições</string>
   <string name="toastbar_contacts_permission_switch_close">Para adicionar contactos, conceda ao Email as permissões necessárias nas Definições</string>
@@ -1037,8 +1052,8 @@ Remover conta?"</string>
   <string name="unread_string">conversa não lida</string>
   <string name="unzip_file_failed">Não foi possível descompactar ficheiro</string>
   <string name="update_date_format_templete">HH:mm \'do dia\' d \'de\' MMMM</string>
-  <string name="update_domain_summary">Actualizar configurações e lista de domínio</string>
-  <string name="update_domain_title">Actualizar domínio</string>
+  <string name="update_domain_summary">Actualizar configurações e lista de domínios</string>
+  <string name="update_domain_title">Actualizar definições de domínios</string>
   <string name="update_to_wps_mail">Disfrute de mais funcionalidade com WPS Mail</string>
   <string name="updated_at">Actualizado às %1$s</string>
   <string name="upload_log">Enviar</string>

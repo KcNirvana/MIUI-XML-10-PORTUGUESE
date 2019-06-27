@@ -156,6 +156,7 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_find_device_verify_close">Desligar Localizar Dispositivo</string>
   <string name="micloud_find_device_verify_fail">Não foi possível reactivar Localizar Dispositivo</string>
   <string name="micloud_find_device_verify_progress">A reactivar Localizar Dispositivo…</string>
+  <string name="micloud_last_sync_canceled">Sincronização cancelada. Tente novamente</string>
   <string name="micloud_main_button_set_internet">Definições</string>
   <string name="micloud_main_head_menu_cloud_backup">Cópias da Mi Cloud</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Localizar Dispositivo está indisponível no Segundo espaço. Pode utilizá-lo no Primeiro espaço</string>

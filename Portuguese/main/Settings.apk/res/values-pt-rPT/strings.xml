@@ -2726,7 +2726,9 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_lab_feature_on">Ligado</string>
   <string name="miui_lab_features">Funcões experimentais MIUI</string>
   <string name="miui_lab_gallery_search_desc">Pesquisa de imagens melhorada</string>
-  <string name="miui_lab_gallery_search_title">Encontrar fotos na Galeria</string>
+  <string name="miui_lab_gallery_search_title">Pesquisar fotos na Galeria</string>
+  <string name="miui_lab_home_feed_desc">Ideias brilhantes. Histórias convincentes</string>
+  <string name="miui_lab_home_feed_title">Centro multimédia</string>
   <string name="miui_lab_install_drive_mode_error">Não foi possível instalar. Tente novamente</string>
   <string name="miui_lab_install_drive_mode_summary">O Modo Condução é uma aplicação de sistema. A instalação não necessita duma ligação à Internet</string>
   <string name="miui_lab_install_drive_mode_title">Instalar Modo Condução</string>
@@ -4982,8 +4984,10 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="usage_state_week_day_hour_minute" formatted="false">Fins de semana: %dh %dm</string>
   <string name="usage_state_week_total_text">Tempo de ecrã (últimos 7 dias)</string>
   <string name="usage_state_work_day">Dias úteis</string>
-  <string name="usage_state_work_day_hour_minute" formatted="false">dDas úteis: %dh %dm</string>
+  <string name="usage_state_work_day_hour_minute" formatted="false">Dias úteis: %dh %dm</string>
   <string name="usage_stats_label">Estatísticas de utilização</string>
+  <string name="usage_stats_normal_day">Dias úteis</string>
+  <string name="usage_stats_week_day">Fins de semana</string>
   <string name="usage_time_label">Tempo de utilização</string>
   <string name="usage_type_actual_power">Utilização de bateria observada</string>
   <string name="usage_type_audio">Áudio</string>
@@ -5005,6 +5009,25 @@ As suas impressões digitais guardadas também vão ser removidas deste disposit
   <string name="usage_type_video">Vídeo</string>
   <string name="usage_type_wake_lock">Manter ligado</string>
   <string name="usage_type_wifi_running">Wi-Fi em execução</string>
+  <string name="usagestats_app_category_miui_financial">Finanças</string>
+  <string name="usagestats_app_category_miui_game">Jogos</string>
+  <string name="usagestats_app_category_miui_life">Estilo de vida</string>
+  <string name="usagestats_app_category_miui_productivity">Productividade</string>
+  <string name="usagestats_app_category_miui_reading">Leitura</string>
+  <string name="usagestats_app_category_miui_shopping">Compras</string>
+  <string name="usagestats_app_category_miui_social">Redes sociais</string>
+  <string name="usagestats_app_category_miui_system">Aplicações de sistema</string>
+  <string name="usagestats_app_category_miui_tools">Ferramentas</string>
+  <string name="usagestats_app_category_miui_undefined">Outras</string>
+  <string name="usagestats_app_category_miui_video_etc">Música e vídeo</string>
+  <string name="usagestats_device_notification_des">Limite de tempo de ecrã para hoje: %s</string>
+  <string name="usagestats_device_notification_des_over">Já atingiu o limite de tempo de ecrã hoje</string>
+  <string name="usagestats_device_notification_des_reset" formatted="false">Limite de hoje: %s | %s restante</string>
+  <string name="usagestats_device_notification_title">Alerta de tempo de ecrã</string>
+  <string name="usagestats_device_timeout_des" formatted="false">Está a utilizar o seu dispositivo há %dh e %dm hoje. Descanse um pouco!</string>
+  <string name="usagestats_device_timeout_negative">Lembrar-me em 1 hora</string>
+  <string name="usagestats_device_timeout_positive">Percebi</string>
+  <string name="usagestats_device_timeout_title">Alerta de tempo de ecrã</string>
   <string name="usb_adb_input">Depuração USB (definições de segurança)</string>
   <string name="usb_adb_input_desc">Conceder permissões de acesso e simulação de entrada via depuração USB</string>
   <string name="usb_audio_disable_routing">Desactivar encaminhamento áudio USB</string>

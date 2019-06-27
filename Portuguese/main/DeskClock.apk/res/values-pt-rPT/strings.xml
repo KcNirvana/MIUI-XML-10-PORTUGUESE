@@ -66,6 +66,7 @@
   <string name="dynamic_alarm_speech">Alarme inteligente</string>
   <string name="edit_alarm">Editar alarme</string>
   <string name="edit_systemtime">Editar hora do sistema</string>
+  <string name="edit_systemtime_setting_summary">Data, hora e relógio duplo</string>
   <string name="elapsed_time_format">+%s</string>
   <string name="every_day">Todos os dias</string>
   <string name="expired_timers_dismissed">Temporizador suspendido</string>
@@ -165,7 +166,7 @@
   <string name="shortcut_stop_watch">Iniciar cronómetro</string>
   <string name="shut_down_keep_screen">O ecrã não vai permanecer ligado</string>
   <string name="shutdown_alarm_disable_summary">O alarme não vai tocar com o telefone desligado</string>
-  <string name="shutdown_alarm_enable_summary">O alarme vai tocar com o telefone desligado</string>
+  <string name="shutdown_alarm_enable_summary">O alarme vai tocar com o telefone desligado (se o alarme for definido para pelo menos 10 minutos depois de estar desligado)</string>
   <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
   <string name="silent_alarm_summary">Modo silêncio</string>
   <string name="skip_alarm_once_hint">Desligar uma vez em %s</string>
@@ -239,10 +240,13 @@
   <string name="volume_button_setting_title">Botões de volume</string>
   <string name="workday_alarm_clock">Alarme em dias úteis</string>
   <string name="worldclock_input_hint_text">Pesquisar por país ou cidade</string>
+  <string name="worldclock_resident_city_text">Segundo relógio: %s</string>
+  <string name="worldclock_resident_city_text_detail">Relógio duplo ligado</string>
   <string name="worldclock_empty_text">Sem relógios</string>
   <string name="worldclock_search_city">Seleccionar cidade</string>
   <string name="worldclock_title">Relógio</string>
   <string name="worldclock_world_time">Fusos horários</string>
+  <string name="worldcolock_date_display_prefix">Actual: </string>
   <string name="worldcolock_timezone_current">Actual: %1$s</string>
   <string name="worldcolock_timezone_date">dd/MM</string>
   <string name="worldcolock_timezone_gap">%s horas</string>
