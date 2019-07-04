@@ -21,6 +21,10 @@
   <string name="auto_start_warning_deny">Negar</string>
   <string name="auto_start_warning_title">Permitir %s iniciar automaticamente?</string>
   <string name="autofill">Preenchimento automático</string>
+  <string name="autofill_save_message">Permitir que a MIUI guarde as suas contas e palavras-passe?</string>
+  <string name="autofill_save_ok">Permitir</string>
+  <string name="autofill_save_sub_message">Vai poder gerir palavras-passe guardadas em Definições &gt; Definições adicionais &gt; Privacidade &gt; Gestão de palavras-passe"</string>
+  <string name="autofill_save_title">Guardar palavras-passe automaticamente</string>
   <string name="button_text_cancel">Cancelar</string>
   <string name="button_text_delete">Desinstalar</string>
   <string name="button_text_delete_timer">Desinstalar (%d)</string>
@@ -95,9 +99,12 @@
   <string name="popup_camera_calibrate_failed">Não foi possível calibrar</string>
   <string name="popup_camera_calibrate_now">Calibrar</string>
   <string name="popup_camera_calibrate_success">Calibrado com sucesso. Pode abrir a câmara frontal agora</string>
+  <string name="popup_camera_cancel_popup">Cancelar</string>
+  <string name="popup_camera_continue_popup">Abrir a câmara</string>
   <string name="popup_camera_front_failed">Não foi possível abrir a câmara frontal. Tente novamente</string>
   <string name="popup_camera_front_when_use">A Câmara necessita de abrir a câmara frontal. Abrir agora?</string>
   <string name="popup_camera_popup_falied_times_calibrate">Não foi possível abrir a câmara frontal. Tente calibrar a câmara</string>
+  <string name="popup_camera_remove_hid_device">Está ligado a um gamepad. Pode não conseguir abrir a câmara frontal</string>
   <string name="popup_camera_sure">Percebi</string>
   <string name="popup_camera_sure_wait">Percebi (%ds)</string>
   <string name="popup_camera_takeback_falied_times_calibrate">Não foi possível fechar a câmara frontal. Tente calibrar a câmara</string>

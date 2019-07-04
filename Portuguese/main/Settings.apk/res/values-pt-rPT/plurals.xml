@@ -316,8 +316,8 @@ Para obter mais informações acerca deste certificado, contacte o seu administr
         <item quantity="one">%d hora</item>
     </plurals>
     <plurals name="usage_state_hour_text">
-        <item quantity="other">" horas"</item>
-        <item quantity="one">" hora"</item>
+        <item quantity="other">" horas "</item>
+        <item quantity="one">" hora "</item>
     </plurals>
     <plurals name="usage_state_minute">
         <item quantity="other">%d minutos</item>
@@ -352,8 +352,8 @@ Para obter mais informações acerca deste certificado, contacte o seu administr
         <item quantity="one">Dias úteis: %d minuto</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
-        <item quantity="other">" horas"</item>
-        <item quantity="one">" hora"</item>
+        <item quantity="other">" horas "</item>
+        <item quantity="one">" hora "</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_min">
         <item quantity="other">" minutos"</item>

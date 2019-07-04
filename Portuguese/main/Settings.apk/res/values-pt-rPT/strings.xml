@@ -224,6 +224,9 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="amber_alerts_title">Alertas AMBER</string>
   <string name="ambient_display_pickup_summary">Para verificar as suas notificações, pegue no seu telefone</string>
   <string name="ambient_display_pickup_title">Levantar para verificar</string>
+  <string name="ambient_display_screen_summary_always_on">Sempre ligado / Maior consumo de bateria</string>
+  <string name="ambient_display_screen_summary_notifications">Novas notificações</string>
+  <string name="ambient_display_screen_title">Ecrã ambiente</string>
   <string name="ambient_display_summary">Para verificar as suas notificações, duplo toque no ecrã</string>
   <string name="ambient_display_title">Duplo toque para verificar</string>
   <string name="android_beam_label">Android Beam</string>
@@ -237,7 +240,10 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="animator_duration_scale_title">Escala de duração da animação</string>
   <string name="another_migration_already_in_progress">Já existe outra migração em curso</string>
   <string name="anti_spam">Lista de bloqueio</string>
+  <string name="aod_and_lock_screen_settings_title">Ecrã ambiente e ecrã de bloqueio</string>
   <string name="aod_clock_style_title">Estilo de relógio</string>
+  <string name="aod_settings_category_name">Ecrã ambiente</string>
+  <string name="aod_settings_title">Ecrã ambiente</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Tipo de autenticação</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -922,7 +928,11 @@ Taxa de amostragem"</string>
   <string name="brightness_auto_adjust_on">Optimizar nível do brilho do ecrã à luz ambiente</string>
   <string name="brightness_summary">Ajustar o brilho do ecrã</string>
   <string name="bootloader_tips">Após adicionar a sua Conta Mi, não termine a sessão e faça uma reposição de fábrica. Se não fizer isto, adicione a sua conta novamente ou não vai poder desbloquear o seu dispositivo</string>
+  <string name="bootloader_tips">"%s
+
+Se já fez alguma das opções acima, adicione a sua Conta Mi novamente senão não vai conseguir desbloquear o seu dispositivo"</string>
   <string name="bootloader_tips_ok">Percebi</string>
+  <string name="bootloader_tips_warning">Não desligue da rede, termine sessão na sua Conta Mi, faça uma reposição de fábrica ou formate os dados de sistema</string>
   <string name="brightness_title">Brilho</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bt_hci_snoop_log">Activar registo de monitorização Bluetooth HCI</string>
@@ -1502,6 +1512,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="disabled">Desactivada</string>
   <string name="disabled_authorised_apps_title">Revogar autorização</string>
   <string name="disabled_because_no_backup_security">Para utilizar defina primeiro um bloqueio de ecrã</string>
+  <string name="disallow_lock_screen_summary">Permitir notificações em \"Notificações das aplicações\" primeiro</string>
   <string name="disconnect">Desligar</string>
   <string name="display_auto_rotate_rotate">Ligada</string>
   <string name="display_auto_rotate_stay_in_current">Desligada</string>
@@ -2408,6 +2419,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="lock_after_timeout_summary">%1$s depois de desligar</string>
   <string name="lock_after_timeout_summary_with_exception">%1$s após a suspensão, excepto quando mantido bloqueado por %2$s</string>
   <string name="lock_immediately_summary_with_exception">Imediatamente após a suspensão, excepto quando mantido bloqueado por %1$s</string>
+  <string name="lock_screen_display_category_name">Ecrã de bloqueio</string>
   <string name="lock_screen_notifications_interstitial_message">Como pretende que as notificações sejam apresentadas quando o dispositivo está bloqueado?</string>
   <string name="lock_screen_notifications_interstitial_title">Notificações</string>
   <string name="lock_screen_notifications_summary_disable">Não mostrar notificações</string>
@@ -2751,6 +2763,7 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_sos_contacts_add">Contactos de emergência</string>
   <string name="miui_sos_contacts_category">Contactos de emergência</string>
   <string name="miui_sos_emergency_contacts">Contactos de emergência</string>
+  <string name="miui_sos_emergency_delete">Eliminar</string>
   <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s(%2s) já aceitou</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1s já aceitou</string>
   <string name="miui_sos_emergency_failed_sms" formatted="false">Não foi possível enviar mensagem para %1s(%2s)</string>
@@ -3050,6 +3063,10 @@ Seleccione o seu sistema operativo:"</string>
   <string name="normal_info">Todos os sons vão funcionar normalmente</string>
   <string name="normal_smartcover_title">Capa com frente opaca</string>
   <string name="not_installed">Não instalado</string>
+  <string name="notch_and_status_bar_settings">Monocelha e barra de estado</string>
+  <string name="notch_force_black_desc">Ligar para escurecer a área à volta da monocelha</string>
+  <string name="notch_force_black_title">Ocultar monocelha</string>
+  <string name="notch_settings">Monocelha</string>
   <string name="notes_privacy_password_role_instruction">As suas notas privadas vão ser armazenadas aqui</string>
   <string name="notifi_channels">Categorias de notificações</string>
   <string name="notifi_channels_other">Outras</string>
@@ -3065,6 +3082,7 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notification_badging_title">Permitir pontos de notificação</string>
   <string name="notification_breathing_light_color_title">Cor do LED das notificações</string>
   <string name="notification_breathing_light_freq_title">Frequência da luz do LED das notificações</string>
+  <string name="notification_center">Notificações</string>
   <string name="notification_channel_badge_title">Mostrar ponto de notificação</string>
   <string name="notification_channel_sound_title">Som</string>
   <string name="notification_channel_title">Categoria da notificação</string>
@@ -3559,6 +3577,8 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="query_hint_text">Pesquisar definições</string>
   <string name="quick_reply_title">Respostas rápidas</string>
   <string name="quick_settings_developer_tiles">Atalho de definições rápidas do programador</string>
+  <string name="quick_settings_under_keyguard_summary">Permitir acesso às definições rápidas com o dispositivo bloqueado</string>
+  <string name="quick_settings_under_keyguard_title">Acesso às definições rápidas</string>
   <string name="quiet">Não incomodar</string>
   <string name="quiet_group">Não incomodar</string>
   <string name="quiet_important_interruptions_mode">Permitir apenas excepções</string>
@@ -4047,6 +4067,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_sound_settings">Sons e vibração;Volumes;Modo silêncio;Definições de áudio;Suprimir ruído</string>
   <string name="search_status_bar_settings">Notificações e barra de estado;Notificações;barra de estado</string>
   <string name="search_status_bar_settings_custom_carrier">Editar nome da operadora;Nome da operadora</string>
+  <string name="search_status_bar_settings_expandable_under_keyguard">Mostrar no ecrã de bloqueio</string>
   <string name="search_status_bar_settings_manage_notification">Notificações da aplicação;Notificações</string>
   <string name="search_status_bar_settings_show_carrier">Mostrar nome da operadora;Nome da operadora</string>
   <string name="search_status_bar_settings_show_network_speed">Mostrar velocidade da ligação;Velocidade da ligação</string>
@@ -4212,6 +4233,7 @@ Para utilizar a fixação no ecrã:
   <string name="settings_license_activity_loading">A carregar…</string>
   <string name="settings_license_activity_title">Licenças de terceiros</string>
   <string name="settings_license_activity_unavailable">Ocorreu um erro ao carregar as licenças</string>
+  <string name="settings_new_version_btn">Actualizar</string>
   <string name="settings_notify_need_backup">Faça uma cópia das suas definições para a Mi Cloud para as aceder após trocar de telefone</string>
   <string name="settings_notify_new_version">Actualização disponível. Toque para ver detalhes</string>
   <string name="settings_notify_phone_recycled">O seu número de telefone foi reciclado. Tente adicionar um número de telefone diferente</string>
@@ -4446,6 +4468,7 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_settings_qs_layout">Definições rápidas</string>
   <string name="status_bar_settings_show_lte_for_4g">Mostrar LTE em vez de 4G</string>
   <string name="status_bar_settings_status_bar">Barra de estado</string>
+  <string name="status_bar_title">Barra de estado</string>
   <string name="status_bt_address">Endereço Bluetooth</string>
   <string name="status_data_state">Estado da rede móvel</string>
   <string name="status_failed_to_write">Não é possível escrever dados na etiqueta NFC. Caso o problema persista, experimente uma etiqueta diferente</string>
@@ -5261,6 +5284,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Volume</string>
   <string name="volume_hifi_description">Definições Hi-Fi</string>
+  <string name="volume_launch_camera_summary">Duplo toque no botão de Volume para abrir a Câmara com o ecrã bloqueado</string>
   <string name="volume_media_description">Música, vídeo, jogos e outros conteúdos multimédia</string>
   <string name="volume_media_mute">Silenciar música e outros conteúdos multimédia</string>
   <string name="volume_notification_description">Notificações</string>
@@ -5351,6 +5375,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="vt_provisioned_switch_string">Videochamadas fornecidas</string>
   <string name="wait_for_debugger">Aguarde pelo depurador</string>
   <string name="wait_for_debugger_summary">Aplicação em modo de depuração aguarda pelo depurador que anexe antes de executar</string>
+  <string name="wakeup_and_sleep_settings_category_name">Definições do ecrã de bloqueio</string>
   <string name="wakeup_for_keyguard_notification_title">Ligar ecrã para notificações</string>
   <string name="wallpaper_attributions">Papéis de parede</string>
   <string name="wallpaper_desktop">Ecrã inicial</string>

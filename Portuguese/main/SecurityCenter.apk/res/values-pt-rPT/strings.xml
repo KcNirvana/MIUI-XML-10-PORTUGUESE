@@ -901,6 +901,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="function_shield_summary">Restringir as funcionalidades seleccionadas quando estiver a jogar</string>
   <string name="function_shield_three_finger">Restringir os gestos de capturas de ecrã</string>
   <string name="function_shield_title">Experiência melhorada</string>
+  <string name="function_shield_voice_trigger">Não ligar Mi AI através da voz</string>
   <string name="fw_blocked">Lista de bloqueio</string>
   <string name="fw_blocked_count">"Bloqueadas "</string>
   <string name="fw_blocked_join">" e "</string>
@@ -989,6 +990,11 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gb_description_image_button_answer">Atender</string>
   <string name="gb_description_image_button_reject">Rejeitar</string>
   <string name="gb_description_image_button_video_answer">Videochamada</string>
+  <string name="gb_first_guide_function_shiled_title">Desligar funcionalidades de sistema quando o Game Turbo estiver ligado</string>
+  <string name="gb_first_guide_gamebox_des">Utilizar atalhos enquanto estiver a jogar</string>
+  <string name="gb_first_guide_handsfree_des">Atender chamadas em segundo plano</string>
+  <string name="gb_first_guide_shortcut_des">Foi criado um atalho no ecrã inicial para o Game Turbo</string>
+  <string name="gb_first_guide_title">Optimizar velocidade e desempenho ao nível do sistema</string>
   <string name="gb_first_window_antimsg_summary_quick_answer">Utilizar respostas rápidas</string>
   <string name="gb_first_window_antimsg_summary_transparent_show">Ver texto em fundo transparente</string>
   <string name="gb_first_window_antimsg_title">Notificações convenientes</string>

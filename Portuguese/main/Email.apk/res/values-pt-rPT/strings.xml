@@ -520,6 +520,7 @@
   <string name="header_category_other">Comentários</string>
   <string name="header_label_general_preferences">Definições gerais</string>
   <string name="help_and_info">Ajuda</string>
+  <string name="help_weixin_title">"Se tiver alguma dúvida, sinta-se à vontade para nos deixar um comentário na nossa conta oficial do WeChat: "</string>
   <string name="hide_elided">▼ Ocultar texto citado</string>
   <string name="hide_password">Ocultar palavra-passe</string>
   <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
