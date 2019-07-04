@@ -927,7 +927,6 @@ Taxa de amostragem"</string>
   <string name="brightness_auto_adjust_off">O brilho do ecrã vai permanecer constante</string>
   <string name="brightness_auto_adjust_on">Optimizar nível do brilho do ecrã à luz ambiente</string>
   <string name="brightness_summary">Ajustar o brilho do ecrã</string>
-  <string name="bootloader_tips">Após adicionar a sua Conta Mi, não termine a sessão e faça uma reposição de fábrica. Se não fizer isto, adicione a sua conta novamente ou não vai poder desbloquear o seu dispositivo</string>
   <string name="bootloader_tips">"%s
 
 Se já fez alguma das opções acima, adicione a sua Conta Mi novamente senão não vai conseguir desbloquear o seu dispositivo"</string>
