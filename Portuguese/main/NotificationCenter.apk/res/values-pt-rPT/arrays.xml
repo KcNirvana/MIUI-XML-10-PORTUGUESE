@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="lock_screen_display_rules_with_password">
         <item>Mostrar conteúdo das notificações</item>
-        <item>Mostrar notificações mas ocultar o seu conteúdo<item>
+        <item>Mostrar notificações mas ocultar o seu conteúdo</item>
         <item>Não mostrar notificações</item>
     </string-array>
     <string-array name="notification_style_entries">
