@@ -9,7 +9,7 @@
   <string name="enable_lockscreen_notification">Notificações no ecrã de bloqueio permitidas</string>
   <string name="enable_show_badge_notification">Emblemas de notificações permitidos</string>
   <string name="expandable_under_keyguard">Abrir área de notificações no ecrã de bloqueio</string>
-  <string name="float_notifications">Notificações flutuantes</string>
+  <string name="float_notifications">Flutuantes</string>
   <string name="hint_search_all">Pesquisar aplicações</string>
   <string name="hint_search_in_disabled_apps">Pesquisar aplicações que não podem mostrar notificações</string>
   <string name="hint_search_in_enabled_apps">Pesquisar aplicações que podem mostrar notificações</string>
@@ -17,7 +17,7 @@
   <string name="loading">Aguarde…</string>
   <string name="lock_screen_display_rules">Formato</string>
   <string name="lock_screen_tip_toast">Permitir notificações em \"Notificações das aplicações\" primeiro</string>
-  <string name="lockscreen_notifications">Notificações no ecrã de bloqueio</string>
+  <string name="lockscreen_notifications">Ecrã de bloqueio</string>
   <string name="not_sent_recently">Sem recentes</string>
   <string name="notch_and_status_bar_setting">Monocelha e barra de estado</string>
   <string name="notification_display_setting">Área de notificações</string>
@@ -25,20 +25,18 @@
   <string name="notification_fold_summary">Todas as notificações não importantes vão aparecer numa pasta separada</string>
   <string name="notification_fold_title">Pasta de notificações</string>
   <string name="notification_manager">Notificações das aplicações</string>
-  <string name="notification_style_android">Android</string>
-  <string name="notification_style_miui">MIUI</string>
   <string name="off">Desligado</string>
   <string name="on">Ligado</string>
   <string name="settings_guide_title">Necessita de outras definições?</string>
-  <string name="show_badge_notifications">Emblemas das notificações</string>
+  <string name="show_badge_notifications">Emblemas</string>
   <string name="status_bar_setting">Barra de estado</string>
-  <string name="summary_disable_float_notification">As notificações flutuantes não são permitidas</string>
-  <string name="summary_disable_lockscreen_notification">As notificações no ecrã de bloqueio não são permitidas</string>
-  <string name="summary_disable_show_badge_notification">Os emblemas de notificações não são permitidos</string>
-  <string name="summary_enable_float_notification">As notificações flutuantes são permitidas</string>
-  <string name="summary_enable_lockscreen_notification">As notificações no ecrã de bloqueio são permitidas</string>
-  <string name="summary_enable_show_badge_notification">Os emblemas de notificações são permitidos</string>
-  <string name="summary_float_enable_notification_first">Permitir notificaçõe para poder ligar as notificações flutuantes</string>
+  <string name="summary_disable_float_notification">Notificações flutuantes não permitidas</string>
+  <string name="summary_disable_lockscreen_notification">Notificações no ecrã de bloqueio não permitidas</string>
+  <string name="summary_disable_show_badge_notification">Emblemas de notificações não permitidos</string>
+  <string name="summary_enable_float_notification">Notificações flutuantes permitidas</string>
+  <string name="summary_enable_lockscreen_notification">Notificações no ecrã de bloqueio permitidas</string>
+  <string name="summary_enable_show_badge_notification">Emblemas de notificações permitidos</string>
+  <string name="summary_float_enable_notification_first">Permitir notificações para poder ligar as notificações flutuantes</string>
   <string name="summary_lock_screen_enable_notification_first">Permitir notificaçõe para poder ligar as notificações no ecrã de bloqueio</string>
   <string name="summary_show_badge_enable_notification_first">Permitir notificaçõe para poder ligar os emblemas de notificações</string>
 </resources>

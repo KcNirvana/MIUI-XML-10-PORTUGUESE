@@ -426,6 +426,8 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Focagem</string>
   <string name="pref_camera_long_pressing_shutter_title">Prima e segure o botão de disparo para bloquear AE/AF/AWB</string>
   <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">Bloqueio AE/AF</string>
+  <string name="pref_camera_lying_summary">Notificar acerca da orientação actual</string>
+  <string name="pref_camera_lying_title">Notificações acerca da orientação</string>
   <string name="pref_camera_magic_mirror_title">Espelho Mágico</string>
   <string name="pref_camera_manual_mode_title">Manual</string>
   <string name="pref_camera_mfnr_sat_enable_title">Ligar MFNR</string>
