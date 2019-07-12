@@ -1259,10 +1259,8 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="usb_supplying_notification_title">Fornecimento de energia ao dispositivo ligado por USB</string>
   <string name="usb_unsupported_audio_accessory_message">O dispositivo ligado não é compatível com este telefone. Toque para saber mais</string>
   <string name="usb_unsupported_audio_accessory_title">Acessório de áudio analógico detectado</string>
-  <string name="use_a_different_app">Utilizar outra aplicação</string>
   <string name="usb_tether_notification_title">PA Móvel ligado</string>
-  <string name="usb_unsupported_audio_accessory_message">O dispositivo ligado não é compatível com este telefone. Toque para saber mais</string>
-  <string name="usb_unsupported_audio_accessory_title">Acessório áudio analógico detectado</string>
+  <string name="use_a_different_app">Utilizar outra aplicação</string>
   <string name="user_owner_label">Pessoal</string>
   <string name="user_switched">Utilizador actual %1$s</string>
   <string name="user_switching_message">A mudar para %1$s…</string>
