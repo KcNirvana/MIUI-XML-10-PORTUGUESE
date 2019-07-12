@@ -405,6 +405,7 @@
   <string name="battery_charge_estimating">A calcular…</string>
   <string name="battery_charge_full">Carregada</string>
   <string name="battery_charging_prompt">A carregar</string>
+  <string name="battery_desc_ambient_display">Bateria utilizada pelo ecrã ambiente</string>
   <string name="battery_desc_apps">Bateria utilizada pela aplicação</string>
   <string name="battery_desc_bluetooth">Bateria utilizada pelo Bluetooth</string>
   <string name="battery_desc_display">Bateria utilizada pelo ecrã e luz de fundo</string>
@@ -1595,6 +1596,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pm_root_success_notification_infomation">Certifique-se que entende os riscos relacionados com o acesso root</string>
   <string name="pm_root_success_notification_title">Acesso root permitido</string>
   <string name="power_20s_shutdown">O dispositivo vai desligar em %d segundos</string>
+  <string name="power_ambient_display">Ecrã ambiente</string>
   <string name="power_analysis_consume_title"/>
   <string name="power_analysis_suggestion_need_optimize">Problemas detectados na utilização de bateria</string>
   <string name="power_autorun_apps_empty">Sem aplicações de início automático</string>
@@ -1964,7 +1966,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sms_service">Bloquear SMS de serviços</string>
   <string name="sms_smart_engine_update">Actualizar automaticamente filtro de mensagens</string>
   <string name="sms_smart_engine_update_now">Actualizar</string>
-  <string name="sms_stranger_block">Bloqueio de SMS</string>
+  <string name="sms_stranger_block">Bloqueado</string>
   <string name="sorted_dialog_title">Ordenar por</string>
   <string name="sp_background_risk_dialog_summary">, verifique e corrija os riscos de pagamento</string>
   <string name="sp_background_risk_dialog_summary_wifi_approve">Está ligado a uma rede pública Wi-Fi que pode ser insegura. Certifique-se que o seu pagamento está protegido antes de o concluir</string>
@@ -2030,6 +2032,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="st_antispam_title_contact_incoming">Chamadas de contactos</string>
   <string name="st_antispam_title_contact_sms">Mensagens de contactos</string>
   <string name="st_antispam_title_contactandanoy_group">Definições</string>
+  <string name="st_antispam_title_mms">MMS</string>
   <string name="st_antispam_title_null_incoming">Números privados</string>
   <string name="st_antispam_title_service_sms">Notificações de serviço</string>
   <string name="st_antispam_title_whitelist">Excepções</string>
@@ -2063,7 +2066,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="st_msg_keyword_white">Excepções de palavras-chave</string>
   <string name="st_msg_other_group">Outros</string>
   <string name="st_msg_settings">Lista de bloqueio de SMS</string>
-  <string name="st_msg_stranger_group">Bloquear SMS de desconhecidos</string>
+  <string name="st_msg_stranger_group">Bloquear mensagens de desconhecidos</string>
   <string name="st_settings_name">Definições da lista de bloqueio</string>
   <string name="st_share_settings">Utilizar as definições do SIM 1</string>
   <string name="st_sub_title_customize_mode_name">Nome</string>

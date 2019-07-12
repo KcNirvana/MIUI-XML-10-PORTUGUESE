@@ -284,6 +284,10 @@
         <item quantity="other">Não foi possível partilhar. Ainda está a processar %d fotos…</item>
         <item quantity="one">Não foi possível partilhar. Ainda está a processar %d foto…</item>
     </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d segundos</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
     <plurals name="slim_complete_photo_count">
         <item quantity="other">%d fotos optimizadas</item>
         <item quantity="one">%d foto optimizada</item>

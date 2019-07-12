@@ -117,7 +117,7 @@ Não é possível utilizar o teclado ou a barra de navegação para aumentar o z
   <string name="account_settings_menu_auto_sync">Sincronização automática</string>
   <string name="account_settings_menu_auto_sync_personal">Sinc. auto. de dados pessoais</string>
   <string name="account_settings_menu_auto_sync_work">Sinc. auto. de dados de trabalho</string>
-  <string name="account_settings_title">Contas</string>
+  <string name="account_settings_title">Google e contas</string>
   <string name="account_sync_settings_title">Definições de sincronização</string>
   <string name="account_sync_title">Sincronização de contas</string>
   <string name="action_drag_label_move_bottom">Mover para o fundo</string>
@@ -2027,7 +2027,8 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gesture_preference_title">Gestos</string>
   <string name="gesture_setting_off">Desligado</string>
   <string name="gesture_setting_on">Ligado</string>
-  <string name="gesture_wakeup_title">Duplo toque no ecrã para ligar</string>
+  <string name="gesture_wakeup_summary">Pode dar um duplo toque no ecrã para ligar ou desligar</string>
+  <string name="gesture_wakeup_title">Duplo toque para ligar ou desligar o ecrã</string>
   <string name="getConfiguredNetworks">Obter redes configuradas</string>
   <string name="getConnectionInfo">Obter informações da ligação</string>
   <string name="giga_hertz">GHz</string>
@@ -2434,6 +2435,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="lock_screen_notifications_summary_hide">Mostrar todas as notificações mas ocultar o conteúdo</string>
   <string name="lock_screen_notifications_summary_show">Mostrar todas as notificações e o seu conteúdo</string>
   <string name="lock_screen_notifications_title">No ecrã de bloqueio</string>
+  <string name="lock_screen_settings_title">Ecrã de bloqueio</string>
   <string name="lock_screen_signature_summary">Mostrar mensagem no ecrã de bloqueio</string>
   <string name="lock_screen_signature_title">Info. do proprietário no ecrã de bloqueio</string>
   <string name="lock_screen_unlock_show">Ignorar ecrã de bloqueio</string>
@@ -3078,15 +3080,20 @@ Seleccione o seu sistema operativo:"</string>
   <string name="notch_force_black_desc">Ligar para escurecer a área à volta da monocelha</string>
   <string name="notch_force_black_title">Ocultar monocelha</string>
   <string name="notch_settings">Monocelha</string>
+  <string name="notch_style_mod_description">Opções de visualização de barra de estado e monocelha</string>
+  <string name="notch_style_mod_title">Ocultar monocelha</string>
+  <string name="notch_style_show">Não ocultar</string>
+  <string name="notch_style_status_bar_inside">Ocultar sem mover a barra de estado</string>
+  <string name="notch_style_status_bar_outside">Ocultar e mover a barra de estado</string>
   <string name="notes_privacy_password_role_instruction">As suas notas privadas vão ser armazenadas aqui</string>
   <string name="notifi_channels">Categorias de notificações</string>
   <string name="notifi_channels_other">Outras</string>
-  <string name="notifi_importance_default">Emitir som e mostrar no ecrã de bloqueio</string>
-  <string name="notifi_importance_high">Emitir som, mostrar no ecrã de bloqueio e permitir opções de ecrã inteiro</string>
-  <string name="notifi_importance_low">Sem som</string>
-  <string name="notifi_importance_min">Sem som e não mostrar no ecrã de bloqueio</string>
-  <string name="notifi_importance_none">Desligado</string>
-  <string name="notifi_importance_unspecified">Deixar a aplicação decidir</string>
+  <string name="notifi_importance_default">Emitir som</string>
+  <string name="notifi_importance_high">Emitir som e aparecer no ecrã</string>
+  <string name="notifi_importance_low">Mostrar silenciosamente</string>
+  <string name="notifi_importance_min">Mostrar silenciosamente e minimizar</string>
+  <string name="notifi_importance_none">Nunca mostrar notificações</string>
+  <string name="notifi_importance_unspecified">Permitir som</string>
   <string name="notifi_no_channels">Esta aplicação ainda não recebeu notificações</string>
   <string name="notification_app_settings_button">Definições de notificações</string>
   <string name="notification_badge_title">Permitir ponto de notificação</string>
@@ -4714,7 +4721,7 @@ Para melhor desempenho, utilize um ^1 mais rápido"</string>
 %1$s"</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google Sync!</font>" 
 Uma abordagem da Google à sincronização de dados, que permite aceder aos contactos, compromissos e outros itens a partir de qualquer local onde se encontre. "</string>
-  <string name="sync_settings">Sincronização</string>
+  <string name="sync_settings">Contas e sincronização</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Apenas em Wi-Fi</string>
   <string name="system">Sistema</string>
@@ -5901,6 +5908,8 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xiaomi_cloud_service_description">A Mi Cloud sincroniza os seus contactos e fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone</string>
   <string name="xiaomi_cloud_service_disabled">Desligado</string>
+  <string name="xiaomi_cloud_service_description_contact">contactos e</string>
+  <string name="xiaomi_cloud_service_description_format">A Mi Cloud sincroniza os seus %s fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone através Localizar Dispositivo</string>
   <string name="xiaomi_cloud_service_unknown">Desconhecido</string>
   <string name="xiaomi_money_service">Crédito Mi</string>
   <string name="xiaomi_router_available_notif_summary">Toque para ver mais informações</string>

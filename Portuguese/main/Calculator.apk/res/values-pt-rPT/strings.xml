@@ -144,6 +144,7 @@
   <string name="mortgage_item_years">Período de empréstimo</string>
   <string name="mortgage_loans_amount">Valor da hipoteca</string>
   <string name="mortgage_provident_found_interest_rate">Taxa de juro do empréstimo</string>
+  <string name="mortgage_provider_east_money">Dados fornecidos por East Money</string>
   <string name="mortgage_repayment_amount">Valor do pagamento</string>
   <string name="mortgage_result">Resultados</string>
   <string name="mortgage_show_details">Mostrar detalhes</string>

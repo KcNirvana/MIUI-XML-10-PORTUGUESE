@@ -165,16 +165,18 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="go_on_import">Continuar a importar</string>
   <string name="gpg_message">Para criar aplicações clonadas é necessário trabalhar com os serviços Google. Criar uma aplicação clonada para os Jogos Google Play?</string>
   <string name="gpg_title">Aplicações clonadas para Jogos Google Play</string>
-  <string name="green_guard">Controlos parentais</string>
+  <string name="green_guard">Protecção de família</string>
   <string name="green_guard_des1">Adicione dispositivos para os gerir remotamente</string>
   <string name="green_guard_des2">Saiba exactamente onde estão todos os seus dispositivos</string>
   <string name="green_guard_des3">Controle as aplicações instaladas e restrinja a utilização</string>
   <string name="green_guard_title2">Ver localização</string>
   <string name="green_guard_title3">Gerir aplicações</string>
-  <string name="greenguard_child_des">Utilize a nossa aplicação para se manter ligado​</string>
-  <string name="greenguard_child_des_title">Necessito de ajuda dos meus amigos e família</string>
-  <string name="greenguard_parent_des">Transfira a nossa aplicação e adicione os dispositivos das outras pessoas</string>
-  <string name="greenguard_parent_des_title">Necessito de ajudar os meus amigos e família</string>
+  <string name="greenguard_child_des">Gerir os dispositivos dos seus amigos e família</string>
+  <string name="greenguard_child_des_title">Digitalizar código QR para adicionar dispositivo</string>
+  <string name="greenguard_functional_description">"Gerir os dispositivos remotamente, ver a localização,
+controlar aplicações instaladas e restringir a utilização"</string>
+  <string name="greenguard_parent_des">Gerir os dispositivos dos seus amigos e família</string>
+  <string name="greenguard_parent_des_title">Utilizar Protecção de família para adicionar dispositivos</string>
   <string name="guide_contact_sub_title_desc">"Os contactos adicionados ao Segundo espaço vão ser privados.
 As mensagens apenas vão aparecer no Segundo espaço"</string>
   <string name="guide_contact_suc_sub_title_desc">Apenas os contactos e mensagens privados vão ser mostrados no Segundo espaço</string>

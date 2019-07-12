@@ -62,7 +62,7 @@
   <string name="activitychooserview_choose_application">Escolher uma aplicação</string>
   <string name="activitychooserview_choose_application_error">Não foi possível iniciar %s</string>
   <string name="adb_active_notification_message">Toque para desactivar a depuração USB</string>
-  <string name="adb_active_notification_title">Depuração USB activa</string>
+  <string name="adb_active_notification_title">Depuração USB ligada</string>
   <string name="adb_debugging_notification_channel_tv">Depuração USB</string>
   <string name="addToDictionary">Adicionar ao dicionário</string>
   <string name="add_account_button_label">Adicionar conta</string>
@@ -1236,7 +1236,7 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="usb_accessory_notification_title">Ligado a um acessório USB</string>
   <string name="usb_cd_installer_notification_title">Ligado como um instalador</string>
   <string name="usb_charging_notification_title">Ligado em modo carregamento</string>
-  <string name="usb_midi_notification_title">USB para MIDI</string>
+  <string name="usb_midi_notification_title">MIDI via USB ligado</string>
   <string name="usb_midi_peripheral_manufacturer_name">Android</string>
   <string name="usb_midi_peripheral_name">Porta periférica USB para Android</string>
   <string name="usb_midi_peripheral_product_name">Porta periférica USB</string>
@@ -1260,6 +1260,9 @@ Ouvir níveis elevados de volume durante longos períodos pode ser prejudicial p
   <string name="usb_unsupported_audio_accessory_message">O dispositivo ligado não é compatível com este telefone. Toque para saber mais</string>
   <string name="usb_unsupported_audio_accessory_title">Acessório de áudio analógico detectado</string>
   <string name="use_a_different_app">Utilizar outra aplicação</string>
+  <string name="usb_tether_notification_title">PA Móvel ligado</string>
+  <string name="usb_unsupported_audio_accessory_message">O dispositivo ligado não é compatível com este telefone. Toque para saber mais</string>
+  <string name="usb_unsupported_audio_accessory_title">Acessório áudio analógico detectado</string>
   <string name="user_owner_label">Pessoal</string>
   <string name="user_switched">Utilizador actual %1$s</string>
   <string name="user_switching_message">A mudar para %1$s…</string>

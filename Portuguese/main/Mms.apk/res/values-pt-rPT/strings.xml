@@ -394,6 +394,7 @@
   <string name="no_block_button_msg">Desbloquear</string>
   <string name="no_conversations">Sem conversas</string>
   <string name="no_delivery_report">Sem relatórios de entrega</string>
+  <string name="no_longer_recommend">Não mostrar novamente</string>
   <string name="no_subject">(Sem assunto)</string>
   <string name="no_subject_view">(Sem assunto)</string>
   <string name="non_english_subject_limit">13 caracteres</string>
@@ -408,11 +409,13 @@
   <string name="notification_channel_sim2_description">Notificação de mensagem do SIM2</string>
   <string name="notification_channel_sim2_name">Mensagem do SIM2</string>
   <string name="notification_copy">Copiar OTP</string>
+  <string name="notification_delete">Eliminar</string>
   <string name="notification_failed_multiple">%s mensagens não puderam ser enviadas</string>
   <string name="notification_failed_multiple_title">Mensagens não enviadas</string>
   <string name="notification_group_name">Mensagens</string>
   <string name="notification_multiple">"[%s] "</string>
   <string name="notification_multiple_title">Novas mensagens</string>
+  <string name="notification_seen">Marcar como lida</string>
   <string name="number_add_hint">Inserir número de telefone</string>
   <string name="open_audio_record_panel">Abrir painel para gravação de áudio</string>
   <string name="open_edit_sms_panel">Abrir painel para edição de mensagens</string>

@@ -194,8 +194,8 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="hsa_send_again_countdown">Enviar novamente(%ds)</string>
   <string name="hsa_send_failed">Erro ao enviar o código de verificação. Tente novamente mais tarde</string>
   <string name="hsa_sending">A enviar…</string>
-  <string name="hsa_tip_message">"1.A mensagem que contém o código de verificação vai ser enviada para o telefone associado à iCloud
-2.Desactive a autenticação em 2 passos se não conseguir verificar"</string>
+  <string name="hsa_tip_message">"1.Se não conseguir receber o código de verificação, certifique-se que já iniciou sessão na iCloud no seu dispositivo Apple.
+2.Se introduzir o código de verificação não ajudar, desligue a autenticação em 2 passos"</string>
   <string name="hsa_tip_message_shutdown_hsa">Como desactivar a autenticação em 2 passos</string>
   <string name="hsa_tip_message_with_device">"1.A mensagem que contém o código de verificação vai ser enviada para o telefone %s associado à iCloud
 2.Desactive a autenticação em 2 passos se não conseguir verificar"</string>
@@ -205,7 +205,7 @@ Não altere ou mude o nome dos ficheiros de cópia"</string>
   <string name="hsa_verify_failed_message">Erro na autenticação em 2 passos. Pode tentar novamente ou desactivar a autenticação em 2 passos</string>
   <string name="hsa_verify_retry">Repetir</string>
   <string name="hsa_verify_shutdown">Desactivar</string>
-  <string name="iCloud_ID_verification_tip">Introduza o código SMS de verificação enviado para o número de telefone associado com o seu Apple ID. Ignore o código mostrado no ecrã do seu iPhone</string>
+  <string name="iCloud_ID_verification_tip">Toque \"Permitir\" no seu dispositivo Apple para fazer aparecer o código de verificação. Introduza o código de verificação aqui</string>
   <string name="icloud_backup_tip">Iniciar sessão na iCloud do dispositivo Apple antigo</string>
   <string name="icloud_how_to_backup_tip_steps">"1.Vá às Definições no seu dispositivo iOS e escolha iCloud.
 2. Ligue os contactos e outros itens.

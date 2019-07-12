@@ -323,7 +323,7 @@
   <string name="news_change">Alterar</string>
   <string name="no_network">Não é possível ligar à rede. Tente mais tarde</string>
   <string name="no_network_btn">Tente novamente</string>
-  <string name="notification_garbage_cleanup_summary">O lixo atingiu %s</string>
+  <string name="notification_garbage_cleanup_summary">Limpe o lixo (%s) para optimizar o seu dispositivo</string>
   <string name="notification_garbage_cleanup_title">Limpar lixo</string>
   <string name="notification_low_memory_cache_summary">Menos de 1.5GB de espaço disponível</string>
   <string name="notification_low_memory_cache_title">Limpar cache</string>

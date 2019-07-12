@@ -8,6 +8,7 @@
   <string name="enable_float_notification">Notificações flutuantes permitidas</string>
   <string name="enable_lockscreen_notification">Notificações no ecrã de bloqueio permitidas</string>
   <string name="enable_show_badge_notification">Emblemas de notificações permitidos</string>
+  <string name="expand_top_notification">Expandir notificação no topo</string>
   <string name="expandable_under_keyguard">Abrir área de notificações no ecrã de bloqueio</string>
   <string name="float_notifications">Flutuantes</string>
   <string name="hint_search_all">Pesquisar aplicações</string>

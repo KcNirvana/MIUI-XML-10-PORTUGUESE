@@ -27,6 +27,7 @@
   <string name="added_next_play">Adicionada à seguinte</string>
   <string name="agreement_desc">Termos de Utilização (obrigatório)</string>
   <string name="alaka_required">Deve pagar por esta música se a quiser ouvir</string>
+  <string name="alarm_clock_ringtones_successful">Alarme definido com sucesso</string>
   <string name="album_label">Capas do álbum</string>
   <string name="album_name">Álbum</string>
   <string name="all_album_count">Todos os álbuns (%d)</string>
@@ -78,6 +79,7 @@
   <string name="buy_traffic">China Unicom</string>
   <string name="cancel">Cancelar</string>
   <string name="cancel_running_download">Cancelar</string>
+  <string name="character_counter_content_description">Limite de caracteres excedeu %1$d de %2$d</string>
   <string name="choose_download_quality">Escolher qualidade da transferência</string>
   <string name="choose_language">Seleccionar idioma</string>
   <string name="choose_stream_quality">Qualidade de streaming preferido</string>
@@ -202,7 +204,7 @@
   <string name="eq_country">Country</string>
   <string name="eq_dance">Dance</string>
   <string name="eq_delete">Remover</string>
-  <string name="eq_delete_success">Concluido</string>
+  <string name="eq_delete_success">Concluído</string>
   <string name="eq_electronic">Electronic</string>
   <string name="eq_flat">Predefinido</string>
   <string name="eq_hiphop">Hip Hop</string>
@@ -245,8 +247,9 @@
   <string name="format_unsupported_or_corrupted">Este formato não é suportado ou o ficheiro está corrompido</string>
   <string name="fragment_title_artist_album">Álbuns</string>
   <string name="gcm_fallback_notification_channel_label">Diversos</string>
-  <string name="headset_settings">Auriculares e efeitos de áudio</string>
   <string name="go_to_settings">Ir para definições</string>
+  <string name="goto_local_search">Pesquisar no dispositivo</string>
+  <string name="goto_online_search">Pesquisar online</string>
   <string name="handle_later">Agora não</string>
   <string name="headset_and_audio_effect_category">Auriculares e efeitos de áudio</string>
   <string name="headset_and_audio_effect_summary">Auriculares e equalizador</string>
@@ -280,6 +283,7 @@
   <string name="load_shuffle">A carregar…</string>
   <string name="loadercontainer_loading">Aguarde…</string>
   <string name="loading_hint">Aguarde…</string>
+  <string name="loading_reached_the_bottom">É tudo por agora</string>
   <string name="local_header_title">Dispositivo</string>
   <string name="local_music">Dispositivo</string>
   <string name="local_music_is_not_available">Não tem músicas no dispositivo</string>
@@ -334,6 +338,8 @@
   <string name="more_settings">Definições avançadas</string>
   <string name="more_settings_summary">Temporizador, filtrar ficheiros de áudio, etc.</string>
   <string name="more_share">Partilhar</string>
+  <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
+  <string name="mulit_choice_management">Gerir vários itens</string>
   <string name="music_browser_label">Música</string>
   <string name="music_filter">Filtrar ficheiros de áudio</string>
   <string name="music_service">Serviço de música</string>
@@ -391,6 +397,7 @@
   <string name="online_recommend">Lista de reprodução</string>
   <string name="optimize_all_until_optimized">A aplicar novas capas e letras…</string>
   <string name="optimize_all_until_scanned">Aguarde até que o armazenamento seja verificado</string>
+  <string name="operation_done_close">Fechar</string>
   <string name="other_song_in_album">Outras músicas deste álbum</string>
   <string name="paused_by_app">Em pausa</string>
   <string name="paused_in_power_save_mode">Em pausa quando a poupança de bateria estiver ligada</string>
@@ -446,7 +453,12 @@
   <string name="retry">Repetir</string>
   <string name="retry_after_network_available">Não foi possível ligar à rede. Verifique a sua ligação e tente novamente</string>
   <string name="retry_download">Tentar novamente</string>
+  <string name="ringtone_editing">Editor de toques</string>
   <string name="ringtone_not_support">Este formato de música não é suportado</string>
+  <string name="ringtone_selected">Seleccionado</string>
+  <string name="ringtones_play">Reproduzir</string>
+  <string name="ringtones_stop">Parar</string>
+  <string name="ringtones_successful">Toque definido com sucesso</string>
   <string name="root_downloads">Transferências</string>
   <string name="s1">Guardar imagens</string>
   <string name="s2">Permitir que anúncios guardem imagens na galeria?</string>
@@ -463,12 +475,17 @@
   <string name="search_hint_local">Pesquisar músicas no dispositivo</string>
   <string name="search_hint_online">Pesquisar artistas, músicas, álbuns online</string>
   <string name="search_history_clear_all">Limpar</string>
+  <string name="search_history_delete_all_dialog_titile">Limpar histórico de pesquisa agora?</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_menu_title">Pesquisar</string>
+  <string name="search_result_local_songs">Dispositivo</string>
+  <string name="search_result_online_songs">Online</string>
+  <string name="search_songs">Pesquisar músicas</string>
   <string name="search_lyric">Pesquisar letras</string>
   <string name="search_title">Pesquisar</string>
   <string name="select_album">Seleccionar álbum</string>
   <string name="select_all">Seleccionar tudo</string>
+  <string name="select_clip_desc">Seleccionar um clipe da música</string>
   <string name="select_device">Seleccionar dispositivo</string>
   <string name="select_displayed_folders">Escolher as pastas a mostrar</string>
   <string name="select_local_album">Escolher álbum</string>
@@ -481,6 +498,7 @@
   <string name="send_to_title">Enviar para (%1$s)</string>
   <string name="server_error">Erro do servidor. Tente mais tarde</string>
   <string name="service_and_settings">Definições e serviços</string>
+  <string name="set_as_alarm_clock_ringtone">Alarme</string>
   <string name="set_album_successful">O álbum foi definido com sucesso</string>
   <string name="set_as_ring">Definir como toque</string>
   <string name="set_id3_failed">Não é possível guardar informação</string>
@@ -521,6 +539,7 @@
   <string name="song_name">Música</string>
   <string name="song_not_find">Esta música não está disponível</string>
   <string name="song_offline">Esta música não está mais disponível</string>
+  <string name="song_picker_complete">Concluído</string>
   <string name="songgroup_pick_album">Álbuns</string>
   <string name="songgroup_pick_playlist">Listas de reprodução</string>
   <string name="sort_by_name">Nome</string>
@@ -570,6 +589,7 @@
   <string name="time_to_upgrade">Actualizar Música</string>
   <string name="title_online_recommend">Destaque listas de reprodução</string>
   <string name="title_search_history">Histórico de pesquisa</string>
+  <string name="title_search_hot">Populares</string>
   <string name="to_mi_pay">Mi Credits</string>
   <string name="toast_download_error_by_count_limit">Chegou ao limite das suas transferências para este mês</string>
   <string name="toast_download_error_by_not_login">Inicie sessão na Conta Mi e tente novamente</string>
