@@ -253,7 +253,7 @@
   <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
   <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
   <string name="contact_import_methods_dialog_title">Seleccionar método de importação</string>
-  <string name="contact_is_deleted">O contacto foi eliminado</string>
+  <string name="contact_is_deleted">Este contacto foi eliminado</string>
   <string name="contact_is_readOnly">Não é possível editar contactos só de leitura</string>
   <string name="contact_list_loading">A carregar…</string>
   <string name="contact_pick_photo">Foto</string>
@@ -1047,6 +1047,8 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="shortcutContact">Contacto</string>
   <string name="shortcutDialContact">"Marcação directa "</string>
   <string name="shortcutMessageContact">Mensagem directa</string>
+  <string name="shortcut_new_contact_label">Novo contacto</string>
+  <string name="shortcut_scan_label">Digitalizar cartão comercial</string>
   <string name="showAllContactsJoinItem">Mostrar todos os contactos</string>
   <string name="simContacts_airplaneMode">Desligue o Modo Avião para importar contactos do cartão SIM</string>
   <string name="simContacts_empty">Sem contactos no cartão SIM</string>

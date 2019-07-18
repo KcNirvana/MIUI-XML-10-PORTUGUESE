@@ -17,7 +17,7 @@
   <string name="list_title_disable_notification">Notificações não permitidas</string>
   <string name="loading">Aguarde…</string>
   <string name="lock_screen_display_rules">Formato</string>
-  <string name="lock_screen_tip_toast">Permitir notificações em \"Notificações das aplicações\" primeiro</string>
+  <string name="lock_screen_tip_toast">Permitir notificações no ecrã de bloqueio em \"Formato\"</string>
   <string name="lockscreen_notifications">Ecrã de bloqueio</string>
   <string name="not_sent_recently">Sem recentes</string>
   <string name="notch_and_status_bar_setting">Monocelha e barra de estado</string>

@@ -116,7 +116,6 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_confusion_toast_deny">Iniciar sessão na sua Conta Mi</string>
   <string name="micloud_confusion_yes">Sim</string>
   <string name="micloud_detail_fail">Não é possível sincronizar</string>
-  <string name="micloud_detail_not_syncable">Não sincronizável</string>
   <string name="micloud_detail_query_error">Não é possível obter estado da sincronização</string>
   <string name="micloud_dspt">Utilizar a Mi Cloud para sincronizar dados e localizar o seu dispositivo,</string>
   <string name="micloud_dspt_provision">Utilizar a Mi Cloud para sincronizar dados, localizar o seu dispositivo e partilhar ficheiros com os seus amigos</string>
@@ -157,7 +156,6 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_find_device_verify_fail">Não foi possível reactivar Localizar Dispositivo</string>
   <string name="micloud_find_device_verify_progress">A reactivar Localizar Dispositivo…</string>
   <string name="micloud_last_sync_canceled">Sincronização cancelada. Tente novamente</string>
-  <string name="micloud_main_button_set_internet">Definições</string>
   <string name="micloud_main_head_menu_cloud_backup">Cópias da Mi Cloud</string>
   <string name="micloud_main_head_menu_finddevice_unavailable">Localizar Dispositivo está indisponível no Segundo espaço. Pode utilizá-lo no Primeiro espaço</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Restaurar itens</string>
@@ -168,8 +166,6 @@ na sua Conta Mi para reactivar a Mi Cloud"</string>
   <string name="micloud_main_manual_sync">Sincronizar manualmente</string>
   <string name="micloud_main_memory_low_title">O armazenamento do telefone está quase cheio</string>
   <string name="micloud_main_network_error">Não é possível ligar à rede</string>
-  <string name="micloud_main_simple_last_sync_time">Última sincronização: %s</string>
-  <string name="micloud_main_simple_off">Sinc. desligada</string>
   <string name="micloud_main_sync_mode_summary">Sincronizar dados das aplicações em tempo real. Isto pode aumentar o consumo de bateria</string>
   <string name="micloud_main_sync_mode_title">Sincronização rápida</string>
   <string name="micloud_main_wait_charge">Carregue o dispositivo totalmente para continuar a sincronização</string>

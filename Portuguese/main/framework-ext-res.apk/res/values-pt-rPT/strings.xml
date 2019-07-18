@@ -35,6 +35,11 @@
   <string name="cancel_action">Cancelar</string>
   <string name="close">Desligado</string>
   <string name="configure_input_methods">Escolher teclados</string>
+  <string name="content_description_dial">Ligar</string>
+  <string name="content_description_search">Pesquisar</string>
+  <string name="content_description_share">Partilhar</string>
+  <string name="content_description_translate">Traduzir</string>
+  <string name="content_description_web_url">Navegar</string>
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
   <string name="default_name">Predefinido</string>
@@ -201,6 +206,8 @@
   <string name="turn_off">Desligar</string>
   <string name="twohours">1 hora</string>
   <string name="unknown_caller">Número privado</string>
+  <string name="user_switching_dialog_switch_into_kid_space">A trocar para Espaço criança…</string>
+  <string name="user_switching_dialog_switch_out_kid_space">A sair de Espaço criança…</string>
   <string name="user_switching_dialog_text">A trocar…</string>
   <string name="voice_begin">Do que é que está à procura?</string>
   <string name="voice_button_action_down">Solte para pesquisar</string>

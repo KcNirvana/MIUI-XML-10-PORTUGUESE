@@ -518,6 +518,7 @@
   <string name="call_blacklist">Lista de bloqueio de contactos</string>
   <string name="call_cloud_block">Lista de bloqueio de nuvem</string>
   <string name="call_contact_block">Bloquear chamadas de contactos</string>
+  <string name="call_delete_all_hint">Eliminar todas as chamadas bloqueadas?</string>
   <string name="call_delete_hint">Eliminar todas as chamadas bloqueadas deste número?</string>
   <string name="call_delete_title">Eliminar registos de chamadas</string>
   <string name="call_oversea_block">Bloquear chamadas do estrangeiro</string>
@@ -2176,6 +2177,32 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_virus_cloudscan">Enviar nomes, detalhes e dados das aplicações e verificar utilizando as definições de vírus online</string>
   <string name="summary_virus_update">Obter as definições de vírus mais recentes automaticamente</string>
   <string name="summary_xiaomi_roaming">0.01 euros por MB para dados móveis em roaming</string>
+  <string name="superpower_dialog_button_disable_dialog">Não mostrar novamente</string>
+  <string name="superpower_dialog_button_ok">OK</string>
+  <string name="superpower_dialog_massage">A poupança de bateria extrema restringe as funcionalidades que consomem mais bateria e diminui o desempenho do dispositivo para deixar apenas as funções mais básicas (p.e. chamadas, SMS, etc.) disponíveis o maior tempo possível. Ligar a poupança de bateria extrema?</string>
+  <string name="superpower_dialog_title">Poupança de bateria extrema</string>
+  <string name="superpower_notification_hint_enter">Ligar</string>
+  <string name="superpower_notification_summary">Ligar a poupança de bateria extrema</string>
+  <string name="superpower_notification_time_12">"EEEE, d 'de' MMMM"</string>
+  <string name="superpower_notification_time_24">"EEEE, d 'de' MMMM"</string>
+  <string name="superpower_notification_title">Menos de 10% de bateria restante</string>
+  <string name="superpower_progress_content">A ligar a poupança de bateria extrema…</string>
+  <string name="superpower_progress_switch_home">A trocar para tema Escuro</string>
+  <string name="superpower_progress_title">Tempo restante</string>
+  <string name="superpower_progress_turndown_brightness">A diminuir o brilho do ecrã</string>
+  <string name="superpower_progress_turnoff_items">A restringir actividades</string>
+  <string name="superpower_progress_turnoff_process">A restringir actividade em segundo plano</string>
+  <string name="superpower_savemode_limit1">Tema Escuro</string>
+  <string name="superpower_savemode_limit2">Restringir actividade em segundo plano</string>
+  <string name="superpower_savemode_limit3">Restringir actividades (Sincronização, GPS, vibração,etc.)</string>
+  <string name="superpower_savemode_limit4">Permitir que as aplicações seleccionadas funcionem normalmente</string>
+  <string name="superpower_settings">Poupança de bateria extrema</string>
+  <string name="superpower_settins_autoenter_summary">Ligar a poupança de bateria extrema automaticamente quando a bateria estiver a 10%</string>
+  <string name="superpower_settins_autoenter_title">Ligar automaticamente</string>
+  <string name="superpower_settins_autoleave_summary">Desligar a poupança de bateria extrema automaticamente quando a bateria estiver a 50%</string>
+  <string name="superpower_settins_autoleave_title">Desligar automaticamente</string>
+  <string name="superpower_settins_other">Definições adicionais</string>
+  <string name="superpower_settins_switch_summary">Restringir as funcionalidades que consomem mais bateria para deixar apenas as funções mais básicas (p.e. chamadas, SMS, etc.) disponíveis o maior tempo possível</string>
   <string name="support_game_booster_tips">Aumente a velocidade e melhore a experiência de jogo</string>
   <string name="sys_app_prot_cracked_confirm">Entendi</string>
   <string name="sys_cpu_title">Utilização da CPU</string>
@@ -2184,6 +2211,18 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">Aplicações de sistema</string>
   <string name="system_application">Aplicações de sistema</string>
+  <string name="system_permission_declare_agree">Concordar</string>
+  <string name="system_permission_declare_double_link">Leia e concorde com os nossos Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade</string>
+  <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo a %1s! Esta aplicação permite que utilize a seguinte funcionalidades: %2s.</string>
+  <string name="system_permission_declare_no_say_no">Se escolher não conceder as permissões necessárias ou a obtenção dos seus dados, esta aplicação não vai funcionar normalmente</string>
+  <string name="system_permission_declare_privacy_declare">"Nós respeitamos e protegemos a sua privacidade.
+Note que %1s necessita de obter os seus dados e as seguintes permissões para funcionar normalmente:"</string>
+  <string name="system_permission_declare_revoke_path">Pode desinstalar esta aplicação, terminar sessão da sua conta ou gerir as suas permissões e autorizações em Segurança &gt; Gestão de aplicações &gt; Permissões &gt; Outras permissões</string>
+  <string name="system_permission_declare_use_network">Ligar à rede</string>
+  <string name="system_permission_perm_answer_call">Fazer chamadas</string>
+  <string name="system_permission_perm_read_mms">Ler MMS</string>
+  <string name="system_permission_perm_read_numbers">Ler números de telefone</string>
+  <string name="system_permission_perm_send_mms">Enviar MMS</string>
   <string name="tab_blacklist">Lista de bloqueio</string>
   <string name="tab_block_log">Bloquear registo</string>
   <string name="tab_block_log_unKnowNumber">Número privado</string>

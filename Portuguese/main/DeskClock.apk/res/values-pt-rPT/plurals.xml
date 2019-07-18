@@ -32,6 +32,10 @@
         <item quantity="other">%d segundos</item>
         <item quantity="one">%d segundo</item>
     </plurals>
+    <plurals name="snooze_duration_changed_info">
+        <item quantity="other">O intervalo de suspensão foi alterado para %d minutos</item>
+        <item quantity="one">O intervalo de suspensão foi alterado para %d minuto</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">Os alarmes vão desligar %2$s vezes (A cada %1$s min.)</item>
         <item quantity="one">O alarme vai desligar %2$s vez (A cada %1$s min.)</item>

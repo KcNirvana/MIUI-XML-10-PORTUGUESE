@@ -182,9 +182,11 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     </plurals>
     <plurals name="people">
         <item quantity="other">Transferido por %1$d pessoas</item>
+        <item quantity="one">Transferido por %1$d pessoa</item>
     </plurals>
     <plurals name="people_million">
         <item quantity="other">Transferido por %1$d pessoas</item>
+        <item quantity="one">Transferido por %1$d pessoa</item>
     </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d pessoas estão a jogar</item>
@@ -196,11 +198,7 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d visualizações</item>
-        <item quantity="zero">%1$d visualizações</item>
         <item quantity="one">%1$d visualização</item>
-        <item quantity="two">%1$d visualizações</item>
-        <item quantity="few">%1$d visualizações</item>
-        <item quantity="many">%1$d visualizações</item>
     </plurals>
     <plurals name="result_virus_header">
         <item quantity="other">Encontrou %d aplicações com vírus ou inseguras</item>
@@ -356,7 +354,6 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
     </plurals>
     <plurals name="found_apps_title">
         <item quantity="other">%d aplicações encontradas</item>
-        <item quantity="zero">0 aplicações encontradas</item>
         <item quantity="one">%d aplicação encontrada</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">

@@ -26,6 +26,8 @@
   <string name="ok">OK</string>
   <string name="save_content_tip">"Os itens seguintes vão ser guardados: "</string>
   <string name="search">Pesquisar</string>
+  <string name="settings_clear_data_confirmation_description">"Se eliminar a palavra-passe agora, vai ter que introduzi-la manualmente da próxima vez.
+Eliminar a palavra-passe?"</string>
   <string name="settings_clear_data_confirmation_title">A eliminar palavras-passe</string>
   <string name="using_miui_autofill_message">Para introduzir palavras-passe automaticamente, a MIUI vai guardar a informação da sua conta e palavras-passe no seu dispositivo</string>
 </resources>

@@ -133,10 +133,14 @@
   <string name="module_download_success">Áudios adicionais transferidos com sucesso</string>
   <string name="module_download_title">Necessário áudios adicionais</string>
   <string name="module_downloading">A transferir áudios adicionais…</string>
+  <string name="module_update_success">Os áudios actualizados para os alarmes inteligentes da MIUI foram transferidos. Pode definir alarmes inteligentes nas definições do Relógio</string>
+  <string name="module_update_success_control">Percebi</string>
   <string name="monday_to_friday">Segunda a sexta</string>
   <string name="more_setting">Mais definições</string>
   <string name="more_settings">Definições</string>
   <string name="never">Uma vez</string>
+  <string name="no_alarm_setting">Sem alarmes</string>
+  <string name="no_worldclock">Sem relógios</string>
   <string name="oneshot_alarm">Eliminar após desligado</string>
   <string name="open_keep_screen">O ecrã vai permanecer ligado</string>
   <string name="other_category_title">Outros</string>

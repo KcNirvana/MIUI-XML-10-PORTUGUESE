@@ -241,7 +241,6 @@ O seu Administrador pode monitorizar e gerir definições, acessos, aplicações
   <string name="another_migration_already_in_progress">Já existe outra migração em curso</string>
   <string name="anti_spam">Lista de bloqueio</string>
   <string name="aod_and_lock_screen_settings_title">Ecrã ambiente e ecrã de bloqueio</string>
-  <string name="aod_clock_style_title">Estilo de relógio</string>
   <string name="aod_settings_category_name">Ecrã ambiente</string>
   <string name="aod_settings_title">Ecrã ambiente</string>
   <string name="apn_apn">APN</string>
@@ -2027,7 +2026,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="gesture_preference_title">Gestos</string>
   <string name="gesture_setting_off">Desligado</string>
   <string name="gesture_setting_on">Ligado</string>
-  <string name="gesture_wakeup_summary">Pode dar um duplo toque no ecrã para ligar ou desligar</string>
+  <string name="gesture_wakeup_summary">Pode dar um duplo toque no ecrã para ligar ou desligar o ecrã</string>
   <string name="gesture_wakeup_title">Duplo toque para ligar ou desligar o ecrã</string>
   <string name="getConfiguredNetworks">Obter redes configuradas</string>
   <string name="getConnectionInfo">Obter informações da ligação</string>
@@ -2242,7 +2241,6 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="keyboard_shortcuts_helper">Atalhos de teclado</string>
   <string name="keyboard_shortcuts_helper_summary">Mostrar atalhos disponíveis</string>
   <string name="keyguard_advance_setting_title">Definições avançadas</string>
-  <string name="keyguard_double_tap_to_sleep_title">Duplo toque no ecrã para inactivar</string>
   <string name="keyguard_notification_status_title">Notificações</string>
   <string name="keyguard_security_setting_others">Outros</string>
   <string name="keyguard_security_setting_privacy_policy">Política de Privacidade</string>
@@ -3525,6 +3523,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="privacy_password_remind_bindaccount_title">Adicionar Conta Mi</string>
   <string name="privacy_password_settings">Utilizar a Protecção de Privacidade</string>
   <string name="privacy_password_settings_next">Seguinte</string>
+  <string name="privacy_password_settings_summary">A Protecção de Privacidade password é utilizada para aplicações que podem conter informações sensíveis</string>
   <string name="privacy_password_settings_titles">A Protecção de Privacidade protege as suas mensagens, fotos e notas</string>
   <string name="privacy_password_settings_titles_elder_mode">A Protecção de Privacidade protege os seus ficheiros, fotos e notas</string>
   <string name="privacy_password_settings_titles_second_space">A Protecção de Privacidade protege as suas mensagens, fotos e notas</string>
@@ -4484,7 +4483,6 @@ Uma credencial de confiança instalada no seu dispositivo está a fazer isto pos
   <string name="status_bar_carrier_settings_no_sim_card">Sem SIM</string>
   <string name="status_bar_settings">Notificações e barra de estado</string>
   <string name="status_bar_settings_all_app_display_loading">Aguarde…</string>
-  <string name="status_bar_settings_expand_top_notification">Expandir notificações no topo</string>
   <string name="status_bar_settings_expandable_under_keyguard">Mostrar em ecrã de bloqueio seguro</string>
   <string name="status_bar_settings_manage_notification">Notificações das aplicações</string>
   <string name="status_bar_settings_notification_bar">Área de notificações</string>

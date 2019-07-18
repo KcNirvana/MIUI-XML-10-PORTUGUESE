@@ -26,6 +26,7 @@ esta funcionalidade vai ser adicionada automaticamente ao Segundo espaço"</stri
   <string name="can_not_delete_when_calling">Não é possível eliminar espaços durante uma chamada</string>
   <string name="can_not_switch_when_calling">Não é possível trocar espaços durante uma chamada</string>
   <string name="can_not_switch_when_green_kid_active">Trocar para o Segundo espaço está restringido pelos controlos parentais</string>
+  <string name="can_not_switch_when_super_power_active">Não é possível trocar de espaços quando a poupança de bateria extrema estiver ligada</string>
   <string name="cancelClosePassword">Não desligar</string>
   <string name="cancel_button">Cancelar</string>
   <string name="changePassword">Alterar palavra-passe</string>

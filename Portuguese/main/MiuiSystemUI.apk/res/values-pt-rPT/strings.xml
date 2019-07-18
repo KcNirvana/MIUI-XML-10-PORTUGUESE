@@ -705,6 +705,7 @@ Assim que o telefone tiver arrefecido, vai funcionar normalmente"</string>
   <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, introduza a sua palavra-passe</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de espaços durante uma chamada</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Não é possível trocar de espaços quando os controlos parentais estão ligados</string>
+  <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Não é possível trocar de espaços quando o modo de poupança extrema está ligado</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">É necessário introduzir a palavra-passe do Primeiro espaço depois do dispositivo ser reiniciado</string>
   <string name="input_password_hint_text">Introduzir palavra-passe</string>
   <string name="input_pattern_hint_text">Desenhar o seu padrão</string>
@@ -1142,8 +1143,8 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="oldman_incall_text">Voltar à chamada</string>
   <string name="open_camera_hint_text">Deslizar para a esquerda para abrir a Câmara</string>
   <string name="open_extreme_power_save_mode_title">Ligar a poupança extrema de bateria</string>
-  <string name="open_lock_screen_magazine_hint_text">Deslize para a direita para mais opções</string>
-  <string name="open_remote_center_hint_text">Deslizar para a direita abrir atalhos</string>
+  <string name="open_lock_screen_magazine_hint_text">Deslizar para a direita para abrir os papéis de parede aleatórios</string>
+  <string name="open_remote_center_hint_text">Deslizar para a direita para ver atalhos</string>
   <string name="orb_search_action">Acção de pesquisa</string>
   <string name="other">Outros</string>
   <string name="overview">Vista geral</string>
@@ -1351,11 +1352,13 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="recents_accessibility_split_screen_top">Dividir ecrã para o topo </string>
   <string name="recents_app_info_button_label">Informações da aplicação</string>
   <string name="recents_caption_resize">Seleccionar novo layout</string>
+  <string name="recents_dimiss_task">Limpar</string>
   <string name="recents_drag_hint_message">Arraste itens para aqui</string>
   <string name="recents_empty_message">Sem itens recentes</string>
   <string name="recents_empty_message_dismissed_all">Removeu todos os itens</string>
   <string name="recents_empty_message_multi_window">Abrir aplicações do ecrã inicial</string>
   <string name="recents_exit_multi_window_mode">Sair</string>
+  <string name="recents_forbid_dock_when_screening_toast_text">Não é possível dividir o ecrã enquanto estiver a transmitir</string>
   <string name="recents_incompatible_app_message">Esta aplicação não suporta ecrã dividido</string>
   <string name="recents_launch_disabled_message">%s não pode ser iniciada em modo seguro</string>
   <string name="recents_launch_error_message">Não foi possível iniciar %s</string>
@@ -1366,6 +1369,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="recents_multistack_add_stack_dialog_split_vertical">Dividir verticalmente</string>
   <string name="recents_search_bar_label">Pesquisar</string>
   <string name="recents_stack_action_button_label">Remover tudo</string>
+  <string name="recents_task_screening">Transmitir</string>
   <string name="recents_title_app_manager">Gerir aplicações</string>
   <string name="recents_title_game">Jogos</string>
   <string name="recents_title_garbage_cleanup">Limpeza</string>

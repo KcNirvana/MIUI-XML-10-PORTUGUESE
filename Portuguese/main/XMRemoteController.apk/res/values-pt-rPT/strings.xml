@@ -611,7 +611,7 @@ Verifique as permissões ou reinicie o dispositivo"</string>
   <string name="oscillation">Oscilação</string>
   <string name="other">Outros</string>
   <string name="outdoor_temp_unknown">Desconhecido</string>
-  <string name="pair_server_data_only">Utilize dados online para novos controlos</string>
+  <string name="pair_server_data_only">Utilizar dados online para novos controlos</string>
   <string name="partner">Suporte</string>
   <string name="passport_access_denied">Acesso negado</string>
   <string name="passport_account_hint_text">Email/Número de telefone/ID de Conta Mi</string>

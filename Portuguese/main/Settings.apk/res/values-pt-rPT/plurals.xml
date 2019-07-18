@@ -128,6 +128,14 @@
         <item quantity="other">A palavra-passe tem de ter pelo menos %d letras maiúsculas</item>
         <item quantity="one">A palavra-passe tem de ter pelo menos uma letra maiúscula</item>
     </plurals>
+    <plurals name="lockpassword_password_too_long">
+        <item quantity="other">Pode introduzir até %d caracteres</item>
+        <item quantity="one">Pode introduzir até %d caracter</item>
+    </plurals>
+    <plurals name="lockpassword_password_too_short">
+        <item quantity="other">Introduza pelo menos %d caracteres</item>
+        <item quantity="one">Introduza pelo menos %d caracter</item>
+    </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">O PIN tem de ter %d dígitos</item>
         <item quantity="one">O PIN tem de ter %d dígito</item>
@@ -174,6 +182,7 @@
     </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d adicionados</item>
+        <item quantity="one">%d adicionado</item>
     </plurals>
     <plurals name="network_restrictions_summary">
         <item quantity="other">%1$d restrições</item>

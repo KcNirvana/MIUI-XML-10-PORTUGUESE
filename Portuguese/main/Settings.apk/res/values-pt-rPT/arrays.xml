@@ -707,11 +707,6 @@
         <item>10 minutos</item>
         <item>30 minutos</item>
     </string-array>
-    <string-array name="drip_battery_indicator_style_entries">
-        <item>Gráfico</item>
-        <item>Percentagem (no ícone)</item>
-        <item>Percentagem (ao lado)</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Nenhum</item>
         <item>Logcat</item>
@@ -892,7 +887,8 @@ Nota: Apenas para Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="notch_battery_indicator_style_entries">
         <item>Gráfico</item>
-        <item>Percentagem</item>
+        <item>Percentagem (no ícone)</item>
+        <item>Percentagem (ao lado)</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Nenhuma</item>
@@ -1202,6 +1198,11 @@ Nota: Apenas para Ubuntu 8.04!"</item>
         <item>Baixa</item>
         <item>Média</item>
         <item>Alta</item>
+    </string-array>
+    <string-array name="wide_notch_battery_indicator_style_entries">
+        <item>Gráfico</item>
+        <item>Percentagem (no ícone)</item>
+        <item>Percentagem (ao lado)</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices">
         <item>Wi-Fi preferencial</item>
