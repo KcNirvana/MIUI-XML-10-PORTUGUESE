@@ -869,7 +869,7 @@ Taxa de amostragem"</string>
   <string name="bluetooth_unlock_state_label">"Estado: "</string>
   <string name="bluetooth_unlock_state_ok">Desbloqueado</string>
   <string name="bluetooth_unlock_state_too_far">Não está suficientemente perto</string>
-  <string name="bluetooth_unlock_title">Desbloquear com dispositivo Bluetooth</string>
+  <string name="bluetooth_unlock_title">Desbloqueio com dispositivo Bluetooth</string>
   <string name="bluetooth_unlock_turned_off">Desligado</string>
   <string name="bluetooth_unlock_turned_on">Ligado</string>
   <string name="bluetooth_untether_blank">%1$s vai ser desligado</string>
@@ -3295,10 +3295,10 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="passwordIncorrect">A palavra-passe introduzida está incorrecta</string>
   <string name="password_entrance_title">Bloqueio de ecrã</string>
   <string name="password_guard">Bloqueio de ecrã</string>
-  <string name="password_security_settings_title">Palavras-passe e segurança</string>
+  <string name="password_security_settings_title">Segurança</string>
   <string name="password_turned_off_text">Desligado</string>
   <string name="password_turned_on_text">Ligado</string>
-  <string name="password_unlock_title">Palavras-passe</string>
+  <string name="password_unlock_title">Desbloqueio com palavra-passe</string>
   <string name="payment_summary">Predefinido :%1$s</string>
   <string name="peek_notification_icon_title">Mostrar ícones nas notificações</string>
   <string name="performance_category">Desempenho</string>
@@ -4020,7 +4020,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_local_auto_backup_section_title">Cópias automáticas;Cópia automática;Cópias automáticas</string>
   <string name="search_local_backup_section_title">Cópias locais</string>
   <string name="search_location_settings_title">Localização;Serviços de localização;GPS</string>
-  <string name="search_lock_settings">Ecrã de bloqueio e segurança;Desbloquear com Bluetooth;Desbloquear com dispositivo Bluetooth</string>
+  <string name="search_lock_settings">Ecrã de bloqueio e segurança;Desbloquear com Bluetooth;Desbloqueio com dispositivo Bluetooth</string>
   <string name="search_lock_sounds_enable_title">Som de bloqueio de ecrã;Ligar som de bloqueio de ecrã</string>
   <string name="search_manage_device_admin">Administradores do dispositivo;Admin;Administrador</string>
   <string name="search_manage_facerecoginition_text">Desbloqueio por rosto;Reconhecimento de rosto</string>

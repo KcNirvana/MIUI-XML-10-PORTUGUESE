@@ -2,8 +2,6 @@
 <resources>
   <string name="about_app_name">Acerca de Temas</string>
   <string name="about_version_update">O que há de novo</string>
-  <string name="accessibility_setting_hint">"Toque no botão no canto superior direito para ligar este serviço.
-Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede transparentes nas aplicações seleccionadas"</string>
   <string name="accessibiliy_description_content_account">Perfil</string>
   <string name="accessibiliy_description_content_ad">Anúncios</string>
   <string name="accessibiliy_description_content_add_resource">Adicionar itens</string>
@@ -68,6 +66,7 @@ Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede
   <string name="count_down_tip">%ds restantes</string>
   <string name="current_using_desktop_wallpaper_text">Ecrã inicial</string>
   <string name="current_using_lockscreen_wallpaper_text">Ecrã de bloqueio</string>
+  <string name="current_using_float_wallpaper_text">Transparente</string>
   <string name="current_version">Versão actual: %1$s</string>
   <string name="current_version_incompatible">Não compatível</string>
   <string name="deleting">A eliminar…</string>
@@ -88,9 +87,9 @@ Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede
   <string name="download_preview_failed">Não é possível carregar pré-visualização</string>
   <string name="download_success">Transferência concluída</string>
   <string name="dynamic_video_wallpaper">Papel de parede 24 horas</string>
-  <string name="enable_accessibility">Necessário permissões de acessibilidade</string>
-  <string name="enable_accessibility_hint">Pode ligar este serviço em Temas. Depois pode seleccionar que aplicações devem executar com papéis de parede transparentes</string>
+  <string name="enable_all_free_mode">Resgatar</string>
   <string name="enable_transparent_wallpaper">Utilizar papel de parede transparente</string>
+  <string name="enabling_all_free_mode">A resgatar…</string>
   <string name="exit_extreme_mode_dialog_agree">Concordar</string>
   <string name="exit_extreme_mode_dialog_cancel">Cancelar</string>
   <string name="exit_extreme_mode_dialog_title">Sair do modo extremo</string>
@@ -135,9 +134,17 @@ Temas vai detectar que aplicações está a utilizar e mostrar papéis de parede
   <string name="gift_use_confirmation_dlg_title">Enviar este presente?</string>
   <string name="gift_use_fail_dlg_title">Erro</string>
   <string name="gift_used">Enviar</string>
-  <string name="go_accessibility_setting">Seleccionar</string>
-  <string name="hide_free">Ocultar %1$s gratuitos</string>
+  <string name="goto_purchased_list">Ver histórico de compras</string>
+  <string name="has_mamual_hide_font">Ocultos</string>
+  <string name="has_mamual_hide_theme">Ocultos</string>
+  <string name="has_mamual_hide_wallpaper">Ocultos</string>
+  <string name="hide_free_font">Ocultar tipos de letra gratuitos</string>
+  <string name="hide_free_theme">Ocultar temas gratuitos</string>
+  <string name="hide_free_wallpaper">Ocultar papéis de parede gratuitos</string>
   <string name="hide_incompatible">Ocultar %1$s incompatíveis</string>
+  <string name="hide_mamual_hide_font">Não mostrar tipos de letra ocultos</string>
+  <string name="hide_mamual_hide_theme">Não mostrar temas ocultos</string>
+  <string name="hide_mamual_hide_wallpaper">Não mostrar papéis de parede ocultos</string>
   <string name="hide_pull_down_message">Ocultar?</string>
   <string name="hide_pull_down_negative">Não ocultar</string>
   <string name="hide_pull_down_positive">Ocultar</string>
@@ -181,6 +188,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="lockscreen_magazine_title">Papéis de parede aleatórios</string>
   <string name="lockscreen_wallpaper">Ecrã de bloqueio</string>
   <string name="lockstyle_personal_settings">Personalizar</string>
+  <string name="long_click_can_hide_resource">Prima e segure para ocultar itens</string>
   <string name="loop_wallpaper_is_here">Apresentação de papéis de parede disponíveis</string>
   <string name="mi_wallpaper">Papéis de parede MIUI</string>
   <string name="miuishare_account_activate_confirmation">Activar Conta Mi</string>
@@ -209,6 +217,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="mix_icons_option_des">Ícones do ecrã inicial</string>
   <string name="mix_lockscreen_option_des">Papel de parede e relógio</string>
   <string name="mix_tip">Componentes do tema</string>
+  <string name="more_sub_comment">Ver todas as respostas (%1$d)&gt;</string>
   <string name="mtrl_chip_close_icon_content_description">Remover %1$s</string>
   <string name="multi_sim_mms_ringtone_settings_dialog_message">Este toque vai ser aplicado a ambos os cartões SIM</string>
   <string name="multi_sim_ringtone_settings_dialog_message">O toque vai ser aplicado a ambos os cartões SIM</string>
@@ -251,7 +260,6 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="purchased_list_current">Temas optimizados</string>
   <string name="purchased_list_legacy">Temas básicos</string>
   <string name="recently_used">Utilizados recentemente</string>
-  <string name="reenable_accessibility">Ocorreu um erro. Verifique as permissões de acessibilidade</string>
   <string name="refresh_footer_all_loaded">É tudo por agora</string>
   <string name="refresh_footer_failed">Não foi possível carregar informações</string>
   <string name="refresh_footer_finish">Carregado com sucesso</string>
@@ -370,6 +378,9 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="resource_get_auth_not_official">Temas de fontes de terceiros não são suportadas</string>
   <string name="resource_get_auth_retrieving">A obter informação…</string>
   <string name="resource_has_been_downloaded">Já transferiu este tema</string>
+  <string name="resource_hide">Ocultar</string>
+  <string name="resource_hide_fail">Não foi possível ocultar</string>
+  <string name="resource_hide_succ">Oculto com sucesso</string>
   <string name="resource_hint">Alerta</string>
   <string name="resource_import_failed">Não é possível importar</string>
   <string name="resource_import_successful">Concluído</string>
@@ -406,6 +417,9 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="resource_ranking">Popular</string>
   <string name="resource_ranking_free">Gratuito</string>
   <string name="resource_ranking_purchase">Pago</string>
+  <string name="resource_restore">Restaurar</string>
+  <string name="resource_restore_fail">Não foi possível restaurar</string>
+  <string name="resource_restore_succ">Restaurado com sucesso</string>
   <string name="resource_ringtone_default">Toques</string>
   <string name="resource_ringtone_playing_error">Erro</string>
   <string name="resource_ringtone_volume_mute">O toque do telefone está silenciado</string>
@@ -482,8 +496,13 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="shortcut_message">Adicione um atalho no ecrã inicial</string>
   <string name="shortcut_show_tip">Não mostrar novamente</string>
   <string name="shortcut_title">Gostou dos nossos papéis de parede?</string>
-  <string name="show_free">Mostrar %1$s gratuitos</string>
+  <string name="show_free_font">Mostrar tipos de letra gratuitos</string>
+  <string name="show_free_theme">Mostrar temas gratuitos</string>
+  <string name="show_free_wallpaper">Mostrar papéis de parede gratuitos</string>
   <string name="show_incompatible">Mostrar %1$s incompatíveis</string>
+  <string name="show_mamual_hide_font">Mostrar tipos de letra ocultos</string>
+  <string name="show_mamual_hide_theme">Mostrar temas ocultos</string>
+  <string name="show_mamual_hide_wallpaper">Mostrar papéis de parede ocultos</string>
   <string name="system_precust">Pré-instalados</string>
   <string name="swipe_find_more">Deslize para cima para ver mais</string>
   <string name="tag_ad">Anúncios</string>
@@ -504,9 +523,13 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="theme_changed_failed_message">Não é possível aplicar tema</string>
   <string name="theme_changed_message">Tema aplicado</string>
   <string name="theme_changing_dialog_title">"A aplicar "</string>
+  <string name="theme_comment_detail_no_more">É tudo por agora</string>
+  <string name="theme_comment_detail_sub_comment_title">Todas as respostas</string>
+  <string name="theme_comment_detail_title">Detalhes</string>
   <string name="theme_comment_dialog_cancel">Agora não</string>
   <string name="theme_comment_dialog_message">Gosta do tema que está a utilizar? Nós gostariamos do seu comentário!</string>
   <string name="theme_comment_dialog_ok">Avaliar</string>
+  <string name="theme_comment_sub_comment_bar_hint">Partilhe as suas ideias com a nossa comunidade</string>
   <string name="theme_component_title_alarm">Alarme</string>
   <string name="theme_component_title_alarmstyle">Estilo do alarme</string>
   <string name="theme_component_title_all">Temas</string>
@@ -592,6 +615,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="transparent_wallpaper_filter_setting">Aplicações individualmente</string>
   <string name="transparent_wallpaper_guide">Ir para Temas</string>
   <string name="transparent_wallpaper_guide_tip">Pode seleccionar um papel de parede transparente nos Temas agora</string>
+  <string name="transparent_wallpaper_is_running_in_background">O Papel de parede transparente está a ser executado em segundo plano</string>
   <string name="transparent_wallpaper_pref_summary">Papéis de parede com opacidade de fundo reduzida</string>
   <string name="transparent_wallpaper_white_wallpaper">Tornar o fundo branco</string>
   <string name="transparent_wallpaper_white_wallpaper_failed">Não é possível tornar o fundo branco</string>
@@ -607,6 +631,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="uid_change_dialog_message">Eliminou actualizações. Reinicie o dispositivo para poder utilizar os temas</string>
   <string name="uid_change_dialog_ok">Percebi</string>
   <string name="uid_change_dialog_title">Reiniciar dispositivo</string>
+  <string name="unable_connect_network">Não foi possível ligar à rede</string>
   <string name="up_to_the_end">É tudo por agora. Venha mais tarde</string>
   <string name="update_immediately">Actualizar agora</string>
   <string name="using_theme_has_update_tips">Está disponível uma actualização para este tema</string>
@@ -628,7 +653,9 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="wallpaper_apply">Aplicar</string>
   <string name="wallpaper_crop">Cortar</string>
   <string name="wallpaper_decoded_error">Não é possível carregar o papel de parede</string>
+  <string name="wallpaper_delete_all">Eliminar itens seleccionados?</string>
   <string name="wallpaper_detail_load_page_no_network">Ligue-se à rede e tente novamente</string>
+  <string name="wallpaper_dynamic">Dinâmico</string>
   <string name="wallpaper_loop_add_success">Adicionado com sucesso</string>
   <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Adicionado à apresentação</string>
   <string name="wallpaper_loop_add_to_loop_lock_wallpaper">Adicionado à apresentação</string>
@@ -651,6 +678,9 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="wallpaper_loop_title">Apresentação de papéis de parede</string>
   <string name="wallpaper_loop_title_desk_wallpaper">Apresentação de papéis de parede do ecrã inicial</string>
   <string name="wallpaper_loop_title_lock_walpaper">Apresentação de papéis de parede do ecrã de bloqueio</string>
+  <string name="wallpaper_online">Papéis de parede online</string>
+  <string name="wallpaper_online_no_more">É tudo por agora</string>
+  <string name="wallpaper_online_tip">Ligue-se à rede para ver mais itens</string>
   <string name="wallpaper_personal_dialog_agree">Personalizar</string>
   <string name="wallpaper_personal_dialog_content">Utilize esta funcionalidade para ver uma selecção de papéis de parede personalizado consoante os seus interesses. Pode desligar esta funcionalidade nas definições. Personalizar agora?</string>
   <string name="wallpaper_personal_dialog_disagree">Não, obrigado</string>
@@ -665,6 +695,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="wallpaper_settings_no_history">Sem histórico</string>
   <string name="wallpaper_settings_pad_more_page_title">Mais papéis de parede</string>
   <string name="wallpaper_settings_page_title">Papel de parede</string>
+  <string name="wallpaper_static">Estático</string>
   <string name="wifi_check_cancel">Cancelar</string>
   <string name="wifi_check_confirm">Confirmar</string>
   <string name="wifi_check_message">Utilizar dados móveis para transferir actualizações?</string>

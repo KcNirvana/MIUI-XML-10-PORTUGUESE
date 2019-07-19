@@ -453,7 +453,7 @@
   <string name="retry">Repetir</string>
   <string name="retry_after_network_available">Não foi possível ligar à rede. Verifique a sua ligação e tente novamente</string>
   <string name="retry_download">Tentar novamente</string>
-  <string name="ringtone_editing">Editor de toques</string>
+  <string name="ringtone_editing">Editar toque</string>
   <string name="ringtone_not_support">Este formato de música não é suportado</string>
   <string name="ringtone_selected">Seleccionado</string>
   <string name="ringtones_play">Reproduzir</string>
