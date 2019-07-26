@@ -2043,6 +2043,7 @@ Quando ligar as cópias de segurança automática, os dados do dispositivo e das
   <string name="google_title">Google</string>
   <string name="got_it">Percebi</string>
   <string name="gsm_to_wifi_connect_type_title">GSM para Wi-Fi</string>
+  <string name="gxzw_add_fingerprint_area">Digitalizador de impressão digital</string>
   <string name="gxzw_add_fingerprint_continue">Continuar</string>
   <string name="gxzw_add_fingerprint_edge_message">Mova o seu dedo para gravar os cantos da sua impressão digital</string>
   <string name="gxzw_add_fingerprint_edge_title">Mova o dedo levemente</string>
@@ -2301,6 +2302,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="keywords_wifi">wifi;wi-fi;Wi-Fi-;WiFi;wlan;WLAN</string>
   <string name="keywords_wifi_calling">wifi wi-fi chamada telefonar</string>
   <string name="keywords_write_settings">gravar modificar definições do sistema</string>
+  <string name="kid_space_settings">Espaço crianças</string>
   <string name="label_mi_stats">Analíticas Mi</string>
   <string name="language_keyboard_settings_title">Idioma e introdução</string>
   <string name="language_picker_title">Idiomas</string>

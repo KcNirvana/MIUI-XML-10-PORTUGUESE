@@ -517,7 +517,6 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_snap_entry_take_picture">Disparo Contínuo (fotos)</string>
   <string name="pref_camera_snap_label_take_movie">Vídeos</string>
   <string name="pref_camera_snap_label_take_picture">Fotos</string>
-  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Não é possível usar Disparo Contínuo enquanto \"Ligar ecrã com botões de Volume\" estiver ligado</string>
   <string name="pref_camera_sound_title">Sons da câmara</string>
   <string name="pref_camera_square_mode_title">Quadrado</string>
   <string name="pref_camera_stereo_mode_title">Estéreo</string>

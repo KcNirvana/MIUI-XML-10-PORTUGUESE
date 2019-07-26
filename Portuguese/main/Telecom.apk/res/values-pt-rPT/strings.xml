@@ -22,6 +22,7 @@
   <string name="incall_error_supp_service_unknown">Este serviço não é suportado</string>
   <string name="no_vm_number">Número de Voice Mail em falta</string>
   <string name="no_vm_number_msg">Não existe número de Voice Mail guardado no cartão SIM</string>
+  <string name="missedcall_notification_public_version_title">Telefone</string>
   <string name="notification_AllMissedCallTitle">Todas as chamadas não atendidas</string>
   <string name="notification_missedCallTicker">Chamada não atendida de %s</string>
   <string name="notification_missedCallTitle">Chamada não atendida</string>

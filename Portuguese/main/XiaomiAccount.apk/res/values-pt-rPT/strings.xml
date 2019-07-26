@@ -425,7 +425,6 @@ Para activar a sua conta siga o
   <string name="restart_phone_bind_message">Pode levar algum tempo a receber a mensagem. Começar de novo mesmo assim?</string>
   <string name="restart_phone_bind_title">Alterar telefone de recuperação</string>
   <string name="same_new_and_old_pwd">Não pode ser a mesma que a actual</string>
-  <string name="scan_barcode">Digitalizar código QR</string>
   <string name="scan_barcode_title">Para iniciar sessão na sua Conta Mi digitalize o código QR</string>
   <string name="search_account_security">Segurança da conta</string>
   <string name="search_account_security_desc">Definições da conta</string>

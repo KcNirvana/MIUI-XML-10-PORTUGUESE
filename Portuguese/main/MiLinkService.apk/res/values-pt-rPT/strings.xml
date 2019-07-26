@@ -28,60 +28,60 @@ Para mais questões, veja a ajuda"</string>
     <string name="help_page_text_03">Transmissão é a projecção de itens do seu telefone para um ecrã externo maior. Isto permite que partilhe imagens e vídeos com os seus amigos e família. O consumo de bateria normalmente não é afectado ao utilizar esta funcionalidade</string>
     <string name="help_page_text_04">Como é que eu transmito itens para um ecrã maior?</string>
     <string name="help_page_text_05">Passo 1</string>
-    <string name="help_page_text_06">"1. Use the small millet hand phone to connect to the small millet TV, you can establish a vertical screen connection without the network environment.
-2. Some Xiaomi TVs or other brand TVs that do not support smart screening, you need to connect your TV (or large screen device) to your mobile phone to the same wireless network."</string>
-    <string name="help_page_text_07">3. Some Xiaomi TVs or other brand TVs that do not support smart screening. If there is no wireless network, or if the TV and mobile phone cannot connect to the same network,you need to turn on the TV (or large screen device) [Miracast] Mirror projection screen] switch. This name may vary for different brands of TV, you can slide to the bottom of this page to learn more.</string>
+    <string name="help_page_text_06">"1. Utilizando o telefone Xiaomi para se ligar a uma Mi TV, pode estabelecer uma ligação sem ser necessário ambiente de rede
+2. Algumas Mi TVs ou outras marcas não suportam a transmissão de ecrã inteligente. É necessário ligar a sua TV ao seu telefone através da mesma rede sem fios"</string>
+    <string name="help_page_text_07">3. Algumas Mi TVs ou outras marcas não suportam a transmissão de ecrã inteligente. Se não existir uma rede sem fios ou se a TV e o telefone não se conseguirem ligar à mesma rede, é necessário ligar a funcionalidade Miracast</string>
     <string name="help_page_text_08">Passo 2</string>
-    <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
-    <string name="help_page_text_10">If you want to cast items from Gallery or Mi Video, you can use built-in casting features in these apps.</string>
+    <string name="help_page_text_09">Toque no botão \"Transmitir\" na área de notificações. Ligue o Wi-Fi e o Bluetooth para uma ligação estável.</string>
+    <string name="help_page_text_10">Se quiser transmitir da Galeria ou Vídeos, pode utilizar a função de transmissão nestas aplicações</string>
     <string name="help_page_text_11">Passo 3</string>
     <string name="help_page_text_12">Seleccione um dispositivo da lista de dispositivos disponíveis para começar a transmitir</string>
-    <string name="help_page_text_13">"Can't connect to an external device?"</string>
-    <string name="help_page_text_14">"1. Millet TV screencast, please upgrade the Wireless Screening application in the TV application list to the latest version. 
-2. You can try to connect your phone to your TV to the same LAN to increase your connection success rate. However, some routers may not be able to provide a stable connection environment for the screen, resulting in no connection or frequent interruption. 
-3. If you're using Mi TV, turning on Bluetooth might improve the connection. 
-4. If there aren't any WLAN networks available, make sure your external device (e.g. TV) supports Miracast functionality. The names of casting features on your external device may vary depending on the brand of your device. Refer to the information below to learn about Miracast functionality on different devices."</string>
+    <string name="help_page_text_13">Não consegue ligar a um dispositivo externo?</string>
+    <string name="help_page_text_14">"1. Transmissão de ecrã Mi TV: Actualize a aplicação Visualização sem fios para a versão mais recente
+2. Tente ligar o seu telefone à sua TV na mesma rede para aumentar a taxa de sucesso de ligação. Alguns routers podem não conseguir fornecer uma ligação estável o que pode resultar em interrupções do sinal
+3. Se está a utilizar uma Mi TV, ligar o Bluetooth pode melhorar a ligação 
+4. Se não houver redes Wi-Fi disponíveis, certifique-se que o dispositivo externo (p.e. TV) suporta a funcionalidade Miracast. Os nomes das funcionalidades de transmissão podem variar consoante a marca do seu dispositivo. Consulte as informações abaixo para saber mais sobre a funcionalidade Miracast em diferentes dispositivos</string>
     <string name="help_page_text_15">Funcionalidade Miracast em diferentes dispositivos</string>
     <string name="help_page_text_16">TV Mi/Projector Mi</string>
-    <string name="help_page_text_17">"Xiaomi mobile phone can directly connect to most of the Xiaomi TV with Bluetooth tooth function, instead of manually opening the Miracast function.
-If you need to manually open the Miracast function, you can press the [Menu] button of the TV remote control to select me on the TV screen. Applications > Wireless Screening > Millet / Android Miracas."</string>
-    <string name="help_page_text_17_1">Xiaomi customer support: 400-100-5678</string>
+    <string name="help_page_text_17">"Os telefones Xiaomi podem ligar-se directamente à maioria das Mi TVs com Bluetooth, em vez de ligar a funcionalidade Miracast.
+Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão [Menu] no seu controlo remoto para seleccionar Aplicações > Transmissão de ecrã > Miracast"</string>
+    <string name="help_page_text_17_1">Apoio clientes Xiaomi: 400-100-5678 (China)</string>
     <string name="help_page_text_18">TV Samsung</string>
-    <string name="help_page_text_19">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\". This feature is turned on by default on various models.</string>
-    <string name="help_page_text_20">Samsung customer support: 400-810-5858</string>
+    <string name="help_page_text_19">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode premir o botão [SOURCE] no controlo remoto e seleccionar \"Transmissão de ecrã\". Esta funcionalidade está ligada por defeito em vários modelos</string>
+    <string name="help_page_text_20">Apoio clientes Samsung: 400-810-5858 (China)</string>
     <string name="help_page_text_21">TV LG</string>
-    <string name="help_page_text_22">First, make sure that Miracast functionality is supported on your device. This feature is turned on by default on various models.</string>
-    <string name="help_page_text_23">LG customer support: 400-819-9999</string>
+    <string name="help_page_text_22">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Esta funcionalidade está ligada por defeito em vários modelos</string>
+    <string name="help_page_text_23">Apoio clientes LG: 400-819-9999 (China)</string>
     <string name="help_page_text_24">TV Philips</string>
-    <string name="help_page_text_25">First, make sure that Miracast functionality is supported on your device. This feature is turned on by default on various models.</string>
-    <string name="help_page_text_26">Philips customer support: 400-880-0008</string>
+    <string name="help_page_text_25">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Esta funcionalidade está ligada por defeito em vários modelos</string>
+    <string name="help_page_text_26">Apoio clientes Philips: 400-880-0008 (China)</string>
     <string name="help_page_text_27">TPV</string>
-    <string name="help_page_text_28">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [MENU] button on the remote control and then select Settings > Connection > Network > Multiple screens.</string>
-    <string name="help_page_text_29">TPV customer support: 400-887-8007</string>
+    <string name="help_page_text_28">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode premir o botão [MENU] no controlo remoto e seleccionar Definições > Ligação > Rede > Vários ecrãs</string>
+    <string name="help_page_text_29">Apoio clientes TPV: 400-887-8007 (China)</string>
     <string name="help_page_text_30">Hisense</string>
-    <string name="help_page_text_31">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SMART] button on the remote control and then select Casting > Wireless Display;Some models can click Hi Screen > Game Screening > Android.</string>
-    <string name="help_page_text_32">Hisense customer support: 400-611-1111</string>
+    <string name="help_page_text_31">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode premir o botão [SMART] no controlo remoto e seleccionar Transmissão > Visualização sem fios</string>
+    <string name="help_page_text_32">Apoio clientes Hisense: 400-611-1111 (China)</string>
     <string name="help_page_text_33">Skyworth</string>
-    <string name="help_page_text_34">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select Apps > Casting > Android device > Miracast.</string>
-    <string name="help_page_text_35">Skyworth customer support: 95105555</string>
+    <string name="help_page_text_34">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode seleccionar Aplicações > Transmissão > Dispositivo Android > Miracast</string>
+    <string name="help_page_text_35">Apoio clientes Skyworth: 95105555 (China)</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\";Some models can be selected by the network > WIFIDirect setting; This feature is turned on by default on various models.</string>
-    <string name="help_page_text_38">Sony customer support: 400-810-9000</string>
+    <string name="help_page_text_37">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode premir o botão [SOURCE] no controlo remoto e seleccionar \"Transmissão de ecrã\". Some models can be selected by the network > WIFIDirect setting; This feature is turned on by default on various models.</string>
+    <string name="help_page_text_38">Apoio clientes Sony: 400-810-9000 (China)</string>
     <string name="help_page_text_39">Panasonic</string>
-    <string name="help_page_text_40">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select Apps > Screen Mirroring.</string>
-    <string name="help_page_text_41">Panasonic customer support: 400-881-1315</string>
+    <string name="help_page_text_40">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode seleccionar Aplicações > Transmissão de ecrã</string>
+    <string name="help_page_text_41">Apoio clientes Panasonic: 400-881-1315 (China)</string>
     <string name="help_page_text_42">Changhong</string>
-    <string name="help_page_text_43">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select System > System Tools > Multiple Screens > Screen Mirroring.</string>
-    <string name="help_page_text_44">Changhong customer support: 400-811-1666</string>
+    <string name="help_page_text_43">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode seleccionar Sistema > Ferramentas > Vários ecrãs > Transmissão de ecrã</string>
+    <string name="help_page_text_44">Apoio clientes Changhong: 400-811-1666 (China)</string>
     <string name="help_page_text_45">TCL</string>
-    <string name="help_page_text_46">First, make sure that Miracast functionality is supported on your device. On some of the models, you can select Apps > Wireless Display.</string>
-    <string name="help_page_text_47">TCL customer support: 400-812-3456</string>
+    <string name="help_page_text_46">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Nalguns modelos, pode seleccionar Aplicações > Visualização sem fios</string>
+    <string name="help_page_text_47">Apoio clientes TCL: 400-812-3456 (China)</string>
     <string name="help_page_text_48">AODIN</string>
-    <string name="help_page_text_49">First, make sure that Miracast functionality is supported on your device. To turn this feature on, go to My Apps > WLAN Display.</string>
-    <string name="help_page_text_50">AODIN customer support:400-810-5858</string>
+    <string name="help_page_text_49">Certifique-se que a funcionalidade Miracast é suportada no seu dispositivo. Para ligar esta funcionalidade vá a As minhas aplicações > Visualização sem fios</string>
+    <string name="help_page_text_50">Apoio clientes AODIN:400-810-5858 (China)</string>
     <string name="help_page_text_51">LeTV</string>
-    <string name="help_page_text_52">Please make sure that your large screen device model supports the Miracast protocol. On some models, select Settings > Network > Multi-screen Interactive > Wireless Display.</string>
-    <string name="help_page_text_53">LeTV customer service phone: 10109000</string>
+    <string name="help_page_text_52">Certifique-se que o seu ecrã suporta o protocolo Miracast. Nalguns modelos, pode seleccionar Definições > Rede > Vários ecrãs > Visualização sem fios</string>
+    <string name="help_page_text_53">Apoio clientes LeTV: 10109000 (China)</string>
     <string name="help_page_text_end">Se a marca do seu dispositivo não estiver listada, contacte o fabricante para saber mais</string>
     <string name="small_window">Minimizar janela</string>
     <string name="console_guide_subtitle_small_window">Minimizar a janela para poder utilizar outras funcionalidades enquanto transmite</string>

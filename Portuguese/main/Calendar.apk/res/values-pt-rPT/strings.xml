@@ -338,6 +338,7 @@
   <string name="preferences_import_travel">Bilhetes de comboio</string>
   <string name="preferences_notification_ringtone_title">Som</string>
   <string name="preferences_popup_alert_smart_summary">A MIUI vai identificar automaticamente quais os eventos mais relevantes</string>
+  <string name="preferences_popup_alert_smart_summary_new">Eventos sensíveis ao tempo são os eventos com um tempo exacto</string>
   <string name="preferences_popup_alert_smart_tips">Substituir as notificações tradicionais por alertas pop-up para evitar perder eventos importantes. Os alertas pop não vão aparecer quando estiver a jogar ou a ver vídeos em ecrã inteiro</string>
   <string name="preferences_popup_alert_title">Alertas pop-up</string>
   <string name="preferences_title">Calendário</string>
@@ -414,6 +415,7 @@
   <string name="setting_daysoff_update_net_err">Não foi possível verificar actualizações. Aguarde um momento e tente novamente</string>
   <string name="setting_daysoff_update_schedule">A actualizar…</string>
   <string name="setting_daysoff_update_success">Actualizado com sucesso</string>
+  <string name="setting_desc_import_todo">Importar tarefas programadas de Notas</string>
   <string name="setting_features_title">Definições das funcionalidades</string>
   <string name="setting_holiday_display_desc">Os cartões de feriados estão localizados em baixo do calendário na página inicial</string>
   <string name="setting_holiday_reminder">Lembretes de feriados</string>
@@ -421,6 +423,7 @@
   <string name="setting_sms_import">Importar eventos de SMS</string>
   <string name="setting_title_about">Acerca de</string>
   <string name="setting_title_holiday_display">Mostrar feriados</string>
+  <string name="setting_title_import_todo">Importar tarefas</string>
   <string name="share_title">Partilhar</string>
   <string name="show_day_view">Mostrar dia</string>
   <string name="sms_import_description">Melhorar a gestão de envio das SMS</string>
@@ -451,6 +454,8 @@
   <string name="today_at_time_fmt">Hoje às %s</string>
   <string name="today_icon_voice_contentdescription">Voltar para hoje</string>
   <string name="today_no_events">Sem eventos</string>
+  <string name="todo_audio_event">"[Voice task] "</string>
+  <string name="todo_event">Tarefas futuras</string>
   <string name="tomorrow">Amanhã</string>
   <string name="tomorrow_at_time_fmt">Amanhã às %s</string>
   <string name="too_long_content">O conteúdo é demasiado longo</string>

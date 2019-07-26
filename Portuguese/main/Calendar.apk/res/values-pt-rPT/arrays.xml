@@ -40,6 +40,11 @@
         <item>Todos os eventos</item>
         <item>Mais relevantes</item>
     </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Desligado</item>
+        <item>Todos os eventos</item>
+        <item>Eventos sensíveis ao tempo</item>
+    </string-array>
     <string-array name="open_alarm_repeating_labels">
         <item>Apenas desta vez</item>
         <item>Definir lembrete repetido</item>
@@ -289,5 +294,14 @@
     <string-array name="widget_style_list">
         <item>Transparente</item>
         <item>Fundo branco</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>D</item>
+        <item>S</item>
+        <item>T</item>
+        <item>Q</item>
+        <item>Q</item>
+        <item>S</item>
+        <item>S</item>
     </string-array>
 </resources>

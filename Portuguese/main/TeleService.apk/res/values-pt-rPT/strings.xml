@@ -1244,10 +1244,10 @@ Este tablet não tem fones de ouvido. Pode mudar para o modo mãos-livres ou uti
   <string name="volte_provision_title">Activação de VoLTE</string>
   <string name="volte_switch_not_support_summary">As chamadas VoLTE não são suportadas para os dados móveis do cartão SIM</string>
   <string name="volte_switch_not_support_summary2">As chamadas VoLTE não são suportadas pela operadora</string>
-  <string name="volte_switch_summary">Utilizar VoLTE para melhorar a qualidade das chamadas e videochamadas</string>
+  <string name="volte_switch_summary">Utilizar VoLTE para melhorar a qualidade das chamadas de voz</string>
   <string name="volte_switch_summary2">Confirme que a sua operadora suporta esta funcionalidade antes de a ligar</string>
-  <string name="volte_switch_title">VoLTE</string>
-  <string name="volte_switch_title_ct">VoLTE</string>
+  <string name="volte_switch_title">Utilizar VoLTE</string>
+  <string name="volte_switch_title_ct">Utilizar VoLTE</string>
   <string name="volte_tips_when_turn_on">Os serviços VoLTE China Telecom apenas são fornecidos em áreas com rede 4G</string>
   <string name="vowifi_emergency_notification_channel">Aviso de chamadas Wi-Fi de emergência</string>
   <string name="vowifi_emergency_notification_content">As chamadas de emergência apenas estão disponíveis com rede móvel</string>

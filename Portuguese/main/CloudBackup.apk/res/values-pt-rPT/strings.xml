@@ -159,7 +159,6 @@ Nota: Os dados das aplicações que instalou não vão ser copiados para a Mi Cl
   <string name="provision_restore_data">A restaurar itens</string>
   <string name="query_restore_description">Restaurar aplicações do ecrã inicial e definições utilizando esta cópia. Isto vai sobrescrever os dados da aplicação para aplicações duplicadas já instaladas neste dispositivo. Aplicações não incluídas na cópia vão ser movidas para o último ecrã inicial</string>
   <string name="query_restore_summary">Encontrou uma cópia da Mi Cloud para este dispositivo. Restaurar aplicações do ecrã inicial e definições ou utilizá-la como um novo dispositivo e eliminar as cópias da Mi Cloud anteriores?</string>
-  <string name="recover_from_micloud">Restaurar da cópia da Mi Cloud</string>
   <string name="recover_home_settings">Restaurar definições do ecrã inicial</string>
   <string name="recover_miui_settings">Restaurar definições de sistema</string>
   <string name="recover_settings_description">Mantenha o seu dispositivo ligado</string>
@@ -199,6 +198,7 @@ Verifique as suas definições de rede e tente novamente"</string>
   <string name="restore_task_in_process">A restaurar…</string>
   <string name="restore_task_unfinished">Não foi possível restaurar</string>
   <string name="restore_unfinished">A restaurar. Tente novamente mais tarde</string>
+  <string name="restoring_data">A restaurar dados…</string>
   <string name="restoring_file_title_no_progress">A restaurar ficheiros…</string>
   <string name="restoring_settings">A restaurar definições…</string>
   <string name="retry">Tentar novamente</string>

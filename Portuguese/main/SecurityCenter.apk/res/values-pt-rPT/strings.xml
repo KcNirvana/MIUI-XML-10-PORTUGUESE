@@ -86,6 +86,7 @@
   <string name="after_the_lock_screen">Bloquear aplicações juntamente com o ecrã</string>
   <string name="alert_back_diving_mode_summary">Desligar o modo imersivo?</string>
   <string name="alert_back_diving_mode_title">Modo imersivo</string>
+  <string name="alert_back_milink_hangup_tips_content">A transmissão não vai ser interrompida enquanto estiver a desligar a chamada. Pode premir o botão Ligar/Desligar para ligar o ecrã</string>
   <string name="all_address_choose_hint">Todos os números nesta área</string>
   <string name="already_close_gamebooster">O acelerador de jogos está desligado</string>
   <string name="anti_disturb_msg_detail">Desligue todas as notificações excepto para chamadas recebidas</string>
@@ -114,7 +115,7 @@
   <string name="antivirus_privacy_dialog_cloudscan_description">Enviar e verificar nomes e detalhes da aplicação utilizando as definições de vírus online</string>
   <string name="antivirus_privacy_dialog_ok">OK</string>
   <string name="antivirus_privacy_dialog_summary">Esta funcionalidade encripta e envia o ID do seu dispositivo para o Avast, AVL e servidores do Tencent (%s)</string>
-  <string name="antivirus_privacy_dialog_summary_link">Ver Política de Privacidade</string>
+  <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
   <string name="antivirus_sec_network_unavailable">A aplicação Segurança não consegue actualizar porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
   <string name="antivirus_toast_already_update">Actualizado</string>
@@ -951,6 +952,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="gamebox_immersion_tips_content">O modo imersivo restringe todas as funcionalidades do cartão SIM excepto dados móveis. Não vai ser interrompido por chamadas ou notificações acerca de chamadas. Todas as funcionalidades vão ser restauradas quando o modo imersivo for desligado. Ligar modo imersivo?</string>
   <string name="gamebox_immersion_tips_title">Atenção</string>
   <string name="gamebox_immerson_open">A ligar o modo imersivo. Não troque de redes…</string>
+  <string name="gamebox_milink">Transmitir</string>
   <string name="gamebox_positive_button_text">OK (%1$ds)</string>
   <string name="gamebox_qq_not_find">Instale o QQ e tente novamente</string>
   <string name="gamebox_recent_task_expand_fail">Aplicações que funcionam com atalhos não estão instaladas</string>
@@ -1437,8 +1439,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="notification_battery_scan_consume_abnormal_title_set">%s está a descarregar a bateria</string>
   <string name="notification_exit_power_save_mode">Poupança de bateria desligada</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria carregada a %s</string>
-  <string name="notification_mask_summary">Ocultar o conteúdo das notificações no ecrã de bloqueio e na área de notificações</string>
-  <string name="notification_mask_title">Ocultar conteúdo</string>
+  <string name="notification_mask_summary">Não mostrar o conteúdo das notificações para aplicações protegidas</string>
+  <string name="notification_mask_title">Ocultar conteúdo das notificações</string>
   <string name="notification_masked_item">Ocultar notificações</string>
   <string name="notification_masked_subtitle">Ocultar notificações de aplicações protegidas com o Bloqueio de aplicações</string>
   <string name="notification_summary_cmcc_app_check">Toque para ver detalhes</string>
@@ -1532,6 +1534,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="other">Outras definições</string>
   <string name="other_exception_summary">Não tem uma ligação à Internet</string>
   <string name="other_exception_title">A verificar por outros problemas</string>
+  <string name="other_milink_connect">Não é possível transmitir. Outra funcionalidade está a ser transmitida</string>
   <string name="package_change_notification_summary">Toque para saber mais</string>
   <string name="package_change_notification_title">Ajustar limite de dados automaticamente</string>
   <string name="package_setted_error_notification_summary">Toque para ver detalhes de utilização de dados</string>
@@ -1780,6 +1783,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="preferred_app_entries_messaging">Mensagens</string>
   <string name="preferred_app_entries_music">Música</string>
   <string name="privacy_apps">Aplicações ocultas</string>
+  <string name="privacy_apps_begin_use">Começar</string>
+  <string name="privacy_apps_button_know">Percebi</string>
   <string name="privacy_apps_category_title">Aplicações ocultas</string>
   <string name="privacy_apps_checkbox_remind_choice">Não mostrar novamente</string>
   <string name="privacy_apps_close">Fechar</string>
@@ -1788,7 +1793,11 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="privacy_apps_manage">Gerir aplicações ocultas</string>
   <string name="privacy_apps_manage_dialog_title">Acerca de aplicações ocultas</string>
   <string name="privacy_apps_manager_dialog_message">Esta aplicação não vai ser mostrada no ecrã inicial após a ocultar. Ocultar esta aplicação agora?</string>
+  <string name="privacy_apps_next_stup">Seguinte</string>
+  <string name="privacy_apps_shield_message_summary">Não mostrar notificações para aplicações protegidas</string>
+  <string name="privacy_apps_shield_message_title">Não mostrar notificações</string>
   <string name="privacy_apps_tutorial">Tutorial</string>
+  <string name="privacy_apps_tutorial_dlg_title">Como localizar aplicações ocultas</string>
   <string name="privacy_apps_tutorial_prompt_pageone">Esta funcionalidade permite ocultar ícones das aplicações para que não apareçam no ecrã inicial</string>
   <string name="privacy_apps_tutorial_prompt_pagethree">Após introduzir a palavra-passe, a pasta com as aplicações ocultas vai aparecer</string>
   <string name="privacy_apps_tutorial_prompt_pagetwo">Afaste 2 dedos no ecrã para ver uma mensagem a pedir a sua palavra-passe do Bloqueio de aplicações</string>
@@ -2128,6 +2137,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="status_bar_network_flow_purchase">"   Comprar &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Configurar plano de dados &gt;"</string>
   <string name="still_retain_btn">Manter</string>
+  <string name="stop_milink_connect">Transmissão parada</string>
   <string name="suggest_app_tolock">Sugestões</string>
   <string name="suggest_app_tolock_masked">Ocultas</string>
   <string name="suggest_app_tolock_unmasked">Notificações visíveis</string>
@@ -2212,13 +2222,20 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="system_app">Aplicações de sistema</string>
   <string name="system_application">Aplicações de sistema</string>
   <string name="system_permission_declare_agree">Concordar</string>
+  <string name="system_permission_declare_disagree">Não concordar</string>
   <string name="system_permission_declare_double_link">Leia e concorde com os nossos Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo a %1s! Esta aplicação permite que utilize a seguinte funcionalidades: %2s.</string>
   <string name="system_permission_declare_no_say_no">Se escolher não conceder as permissões necessárias ou a obtenção dos seus dados, esta aplicação não vai funcionar normalmente</string>
   <string name="system_permission_declare_privacy_declare">"Nós respeitamos e protegemos a sua privacidade.
 Note que %1s necessita de obter os seus dados e as seguintes permissões para funcionar normalmente:"</string>
-  <string name="system_permission_declare_revoke_path">Pode desinstalar esta aplicação, terminar sessão da sua conta ou gerir as suas permissões e autorizações em Segurança &gt; Gestão de aplicações &gt; Permissões &gt; Outras permissões</string>
-  <string name="system_permission_declare_use_network">Ligar à rede</string>
+  <string name="system_permission_declare_privacy_no_permission">"Note que %1s necessita de obter os seus dados para funcionar normalmente.
+Nós respeitamos e protegemos a sua privacidade"</string>
+  <string name="system_permission_declare_privacy_policy">Leia e concorde com a nossa &amp;lt;a href=\"%1$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade</string>
+  <string name="system_permission_declare_revoke_system">Pode sair desta aplicação</string>
+  <string name="system_permission_declare_revoke_uninstallable">Pode desinstalar esta aplicação ou gerir as suas permissões e autorizações em Segurança &gt; Gestão de aplicações &gt; Permissões &gt; Outras permissões</string>
+  <string name="system_permission_declare_use_network">Ligue-se à rede</string>
+  <string name="system_permission_declare_use_network_no_permission">Ligue-se à rede</string>
+  <string name="system_permission_declare_user_agreement">Leia e concorde com os nossos &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade</string>
   <string name="system_permission_perm_answer_call">Fazer chamadas</string>
   <string name="system_permission_perm_read_mms">Ler MMS</string>
   <string name="system_permission_perm_read_numbers">Ler números de telefone</string>
