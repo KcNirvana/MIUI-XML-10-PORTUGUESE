@@ -53,7 +53,7 @@
   <string name="category_recent">Recentes</string>
   <string name="category_source">Origem</string>
   <string name="category_theme">Temas</string>
-  <string name="category_time">Hora</string>
+  <string name="category_time">Data</string>
   <string name="category_type_document">Documentos</string>
   <string name="category_type_meida">Multimédia</string>
   <string name="category_type_other">Outros</string>
@@ -113,6 +113,7 @@
   <string name="dialog_type_video">Vídeos</string>
   <string name="disk_available">"Disponível: "</string>
   <string name="disk_total">"Total: "</string>
+  <string name="doc_all">Tudo</string>
   <string name="downloading">A transferir…</string>
   <string name="enable_documentsui">Ligar %s em Definições &gt; Aplicações instaladas primeiro</string>
   <string name="enable_sd_card">Insira o cartão SD ou desactive o armazenamento em massa USB</string>

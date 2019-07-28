@@ -247,8 +247,8 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="share_weather_desc">Tempo MIUI - Hoje %1$s %2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">Não foi possível tirar uma captura de ecrã</string>
-  <string name="shortcut_short_label_24_hour_forecast">Previsão de 24 horas</string>
-  <string name="shortcut_short_label_recent_forecast">Verificar o tempo</string>
+  <string name="shortcut_short_label_24_hour_forecast">Previsão horária</string>
+  <string name="shortcut_short_label_recent_forecast">Previsão para 5 dias</string>
   <string name="some_where_on_earth">Algures na Terra</string>
   <string name="sunrise">Nascer do sol</string>
   <string name="sunset">Pôr do sol</string>

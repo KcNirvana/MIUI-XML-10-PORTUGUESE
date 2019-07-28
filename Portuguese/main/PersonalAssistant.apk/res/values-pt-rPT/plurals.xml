@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="agenda_count_down">
+        <item quantity="other">Em %d minutos</item>
+        <item quantity="one">Em %d minuto</item>
+    </plurals>
     <plurals name="time_minute_ago">
         <item quantity="other">%d minutos atrás</item>
         <item quantity="one">%d minuto atrás</item>

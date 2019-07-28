@@ -144,7 +144,7 @@
   <string name="call_waiting_tone_title">Notificação de chamada em espera</string>
   <string name="call_waiting_tone_twice_and_vibrate">Tocar som de notificação e vibração duas vezes</string>
   <string name="call_waiting_tone_twice_only">Tocar som de notificação duas vezes</string>
-  <string name="caller_id_summary">Ocultar o meu número (confirme se a sua operadora suporta esta função)</string>
+  <string name="caller_id_summary">Mostrar/ocultar o meu número</string>
   <string name="caller_id_title">Identificação de chamadas</string>
   <string name="calling_via_template">A ligar via %s</string>
   <string name="callwait_open_hint">A funcionalidade \"Chamada em espera\" é fornecida pela sua operadora. Se receber uma notificação de erro, entre em contacto com a sua operadora e certifique-se de que esta funcionalidade é suportada</string>

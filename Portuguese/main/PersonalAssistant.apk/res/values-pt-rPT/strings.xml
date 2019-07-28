@@ -96,6 +96,7 @@
   <string name="card_plan_fly">Partida programada</string>
   <string name="card_hint_noteboard">Toque aqui para tirar uma nota</string>
   <string name="card_menu_edit">Editar</string>
+  <string name="card_menu_remove">Remover</string>
   <string name="card_menu_setting">Definições</string>
   <string name="card_note_finish">Concluído</string>
   <string name="card_setting_btn">Personalizar</string>
@@ -416,6 +417,7 @@
   <string name="place_label">Frequent places</string>
   <string name="preferences">Preferências</string>
   <string name="preferences_label">Preferências</string>
+  <string name="preference_privacy_settings">Definições de privacidade</string>
   <string name="preload_empty">Sem itens. Desça para actualizar</string>
   <string name="qq_new">New status</string>
   <string name="qq_qzone">Qzone</string>
@@ -466,9 +468,10 @@
   <string name="setting_booking_brief">Train, plane, movie tickets and hotel reservations</string>
   <string name="setting_booking_brief_detail">Get info about your bookings from the incoming text messages.</string>
   <string name="setting_btn_add">Adicionar</string>
-  <string name="setting_btn_added">Adicionados</string>
+  <string name="setting_btn_added">Serviços actuais</string>
   <string name="setting_btn_remove">Eliminar cartão</string>
   <string name="setting_btn_setting">Definições</string>
+  <string name="setting_cancel_sticky">Soltar</string>
   <string name="setting_cards_all_added">Todos os cartões foram adicionados</string>
   <string name="setting_cards_more">Mais cartões</string>
   <string name="setting_common_private">Segurança e privacidade</string>
@@ -514,6 +517,9 @@
   <string name="setting_place_next">Next</string>
   <string name="setting_pref_confirm">Finish</string>
   <string name="setting_school_label">Add work/school address</string>
+  <string name="setting_sticky">Fixar no topo</string>
+  <string name="setting_sticky_canceled">Solto</string>
+  <string name="setting_sticky_done">Fixado</string>
   <string name="setting_stock">Stocks</string>
   <string name="setting_stock_brief">View daily progress of the companies you’re following.</string>
   <string name="setting_stock_brief_list">Daily briefing</string>
@@ -545,6 +551,7 @@
   <string name="spending_open">Turn on the Payments card</string>
   <string name="spending_setting_brief">Payment details</string>
   <string name="sport">Desportos</string>
+  <string name="sport_headline">Actividade de hoje</string>
   <string name="sport_open">Mostrar cartão Mi Fit</string>
   <string name="step_setting_tip">Origem da informação dos passos</string>
   <string name="step_vip_action_bar">passos</string>
@@ -582,6 +589,7 @@
   <string name="time_just_now">Agora mesmo</string>
   <string name="time_month">dd/MM</string>
   <string name="time_year">dd/MM/yyyy</string>
+  <string name="timeline_headline">Próximos</string>
   <string name="toast_function_add_limit">Pode adicionar até %d atalhos</string>
   <string name="toast_function_remove_not_allowed">Tem de adicionar pelo menos 1 atalho</string>
   <string name="train_C">C train</string>

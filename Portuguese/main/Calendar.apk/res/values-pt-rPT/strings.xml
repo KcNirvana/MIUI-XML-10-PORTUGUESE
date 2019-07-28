@@ -426,6 +426,9 @@
   <string name="setting_title_import_todo">Importar tarefas</string>
   <string name="share_title">Partilhar</string>
   <string name="show_day_view">Mostrar dia</string>
+  <string name="shortcut_new_event">Adicionar evento</string>
+  <string name="shortcut_next_agenda">Próximo evento</string>
+  <string name="shortcut_settings">Definições</string>
   <string name="sms_import_description">Melhorar a gestão de envio das SMS</string>
   <string name="solar_lunar_convert_date"/>
   <string name="solar_lunar_convert_description"/>
