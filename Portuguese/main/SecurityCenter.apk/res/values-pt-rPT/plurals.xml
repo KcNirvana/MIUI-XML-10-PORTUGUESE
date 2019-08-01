@@ -172,6 +172,22 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="other">Adicionar %d minutos</item>
         <item quantity="one">Adicionar %d minuto</item>
     </plurals>
+    <plurals name="pc_statistics_battery_use_minute">
+        <item quantity="other">%d minutos desde o último carregamento</item>
+        <item quantity="one">%d minuto desde o último carregamento</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_use_second">
+        <item quantity="other">%d segundos desde o último carregamento</item>
+        <item quantity="one">%d segundo desde o último carregamento</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_minute">
+        <item quantity="other">%d minutos restantes</item>
+        <item quantity="one">%d minuto restantes</item>
+    </plurals>
+    <plurals name="pc_statistics_battery_last_hour">
+        <item quantity="other">%d horas restantes</item>
+        <item quantity="one">%d hora restante</item>
+    </plurals>
     <plurals name="notification_battery_scan_consume_abnormal_title_split">
         <item quantity="other">%2$d aplicações, incluindo %1$s, estão a descarregar a bateria</item>
         <item quantity="one">%2$d aplicação, incluindo %1$s, está a descarregar a bateria</item>
@@ -421,12 +437,12 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="one">    +%1$d mais caracter</item>
     </plurals>
     <plurals name="privacy_apps_enable_header_title">
-        <item quantity="other">Ícones ocultos para %d aplicações</item>
-        <item quantity="one">Ícone oculto para %d aplicação</item>
+        <item quantity="other">%d ícones das aplicações não ocultos</item>
+        <item quantity="one">%d ícone da aplicação não oculto</item>
     </plurals>
     <plurals name="privacy_apps_disable_header_title">
-        <item quantity="other">Ícones não ocultos para %d aplicações</item>
-        <item quantity="one">Ícone não oculto para %d aplicação</item>
+        <item quantity="other">%d ícones das aplicações ocultos</item>
+        <item quantity="one">%d ícone da aplicação oculto</item>
     </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d problemas que necessitam de optimização</item>

@@ -125,6 +125,10 @@
   <string name="dialog_insufficient_space_on_cache">Sem espaço suficiente no armazenamento interno</string>
   <string name="dialog_insufficient_space_on_external">Sem espaço suficiente no armazenamento externo</string>
   <string name="dialog_media_not_found">Não é possível transferir. O dispositivo externo não está disponível</string>
+  <string name="dialog_my_playlist_online_changed_merge">Manter</string>
+  <string name="dialog_my_playlist_online_changed_message">A lista foi alterada. Pode substitui-la com a nova versão ou manter a antiga</string>
+  <string name="dialog_my_playlist_online_changed_replace">Substituir</string>
+  <string name="dialog_my_playlist_set_to_public">Partilhar esta lista para Música</string>
   <string name="dialog_queued_body">Este ficheiro foi adicionado à lista de transferências pendentes</string>
   <string name="dialog_song_sort_type">Ordenar por</string>
   <string name="dialog_song_sort_type_name">Nome</string>
@@ -349,6 +353,10 @@
   <string name="my_account">Conta Mi</string>
   <string name="my_music_empty">Lista de reprodução vazia</string>
   <string name="my_music_empty_goto_online">Não foram encontradas músicas</string>
+  <string name="my_playlist_add_song">Adicionar músicas</string>
+  <string name="my_playlist_create_self_playlist">Criar listas com as suas músicas favoritas</string>
+  <string name="my_playlist_set_to_private">Tornar privada</string>
+  <string name="my_playlist_set_to_public">Tornar pública</string>
   <string name="nav_online_playlist">Listas de reprodução</string>
   <string name="network_error_and_retry">Não foi possível ligar. Toque para tentar novamente</string>
   <string name="network_failure">Não é possível ligar à rede</string>
@@ -412,6 +420,8 @@
   <string name="permission_declaration_negative_text">Mais tarde</string>
   <string name="permission_declaration_positive_text">Ir para Segurança</string>
   <string name="permission_declaration_title">Permitir acesso</string>
+  <string name="permission_open">Permitir</string>
+  <string name="permission_required">Permissões necessárias</string>
   <string name="pick_favorite_song">Favoritos</string>
   <string name="pick_local_song">Dispositivo</string>
   <string name="pick_recent_song">Reproduzidas recentemente</string>
@@ -422,6 +432,7 @@
   <string name="play_mode_shuffle_all">Aleatório</string>
   <string name="play_next">Reproduzir seguinte</string>
   <string name="playlist_empty">Sem listas de reprodução</string>
+  <string name="playlist_recommend_title">Recomendadas</string>
   <string name="playlist_type_album">Álbum</string>
   <string name="playlist_type_artist">Artista</string>
   <string name="playlist_type_billboard">Chart</string>
@@ -447,6 +458,7 @@
   <string name="remove_download">Remover</string>
   <string name="repeat_all_notif">A repetir todas as músicas</string>
   <string name="repeat_current_notif">A repetir a música actual</string>
+  <string name="request_overlay_permission_desc">Permitir que Música mostre janelas flutuantes para utilizar esta funcionalidade</string>
   <string name="request_share_info">Aguarde…</string>
   <string name="request_subscription_status">Aguarde…</string>
   <string name="restart_immediate">Reiniciar</string>
@@ -476,6 +488,7 @@
   <string name="search_hint_online">Pesquisar artistas, músicas, álbuns online</string>
   <string name="search_history_clear_all">Limpar</string>
   <string name="search_history_delete_all_dialog_titile">Limpar histórico de pesquisa agora?</string>
+  <string name="search_in_youtube">Pesquisar no YouTube</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_menu_title">Pesquisar</string>
   <string name="search_result_local_songs">Dispositivo</string>
@@ -522,8 +535,9 @@
   <string name="share_end_note">De Música</string>
   <string name="share_failed">Não foi possível partilhar</string>
   <string name="share_image_error">Não foi possível partilhar</string>
-  <string name="share_text_list">"Lista de reprodução de Mi Música: "</string>
-  <string name="share_text_song">"Música na Mi Música: "</string>
+  <string name="share_text_list">"Lista de reprodução de Música: "</string>
+  <string name="share_text_song">"Música na Música: "</string>
+  <string name="show_float_first_hint">Minimizar</string>
   <string name="show_more">Mostrar mais %s </string>
   <string name="shuffle_music">Aleatório</string>
   <string name="shuffle_off_notif">Aleatório desligado</string>
@@ -595,6 +609,9 @@
   <string name="toast_download_error_by_not_login">Inicie sessão na Conta Mi e tente novamente</string>
   <string name="toast_download_error_by_vip_required">Obter Pacote Músicas Premium para transferir esta música</string>
   <string name="toast_download_in_process">A transferir…</string>
+  <string name="toast_my_playlist_illegal_name">O título desta lista não é válido. Mude o nome desta lista</string>
+  <string name="toast_my_playlist_set_to_private">Esta lista agora é privada. As outras pessoas não a conseguem ver</string>
+  <string name="toast_my_playlist_set_to_public">Esta lista agora é pública. As outras pessoas conseguem-na ver</string>
   <string name="toast_new_playlist_name_no_enter">Não é possível iniciar um novo parágrafo</string>
   <string name="toast_new_playlist_name_too_long">O nome da lista de reprodução é demasiado longo</string>
   <string name="toast_normal_songs_for_download">Qualidade da transferência definida para normal</string>

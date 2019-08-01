@@ -5,6 +5,7 @@
   <string name="ad_download">Transferir</string>
   <string name="add_private">Ocultar ficheiros agora</string>
   <string name="add_private_files">Adicionar ficheiros</string>
+  <string name="app_function">Gerir ficheiros no dispositivo</string>
   <string name="app_name">Ficheiros</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Câmara</string>
@@ -127,6 +128,7 @@
   <string name="error_create_dir">Não foi possível criar pasta</string>
   <string name="error_create_file">Não foi possível criar ficheiro</string>
   <string name="error_delete_failed">Não foi possível eliminar ficheiro</string>
+  <string name="error_file_already_exists">Este ficheiro já existe</string>
   <string name="error_filename_too_long">O nome do ficheiro é muito longo</string>
   <string name="error_folder_already_exists">Este ficheiro já existe</string>
   <string name="error_info_cant_send_folder">Não é possível enviar esse tipo de ficheiro</string>
@@ -165,13 +167,16 @@
   <string name="ftp_transfer_secure">Segurança</string>
   <string name="ftp_username_and_passworld">Iniciar sessão</string>
   <string name="ftp_username_hint">Utilizador</string>
+  <string name="function_file_operation">"Para aceder e abrir ficheiros; "</string>
+  <string name="function_set_private">"Para ver e encriptar ficheiros; "</string>
+  <string name="function_use_imei">"Para aceder ao IMEI e encriptar ficheiros; "</string>
   <string name="gbk_summary">Codificação predefinida do Chinês simplificado do Windows</string>
   <string name="group_title">%2$s de %1$s</string>
   <string name="group_title_extra_backup">Cópias de Segurança</string>
   <string name="group_title_extra_expire">Mesmo a expirar</string>
   <string name="group_title_extra_new">Novo</string>
   <string name="home_action_up">Voltar</string>
-  <string name="home_title">Ficheiros</string>
+  <string name="home_title">Gestor de ficheiros</string>
   <string name="homepage_tab_category">Categorias</string>
   <string name="homepage_tab_file_view_phone">Dispositivo</string>
   <string name="homepage_tab_recent">Recentes</string>

@@ -1,5 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">1 hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Meia-hora atrás</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Em meia-hora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
+    </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">Ocultar estes ficheiros?</item>
         <item quantity="one">Ocultar este ficheiro?</item>
@@ -77,12 +106,16 @@
         <item quantity="one">%d foto</item>
     </plurals>
     <plurals name="burst_save_confirm_dialog_message">
-        <item quantity="other">Guardar %d fotos seleccionadas e eliminar as restantes?</item>
-        <item quantity="one">Guardar %d foto seleccionada e eliminar as restantes?</item>
+        <item quantity="other">Eliminar %d fotos que não seleccionou?</item>
+        <item quantity="one">Eliminar %d foto que não seleccionou?</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Eliminar %d fotos</item>
+        <item quantity="one">Eliminar %d foto</item>
     </plurals>
     <plurals name="burst_save_selected">
-        <item quantity="other">Guardar %d fotos seleccionadas</item>
-        <item quantity="one">Guardar %d foto seleccionada</item>
+        <item quantity="other">Manter %d fotos seleccionadas</item>
+        <item quantity="one">Manter %d foto seleccionada</item>
     </plurals>
     <plurals name="cloud_storage_photo_num">
         <item quantity="other">%d fotos</item>
@@ -115,6 +148,10 @@
     <plurals name="delete_burst_photo_from_this_album_and_cloud_msg">
         <item quantity="other">Eliminar %d fotos de Mi Cloud e deste dispositivo?</item>
         <item quantity="one">Eliminar %d foto de Mi Cloud e deste dispositivo?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d itens eliminados</item>
+        <item quantity="one">%d item eliminado</item>
     </plurals>
     <plurals name="delete_media_from_all_devices_and_cloud_msg">
         <item quantity="other">Eliminar %d itens de todos os dispositivos e Mi Cloud?</item>
@@ -175,6 +212,29 @@
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">%1$d fotos ignoradas devido a erros na renderização</item>
         <item quantity="one">1 foto ignorada devido a erros na renderização</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Meia-hora atrás</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Em 1 hora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Em meia-hora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediatamente</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Agora mesmo</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="video_count_format">
         <item quantity="other">%1$d ficheiros</item>

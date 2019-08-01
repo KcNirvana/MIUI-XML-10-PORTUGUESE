@@ -23,8 +23,9 @@
   <string name="autofill">Preenchimento automático</string>
   <string name="autofill_save_message">Permitir que a MIUI guarde as suas contas e palavras-passe?</string>
   <string name="autofill_save_ok">Permitir</string>
-  <string name="autofill_save_sub_message">Vai poder gerir palavras-passe guardadas em Definições &gt; Definições adicionais &gt; Privacidade &gt; Gestão de palavras-passe"</string>
+  <string name="autofill_save_sub_message">Vai poder gerir palavras-passe guardadas em Definições &gt; Segurança &gt; %s"</string>
   <string name="autofill_save_title">Guardar palavras-passe automaticamente</string>
+  <string name="autofill_service_name">Gestão de palavras-passe</string>
   <string name="button_text_cancel">Cancelar</string>
   <string name="button_text_delete">Desinstalar</string>
   <string name="button_text_delete_timer">Desinstalar (%d)</string>

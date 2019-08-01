@@ -1143,8 +1143,8 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="oldman_incall_text">Voltar à chamada</string>
   <string name="open_camera_hint_text">Arrastar o ícone para abrir a Câmara</string>
   <string name="open_extreme_power_save_mode_title">Ligar a poupança extrema de bateria</string>
-  <string name="open_lock_screen_magazine_hint_text">Arrastar o ícone para abrir os papéis de parede aleatórios</string>
-  <string name="open_remote_center_hint_text">Arrastar o ícone para ver os atalhos</string>
+  <string name="open_lock_screen_magazine_hint_text">Arrastar o ícone para mais opções</string>
+  <string name="open_remote_center_hint_text">Arrastar o ícone para abrir os atalhos</string>
   <string name="orb_search_action">Acção de pesquisa</string>
   <string name="other">Outros</string>
   <string name="overview">Vista geral</string>

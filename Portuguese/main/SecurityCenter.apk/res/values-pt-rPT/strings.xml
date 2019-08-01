@@ -427,6 +427,7 @@
   <string name="battery_history_hours">%1$dh %2$dm %3$ds</string>
   <string name="battery_history_minutes">%1$dm %2$ds</string>
   <string name="battery_history_seconds">%1$ds</string>
+  <string name="battery_statistics_activity_title">Estatísticas de utilização da bateria</string>
   <string name="battery_stats_charging_label">A carregar</string>
   <string name="battery_stats_gps_on_label">GPS ligado</string>
   <string name="battery_stats_on_battery">%1$s na bateria</string>
@@ -470,7 +471,7 @@
   <string name="btn_start_diagnostic">Testar rede</string>
   <string name="btn_stop_diagnostic">Parar</string>
   <string name="btn_text_already_opened">Ligado</string>
-  <string name="btn_text_goto_power_rank">Ver utilização da bateria</string>
+  <string name="btn_text_goto_power_rank">Ver todas as estatísticas</string>
   <string name="btn_text_goto_setup">Ir para as Definições</string>
   <string name="btn_text_network_speed_detail">Ligação</string>
   <string name="btn_text_open_now">Ligar</string>
@@ -1560,6 +1561,12 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pc_abnormal_scan_reason_use_GPS">Utiliza serviços de localização com muita frequência</string>
   <string name="pc_abnormal_scan_reason_wake_system">Liga o sistema com muita frequência</string>
   <string name="pc_activity_title">Optimizar bateria</string>
+  <string name="pc_battery_detail_curve_reference_now">Agora</string>
+  <string name="pc_battery_detail_device_item_title">Estatísticas de utilização da bateria</string>
+  <string name="pc_battery_history_battery_detail_menu_item">Detalhes</string>
+  <string name="pc_battery_history_consume_rank_menu_item">Classificação</string>
+  <string name="pc_battery_history_rank_mha_menu_item">Miliampere hora</string>
+  <string name="pc_battery_history_rank_percent_menu_item">Percentagem</string>
   <string name="pc_battery_history_show_imei">IMEI:</string>
   <string name="pc_install_manager">Instalação via USB</string>
   <string name="pc_main_activity_back">Voltar</string>
@@ -1573,6 +1580,10 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="pc_main_sub_battery_text_day_hour">%1$sd %2$sh restante</string>
   <string name="pc_main_sub_battery_text_hour_minute">%1$sh %2$sm restante</string>
   <string name="pc_settings_title">Definições de optimização de bateria</string>
+  <string name="pc_statistics_battery_last_hour_minute">%1$dh %2$dm restantes</string>
+  <string name="pc_statistics_battery_use_hour_minute">%1$dh %2$dm desde o último carregamento</string>
+  <string name="pc_statistics_battery_use_summary">%s desde o último carregamento</string>
+  <string name="pc_statistics_battery_use_title">Utilização de bateria</string>
   <string name="pc_to_phone_install">Instalação bloqueada de %s via USB</string>
   <string name="per_month_pkg_traffic_settings">Definir limite de dados</string>
   <string name="perfermance_optimization_summary">Evite o sobreaquecimento e problemas de hardware</string>
@@ -2226,6 +2237,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="system_permission_declare_double_link">Leia e concorde com os nossos Read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;Termos de Utilização&amp;lt;/a&amp;gt; e &amp;lt;a href=\"%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar esta funcionalidade</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Bem-vindo a %1s! Esta aplicação permite que utilize a seguinte funcionalidades: %2s.</string>
   <string name="system_permission_declare_no_say_no">Se escolher não conceder as permissões necessárias ou a obtenção dos seus dados, esta aplicação não vai funcionar normalmente</string>
+  <string name="system_permission_declare_no_say_no_non_mandatory">Se escolher não conceder as permissões necessárias ou a obtenção dos seus dados, esta aplicação não vai funcionar normalmente</string>
   <string name="system_permission_declare_privacy_declare">"Nós respeitamos e protegemos a sua privacidade.
 Note que %1s necessita de obter os seus dados e as seguintes permissões para funcionar normalmente:"</string>
   <string name="system_permission_declare_privacy_no_permission">"Note que %1s necessita de obter os seus dados para funcionar normalmente.

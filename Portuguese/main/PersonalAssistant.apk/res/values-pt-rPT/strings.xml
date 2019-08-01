@@ -28,6 +28,7 @@
   <string name="agenda_assistant_payment_day">Dia de pagamento</string>
   <string name="agenda_assistant_repayment_day">Dia de pagamento</string>
   <string name="agenda_assistant_tail_num">Número</string>
+  <string name="agenda_no_title">(Sem título)</string>
   <string name="agenda_open">Ligar os lembretes do calendário</string>
   <string name="agenda_setting_brief">Eventos, aniversários e mais</string>
   <string name="agenda_setting_brief_detail">Ver eventos planeados e aniversários</string>
@@ -35,7 +36,7 @@
   <string name="agenda_settings_birthday">Mostrar aniversários</string>
   <string name="agenda_settings_credit">Mostrar contas do cartão de crédito</string>
   <string name="agenda_settings_elecbill">Mostrar contas de gás e electricidade</string>
-  <string name="agenda_settings_loan">Mostar pagamento de empréstimos</string>
+  <string name="agenda_settings_loan">Mostrar pagamento de empréstimos</string>
   <string name="alipay_scan">Digitalizador</string>
   <string name="all_function_title">Todos os atalhos</string>
   <string name="app_label">Assistente</string>
@@ -63,6 +64,7 @@
   <string name="ball_dialog_content">Instalar HuPu Sports para utilizar esta funcionalidade. Instalar agora?</string>
   <string name="ball_dialog_tip">Não mostrar novamente</string>
   <string name="ball_dialog_title">Instalar a aplicação primeiro</string>
+  <string name="ball_football_recent_ing">Em curso</string>
   <string name="battery_history">Bateria</string>
   <string name="beijing">Pequim</string>
   <string name="bicycle">Bicicleta</string>

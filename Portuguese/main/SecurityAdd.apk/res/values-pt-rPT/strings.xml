@@ -2,6 +2,7 @@
 <resources>
   <string name="ad_downloading">A transferir…</string>
   <string name="app_name">Plugin do serviço de sistema</string>
+  <string name="app_select_title">Adicionar aplicações utilizadas frequentemente</string>
   <string name="cancel_button">Cancelar</string>
   <string name="dialog_market_score_cancel">Cancelar</string>
   <string name="dialog_market_score_dislike">Comentar</string>
@@ -42,6 +43,19 @@
   <string name="privacy_prompt_traffic_purchase_message">O seu número de telefone e detalhes da operadora vão ser encriptados e enviados para os servidores Mi para obter mais informações sobre as opções de compra de dados</string>
   <string name="search_menu_title">Pesquisa</string>
   <string name="share">Partilhar</string>
+  <string name="superpower_app_add">Adicionar</string>
+  <string name="superpower_app_finish">Concluído</string>
+  <string name="superpower_battery_dangerous">Ligue o carregador assim que possível</string>
+  <string name="superpower_date">"EEEE, d 'de' MMMM"</string>
+  <string name="superpower_dialog_app_select_content">As aplicações de terceiros normalmente consomem mais bateria que as aplicações de sistema. Adicionar mesmo assim?</string>
+  <string name="superpower_dialog_app_select_title">Atenção</string>
+  <string name="superpower_incharging">A carregar</string>
+  <string name="superpower_progress_battery_last">%s restante</string>
+  <string name="superpower_search_hint">Pesquisar aplicações</string>
+  <string name="superpower_select_app_title">Layout do ecrã inicial</string>
+  <string name="superpower_settings">Poupança de bateria extrema</string>
+  <string name="superpower_system">Recomendado</string>
+  <string name="superpower_third">Aplicações de terceiros</string>
   <string name="title_share_link">Partilhar URL</string>
   <string name="xunyou_pay_webview">Serviços Xunyou</string>
 </resources>
