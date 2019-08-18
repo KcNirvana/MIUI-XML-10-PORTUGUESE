@@ -20,6 +20,7 @@
   <string name="all_folder_name">Todas as notas</string>
   <string name="all_terms">%1$s e %2$s</string>
   <string name="app_name">Notas</string>
+  <string name="app_notification_info">As Notas estão a executar em segundo plano</string>
   <string name="app_widget">Notas</string>
   <string name="application_icon">Ícone da aplicação</string>
   <string name="audio_toast_file_invalid">O ficheiro áudio é inválido</string>
@@ -27,6 +28,7 @@
   <string name="audio_toast_network_is_not_available">Não foi possível ligar à rede</string>
   <string name="call_folder_name">Notas de chamada</string>
   <string name="cancel_alarm_description">Cancelar alarme</string>
+  <string name="check_in_todo_app">Ver tarefas</string>
   <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Mi Cloud para sincronizar notas</string>
   <string name="cloud_trash_bin_title">Eliminar notas na Mi Cloud</string>
   <string name="cta_confirm_cancel">Não permitir</string>
@@ -247,6 +249,7 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="todo_event_description_day_after_tomorrow">Em 2 dias</string>
   <string name="todo_event_description_day_before_yesterday">2 dias atrás</string>
   <string name="todo_event_description_today">Hoje</string>
+  <string name="todo_float_permission_open_reminder">Permitir que Notas mostre janelas flutuantes sobre outras aplicações para utilizar esta funcionalidade</string>
   <string name="todo_event_description_tomorrow">Amanhã</string>
   <string name="todo_event_description_yesterday">Ontem</string>
   <string name="todo_item_group_expired">Expirado</string>
@@ -260,6 +263,7 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="todo_item_status_unfinished">Não concluído</string>
   <string name="todo_menu_add_audio_description">Adicionar tarefa de voz</string>
   <string name="todo_menu_add_description">Adicionar tarefa</string>
+  <string name="todo_menu_cancel">Cancelar</string>
   <string name="todo_menu_delete">Eliminar</string>
   <string name="todo_module_name">Tarefas</string>
   <string name="todo_notify_alarm_title">Lembretes de tarefas</string>
@@ -274,10 +278,12 @@ Dê permissão a Notas para gravar áudio"</string>
   <string name="todo_schedule_time_ymdhm">dd/MM/yyyy HH:mm</string>
   <string name="todo_search_hint">Pesquisar por tarefas</string>
   <string name="todo_time_picker_title">Definir lembretes</string>
-  <string name="todo_user_guide_tip1">Bem-vindo às  \"Tarefas\"!</string>
-  <string name="todo_user_guide_tip2">Isto é uma tarefa. Pode verificar a caixa para a concluir.</string>
-  <string name="todo_user_guide_tip3">Toque no botão + para criar uma tarefa. Também pode adicionar uma tarefa de voz</string>
-  <string name="todo_user_guide_tip4">Defina lembretes para as suas tarefas para não se esquecer delas</string>
+  <string name="todo_user_guide_fw_pop">Adicionar atalho no ecrã inicial</string>
+  <string name="todo_user_guide_tip1">Bem-vindo às Tarefas!</string>
+  <string name="todo_user_guide_tip2">Aqui pode adicionar tarefas de texto e voz</string>
+  <string name="todo_user_guide_tip3">Para editar uma tarefa de texto, toque nela</string>
+  <string name="todo_user_guide_tip4">Não se esqueça de criar um atalho no ecrã inicial para as Tarefas</string>
+  <string name="todo_user_guide_tip5">Fique por dentro do jogo e nunca perca nada de importante!</string>
   <string name="todoalert_done">OK</string>
   <string name="toolbar_check_description">Adicionar caixa de verificação</string>
   <string name="toolbar_delete_description">Eliminar esta nota</string>

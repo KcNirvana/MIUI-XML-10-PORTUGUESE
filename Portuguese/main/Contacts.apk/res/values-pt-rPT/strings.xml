@@ -179,11 +179,11 @@
   <string name="cloud_antispam_mark">Marcar</string>
   <string name="cloud_antispam_marked">Marcado</string>
   <string name="cloud_antispam_title">Identificação de chamadas</string>
-  <string name="cloud_recommend_msg">Toque para sincronizar contactos com a Mi Cloud</string>
-  <string name="cloud_state_disabled">Sincronizar com a Mi Cloud</string>
+  <string name="cloud_recommend_msg">Toque para sincronizar contactos com a Xiaomi Cloud</string>
+  <string name="cloud_state_disabled">Sincronizar com a Xiaomi Cloud</string>
   <string name="cloud_state_loading">Aguarde…</string>
-  <string name="cloud_state_sync_finished">Sincronizado com a Mi Cloud</string>
-  <string name="cloud_state_syncing">A sincronizar com a Mi Cloud</string>
+  <string name="cloud_state_sync_finished">Sincronizado com a Xiaomi Cloud</string>
+  <string name="cloud_state_syncing">A sincronizar com a Xiaomi Cloud</string>
   <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
   %2$s"</string>
@@ -987,6 +987,7 @@ Para adicionar um contacto à sua lista de favoritos:
   <string name="scan_bussiness_card_merge_tip">Os dados em conflitos foram substituidos</string>
   <string name="scan_duplicate_message">%1$d contactos com informação idêntica</string>
   <string name="scan_merge">A pesquisar por contactos duplicados…</string>
+  <string name="scan_not_installed">Instale o Digitalizador primeiro</string>
   <string name="scan_qrcode_card_hint1">Digitalizar código QR</string>
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning_sdcard_failed_message">Motivo: \"%s\"</string>

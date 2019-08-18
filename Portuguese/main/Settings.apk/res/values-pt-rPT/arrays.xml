@@ -842,6 +842,14 @@
         <item>Roxo</item>
         <item>Púrpura</item>
     </string-array>
+    <string-array name="miui_entries_font_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP ou versões mais antigas</item>
         <item>Windows Vista ou versões mais recentes</item>

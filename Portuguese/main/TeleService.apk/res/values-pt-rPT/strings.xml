@@ -581,6 +581,7 @@ Mudar para um novo fornecedor mesmo assim?"</string>
   <string name="local_enable">Notícias locais está ligado</string>
   <string name="local_weather_disable">Tempo local está desligado</string>
   <string name="local_weather_enable">Tempo local está ligado</string>
+  <string name="location">Área</string>
   <string name="lodgings_disable">Alojamentos estão desligados</string>
   <string name="lodgings_enable">Alojamentos estão ligados</string>
   <string name="maintenance_disable">Manutenção está desligada</string>
@@ -735,6 +736,7 @@ Vai ser utilizada a rede preferida"</string>
   <string name="opened_dual_4g_confirm_prompt">Apenas tem um cartão SIM 4G. Duplo 4G foi ligado automaticamente</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">O SIM %1$s apenas suporta 4G. Para garantir que o cartão funciona correctamente o Duplo 4G foi ligado</string>
   <string name="operation_successfully">Concluído</string>
+  <string name="operator">Operadora</string>
   <string name="optional_summary">&lt;Opcional&gt;</string>
   <string name="ota_activate">Activar</string>
   <string name="ota_call_end">Voltar</string>
@@ -1086,6 +1088,7 @@ O cartão SIM vai ser bloqueado após nova tentativa falhada"</string>
   <string name="sip_save_register_error">Não foi possível guardar e registar um novo perfil SIP</string>
   <string name="sip_settings">Definições SIP</string>
   <string name="sip_system_decide">Automático</string>
+  <string name="smsc_dialog_message">Certifique-se que o número introduzido está correcto, senão não vai poder enviar ou receber SMS</string>
   <string name="sp_unlock_failed">O pedido de desbloqueio do serviço da operadora do cartão SIM falhou</string>
   <string name="sp_unlock_success">Serviço da operadora do cartão SIM desbloqueado</string>
   <string name="sports_news_settings">Notícias de desporto</string>

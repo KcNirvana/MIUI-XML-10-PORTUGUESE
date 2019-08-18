@@ -73,7 +73,7 @@
         <item quantity="one">%s hora atrás</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s serviços vão ser sincronizados com a Mi Cloud</item>
-        <item quantity="one">%s serviço vai ser sincronizado com a Mi Cloud</item>
+        <item quantity="other">%s serviços vão ser sincronizados com a Xiaomi Cloud</item>
+        <item quantity="one">%s serviço vai ser sincronizado com a Xiaomi Cloud</item>
     </plurals>
 </resources>
