@@ -171,13 +171,10 @@
   <string name="function_set_private">"Para ver e encriptar ficheiros; "</string>
   <string name="function_use_imei">"Para aceder ao IMEI e encriptar ficheiros; "</string>
   <string name="gbk_summary">Codificação predefinida do Chinês simplificado do Windows</string>
-  <string name="grid_mode">Vista de grelha</string>
   <string name="group_title">%2$s de %1$s</string>
   <string name="group_title_extra_backup">Cópias de Segurança</string>
   <string name="group_title_extra_expire">Mesmo a expirar</string>
   <string name="group_title_extra_new">Novo</string>
-  <string name="hint_switch_to_grid_mode">Alterado para vista de grelha</string>
-  <string name="hint_switch_to_list_mode">Alterado para vista de lista</string>
   <string name="home_action_up">Voltar</string>
   <string name="home_title">Gestor de ficheiros</string>
   <string name="homepage_tab_category">Categorias</string>
@@ -189,7 +186,7 @@
   <string name="instruction_pre_pad">Toque para iniciar o servidor FTP</string>
   <string name="instruction_pre_phone">Toque para iniciar o servidor FTP</string>
   <string name="just_now">agora mesmo</string>
-  <string name="list_mode">Vista de lista</string>
+  <string name="kilobyteShort">KB</string>
   <string name="load_more">Ver mais</string>
   <string name="loading">Aguarde…</string>
   <string name="local_image">Imagens</string>
@@ -382,7 +379,6 @@
   <string name="storage_sd_card">Cartão SD</string>
   <string name="storage_usb">Armazenamento USB</string>
   <string name="storage_warning">Não é possível utilizar o armazenamento externo</string>
-  <string name="switch_doc_type">Seleccionar formato</string>
   <string name="sys_size_enable">" disponível"</string>
   <string name="tab_app">Mais</string>
   <string name="tab_category">Categorias</string>

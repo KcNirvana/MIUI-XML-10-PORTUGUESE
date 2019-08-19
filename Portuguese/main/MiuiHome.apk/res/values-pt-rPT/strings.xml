@@ -4,19 +4,6 @@
   <string name="activity_not_found">A aplicação não está instalada no seu dispositivo</string>
   <string name="activity_not_unlocked">Aguarde até o dispositivo estar totalmente reiniciado antes de abrir aplicações</string>
   <string name="add_screen">Adicionar ecrã</string>
-  <string name="all_apps">Todas as aplicações</string>
-  <string name="all_apps_no_search_results">Sem resultados</string>
-  <string name="all_apps_search_app">Pesquisar aplicações</string>
-  <string name="all_apps_search_market_message">Pesquisar online</string>
-  <string name="all_apps_setting_desktop_desc">Mostrar todas as aplicações instaladas no ecrã inicial. Prima e segure o ícone da aplicação para ver os atalhos disponíveis, gerir ou desinstalar a aplicação</string>
-  <string name="all_apps_setting_desktop_title">Normal</string>
-  <string name="all_apps_setting_drawer_desc">Coloque todas as aplicações instaladas na gaveta de aplicações que pode ser aberta ao deslizar para cima no ecrã inicial</string>
-  <string name="all_apps_setting_drawer_tips_desc">A gaveta de aplicações é aberta ao deslizar para cima no ecrã inicial. Trocar para este modo vai tornar a Pesquisa indisponível. Trocar mesmo assim?</string>
-  <string name="all_apps_setting_drawer_tips_title">A utilizar gaveta de aplicações</string>
-  <string name="all_apps_setting_drawer_title">Com gaveta de aplicações</string>
-  <string name="all_apps_setting_title">Ecrã inicial</string>
-  <string name="all_apps_slide_up_tips">Deslizar para cima está reservado para abrir a gaveta de aplicações. Troque para o modo de ecrã inicial normal e tente novamente</string>
-  <string name="all_apps_suggestions">Sugestões de aplicações</string>
   <string name="announce_for_app_move_in_folder">Movida para a posição %1$d na pasta</string>
   <string name="announce_for_checked">%1$s, verificado</string>
   <string name="announce_for_choose_default_screen">Definir ecrã %1$d como predefinido</string>
@@ -258,7 +245,6 @@
   <string name="multi_selecting_tips">Para seleccionar uma aplicação, arraste o seu ícone e largue-a aqui</string>
   <string name="no_detail_page">Sem página de detalhes</string>
   <string name="no_space_toast">Sem espaço</string>
-  <string name="no_space_toast_when_click_widget">Sem espaço nesta página. Tente uma página diferente</string>
   <string name="normal_wallpaper">Papel de parede</string>
   <string name="notification_installed">Instalado com sucesso</string>
   <string name="notification_open_button">Abrir</string>
@@ -303,8 +289,8 @@
   <string name="privacy_thumbnail_blur_summary">Desfocar pré-visualização de aplicações em Recentes</string>
   <string name="privacy_thumbnail_blur_title">Desfocar pré-visualização de aplicações</string>
   <string name="quick_app">Aplicações rápidas</string>
-  <string name="recent_apps">Recentes</string>
   <string name="recents_config_title">Recentes</string>
+  <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
   <string name="recommend_apps_default_title">Vazio</string>
   <string name="recommend_apps_no_data">Sem dados</string>
   <string name="recommend_apps_no_data_toast">Sem recomendações</string>
@@ -315,7 +301,6 @@
   <string name="recommend_loading">A carregar</string>
   <string name="recommend_refresh">Actualizar</string>
   <string name="recommend_xout">Não mostrar</string>
-  <string name="remove_invalidate_gadget_tips">Um dos widgets que utiliza já não está disponível. Pode adicionar outro</string>
   <string name="reset_description_first_time">Pode restaurar o layout de %1$s em 2 horas</string>
   <string name="reset_description_others">Pode restaurar o layout de %1$s</string>
   <string name="reset_fail">Não foi possível restaurar</string>

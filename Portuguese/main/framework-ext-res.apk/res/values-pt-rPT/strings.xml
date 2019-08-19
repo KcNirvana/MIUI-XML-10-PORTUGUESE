@@ -26,8 +26,6 @@
   <string name="autofill_save_sub_message">Vai poder gerir palavras-passe guardadas em Definições &gt; Segurança &gt; %s"</string>
   <string name="autofill_save_title">Guardar palavras-passe automaticamente</string>
   <string name="autofill_service_name">Gestão de palavras-passe</string>
-  <string name="btn_cancel">Cancelar</string>
-  <string name="btn_sure">OK</string>
   <string name="button_text_cancel">Cancelar</string>
   <string name="button_text_delete">Desinstalar</string>
   <string name="button_text_delete_timer">Desinstalar (%d)</string>
@@ -38,8 +36,6 @@
   <string name="cancel_action">Cancelar</string>
   <string name="close">Desligado</string>
   <string name="configure_input_methods">Escolher teclados</string>
-  <string name="confirm_cancel_task_files">Cancelar o envio de ficheiros para %1$s?</string>
-  <string name="confirm_cancel_task_images">Cancelar o envio de imagens para %1$s?</string>
   <string name="content_description_dial">Ligar</string>
   <string name="content_description_search">Pesquisar</string>
   <string name="content_description_share">Partilhar</string>
@@ -47,14 +43,11 @@
   <string name="content_description_web_url">Navegar</string>
   <string name="copy">Copiar</string>
   <string name="cut">Cortar</string>
-  <string name="default_device_name">Dispositivo desconhecido</string>
   <string name="default_name">Predefinido</string>
   <string name="description_title">Modo silêncio</string>
-  <string name="device_type_pc">Computador</string>
   <string name="eighthours">8 horas</string>
   <string name="enable_livetalk_summary">0,0068€ por minuto para chamadas nacionais</string>
   <string name="enable_livetalk_title">Activar pacote de carregamento</string>
-  <string name="enable_midrop">Ligar</string>
   <string name="fc_dialog_body">Enviar relatório de erros para a Mi analisar? Este relatório pode conter informações pessoais. O seu relatório vai ser utilizado para ajudar a corrigir este erro e nunca vai ser partilhado em qualquer contexto comercial</string>
   <string name="fc_dialog_jump_to_preview">Ver resumo</string>
   <string name="first_back_long_press_message">Para definir acções personalizadas de toque dos botões de navegação vá a Definições &gt; Definições adicionais &gt; Botões</string>
@@ -67,7 +60,6 @@
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ligar</string>
   <string name="fp_nav_center_action_choose_dlg_title">Ligar Toque rápido</string>
   <string name="frequent_phrases">Frases freqs.</string>
-  <string name="functions_are_being_developed">Esta funcionalidade vai estar disponível em breve</string>
   <string name="global_actions_airplane_mode">Modo Avião</string>
   <string name="global_actions_reboot">Reiniciar</string>
   <string name="global_actions_shutdown">Desligar</string>
@@ -77,11 +69,6 @@
   <string name="handy_mode_summary">Para sair toque na área escurecida</string>
   <string name="handy_mode_title">Modo Uma Mão</string>
   <string name="ignore_home_when_fingerprint_enrolling_msg">Coloque o seu dedo no botão Início</string>
-  <string name="input_method_edit_phrase_text">Editar frases frequentes</string>
-  <string name="input_method_no_content_text">Sem itens</string>
-  <string name="input_method_switch_settings_text">Definições do teclado</string>
-  <string name="input_method_tab_clipboard_text">Área de transferências</string>
-  <string name="input_method_tab_phrase_text">Frases frequentes</string>
   <string name="internal_livetalk_enable">A utilizar pacote de recarga para chamadas nacionais</string>
   <string name="international_livetalk_enable">A utilizar pacote de recarga para chamadas internacionais</string>
   <string name="key_btn_ok">OK</string>
@@ -111,7 +98,6 @@
   <string name="package_delete_confirm_step_2">Desinstalar esta aplicação pode fazer com que o sistema fique instável</string>
   <string name="package_delete_confirm_step_3">Não vai poder abrir esta aplicação depois de a desinstalar</string>
   <string name="paste">Colar</string>
-  <string name="pc_device_model_name">Computador</string>
   <string name="perm_send_push_dspt">Permitir mensagens Mi push</string>
   <string name="perm_send_push_lab">Enviar mensagens push</string>
   <string name="permdesc_manageLocationPolicy">Permitir que a aplicação faça a gestão das políticas de localização e defina as regras específicas da aplicação</string>
@@ -144,7 +130,6 @@
   <string name="resolver_other_method">Outras opções</string>
   <string name="resolver_recommend_options_tag">Opções recomendadas</string>
   <string name="resource_select">Seleccionar</string>
-  <string name="scanning_device_tips">A procurar por dispositivos perto… Certifique-se que o outro dispositivo está detectável</string>
   <string name="screen_button_notification_text">Para activar, prima os botões Início e Ligar/Desligar simultaneamente</string>
   <string name="screen_button_notification_title">Botões de navegação desligados</string>
   <string name="screen_on_proximity_sensor_hint">Para desligar esta funcionalidade, prima os botões Volume Mais e Voltar simultaneamente</string>
@@ -166,7 +151,6 @@
   <string name="security_permission_xiaomi_account_missed_text">Introduza o ID da sua Conta Mi</string>
   <string name="select">Seleccionar</string>
   <string name="select_all">Seleccionar tudo</string>
-  <string name="send_files_to">Enviar itens para</string>
   <string name="set_password_action">Definir palavra-passe</string>
   <string name="set_password_message">Definir uma palavra-passe para utilizar esta funcionalidade</string>
   <string name="set_password_title">Definir uma palavra-passe</string>
@@ -177,10 +161,6 @@
   <string name="sim_added_reboot_title">O cartão SIM vai ser activado depois de reiniciar o dispositivo</string>
   <string name="sim_lock_non_ais_msg">O seu cartão SIM não é totalmente compatível com este telefone</string>
   <string name="sim_lock_now_ais_title">SIM %1$d</string>
-  <string name="slavewifi">Dupla banda Wi-Fi</string>
-  <string name="slavewifi_disconnect">Desligar</string>
-  <string name="slavewifi_notification_title">A utilizar dupla banda Wi-Fi</string>
-  <string name="slavewifi_settings">Toque para alterar as definições</string>
   <string name="softap_notifif_summary">%d ligado</string>
   <string name="softap_notifif_title">PA Móvel \"%s\" está ligado</string>
   <string name="standard">Silêncio</string>
@@ -218,9 +198,6 @@
   <string name="switching_tv">A trocar…</string>
   <string name="talk_back_water_mark_string1">TalkBack ligado</string>
   <string name="talk_back_water_mark_string2">Prima e segure \"Volume+\" e \"Volume-\" por 3 segundos para desligar</string>
-  <string name="throwing_print">Imprimir</string>
-  <string name="throwing_screen">Transmitir</string>
-  <string name="tips_prompt_enable_midrop">Partilhar ficheiros com dispositivos próximos</string>
   <string name="total">Não incomodar</string>
   <string name="total_description">Silenciar sons e desligar a vibração para tudo excepto os alarmes</string>
   <string name="total_title">Não incomodar</string>
@@ -229,9 +206,7 @@
   <string name="translation_query_error_network">Não foi possível obter informações. Verifique a ligação à rede e tente novamente</string>
   <string name="turn_off">Desligar</string>
   <string name="twohours">1 hora</string>
-  <string name="unknown_caller">Número desconhecido</string>
-  <string name="unrecognized_manufacture">Desconhecido</string>
-  <string name="unrecognized_model">Dispositivo desconhecido</string>
+  <string name="unknown_caller">Número privado</string>
   <string name="user_switching_dialog_switch_into_kid_space">A trocar para Espaço criança…</string>
   <string name="user_switching_dialog_switch_out_kid_space">A sair de Espaço criança…</string>
   <string name="user_switching_dialog_text">A trocar…</string>
@@ -242,10 +217,6 @@
   <string name="voice_input_error_other">Ocorreu um erro. Aguarde um momento e tente novamente</string>
   <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à Internet</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
-  <string name="wireless_charging_notification_message1">Não foi possível encontrar dispositivos sem fios para carregar. O carregamento reverso foi desligado</string>
-  <string name="wireless_charging_notification_message2">A bateria está a menos de 30%. O carregamento reverso foi desligado</string>
-  <string name="wireless_charging_notification_message3">Ocorreu um erro durante o carregamento. O carregamento reverso foi desligado</string>
-  <string name="wireless_charging_notification_titile">Turned off reverse wireless charging</string>
   <string name="xspace_resolver_activity_title">Seleccionar aplicação</string>
   <string name="xspace_head">Aplicações clonadas</string>
 </resources>

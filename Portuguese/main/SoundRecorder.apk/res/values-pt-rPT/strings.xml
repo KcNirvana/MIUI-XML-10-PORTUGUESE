@@ -2,7 +2,7 @@
 <resources>
   <string name="alert_message_clear_records">Eliminar as gravações seleccionadas?</string>
   <string name="alert_message_delete_local_record">Eliminar esta gravação?</string>
-  <string name="alert_message_delete_record">Eliminar a gravação do seu dispositivo vai também eliminar da Xiaomi Cloud. Eliminar?</string>
+  <string name="alert_message_delete_record">Eliminar a gravação do seu dispositivo vai também eliminar da Mi Cloud. Eliminar?</string>
   <string name="alert_message_delete_record_title">Eliminar gravações</string>
   <string name="app_name">Gravador</string>
   <string name="back">Voltar</string>
@@ -14,12 +14,12 @@
   <string name="call_record_list_group_unconnected">Não ligadas</string>
   <string name="clear_records">Eliminar gravações sincronizadas</string>
   <string name="cloud_record_open">Sincronizar gravações</string>
-  <string name="cloud_record_tip">Sincronizar gravações com a Xiaomi Cloud</string>
-  <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Xiaomi Cloud para sincronizar as gravações</string>
+  <string name="cloud_record_tip">Sincronizar gravações com a Mi Cloud</string>
+  <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Mi Cloud para sincronizar as gravações</string>
   <string name="cloud_status_full_dialog_cancel">Agora não</string>
   <string name="cloud_status_full_dialog_msg">O seu armazenamento na nuvem está cheio, não é possível sincronizar gravações. Actualize a sua conta para ter mais espaço de armazenamento</string>
   <string name="cloud_status_full_dialog_ok">Actualizar</string>
-  <string name="cloud_status_full_dialog_title">Armazenamento na Xiaomi Cloud cheio</string>
+  <string name="cloud_status_full_dialog_title">Armazenamento na Mi Cloud cheio</string>
   <string name="data_connection_body">Utilizar a sua ligação de dados móveis para transferir este ficheiro vai aumentar o consumo de dados. Se exceder o limite subscrito a sua operadora pode cobrar taxas adicionais</string>
   <string name="data_connection_button_text">OK</string>
   <string name="data_connection_title">Aviso de utilização de dados</string>
@@ -96,7 +96,7 @@
   <string name="recognition_status_downloading">A transferir</string>
   <string name="record">Gravar</string>
   <string name="record_back_pressed_hint">Prima Voltar novamente para parar a gravação</string>
-  <string name="record_download">Transferir da Xiaomi Cloud</string>
+  <string name="record_download">Transferir da Mi Cloud</string>
   <string name="record_download_complete">Transferido</string>
   <string name="record_download_msg">As gravações só podem ser reproduzidas depois de terem sido transferidas</string>
   <string name="record_download_msg_reload">Esta gravação não existe</string>

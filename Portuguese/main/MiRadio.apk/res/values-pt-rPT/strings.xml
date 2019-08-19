@@ -11,8 +11,6 @@
   <string name="context_menu_item_edit">Editar</string>
   <string name="context_menu_item_favorite">Adicionar aos predefinidos</string>
   <string name="context_menu_item_unfavorite">Remover dos predefinidos</string>
-  <string name="delete_single_fm_history">Eliminar histórico?</string>
-  <string name="detail">Detalhes</string>
   <string name="dialog_sleep_title">Definir temporizador</string>
   <string name="exit_fm">Sair</string>
   <string name="fm_browser_label">Rádio FM</string>

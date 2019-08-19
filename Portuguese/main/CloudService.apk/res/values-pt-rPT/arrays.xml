@@ -5,104 +5,104 @@
         <item>Detalhes de armazenamento</item>
     </string-array>
     <string-array name="settings_search_contacts">
-        <item>Sincronizar contactos com a Xiaomi Cloud</item>
+        <item>Sincronizar contactos com a Mi Cloud</item>
         <item>Ligar/configurar sincronização</item>
-        <item>Contactos;Registos de chamadas;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Contactos;Registos de chamadas;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_sms">
-        <item>Sincronizar mensagens com a Xiaomi Cloud</item>
+        <item>Sincronizar mensagens com a Mi Cloud</item>
         <item>Ligar/configurar sincronização</item>
-        <item>Mensagens;SMS;MMS;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Mensagens;SMS;MMS;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_gallery">
-        <item>Sincronizar Galeria com a Xiaomi Cloud</item>
+        <item>Sincronizar Galeria com a Mi Cloud</item>
         <item>Ligar/configurar sincronização</item>
-        <item>Galeria;Fotos;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Galeria;Fotos;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_dial">
-        <item>Sincronizar registo de chamadas com a Xiaomi Cloud</item>
+        <item>Sincronizar registo de chamadas com a Mi Cloud</item>
         <item>Ligar/configurar sincronização</item>
-        <item>Registo de chamadas;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Registo de chamadas;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_recorder">
-        <item>Sincronizar gravações com a Xiaomi Cloud</item>
+        <item>Sincronizar gravações com a Mi Cloud</item>
         <item>Ligar/configurar sincronização</item>
-        <item>Gravador;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Gravador;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_music">
-        <item>Sincronizar música com a Xiaomi Cloud</item>
+        <item>Sincronizar música com a Mi Cloud</item>
         <item>Ligar sincronização</item>
-        <item>Music;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Music;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_notes">
-        <item>Sincronizar notas com a Xiaomi Cloud</item>
+        <item>Sincronizar notas com a Mi Cloud</item>
         <item>Ligar sincronização</item>
-        <item>Notas;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Notas;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_wlan">
-        <item>Sincronizar definições Wi-Fi com a Xiaomi Cloud</item>
+        <item>Sincronizar definições Wi-Fi com a Mi Cloud</item>
         <item>Ligar sincronização</item>
-        <item>Wi-Fi;Wifi;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Wi-Fi;Wifi;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_calendar">
-        <item>Sincronizar Calendário com a Xiaomi Cloud</item>
+        <item>Sincronizar Calendário com a Mi Cloud</item>
         <item>Ligar sincronização</item>
-        <item>Calendário;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Calendário;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_browser">
-        <item>Sincronizar Navegador com a Xiaomi Cloud</item>
+        <item>Sincronizar Navegador com a Mi Cloud</item>
         <item>Ligar sincronização</item>
-        <item>Navegador;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Navegador;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_security">
-        <item>Sincronizar Segurança com a Xiaomi Cloud</item>
+        <item>Sincronizar Segurança com a Mi Cloud</item>
         <item>Ligar sincronização</item>
-        <item>Segurança;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Segurança;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_personal_assistant">
-        <item>Sincronizar Assistente com a Xiaomi Cloud</item>
+        <item>Sincronizar Assistente com a Mi Cloud</item>
         <item>Ligar sincronização</item>
-        <item>Assistente;Cartões;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Assistente;Cartões;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_sync_manage">
-        <item>Xiaomi Cloud. Todos os serviços num só sítio</item>
+        <item>Mi Cloud. Todos os serviços num só sítio</item>
         <item>Aceder às suas fotos, contactos, mensagens e dispositivos em qualquer lado</item>
-        <item>Armazenamento insuficiente;Subscrição;Armazenamento;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud;Lixo;Itens eliminados;Segurança</item>
+        <item>Armazenamento insuficiente;Subscrição;Armazenamento;Cloud;Sincronização;Serviços Cloud;Mi Cloud;Lixo;Itens eliminados;Segurança</item>
     </string-array>
     <string-array name="settings_search_find_phone">
         <item>Localizar Dispositivo</item>
         <item>Eliminar dados e bloquear o seu dispositivo se estiver perdido</item>
-        <item>Localizar Dispositivo;Perdido;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Localizar Dispositivo;Perdido;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_find_pad">
         <item>Localizar Dispositivo</item>
         <item>Eliminar dados e bloquear o seu dispositivo se estiver perdido</item>
-        <item>Localizar Dispositivo;Perdido;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Localizar Dispositivo;Perdido;Cloud;Sincronização;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_recycle_bin">
-        <item>Eliminar itens na Xiaomi Cloud</item>
+        <item>Eliminar itens na Mi Cloud</item>
         <item>Restaurar contactos, fotos, mensagens e mais</item>
-        <item>Lixo;Itens eliminados;Reciclagem;Restaurar;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Lixo;Itens eliminados;Reciclagem;Restaurar;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="settings_search_subscribe_vip">
-        <item>Subscrição Xiaomi Cloud</item>
+        <item>Subscrição Mi Cloud</item>
         <item>Actualizar a sua subscrição, obter mais espaço de armazenamento e proteger os seus dados</item>
-        <item>Armazenamento insuficiente;Subscrição;Armazenamento;Cloud;Sincronização;Serviços Cloud;Xiaomi Cloud;Mega;Ultra;VIP;Copiar;Cópias;Restaurar;Lixo;Itens eliminados;Reciclagem</item>
+        <item>Armazenamento insuficiente;Subscrição;Armazenamento;Cloud;Sincronização;Serviços Cloud;Mi Cloud;Mega;Ultra;VIP;Copiar;Cópias;Restaurar;Lixo;Itens eliminados;Reciclagem</item>
     </string-array>
     <string-array name="settings_search_backup_setting">
-        <item>Copiar ecrã inicial para a Xiaomi Cloud</item>
+        <item>Copiar ecrã inicial para a Mi Cloud</item>
         <item>Copiar layout do ecrã inicial, lista de aplicações instaladas e definições de sistema</item>
-        <item>Cloud;Copiar;Cópias;Serviços Cloud;Xiaomi Cloud;Ecrã inicial;Layout;Aplicações;Definições;Gerir cópias;Restaurar</item>
+        <item>Cloud;Copiar;Cópias;Serviços Cloud;Mi Cloud;Ecrã inicial;Layout;Aplicações;Definições;Gerir cópias;Restaurar</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>Cópias</item>
         <item>Copiar itens</item>
-        <item>Cloud;Copiar;Cópias;Serviços Cloud;Xiaomi Cloud;Ecrã inicial;Layout;Aplicações;Gerir cópias;Restaurar</item>
+        <item>Cloud;Copiar;Cópias;Serviços Cloud;Mi Cloud;Ecrã inicial;Layout;Aplicações;Gerir cópias;Restaurar</item>
     </string-array>
     <string-array name="settings_search_restore_device">
-        <item>Restaurar itens da Xiaomi Cloud</item>
+        <item>Restaurar itens da Mi Cloud</item>
         <item>Transferir itens copiados para o seu dispositivo</item>
-        <item>Cloud;Copiar;Cópias;Restaurar;Serviços Cloud;Xiaomi Cloud</item>
+        <item>Cloud;Copiar;Cópias;Restaurar;Serviços Cloud;Mi Cloud</item>
     </string-array>
     <string-array name="micloud_entrance_titleArray">
         <item>Sincronizar dados</item>

@@ -1080,10 +1080,10 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="close_demo_mode">Cancelar</string>
   <string name="close_fod">Não vai poder desbloquear o seu dispositivo utilizando a sua impressão digital com o ecrã desligado. A impressão digital só vai funcionar com o ecrã ligado</string>
   <string name="close_fod_aod">Não vai poder desbloquear o seu dispositivo utilizando a sua impressão digital com o ecrã desligado. O \"Sempre ligado\" também não vai estar disponível. A impressão digital só vai funcionar com o ecrã ligado</string>
-  <string name="cloud_backup_section_title">Cópias da Xiaomi Cloud</string>
+  <string name="cloud_backup_section_title">Cópias da Mi Cloud</string>
   <string name="cloud_backup_settings_section_title">Definições das cópias</string>
   <string name="cloud_restore_section_summary">Restaurar aplicações, disposição do ecrã inicial e as definições de sistema</string>
-  <string name="cloud_restore_section_title">Restaurar da Xiaomi Cloud</string>
+  <string name="cloud_restore_section_title">Restaurar da Mi Cloud</string>  
   <string name="close_miui_optimization_title">Desligar optimização MIUI</string>
   <string name="close_optimization_message">O tamanho do tipo de letra, contas e outras partes da MIUI vão ser afectadas se desligar esta funcionalidade</string>
   <string name="close_optimization_option">Desligar</string>
@@ -1613,7 +1613,6 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="double_twist_for_camera_mode_title">Virar a câmara</string>
   <string name="download_current_rom">Obter a última versão MIUI</string>
   <string name="downloading_description">A transferir…</string>
-  <string name="doze_always_on_title">Sempre ligado</string>
   <string name="doze_summary">Ligar o ecrã quando recebe notificações</string>
   <string name="doze_title">Visualização de ambiente</string>
   <string name="draw_overlay">Sobreposição de aplicações</string>
@@ -2293,7 +2292,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="keywords_sounds_and_notifications_interruptions">não incomodar interromper interrupção</string>
   <string name="keywords_spell_checker">ortografia dicionário verificação ortográfica correcção automática</string>
   <string name="keywords_storage">espaço disco disco rígido utilização do dispositivo</string>
-  <string name="keywords_sync">Sincronização;Sincronizar;Xiaomi Cloud</string>
+  <string name="keywords_sync">Sincronização;Sincronizar;Mi Cloud</string>
   <string name="keywords_system_alert_window">janela de alerta do sistema caixa de diálogo sobrepor-se a outras aplicações</string>
   <string name="keywords_text_to_speech_output">classificar idioma predefinição falar fala tts acessibilidade leitor de ecrã invisual</string>
   <string name="keywords_torch">Lanterna;Tocha</string>
@@ -2538,7 +2537,7 @@ para o Segundo espaço"</string>
   <string name="lockscreen_magazine_title">Papéis de parede aleatórios</string>
   <string name="lockscreen_remote_input">Se o dispositivo estiver bloqueado, impedir a introdução de respostas ou de outro texto nas notificações</string>
   <string name="lockscreen_settings_title">Preferências do ecrã de bloqueio</string>
-  <string name="login_account_dialog_message">Iniciar sessão com a sua Conta Mi e ligue a sincronização com a Xiaomi Cloud</string>
+  <string name="login_account_dialog_message">Iniciar sessão com a sua Conta Mi e ligue a sincronização com a Mi Cloud</string>
   <string name="login_account_dialog_title">Iniciar sessão com a sua Conta Mi</string>
   <string name="login_account_summary">Gerir contas, serviços cloud, pagamentos e mais</string>
   <string name="login_action">Iniciar sessão</string>
@@ -2547,9 +2546,7 @@ para o Segundo espaço"</string>
   <string name="long_press_home_key">Toque longo no botão Início</string>
   <string name="long_press_menu_key">Toque longo no botão Menu</string>
   <string name="long_press_menu_key_when_lock">Toque longo no botão Menu no ecrã de bloqueio</string>
-  <string name="long_press_power_key">Toque longo no botão Ligar/Desligar</string>
   <string name="long_press_power_key_half_of_second">Toque longo no botão Ligar/Desligar por 0.5 segundos para ligar o assistente Google</string>
-  <string name="long_press_power_key_tips">Toque longo no botão Ligar/Desligar <font color="#999999">Mais rápido e conveniente</font></string>
   <string name="long_press_volume_down">Toque longo no botão Volume Menos</string>
   <string name="lte_ram_dump_off">Desactivar o esvaziamento da memória RAM LTE</string>
   <string name="lte_ram_dump_on">Activar o esvaziamento da memória RAM LTE</string>
@@ -2745,8 +2742,6 @@ Existem outros utilizadores presentes neste dispositivo
   <string name="miui_lab_ai_cloud_closed">O pré-carregamento IA ainda não está disponível</string>
   <string name="miui_lab_ai_preload_desc">O pré-carregamento IA aumenta a velocidade de execução da aplicação</string>
   <string name="miui_lab_ai_preload_title">Pré-carregamento IA</string>
-  <string name="miui_lab_aiasst_call_screen_desc">Ligar por dicas</string>
-  <string name="miui_lab_aiasst_call_screen_title">Dicas de chamadas</string>
   <string name="miui_lab_drive_mode_desc">Utilizar controlos de voz e ouvir as mensagens WeChat</string>
   <string name="miui_lab_drive_mode_title">Modo Condução</string>
   <string name="miui_lab_super_resolution_desc">Tornar as imagens mais nítidas</string>
@@ -3400,7 +3395,6 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="power_usage_not_available">Dados de utilização da bateria estão indisponíveis</string>
   <string name="power_usage_summary">O que está a consumir bateria</string>
   <string name="power_usage_summary_title">Bateria e desempenho</string>
-  <string name="power_usage_summary_title_new">Bateria e desempenho</string>
   <string name="power_user">Utilizadores</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_bg_network_title">Ligação em segundo plano</string>
@@ -3475,10 +3469,10 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="priority_storage_title">Definições de armazenamento</string>
   <string name="priority_summary">Mostrar notificações no topo da lista</string>
   <string name="priority_title">Prioridade</string>
-  <string name="privacy_authorize_cloud_msg">Para assegurar a segurança da sua conta, inicie sessão em i.mi.com se quiser revogar a autorização para os serviços Xiaomi Cloud</string>
+  <string name="privacy_authorize_cloud_msg">Para assegurar a segurança da sua conta, inicie sessão em i.mi.com se quiser revogar a autorização para os serviços Mi Cloud</string>
   <string name="privacy_authorize_dialog_agree">Concordar</string>
   <string name="privacy_authorize_dialog_exit">Sair</string>
-  <string name="privacy_authorize_dialog_message">Para utilizar as funcionalidade básicas dos serviços Xiaomi Cloud, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="https://privacy.mi.com/all/%1$s_%2$s">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s">Termos de Utilização</a></string>
+  <string name="privacy_authorize_dialog_message">Para utilizar as funcionalidade básicas dos serviços Mi Cloud, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao seleccionar \"Concordar\" significa que leu e concordou com a nossa <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s">Política de Privacidade</a> e <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\">Termos de Utilização</a></string>
   <string name="privacy_authorize_network_error">Ligue à rede e tente novamente</string>
   <string name="privacy_authorize_privacy_policy">Política de Privacidade</string>
   <string name="privacy_authorize_revoke">Revogar</string>
@@ -3990,7 +3984,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_children_mode_title">Modo Criança;Bloquear SMS;Controlos parentais;Parental;Restringir SMS</string>
   <string name="search_choose_timezone">Seleccionar fuso horário;Fuso horário;Fusos horários</string>
   <string name="search_cloud_backup_settings_section_title">Definições da cópia;Cópia;Cópia;Cópias</string>
-  <string name="search_cloud_restore_section_title">Restaurar da Xiaomi Cloud;Xiaomi Cloud;Cópias na Xiaomi Cloud</string>
+  <string name="search_cloud_restore_section_title">Restaurar da Mi Cloud;Mi Cloud;Cópias na Mi Cloud</string>
   <string name="search_copyright_title">Direitos de autor</string>
   <string name="search_credentials_install">Instalar do armazenamento;Instalação directa;Instalar APK</string>
   <string name="search_date_and_time_settings_title">Data e hora;Data e hora;Data;Hora</string>
@@ -4036,7 +4030,7 @@ Para utilizar a fixação no ecrã:
   <string name="search_master_clear_title">Repor definições de fábrica</string>
   <string name="search_menu">Pesquisar definições</string>
   <string name="search_menu_title">Pesquisa</string>
-  <string name="search_micloud">Sincronização;Xiaomi Cloud;Sincronização com Xiaomi Cloud;Sincronizar com a Xiaomi Cloud</string>
+  <string name="search_micloud">Sincronização;Mi Cloud;Sincronização com Mi Cloud;Sincronizar com a Mi Cloud</string>
   <string name="search_music_audio_effect_optimize">Definições de áudio;Definições de som</string>
   <string name="search_music_equalizer">Equalizador</string>
   <string name="search_music_headset_calibrate">Atribuir botões;botões</string>
@@ -4265,7 +4259,7 @@ Para utilizar a fixação no ecrã:
   <string name="settings_license_activity_title">Licenças de terceiros</string>
   <string name="settings_license_activity_unavailable">Ocorreu um erro ao carregar as licenças</string>
   <string name="settings_new_version_btn">Actualizar</string>
-  <string name="settings_notify_need_backup">Faça uma cópia das suas definições para a Xiaomi Cloud para as aceder após trocar de telefone</string>
+  <string name="settings_notify_need_backup">Faça uma cópia das suas definições para a Mi Cloud para as aceder após trocar de telefone</string>
   <string name="settings_notify_new_version">Actualização disponível. Toque para ver detalhes</string>
   <string name="settings_notify_phone_recycled">O seu número de telefone foi reciclado. Tente adicionar um número de telefone diferente</string>
   <string name="settings_safetylegal_activity_loading">A carregar…</string>
@@ -5912,11 +5906,11 @@ pode utilizar também as redes de outros utilizadores"</string>
   <string name="write_tag">Escrever</string>
   <string name="wrong_pin_code_pukked">O código PIN do cartão SIM está incorrecto. Deve entrar em contacto com a sua operadora para desbloquear o dispositivo</string>
   <string name="xiaomi_account">Conta Mi</string>
-  <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
-  <string name="xiaomi_cloud_service_description">A Xiaomi Cloud sincroniza os seus contactos e fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone</string>
+  <string name="xiaomi_cloud_service">Mi Cloud</string>
+  <string name="xiaomi_cloud_service_description">A Mi Cloud sincroniza os seus contactos e fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone</string>
   <string name="xiaomi_cloud_service_disabled">Desligado</string>
   <string name="xiaomi_cloud_service_description_contact">contactos e</string>
-  <string name="xiaomi_cloud_service_description_format">A Xiaomi Cloud sincroniza os seus %s fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone através Localizar Dispositivo</string>
+  <string name="xiaomi_cloud_service_description_format">A Mi Cloud sincroniza os seus %s fotos, faz cópias das suas aplicações e definições e ajuda-o a localizar o seu telefone através Localizar Dispositivo</string>
   <string name="xiaomi_cloud_service_unknown">Desconhecido</string>
   <string name="xiaomi_money_service">Crédito Mi</string>
   <string name="xiaomi_router_available_notif_summary">Toque para ver mais informações</string>

@@ -101,7 +101,6 @@
   <string name="delete_download">Eliminar</string>
   <string name="delete_file_as_well">Eliminar esta música permanentemente</string>
   <string name="delete_file_end">Eliminar permanentemente</string>
-  <string name="delete_file_error">Não foi possível eliminar o ficheiro</string>
   <string name="delete_file_start">Eliminar os ficheiros seleccionados</string>
   <string name="deselect_all">Desmarcar tudo</string>
   <string name="desktop_lyric_button_close">Fechar</string>
@@ -221,13 +220,10 @@
   <string name="eq_preset_select">Seleccionar predefinição</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizador</string>
-  <string name="error_not_support">Não suportado</string>
   <string name="expand_button_title">Avançadas</string>
   <string name="expired">Expirado</string>
   <string name="expires">Expira este mês:</string>
   <string name="fail_to_play">Não é possível reproduzir a música</string>
-  <string name="failed_not_access_sd_card">Dê permissão ao cartão SD primeiro</string>
-  <string name="failed_obtain_permissions">Não foi possível obter permissões</string>
   <string name="favorite_canceled">Removida dos favoritos</string>
   <string name="favorite_playlist">Favoritos</string>
   <string name="favorite_singer">Artistas favoritos</string>
@@ -249,10 +245,6 @@
   <string name="filter_by_size_min">%dKB</string>
   <string name="filter_by_size_prefix">"Ocultar ficheiros inferiores a: "</string>
   <string name="filter_by_size_summary">Ocultar pequenos ficheiros de áudio</string>
-  <string name="floating_view_dialog_desc">A música vai parar de tocar se sair desta página agora. Sair mesmo assim?</string>
-  <string name="floating_view_dialog_leave">Sair</string>
-  <string name="floating_view_dialog_stay">Ficar</string>
-  <string name="floating_view_dialog_title">Sair desta página?</string>
   <string name="follow">Seguir</string>
   <string name="followed">A seguir</string>
   <string name="format_not_support">Este formato não é suportado</string>
@@ -270,11 +262,9 @@
   <string name="hide_lyric">Ocultar letra</string>
   <string name="higher_quality_music">Música de alta qualidade</string>
   <string name="higher_quality_music_summary">Streaming e transferências de música a taxas de bits mais elevadas</string>
-  <string name="home_tab_home">Início</string>
   <string name="home_tab_local">A minha música</string>
-  <string name="home_tab_more_music">Mais música</string>
   <string name="home_tab_online">Descobrir</string>
-  <string name="home_tab_search">Pesquisar</string>
+  <string name="hot_icon_in_fast_indexer">H</string>
   <string name="i_know">OK</string>
   <string name="impunity_declaration_content">Tem de ler e concordar com os nossos &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;Termos de Utilização&lt;/a&gt; e &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Política de Privacidade&lt;/a&gt; antes de utilizar o produto</string>
   <string name="impunity_declaration_ignore">Não mostrar novamente</string>
@@ -391,7 +381,6 @@
   <string name="normal_quality">Boa</string>
   <string name="not_login">Sem sessão iniciada</string>
   <string name="not_selected">Escolher música</string>
-  <string name="not_support_documentui">O Ficheiro não é suportado neste dispositivo</string>
   <string name="notif_title_file_size">Tamanho total %1$d</string>
   <string name="notif_title_single_downloading">A transferir %1$s</string>
   <string name="notification_download_complete">Transferência concluída</string>
@@ -502,7 +491,6 @@
   <string name="search_in_youtube">Pesquisar no YouTube</string>
   <string name="search_instant_online_music">Online</string>
   <string name="search_menu_title">Pesquisar</string>
-  <string name="search_more">Mais</string>
   <string name="search_result_local_songs">Dispositivo</string>
   <string name="search_result_online_songs">Online</string>
   <string name="search_songs">Pesquisar músicas</string>
@@ -559,10 +547,8 @@
   <string name="sleep_mode_canceled">O modo de suspensão foi desligado</string>
   <string name="sleep_mode_summary">Parar a reprodução após um determinado tempo</string>
   <string name="sleep_mode_title">Temporizador</string>
-  <string name="song_already_in_playlist">Esta música já existe na lista de reprodução</string>
   <string name="song_exist_in_playlist">Esta música já existe na lista de reprodução</string>
   <string name="song_info">Detalhes da música</string>
-  <string name="song_is_added_to_playlist">Adicionada à lista</string>
   <string name="song_is_empty">Nome da música não pode estar vazio</string>
   <string name="song_name">Música</string>
   <string name="song_not_find">Esta música não está disponível</string>
@@ -575,7 +561,6 @@
   <string name="start_shuffle">A misturar…</string>
   <string name="start_to_download">A transferir…</string>
   <string name="start_to_play">Reproduzir</string>
-  <string name="storage_cloned_app">Armazenamento para aplicações clonadas</string>
   <string name="storage_internal">Armazenamento interno</string>
   <string name="storage_sd_card">Cartão SD</string>
   <string name="storage_usb">Armazenamento USB</string>

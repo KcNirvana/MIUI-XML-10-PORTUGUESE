@@ -9,7 +9,6 @@
   <string name="armed_forces_day"/>
   <string name="autumn_begins">Início Outono</string>
   <string name="autumn_equinox">Equinócio de Outono</string>
-  <string name="birdcicada_preview">Sons da natureza 2</string>
   <string name="carousel">Carrossel</string>
   <string name="childrens_day">Dia da Criança</string>
   <string name="chinese_youth_day">Dia da Juventude</string>
@@ -116,7 +115,9 @@
   <string name="vip_login">Toque para iniciar sessão</string>
   <string name="vip_not_login">Sem sessão iniciada</string>
   <string name="vip_sign">Assinatura:</string>
-  <string name="waterdrop_preview">Sons da natureza 1</string>
+  <string name="white_dews"/>
+  <string name="winter_begins">Início de Inverno</string>
+  <string name="winter_solstice">Solstício de inverno</string>
   <string name="yellow_page_module_sms_sent">SMS enviada</string>
   <string name="yellow_page_sms_disabled_in_privacy_mode">Não é possível enviar mensagens no Modo Convidado</string>
   <string name="yellow_page_sms_send_failed">Não foi possível enviar SMS</string>

@@ -24,10 +24,6 @@
         <item quantity="other">%d números</item>
         <item quantity="one">%d número</item>
     </plurals>
-    <plurals name="ew_alert_second_after">
-        <item quantity="other">Em %d segundos</item>
-        <item quantity="one">Em %d segundo</item>
-    </plurals>
     <plurals name="hints_traffic_enable_title">
         <item quantity="other">Não monitorizar a utilização de dados para %d aplicações</item>
         <item quantity="one">Não monitorizar a utilização de dados para %d aplicação</item>

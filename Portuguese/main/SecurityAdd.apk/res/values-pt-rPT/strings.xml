@@ -26,12 +26,9 @@
   <string name="fastboot_status_locked_summary">Não consigo ter acesso root</string>
   <string name="fastboot_unlock_web_title">Vá ao site oficial da MIUI para obter a ferramenta de desbloqueio</string>
   <string name="game_booster">Acelerador de jogos</string>
-  <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades do Acelerador de jogos?</string>
-  <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
   <string name="gamebox_no_network_btn">Actualizar</string>
   <string name="gb_alipays_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
   <string name="gb_weixinpay_can_not_complete">Não é possível concluir o pagamento. Instalar para continuar</string>
-  <string name="gdpr_msg">Para utilizar as funcionalidades básicas de Segurança, tem de concordar que a Xiaomi vai recolher, processar e utilizar os seus dados pessoais de acordo com a nossa <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s">Politíca de Privacidade</a></string>
   <string name="main_toolbar_purchase">Comprar</string>
   <string name="miuishare_title_more">Mais</string>
   <string name="miuishare_title_share">Partilhar</string>
@@ -52,7 +49,6 @@
   <string name="superpower_date">"EEEE, d 'de' MMMM"</string>
   <string name="superpower_dialog_app_select_content">As aplicações de terceiros normalmente consomem mais bateria que as aplicações de sistema. Adicionar mesmo assim?</string>
   <string name="superpower_dialog_app_select_title">Atenção</string>
-  <string name="superpower_exit_hint">A desligar a poupança de bateria extrema…</string>
   <string name="superpower_incharging">A carregar</string>
   <string name="superpower_progress_battery_last">%s restante</string>
   <string name="superpower_search_hint">Pesquisar aplicações</string>

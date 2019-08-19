@@ -513,7 +513,6 @@ e traz as pessoas que estão na frente"</string>
   <string name="pref_camera_show_gender_age_title">Idade e género</string>
   <string name="pref_camera_snap_enable_title">Modo Disparo Contínuo</string>
   <string name="pref_camera_snap_entry_off">Desligado</string>
-  <string name="pref_camera_snap_entry_summary">Prima e segure o botão de Volume- com o ecrã desligado para tirar uma foto</string>
   <string name="pref_camera_snap_entry_take_movie">Disparo Contínuo (vídeos)</string>
   <string name="pref_camera_snap_entry_take_picture">Disparo Contínuo (fotos)</string>
   <string name="pref_camera_snap_label_take_movie">Vídeos</string>

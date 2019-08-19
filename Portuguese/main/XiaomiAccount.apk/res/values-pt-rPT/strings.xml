@@ -75,7 +75,7 @@ Pode iniciar sessão na sua Conta Mi com %s agora"</string>
   <string name="change_email_address">Alterar endereço de email</string>
   <string name="change_password">Alterar palavra-passe</string>
   <string name="change_phone_number">Alterar número de telefone</string>
-  <string name="cloud_service">Xiaomi Cloud</string>
+  <string name="cloud_service">Mi Cloud</string>
   <string name="collect_diagnosis_log">Gerar registo de diagnóstico</string>
   <string name="completed">Tudo configurado</string>
   <string name="confirm_activate_email">Verificado</string>
@@ -160,8 +160,8 @@ Envie este código ao supervisor"</string>
   <string name="mipay_others">Outros</string>
   <string name="mipay_transit_card">Cartão de transporte</string>
   <string name="multi_user_not_show_sync_activity_message_1">Está a utilizar a sua Conta Mi do Primeiro espaço</string>
-  <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados vão ser sincronizados com o seu Segundo espaço. Para prevenir isto, não ligue a sincronização com a Xiaomi Cloud</string>
-  <string name="multi_user_not_show_sync_activity_title">Não ligar a sincronização com a Xiaomi Cloud</string>
+  <string name="multi_user_not_show_sync_activity_message_2">Nesse caso, todos os dados vão ser sincronizados com o seu Segundo espaço. Para prevenir isto, não ligue a sincronização com a Mi Cloud</string>
+  <string name="multi_user_not_show_sync_activity_title">Não ligar a sincronização com a Mi Cloud</string>
   <string name="my_device_title">Dispositivo actual</string>
   <string name="no_network_btn">Actualizar</string>
   <string name="no_network_title">Não é possível ligar à rede</string>
@@ -362,7 +362,7 @@ Para activar a sua conta siga o
   <string name="passport_skip_login">Ignorar</string>
   <string name="passport_skip_register">Ignorar registo</string>
   <string name="passport_skip_setup_account_msg">Pode configurar uma Conta Mi mais tarde nas Definições</string>
-  <string name="passport_skip_setup_account_title">Não utilizar a Xiaomi Cloud?</string>
+  <string name="passport_skip_setup_account_title">Ignorar configuração</string>
   <string name="passport_sms_send_success">Enviada</string>
   <string name="passport_sms_verification_code_login">Iniciar sessão utilizando SMS</string>
   <string name="passport_sms_verification_code_login_or_register">Iniciar sessão ou criar conta utilizando SMS</string>
@@ -434,7 +434,7 @@ Para activar a sua conta siga o
   <string name="search_menu_title">Pesquisa</string>
   <string name="search_mi_account">Conta Mi</string>
   <string name="search_mi_account_desc">Conta Mi</string>
-  <string name="search_mi_account_key_words">Conta Mi,Iniciar sessão,Xiaomi Cloud,Definições da conta, Gestão da conta,Informações Mi Pay</string>
+  <string name="search_mi_account_key_words">Conta Mi,Iniciar sessão,Mi Cloud,Definições da conta, Gestão da conta,Informações Mi Pay</string>
   <string name="search_mi_account_path">Definições/Conta Mi</string>
   <string name="search_user_detail">Informações pessoais</string>
   <string name="search_user_detail_bottom_key_words">Alterar telefone,Alterar email,Alterar salário,Alterar graduação,Alterar localização,Alterar região</string>
@@ -457,13 +457,6 @@ Para activar a sua conta siga o
   <string name="talkback_scan_barcode">Digitalizar o código QR</string>
   <string name="temporary_not_available">Esta funcionalidade não está disponível</string>
   <string name="turn_off_find_device_failed_title">Não é possível desligar Localizar Dispositivo</string>
-  <string name="two_factor_auth">Autenticação em 2 passos</string>
-  <string name="two_factor_auth_click_confirm">Confirmar para inicar sessão</string>
-  <string name="two_factor_auth_click_confirm_summary">Vai ver uma notificação nos outros dispositivos Mi ligados. Toque na notificação para permitir o início de sessão num novo dispositivo</string>
-  <string name="two_factor_auth_method">Método de autenticação</string>
-  <string name="two_factor_auth_need_code">Introduzir código</string>
-  <string name="two_factor_auth_need_code_summary">Vai ver um código nos outros dispositivos Mi ligados. Introduza este código no novo dispositivo para iniciar sessão</string>
-  <string name="two_factor_auth_summary">Quanto tentar iniciar sessão num novo dispositivo ou localização, vai ser notificado. Vai ter que confirmar se as tentativas de início de sessão estão autorizadas por si</string>
   <string name="unbind_sns_description">Depois de desassociar esta conta não vai poder utilizar as suas informações da conta %s para iniciar sessão na sua Conta Mi</string>
   <string name="unlock_help_notice">"Ajuda:
 1. Se esqueceu a sua palavra-passe, vá a id.mi.com para a repor.

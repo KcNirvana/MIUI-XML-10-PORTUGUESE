@@ -96,18 +96,6 @@
         <item>Plano de dados diário</item>
         <item>Plano de dados ilimitado</item>
     </string-array>
-    <string-array name="ew_emergency_organ_donation_arrays">
-        <item>Yes</item>
-        <item>No</item>
-    </string-array>
-    <string-array name="pc_settings_thermal_entries">
-        <item>Predefinido</item>
-        <item>Desempenho</item>
-    </string-array>
-    <string-array name="pc_settings_thermal_summaries">
-        <item>Utilizar o controlo de temperatura predefinido</item>
-        <item>Dar prioridade ao desempenho</item>
-    </string-array>
     <string-array name="alarm_repeat_type">
         <item>Uma vez</item>
         <item>Diariamente</item>
