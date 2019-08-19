@@ -15,9 +15,9 @@
   <string name="chinese_youth_day">Dia da Juventude</string>
   <string name="christmas_day">Natal</string>
   <string name="clear_and_bright"/>
-  <string name="cloud_state_disabled">Sincronização com a Mi Cloud desligada</string>
-  <string name="cloud_state_finished">Sincronizado com a Mi Cloud</string>
-  <string name="cloud_state_syncing">A sincronizar com a Mi Cloud</string>
+  <string name="cloud_state_disabled">Sincronização com a Xiaomi Cloud desligada</string>
+  <string name="cloud_state_finished">Sincronizado com a Xiaomi Cloud</string>
+  <string name="cloud_state_syncing">A sincronizar com a Xiaomi Cloud</string>
   <string name="cold_dews"/>
   <string name="cta_button_continue">Concordar</string>
   <string name="cta_button_quit">Sair</string>

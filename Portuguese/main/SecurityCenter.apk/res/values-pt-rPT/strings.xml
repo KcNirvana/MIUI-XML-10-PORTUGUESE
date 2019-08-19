@@ -1741,7 +1741,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_center_state_on">Ligado</string>
   <string name="power_center_stop_scan_title">Parar verificação</string>
   <string name="power_center_super_save_summary_text">Aumente o tempo restante até %1$dh %2$dm</string>
-  <string name="power_center_super_save_title_text">Ultra poupança de bateria</string>
+  <string name="power_center_super_save_title_text">Poupança de bateria extrema</string>
   <string name="power_center_time_to_boot">Hora de ligar</string>
   <string name="power_center_time_to_shutdown">Hora de desligar</string>
   <string name="power_center_title">Bateria e desempenho</string>
@@ -1755,8 +1755,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_customize_giveup_change">Rejeitar alterações?</string>
   <string name="power_dialog_cancel">Cancelar</string>
   <string name="power_dialog_ok">OK</string>
-  <string name="power_dialog_super_save_msg">A ultra poupança de bateria restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a ultra poupança de bateria?</string>
-  <string name="power_dialog_super_save_title">Ultra poupança de bateria</string>
+  <string name="power_dialog_super_save_msg">A poupança de bateria extrema restringe a maioria dos recursos que consomem bateria e diminui o desempenho do dispositivo para deixar apenas funcionalidades básicas (p.e. chamadas, mensagens e ligação à rede) disponíveis o maior tempo possível. Ligar a ultra poupança de bateria?</string>
+  <string name="power_dialog_super_save_title">Poupança de bateria extrema</string>
   <string name="power_idle">Telefone inactivo</string>
   <string name="power_main_battery_last_day_hour">%1$sd %2$sh restante</string>
   <string name="power_main_battery_last_hour_minute">%1$sh %2$sm restante</string>
@@ -2241,7 +2241,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="start_game">Iniciar</string>
   <string name="status_bar_network_flow_content">Hoje: %1$s | Restante: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Hoje: %1$s&amp;nbsp;|&amp;nbsp;&amp;nbsp;Este mês: %2$s</string>
-  <string name="status_bar_network_flow_exceed_content">Hoje: %1$s | Dados excedidos: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_exceed_content">"Hoje: %1$s | Dados excedidos: <font color='#ff0000'>%3$s</font>"</string>
   <string name="status_bar_network_flow_phone_balance">"   Saldo:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Comprar &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Configurar plano de dados &gt;"</string>
@@ -2689,4 +2689,3 @@ Os dados restantes incluem dados que foram transferidos do mês anterior"</strin
   <string name="xunyou_pay_webview">Serviços Xunyou</string>
   <string name="xunyou_server_expired">A sessão expirou</string>
 </resources>
-

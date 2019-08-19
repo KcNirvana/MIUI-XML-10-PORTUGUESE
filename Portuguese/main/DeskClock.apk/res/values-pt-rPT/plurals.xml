@@ -36,6 +36,18 @@
         <item quantity="other">O intervalo de suspensão foi alterado para %d minutos</item>
         <item quantity="one">O intervalo de suspensão foi alterado para %d minuto</item>
     </plurals>
+    <plurals name="snooze_duration_count">
+        <item quantity="other">Desliga %1$s vezes</item>
+        <item quantity="one">Desliga %1$s vez</item>
+    </plurals>
+    <plurals name="snooze_duration_desc">
+        <item quantity="other">A cada %1$s minutos, desliga %2$s vezes</item>
+        <item quantity="one">A cada %1$s minuto, desliga %2$s vezes</item>
+    </plurals>
+    <plurals name="snooze_duration_min">
+        <item quantity="other">A cada %1$s minutos</item>
+        <item quantity="one">A cada %1$s minuto</item>
+    </plurals>
     <plurals name="snooze_duration_summary">
         <item quantity="other">Os alarmes vão desligar %2$s vezes (A cada %1$s min.)</item>
         <item quantity="one">O alarme vai desligar %2$s vez (A cada %1$s min.)</item>

@@ -1281,7 +1281,7 @@ Além disso, está ligado a uma VPN, que pode monitorizar a sua actividade da re
   <string name="quick_settings_dual_location_label">GPS duplo</string>
   <string name="quick_settings_done">Concluído</string>
   <string name="quick_settings_edit_label">Editar</string>
-  <string name="quick_settings_extreme_batterysaver_label">Poup. extrema bateria</string>
+  <string name="quick_settings_extreme_batterysaver_label">Poup. bat. extrema</string>
   <string name="quick_settings_flashlight_label">Lanterna</string>
   <string name="quick_settings_gps_label">GPS</string>
   <string name="quick_settings_hotspot_label">PA Móvel</string>

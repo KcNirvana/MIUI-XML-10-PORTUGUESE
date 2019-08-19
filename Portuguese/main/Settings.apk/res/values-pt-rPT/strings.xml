@@ -1621,7 +1621,7 @@ Esta definição afecta todos os utilizadores deste telefone"</string>
   <string name="dual_setting_simcard1">SIM 1</string>
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="dump_log">Obter registos de problemas</string>
-  <string name="dump_log_summary">Esta funcionalidade serve para gerar o registo 284 nas versões Alpha e Beta da MIUI. Utilize-a com cuidado.
+  <string name="dump_log_summary">"Esta funcionalidade serve para gerar o registo 284 nas versões Alpha e Beta da MIUI. Utilize-a com cuidado.
 Pode ver o registo gerado no Explorador"</string>
   <string name="dump_log_title">Acerca desta funcionalidade</string>
   <string name="edge_mode_back">Voltar</string>
@@ -3376,7 +3376,7 @@ O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="power_key_how_start">Ligar o assistente Google</string>
   <string name="power_key_how_start_detail">Prima e segure o botão Ligar/Desligar por 0.5 segundos. Solte para falar</string>
   <string name="power_key_start_enjoy">Saber mais acerca do assistente Google</string>
-  <string name="power_key_start_guide">Waking Google Assistant using the Power button on full display devices</string>
+  <string name="power_key_start_guide">Ligar o assistente Google Assistant utilizando o botão Ligar/Desligar no modo ecrã em tamanho inteiro</string>
   <string name="power_last_full_charge_summary">Há ^1</string>
   <string name="power_menu_under_keyguard_summary">Permitir o acesso ao menu de Ligar/Desligar com o dispositivo bloqueado</string>
   <string name="power_menu_under_keyguard_title">Acesso ao menu de Ligar/Desligar</string>

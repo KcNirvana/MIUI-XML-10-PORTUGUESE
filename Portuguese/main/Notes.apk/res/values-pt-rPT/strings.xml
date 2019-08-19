@@ -29,8 +29,8 @@
   <string name="call_folder_name">Notas de chamada</string>
   <string name="cancel_alarm_description">Cancelar alarme</string>
   <string name="check_in_todo_app">Ver tarefas</string>
-  <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Mi Cloud para sincronizar notas</string>
-  <string name="cloud_trash_bin_title">Eliminar notas na Mi Cloud</string>
+  <string name="cloud_service_state_open_reminder">Ligue a sincronização com a Xiaomi Cloud para sincronizar notas</string>
+  <string name="cloud_trash_bin_title">Eliminar notas na Xiaomi Cloud</string>
   <string name="cta_confirm_cancel">Não permitir</string>
   <string name="cta_confirm_ok">Permitir</string>
   <string name="cta_dialog_message">O Notas necessita de permissões para ligar à Internet, gravar áudio e aceder aos seus contactos para funcionar normalmente. Permitir?</string>
@@ -42,7 +42,7 @@
   <string name="date_time_picker_has_not_set_alarm">O alarme não está definido</string>
   <string name="date_time_picker_has_set_alarm">Alarme definido com sucesso</string>
   <string name="db_downgrade_clear_button">Limpar dados da aplicação</string>
-  <string name="db_downgrade_clear_date_reminder">Para trocar para uma versão diferente de MIUI é necessário limpar os dados da aplicação Notas. Antes de fazer isso, certifique-se que fez uma cópia das suas notas para a Mi Cloud</string>
+  <string name="db_downgrade_clear_date_reminder">Para trocar para uma versão diferente de MIUI é necessário limpar os dados da aplicação Notas. Antes de fazer isso, certifique-se que fez uma cópia das suas notas para a Xiaomi Cloud</string>
   <string name="default_folder_name">Pasta sem nome</string>
   <string name="delete_folder_dialog_tile">Eliminar pasta</string>
   <string name="dialog_privacy_revoke_tips">Após revogar a autorização, a aplicação vai parar de reunir dados e todos os dados relacionados vão ser eliminados. Revogar autorização mesmo assim?</string>
@@ -124,7 +124,7 @@
   <string name="menu_unstick">Soltar</string>
   <string name="not_now">Agora não</string>
   <string name="note_alert_expired">Expirado</string>
-  <string name="note_description_content">A aplicação Notas é uma óptima ferramenta para guardar as suas ideias. Tem lembretes embutidos e sincroniza os seus itens para a Mi Cloud para que os possa aceder a qualquer altura em qualquer lado. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
+  <string name="note_description_content">A aplicação Notas é uma óptima ferramenta para guardar as suas ideias. Tem lembretes embutidos e sincroniza os seus itens para a Xiaomi Cloud para que os possa aceder a qualquer altura em qualquer lado. Certifique-se que não quer estas funcionalidades antes de desinstalar a aplicação</string>
   <string name="note_description_title">Acerca de Notas</string>
   <string name="note_link_email">Escrever email</string>
   <string name="note_link_other">Abrir utilizando a aplicação de mapas</string>
@@ -143,7 +143,7 @@
   <string name="permlab_accessNote">Aceder a notas</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">Deslize para cima com dois dedos para eliminar notas sem confirmação</string>
   <string name="pref_desc_todo_float_mode">Deslize a partir da borda do ecrã para abrir as ferramentas</string>
-  <string name="pref_title_cloud_trash_bin">Eliminar notas na Mi Cloud</string>
+  <string name="pref_title_cloud_trash_bin">Eliminar notas na Xiaomi Cloud</string>
   <string name="pref_title_common">Definições adicionais</string>
   <string name="pref_title_font_size">Tamanho do tipo de letra</string>
   <string name="pref_title_note_style">Estilo</string>
@@ -196,7 +196,7 @@
   <string name="sns_title_send">Enviar mensagem</string>
   <string name="sns_toast_empty">Não é possível enviar uma mensagem vazia</string>
   <string name="sns_toast_over_limit">Enviado como imagem</string>
-  <string name="sync_tips">Toque para sincronizar notas com a Mi Cloud</string>
+  <string name="sync_tips">Toque para sincronizar notas com a Xiaomi Cloud</string>
   <string name="theme_blue_description">Azul</string>
   <string name="theme_green_description">Verde</string>
   <string name="theme_red_description">Vermelho</string>

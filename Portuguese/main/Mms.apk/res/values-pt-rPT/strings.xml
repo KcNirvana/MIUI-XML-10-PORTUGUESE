@@ -81,9 +81,9 @@
   <string name="check_all">Seleccionar todas</string>
   <string name="class_0_message_activity">Mensagem de classe 0</string>
   <string name="close">Fechar</string>
-  <string name="cloud_state_disabled">Ligue a sincronização com a Mi Cloud para sincronizar mensagens</string>
-  <string name="cloud_state_sync_finished">Sincronizado com a Mi Cloud</string>
-  <string name="cloud_state_syncing">A sincronizar com a Mi Cloud…</string>
+  <string name="cloud_state_disabled">Ligue a sincronização com a Xiaomi Cloud para sincronizar mensagens</string>
+  <string name="cloud_state_sync_finished">Sincronizado com a Xiaomi Cloud</string>
+  <string name="cloud_state_syncing">A sincronizar com a Xiaomi Cloud…</string>
   <string name="complain_message_title">Reclamações</string>
   <string name="compressing">A imagem é demasiado grande. A comprimir…</string>
   <string name="confirm">OK</string>
@@ -217,10 +217,10 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Carregar mensagens de %1$s para %2$s?</string>
   <string name="found_old_messages_title">Carregar mensagens dos seus outros cartões SIM?</string>
-  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da Mi Cloud, inicie sessão na sua Conta Mi e ligue a sincronização de SMS</string>
-  <string name="found_wild_messages_guide_settings_desc">Sincronizar mensagens da Mi Cloud nas definições de mensagens</string>
+  <string name="found_wild_messages_guide_cloud_desc">Para sincronizar mensagens da Xiaomi Cloud, inicie sessão na sua Conta Mi e ligue a sincronização de SMS</string>
+  <string name="found_wild_messages_guide_settings_desc">Sincronizar mensagens da Xiaomi Cloud nas definições de mensagens</string>
   <string name="found_wild_messages_guide_sync_not_started">Sincronização ainda não começou</string>
-  <string name="found_wild_messages_title">Sincronizar mensagens da Mi Cloud</string>
+  <string name="found_wild_messages_title">Sincronizar mensagens da Xiaomi Cloud</string>
   <string name="from_label">"De: "</string>
   <string name="from_pkg_name">Da aplicação:</string>
   <string name="group_already_kicked_hint">Não é possível enviar mensagens. Não é um membro deste grupo de conversa</string>
