@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">Armazenamento de Contactos</string>
+  <string name="app_label">Armazenamento de contactos</string>
   <string name="call_log_provider_label">Registos de chamadas</string>
   <string name="create_contact">Novo contacto</string>
   <string name="debug_dump_database_message">Está prestes a 1) fazer uma cópia de segurança da sua base de dados, que inclui todos os contactos e informações relacionadas com todos registos de chamadas para o armazenamento interno, e 2) enviar um email. Lembre-se de eliminar a cópia de segurança que fez do dispositivo ou o email recebido</string>
@@ -30,6 +30,6 @@
   <string name="upgrade_out_of_memory_notification_ticker">A actualização necessita de mais memória</string>
   <string name="upgrade_out_of_memory_notification_title">A aumentar o tamanho do armazenamento para os contactos</string>
   <string name="video_call">Videochamada</string>
-  <string name="voicemail_cleanup">Limpar VoiceMail</string>
+  <string name="voicemail_cleanup">Limpar Voice Mail</string>
   <string name="voicemail_from_column">"Mensagem de voz de "</string>
 </resources>

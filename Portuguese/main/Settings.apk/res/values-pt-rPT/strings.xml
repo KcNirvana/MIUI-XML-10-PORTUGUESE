@@ -1035,7 +1035,7 @@ Esta funcionalidade pode ser desligada nas [Settings]"</string>
   <string name="category_personal">Pessoal</string>
   <string name="category_work">Trabalho</string>
   <string name="cdma_security_settings_summary">Definir a minha localização, desbloqueio de ecrã, credencial de bloqueio do armazenamento</string>
-  <string name="cell_broadcast_settings">Transmissões Móveis</string>
+  <string name="cell_broadcast_settings">Transmissões de emergência</string>
   <string name="cellular_data_summary">Permitir utilizar dados por rede móvel</string>
   <string name="cellular_data_title">Dados de móveis</string>
   <string name="cellular_data_usage">Utilização de dados móveis</string>
@@ -5417,7 +5417,7 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wallpaper_settings_fragment_title">Escolher papel de parede de</string>
   <string name="wallpaper_settings_summary_custom">Personalizado</string>
   <string name="wallpaper_settings_summary_default">Predefinido</string>
-  <string name="wallpaper_settings_title">Papel de parede</string>
+  <string name="wallpaper_settings_title">Papéis de parede</string>
   <string name="wallpaper_suggestion_summary">Personalize o seu ecrã</string>
   <string name="wallpaper_suggestion_title">Alterar papel de parede</string>
   <string name="wapi_auto_sel_cert">Seleccionar automaticamente</string>

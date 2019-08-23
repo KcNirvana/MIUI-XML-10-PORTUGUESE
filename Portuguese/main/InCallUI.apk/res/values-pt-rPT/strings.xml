@@ -206,7 +206,7 @@
   <string name="voicemail">Voice Mail</string>
   <string name="volte_call">Chamada VoLTE</string>
   <string name="volume_boost_text">Volume aumentado com sucesso</string>
-  <string name="video_crbt_title">%s toque de vídeo</string>
+  <string name="video_crbt_title">O toque de chamada de vídeo da outra parte está a tocar</string>
   <string name="wait_prompt_str">"Enviar os seguintes tons?
 "</string>
   <string name="waiting_close_airplane_mode">Aguarde…</string>

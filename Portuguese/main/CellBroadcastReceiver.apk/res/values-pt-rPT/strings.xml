@@ -4,7 +4,7 @@
   <string name="alert_reminder_interval_title">Lembrete de alerta</string>
   <string name="alert_sound_duration_summary"/>
   <string name="alert_sound_duration_title">Duração do som de alerta</string>
-  <string name="app_label">Transmissões Móveis</string>
+  <string name="app_label">Transmissões de emergência</string>
   <string name="button_cancel">Cancelar</string>
   <string name="button_delete">Eliminar</string>
   <string name="button_dismiss">OK</string>
@@ -96,7 +96,7 @@
   <string name="pws_other_message_identifiers">Alerta de Emergência</string>
   <string name="show_cmas_opt_out_summary">Mostrar caixa de diálogo de exclusão após apresentar o 1º alerta CMAS (excepto Alerta Presidenciais)</string>
   <string name="show_cmas_opt_out_title">Mostrar caixa de diálogo de exclusão</string>
-  <string name="sms_cb_settings">Definições de Transmissões Móveis</string>
+  <string name="sms_cb_settings">Definições de Transmissões de emergência</string>
   <string name="tw_alert_message">Mensagens de alerta</string>
   <string name="tw_emergency_alert">Alerta de emergência</string>
   <string name="tw_required_monthly_test">Teste mensal necessário</string>

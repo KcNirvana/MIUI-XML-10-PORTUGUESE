@@ -102,6 +102,7 @@ Pode iniciar sessão na sua Conta Mi com %s agora"</string>
 ID:%s
 Envie este código ao supervisor"</string>
   <string name="empty_device_list_notice">Sem dispositivos</string>
+  <string name="ep_unsupported">O seu dispositivo não suporta o início de sessão pela Conta Mi</string>
   <string name="error_dup_binded_email">Este endereço de email já está associado a outra Conta Mi</string>
   <string name="error_invalid_bind_address">O endereço de email que introduziu é inválido</string>
   <string name="exceed_binded_phone_times_notice">Este número de telefone já está associado a outra Conta Mi</string>

@@ -73,6 +73,10 @@
         <item quantity="other">(%d itens)</item>
         <item quantity="one">(%d item)</item>
     </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%1$d fotos de %2$s vão ser adicionadas</item>
         <item quantity="one">%1$d foto de %2$s vai ser adicionada</item>
@@ -167,15 +171,15 @@
     </plurals>
     <plurals name="delete_photo_from_all_devices_and_cloud_msg">
         <item quantity="other">Eliminar %d fotos de todos os dispositivos e Xiaomi Cloud?</item>
-        <item quantity="one">Eliminar esta foto de todos os dispositivos e Xiaomi Cloud?</item>
+        <item quantity="one">Eliminar %d foto de todos os dispositivos e Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_photo_from_local">
         <item quantity="other">Eliminar %d fotos?</item>
-        <item quantity="one">Eliminar esta foto?</item>
+        <item quantity="one">Eliminar %d foto?</item>
     </plurals>
     <plurals name="delete_photo_from_this_album_and_cloud_msg">
         <item quantity="other">Eliminar %d fotos deste álbum e Xiaomi Cloud?</item>
-        <item quantity="one">Eliminar esta foto deste álbum e Xiaomi Cloud?</item>
+        <item quantity="one">Eliminar %d foto deste álbum e Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">Eliminar %d fotos do seu dispositivo?</item>
@@ -183,15 +187,15 @@
     </plurals>
     <plurals name="delete_video_from_all_devices_and_cloud_msg">
         <item quantity="other">Eliminar %d vídeos de todos os dispositivos e Xiaomi Cloud?</item>
-        <item quantity="one">Eliminar este vídeo de todos os dispositivos e Xiaomi Cloud?</item>
+        <item quantity="one">Eliminar %d vídeo de todos os dispositivos e Xiaomi Cloud?</item>
     </plurals>
     <plurals name="delete_video_from_local">
         <item quantity="other">Eliminar %d vídeos?</item>
-        <item quantity="one">Eliminar este vídeo?</item>
+        <item quantity="one">Eliminar %d vídeo?</item>
     </plurals>
     <plurals name="delete_video_from_this_album_and_cloud_msg">
         <item quantity="other">Eliminar %d vídeos deste álbum e Xiaomi Cloud?</item>
-        <item quantity="one">Eliminar este vídeo deste álbum e Xiaomi Cloud?</item>
+        <item quantity="one">Eliminar %d vídeo deste álbum e Xiaomi Cloud?</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">Não foi possível transferir %1$d ficheiros</item>

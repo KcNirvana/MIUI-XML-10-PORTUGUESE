@@ -103,6 +103,20 @@
         <item>Guardar papel de parede</item>
         <item>Assistir estrutura</item>
         <item>Assistir captura de ecrã</item>
+        <item>Ler o estado do telefone</item>
+        <item>Adicionar Voice Mail</item>
+        <item>Utilizar SIP</item>
+        <item>Processar chamada</item>
+        <item>Impressão digital</item>
+        <item>Sensores de corpo</item>
+        <item>Ler transmissões celulares</item>
+        <item>Localização falsa</item>
+        <item>Ler o armazenamento</item>
+        <item>Escrever no armazenamento</item>
+        <item>Ligar ecrã</item>
+        <item>Obter contas</item>
+        <item>Executar em segundo plano</item>
+        <item>Volume de acessibilidade</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>localização aproximada</item>
@@ -155,6 +169,20 @@
         <item>guardar papel de parede</item>
         <item>assistir estrutura</item>
         <item>assistir captura de ecrã</item>
+        <item>ler o estado do telefone</item>
+        <item>adicionar Voice Mail</item>
+        <item>utilizar SIP</item>
+        <item>processar chamada</item>
+        <item>impressão digital</item>
+        <item>sensores de corpo</item>
+        <item>ler transmissões celulares</item>
+        <item>localização falsa</item>
+        <item>ler o armazenamento</item>
+        <item>escrever no armazenamento</item>
+        <item>ligar ecrã</item>
+        <item>obter contas</item>
+        <item>executar em segundo plano</item>
+        <item>volume de acessibilidade</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predefinido</item>

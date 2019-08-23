@@ -182,7 +182,7 @@
   <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Definições da operadora</string>
   <string name="cb_psw_dont_match">Palavras-passe não correspondem</string>
-  <string name="cb_sms_settings">Definições de Transmissões Móveis SMS</string>
+  <string name="cb_sms_settings">Definições de Transmissões de emergência SMS</string>
   <string name="cdma_activate_device">Activar dispositivo</string>
   <string name="cdma_alert_message">Se seleccionar outro cartão como predefinido para dados móveis, não vai poder utilizar o seu cartão UIM China Telecom UIM (excepto em roaming)</string>
   <string name="cdma_alert_title">Cartão UIM tem de estar como predefinido</string>
@@ -197,10 +197,10 @@
   <string name="cdma_system_select_dialogtitle">Seleccionar sistema</string>
   <string name="cdma_system_select_summary">Alterar o modo de de roaming CDMA</string>
   <string name="cdma_system_select_title">Seleccionar sistema</string>
-  <string name="cell_bc_sms_disable">Transmissões Móveis SMS desactivadas</string>
-  <string name="cell_bc_sms_enable">Transmissões Móveis SMS activadas</string>
-  <string name="cell_broadcast_sms">Transmissões Móveis SMS</string>
-  <string name="cell_broadcast_settings">Transmissões Móveis</string>
+  <string name="cell_bc_sms_disable">Transmissões de emergência SMS desactivadas</string>
+  <string name="cell_bc_sms_enable">Transmissões de emergência SMS activadas</string>
+  <string name="cell_broadcast_sms">Transmissões de emergência SMS</string>
+  <string name="cell_broadcast_settings">Transmissões de emergência</string>
   <string name="cf_mobile_date">Ligue os dados móveis e certifique-se que o Wi-Fi está desligado</string>
   <string name="cfb_title">Reencaminhar quando estiver ocupado</string>
   <string name="cfnrc_title">Reencaminhar quando estiver inacessível</string>
@@ -390,7 +390,7 @@
   <string name="enable_disable_administrative">Administrativo</string>
   <string name="enable_disable_advertisements">Anúncios</string>
   <string name="enable_disable_atr">Relatórios de trânsito</string>
-  <string name="enable_disable_cell_bc_sms">Transmissões Móveis SMS</string>
+  <string name="enable_disable_cell_bc_sms">Transmissões de emergência SMS</string>
   <string name="enable_disable_emergency_broadcast">Transmissão de emergência</string>
   <string name="enable_disable_eo">Oportunidades de Emprego</string>
   <string name="enable_disable_international">Internacionais</string>
@@ -914,6 +914,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Rede 3G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Rede 4G (LTE)</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Rede 4G (CDMA)</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G</string>
   <string name="preferred_network_type_pref_entries_5g_preferred">Rede 5G</string>
   <string name="preferred_network_type_pref_entries_auto">Automática</string>
   <string name="preferred_network_type_pref_entries_global">Global</string>

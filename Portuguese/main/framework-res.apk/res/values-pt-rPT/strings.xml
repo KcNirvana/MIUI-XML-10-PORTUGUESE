@@ -684,7 +684,7 @@ Tente novamente dentro de %d segundos"</string>
   <string name="notification_channel_updates">Actualizações</string>
   <string name="notification_channel_usb">Ligação USB</string>
   <string name="notification_channel_virtual_keyboard">Teclado virtual</string>
-  <string name="notification_channel_voice_mail">Mensagens de Voicemail</string>
+  <string name="notification_channel_voice_mail">Mensagens de Voice Mail</string>
   <string name="notification_channel_vpn">Estado da VPN</string>
   <string name="notification_channel_wfc">Chamadas Wi-Fi</string>
   <string name="notification_description">Estado das chamadas de voz</string>

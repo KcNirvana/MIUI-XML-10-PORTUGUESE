@@ -117,7 +117,7 @@
   <string name="antivirus_privacy_dialog_summary">Esta funcionalidade encripta e envia o ID do seu dispositivo para o Avast, AVL e servidores do Tencent (%s)</string>
   <string name="antivirus_privacy_dialog_summary_link">Política de Privacidade</string>
   <string name="antivirus_privacy_dialog_title">Política de Privacidade</string>
-  <string name="antivirus_sec_network_unavailable">A aplicação Segurança não consegue actualizar porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
+  <string name="antivirus_sec_network_unavailable">Segurança não consegue actualizar porque restringiu a ligação à Internet. Permitir que Segurança se ligue à Internet?</string>
   <string name="antivirus_toast_already_update">Actualizado</string>
   <string name="antivirus_toast_network_unavailable">Não foi possível ligar à rede</string>
   <string name="antivirus_toast_update_failed">Não foi possível actualizar</string>
@@ -402,6 +402,9 @@
   <string name="background_restrict_app_dialog_message">Restringir o acesso à rede em segundo plano para esta aplicação pode fazer com que a aplicação deixe de funcionar correctamente. Restringir mesmo assim?</string>
   <string name="background_traffic">Segundo plano %s</string>
   <string name="backsound_set_hint">Definir a sua mensagem de ausência para %s?</string>
+  <string name="banner_optimizemanage_summary">Libertar memória</string>
+  <string name="banner_red_money_assist_button">Ligar</string>
+  <string name="banner_red_money_assist_summary">Abrir envelopes mais rapidamente</string>
   <string name="battery_and_property">Bateria e desempenho</string>
   <string name="battery_capacity_title">Capacidade da bateria</string>
   <string name="battery_charge_estimating">A calcular…</string>
@@ -599,10 +602,10 @@
   <string name="cpu_usage_view_action_btn_text">Toque para ver</string>
   <string name="create_gamebooster_destop">Atalho criado no ecrã inicial com sucesso</string>
   <string name="create_shortcut">Criar um atalho no ecrã inicial para o Acelerador de jogos</string>
-  <string name="cta_dialog_msg">Tem de concordar com a nossa &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de Privacidade&amp;lt;/a&amp;gt; antes de utilizar Segurança. Segurança também necessita de ligar à Internet e aceder à sua localização. Concorda?</string>
   <string name="cta_dialog_negative">Sair</string>
   <string name="cta_dialog_positive">Concordar</string>
   <string name="cta_dialog_title">Termos e Condições</string>
+  <string name="cta_main_purpose">Bem-vindo a Segurança! Pode utilizar esta aplicação para limpar lixo no seu dispositivo, limpar vírus, optimizar desempenho em jogos, poupar bateria, etc.</string>
   <string name="cta_settings">Permitir ligação à Internet</string>
   <string name="current_network_state_not_need_diagnose">A ligação à Internet está normal</string>
   <string name="customize_limit_pkg">%s (personalizado)</string>
@@ -649,7 +652,7 @@ A sua operador pode cobrar custos adicionais se ligar novamente os dados móveis
   <string name="deep_clean_never_memory_clean">Nunca</string>
   <string name="deep_power_save_item_summary_auto_brightness">Ajustar brilho do ecrã automaticamente para poupar bateria</string>
   <string name="deep_power_save_item_summary_bluetooth">Desligar Bluetooth para poupar bateria</string>
-  <string name="deep_power_save_item_summary_lock_screen_time">Suspender ecrã após 30 segundos para poupar bateria</string>
+  <string name="deep_power_save_item_summary_lock_screen_time">Suspender ecrã após 15 segundos para poupar bateria</string>
   <string name="deep_power_save_item_title_auto_brightness">Ligar brilho automático</string>
   <string name="deep_power_save_item_title_bluetooth">Desligar Bluetooth</string>
   <string name="deep_power_save_item_title_lock_screen_time">Suspender ecrã</string>
@@ -734,7 +737,7 @@ Vai ser adicionado às excepções mas os itens bloqueados anteriormente não v�
   <string name="dlg_remove_whitelist">Remover estes números das excepções?</string>
   <string name="dlg_remove_whitelist_ing">A remover…</string>
   <string name="dlg_remove_whitelist_title">Remover</string>
-  <string name="dlg_sec_network_unavailable">A aplicação Segurança não pode ser actualizada devido à restrição de Internet. Permitir que Segurança se ligue à Internet?</string>
+  <string name="dlg_sec_network_unavailable">Segurança não pode ser actualizada devido à restrição de Internet. Permitir que Segurança se ligue à Internet?</string>
   <string name="dlg_title_not_open_stranger_identify">Identificação de chamadas</string>
   <string name="dlg_white_address_antispam_message">Adicionar esta localização às excepções?</string>
   <string name="dlg_white_antispam_hint">Excepções</string>
@@ -1013,7 +1016,7 @@ medical card"</string>
   <string name="gamebooster_lowbattery_notification_summary">Carregue a sua bateria antes que desligue</string>
   <string name="gamebooster_lowbattery_notification_title">A sua bateria é inferior a 5%%</string>
   <string name="gamebooster_main_activity_back">Voltar</string>
-  <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades de Acelerador de jogos?</string>
+  <string name="gamebooster_network_dialog_message">Permitir que Segurança se ligue à rede para utilizar todas as funcionalidades de Game Turbo?</string>
   <string name="gamebooster_network_dialog_title">Algumas funcionalidades não estão disponíveis</string>
   <string name="gamebox_app_not_find">Instale a aplicação primeiro</string>
   <string name="gamebox_browser_not_find">Instale o Navegador primeiro</string>
@@ -1107,7 +1110,7 @@ medical card"</string>
   <string name="gb_new_feature">Nova funcionalidade</string>
   <string name="gb_shortcut_pref_title">Atalho de ecrã inicial</string>
   <string name="gb_sign_notification_title">"Aumentar a velocidade de rede para jogos "</string>
-  <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa <a href='http://www.miui.com/res/doc/privacy/pt.html'>Política de Privacidade</a>"</string>
+  <string name="gdpr_msg">"Para utilizar as funcionalidade básicas de Segurança, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais na nossa <a href='https://privacy.mi.com/all/%1$s_%2$s'>Política de Privacidade</a>"</string>
   <string name="get_sys_info">A obter informações…</string>
   <string name="gigabyteShort">GB</string>
   <string name="gmscore_support_remind">Ligue esta funcionalidade se estiver com problemas a utilizar Gmail, Google Maps e outras aplicações Google</string>
@@ -1393,15 +1396,10 @@ da operadora"</string>
   <string name="menu_setting_traffic">Definir manualmente</string>
   <string name="menu_sms">Enviar mensagem</string>
   <string name="menu_summary_antispam">Bloquear chamadas e mensagens</string>
-  <string name="menu_summary_antispam_2">Chamadas e mensagens bloqueadas</string>
   <string name="menu_summary_antivirus">Procurar por vírus no dispositivo</string>
-  <string name="menu_summary_antivirus_2">Encontrados potenciais riscos</string>
-  <string name="menu_summary_antivirus_3">Ainda não verificou o dispositivo</string>
   <string name="menu_summary_app_manager">Actualizar e desinstalar aplicações</string>
-  <string name="menu_summary_app_manager_2">Actualizações disponíveis</string>
   <string name="menu_summary_garbage_cleanup">Sem lixo</string>
-  <string name="menu_summary_garbage_cleanup_2">Tamanho do lixo</string>
-  <string name="menu_summary_garbage_cleanup_3">Limpar lixo agora</string>
+  <string name="menu_summary_garbage_cleanup_ex">Limpar %s de lixo</string>
   <string name="menu_summary_networkassistants">Gerir o seu plano de dados</string>
   <string name="menu_summary_networkassistants_2">Ultrapassou o limite</string>
   <string name="menu_summary_networkassistants_3">Dados restantes suficientes</string>
@@ -1423,7 +1421,7 @@ da operadora"</string>
   <string name="menu_text_networkassistants_unit_kb">KB</string>
   <string name="menu_text_networkassistants_unit_mb">MB</string>
   <string name="menu_text_optimize_manage">Optimizar velocidade</string>
-  <string name="menu_text_power_manager">Optimização de bateria</string>
+  <string name="menu_text_power_manager">Bateria e desempenho</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_wh_remove">Remover das excepções</string>
   <string name="menu_white">Adicionar às excepções</string>
@@ -1679,6 +1677,8 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="perfermance_optimization_summary">Evite o sobreaquecimento e problemas de hardware</string>
   <string name="perfermance_optimization_title">Optimização de desempenho</string>
   <string name="permission_action_accept">Aceitar</string>
+  <string name="permission_action_always">Permitir sempre</string>
+  <string name="permission_action_foreground">Enquanto estiver em utilização</string>
   <string name="permission_action_prompt">Notificar</string>
   <string name="permission_action_reject">Negar</string>
   <string name="permission_close_permission_control_dialog_msg">Quando o gestor de permissões está inactivo, as aplicações não vão pedir a sua permissão para lerem os seus contactos, verem os seus registos de chamadas, modificarem definições de sistema, acederem à câmara ou a outros recursos do dispositivo</string>
@@ -1691,6 +1691,16 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="permit_running_network">Dados em segundo plano</string>
   <string name="person_hotpot">Pontos de Acesso Móveis</string>
   <string name="phone">Telefone</string>
+  <string name="phone_manage">Utilitários</string>
+  <string name="phone_manage_app_manager_summary">Gerir aplicações no seu dispositivo</string>
+  <string name="phone_manage_clean_summary">Limpar espaço de armazenamento</string>
+  <string name="phone_manage_clean_title">Limpeza</string>
+  <string name="phone_manage_electric_summary">Optimizar o seu dispositivo para poupar bateria</string>
+  <string name="phone_manage_electric_title">Bateria</string>
+  <string name="phone_manage_special_summary">Explorar as nossas funcionalidades adicionais</string>
+  <string name="phone_manage_special_title">Funcionalidades especiais</string>
+  <string name="phone_manage_system_tool_summary">Ferramentas de sistema úteis</string>
+  <string name="phone_manage_system_tool_title">Ferramentas</string>
   <string name="pkg_traffic">Definir limite de dados</string>
   <string name="pm_auto_start_by_other">Início desencadeado</string>
   <string name="pm_auto_start_by_other_app">Permitir que a aplicação seja iniciada por outras aplicações</string>
@@ -1775,6 +1785,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_optimize_save_mode_not_opened">Poupança de bateria desligada</string>
   <string name="power_optimize_save_on_lockscreen">Poupar bateria quando o dispositivo estiver bloqueado</string>
   <string name="power_phone">Chamadas de voz</string>
+  <string name="power_save_mode">Poupança de bateria</string>
   <string name="power_save_mode_auto_exit_summary">Desligar quando a bateria estiver a 60% ou totalmente carregada​</string>
   <string name="power_save_mode_auto_exit_title">Desligar quando carregada</string>
   <string name="power_save_mode_close_warn_text">A poupança de bateria restringe as actividades e sincronização em segundo plano. Se ligar quando o dispositivo estiver carregado, algumas funcionalidades podem não funcionar correctamente. Manter a poupança de bateria ligada enquanto o dispositivo estiver carregado?</string>
@@ -1790,6 +1801,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="power_save_ps_close_setting">Desligar os serviços em segundo plano para poupar bateria</string>
   <string name="power_save_ps_freeze">Desactivar aplicações em segundo plano</string>
   <string name="power_save_ps_limit">Restringir a actividade das aplicações de sistema</string>
+  <string name="power_save_settings">Definições de bateria</string>
   <string name="power_save_started_summary_text">A poupança de bateria está ligada. Reduz a actividade em segundo plano, pára a sincronização e minimiza as animações de sistema</string>
   <string name="power_save_summary_text">Ligue a poupança de bateria para reduzir a actividade das aplicações em segundo plano, parar a sincronização e ocultar as animações de sistema</string>
   <string name="power_save_title_text">Poupança de bateria</string>
@@ -2018,7 +2030,6 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="scanning_bar_number">%d%%</string>
   <string name="score_pts">%</string>
   <string name="screenrecord_not_find">Instale a versão mais recente do Gravador de Ecrã e tente novamente</string>
-  <string name="search_input_txt_na"><font color="#ff0000">%s</font></string>
   <string name="search_result_text">Não foram encontradas aplicações</string>
   <string name="section_clear_acc_item_title">%s. Se ainda não houver espaço suficiente, tente utilizar a Limpeza</string>
   <string name="section_security_defend_item_title">Proteger os seus dados com o Bloqueio de aplicações</string>
@@ -2026,13 +2037,14 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="section_title_clear_acc">Limpar cache</string>
   <string name="section_title_security_defend">Segurança</string>
   <string name="section_title_system">Segurança do sistema</string>
-  <string name="security_center_slogan">Segurança. Sempre alerta</string>
+  <string name="security_center_slogan">Mantenha o seu dispositivo rápido e seguro</string>
   <string name="security_scan_optimizing">A optimizar…</string>
   <string name="securityadd_install_fail">Não foi possível actualizar o plugin. Tente novamente</string>
   <string name="securityadd_update_tips_cancle">Agora não</string>
   <string name="securityadd_update_tips_message">Actualize o plugin do serviço de Segurança para ter acesso às últimas funcionalidades. %1$dMB vão ser transferidos</string>
   <string name="securityadd_update_tips_now">Actualizar</string>
   <string name="securityadd_update_tips_title">Actualizar</string>
+  <string name="securitycenter_tab_title">Segurança</string>
   <string name="see_detail">Detalhes</string>
   <string name="see_more_content">Actualize o centro de jogos para ver mais destaques</string>
   <string name="set_applock_password">Definir palavra-passe</string>
@@ -2100,7 +2112,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="sp_empty_title_sign_exception">Segure na aplicação para a adicionar às excepções</string>
   <string name="sp_monitored_apps_count_zero">Sem aplicações de pagamento protegidas</string>
   <string name="sp_monitored_apps_list_title">Definições de monitorização</string>
-  <string name="sp_network_privacy_dialog_message">A Segurança não consegue funcionar correctamente porque restringiu o acesso à Internet. Permitir que Segurança se ligue à Internet?</string>
+  <string name="sp_network_privacy_dialog_message">Segurança não consegue funcionar correctamente porque restringiu o acesso à Internet. Permitir que Segurança se ligue à Internet?</string>
   <string name="sp_network_privacy_dialog_title">Não é possível utilizar a verificação de segurança</string>
   <string name="sp_scan_item_monitor">Monitorizar pagamentos</string>
   <string name="sp_scan_item_url_antispam">Protecção de URLs maliciosos</string>
@@ -2241,7 +2253,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="start_game">Iniciar</string>
   <string name="status_bar_network_flow_content">Hoje: %1$s | Restante: %2$s</string>
   <string name="status_bar_network_flow_content_not_setting">Hoje: %1$s&amp;nbsp;|&amp;nbsp;&amp;nbsp;Este mês: %2$s</string>
-  <string name="status_bar_network_flow_exceed_content">"Hoje: %1$s | Dados excedidos: <font color='#ff0000'>%3$s</font>"</string>
+  <string name="status_bar_network_flow_exceed_content">Hoje: %1$s | Dados excedidos: &lt;font color=%2$s&gt;%3$s&lt;/font></string>
   <string name="status_bar_network_flow_phone_balance">"   Saldo:%1$s "</string>
   <string name="status_bar_network_flow_purchase">"   Comprar &gt;"</string>
   <string name="status_bar_network_flow_setup_data_plan">"   Configurar plano de dados &gt;"</string>
@@ -2280,7 +2292,7 @@ T"&lt;/b&gt;ente usar outro cabo Ethernet para ligar o seu router. Se suspeitar 
   <string name="summary_mifi_insurance">Obter um plano de substituição de hardware durante um ano</string>
   <string name="summary_miui_update">Actualização disponível para %s</string>
   <string name="summary_mms">Bloquear spam de SMS automaticamente</string>
-  <string name="summary_network_switch">Permitir à aplicação Segurança ligar à Internet</string>
+  <string name="summary_network_switch">Permitir que Segurança ligue à Internet</string>
   <string name="summary_never_flow_verify">Este número não foi verificado com a sua operadora</string>
   <string name="summary_payment_risk">O ambiente de pagamento não é seguro</string>
   <string name="summary_permission">Evitar pagamentos indesejados e proteger dados pessoais</string>
@@ -2352,6 +2364,8 @@ Nós respeitamos e protegemos a sua privacidade"</string>
   <string name="system_permission_perm_read_mms">Ler MMS</string>
   <string name="system_permission_perm_read_numbers">Ler números de telefone</string>
   <string name="system_permission_perm_send_mms">Enviar MMS</string>
+  <string name="system_tool_green_guard">Controlo parental</string>
+  <string name="system_tool_sos">SOS Emergência</string>
   <string name="tab_blacklist">Lista de bloqueio</string>
   <string name="tab_block_log">Bloquear registo</string>
   <string name="tab_block_log_unKnowNumber">Número privado</string>

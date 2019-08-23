@@ -31,6 +31,11 @@
   <string name="audio_duration_minutes_format">%1$d minutos</string>
   <string name="audio_duration_seconds_format">%1$d segundos</string>
   <string name="audition_ringtone">Reproduzir</string>
+  <string name="author_attention">Seguir</string>
+  <string name="author_attention_success">Seguido com sucesso</string>
+  <string name="author_dialog_message">Deixar de seguir esta conta?</string>
+  <string name="author_dynamic">Estado</string>
+  <string name="author_dynamic_no_resource">Sem resultados</string>
   <string name="automatically_update_using_theme_tips">Actualizar automaticamente</string>
   <string name="backup_theme_dialog_message">Fazer cópia do seu tema actual?</string>
   <string name="backup_theme_dialog_ok">Fazer cópia</string>
@@ -80,6 +85,9 @@
   <string name="description_version_szie">Versão: %1$s Tamanho: %2$s</string>
   <string name="desktop_effects">Efeitos de ecrã inicial</string>
   <string name="desktop_wallpaper">Ecrã inicial</string>
+  <string name="detail_author_attention_head">Seguir alguns dos melhores designers</string>
+  <string name="detail_author_fans">"Seguidores: "</string>
+  <string name="detail_author_works">"Itens: "</string>
   <string name="detail_recommend_title">Recomendados</string>
   <string name="dev_options">Opções de programador</string>
   <string name="dev_options_summary">Recursos web</string>
@@ -189,7 +197,6 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="lockscreen_wallpaper">Ecrã de bloqueio</string>
   <string name="lockstyle_personal_settings">Personalizar</string>
   <string name="long_click_can_hide_resource">Prima e segure para ocultar itens</string>
-  <string name="loop_wallpaper_is_here">Apresentação de papéis de parede disponíveis</string>
   <string name="mi_wallpaper">Papéis de parede MIUI</string>
   <string name="miuishare_account_activate_confirmation">Activar Conta Mi</string>
   <string name="miuishare_account_activate_ok">Activar</string>
@@ -278,6 +285,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="resource_alarm_default">Alarme</string>
   <string name="resource_app_name">Ver recursos</string>
   <string name="resource_apply">Aplicar</string>
+  <string name="resource_apply_trial">Aplicar</string>
   <string name="resource_back">Voltar</string>
   <string name="resource_buy">Comprar</string>
   <string name="resource_can_not_selected">%1$s não pode(m) ser seleccionado(s)</string>
@@ -348,6 +356,7 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="resource_download">Transferir</string>
   <string name="resource_download_notification_title_many">%1$s temas transferidos</string>
   <string name="resource_download_notification_title_one">Tema transferido</string>
+  <string name="resource_download_trial">Experimentar</string>
   <string name="resource_downloaded_title">Recursos transferidos</string>
   <string name="resource_downloading">A transferir</string>
   <string name="resource_exchange">Resgatar</string>
@@ -678,6 +687,8 @@ Para desligar esta funcionalidade, vá a Definições &gt; Sons e vibração &gt
   <string name="wallpaper_loop_title">Apresentação de papéis de parede</string>
   <string name="wallpaper_loop_title_desk_wallpaper">Apresentação de papéis de parede do ecrã inicial</string>
   <string name="wallpaper_loop_title_lock_walpaper">Apresentação de papéis de parede do ecrã de bloqueio</string>
+  <string name="wallpaper_no_favorite">Sem itens</string>
+  <string name="wallpaper_no_record">Sem itens</string>
   <string name="wallpaper_online">Papéis de parede online</string>
   <string name="wallpaper_online_no_more">É tudo por agora</string>
   <string name="wallpaper_online_tip">Ligue-se à rede para ver mais itens</string>

@@ -47,6 +47,7 @@
   <string name="album_already_forced_top">Já está no topo</string>
   <string name="album_bluetooth">Bluetooth</string>
   <string name="album_camera_name">Câmara</string>
+  <string name="album_cloud_list_page_title">Gerir álbuns sincronizados</string>
   <string name="album_creative">As minhas fotos editadas</string>
   <string name="album_detail_page_empty">Sem fotos ou vídeos</string>
   <string name="album_download">Transferências</string>
@@ -61,6 +62,8 @@
   <string name="album_name_people">Pessoas</string>
   <string name="album_name_recent_discovery">Recentes</string>
   <string name="album_name_tags">Etiquetas</string>
+  <string name="album_hidden_item_button_title">Mostrar</string>
+  <string name="album_hidden_page_title">Ocultar</string>
   <string name="album_notes">Notas</string>
   <string name="album_others_share_baby_info_format">Álbum de bebé de %s</string>
   <string name="album_others_share_info_format">De %s</string>
@@ -256,6 +259,7 @@
   <string name="choose_owner_relation">Relação</string>
   <string name="choose_people">Escolher o álbum de uma pessoa</string>
   <string name="choose_some_people">Escolher álbum com %s</string>
+  <string name="chooser_fragment_mishare_title">Partilhar para</string>
   <string name="cleaner_empty_value_description">Verificação concluída</string>
   <string name="cleaner_photo_pick_delete_selected">Eliminar fotos seleccionadas</string>
   <string name="cleaner_scan_description">A optimização de itens liberta espaço no seu dispositivo</string>
@@ -431,6 +435,8 @@
   <string name="editphoto_datetime_needdownload_origin_subtitle">Transferir o ficheiro original da Xiaomi Cloud para poder alterar a hora</string>
   <string name="editphoto_datetime_needdownload_origin_title">Transferir original</string>
   <string name="email_picker_title">Adicionar email partilhado</string>
+  <string name="empty_album_cloud_list_title">Sem álbuns para sincronizar</string>
+  <string name="empty_album_hidden_list_title">Sem álbuns ocultos</string>
   <string name="empty_description_conditions">Lembre-se das coisas que importam</string>
   <string name="empty_description_no_cards">Lembre-se das coisas que importam</string>
   <string name="empty_query_text_msg">Não sabe o que procurar…</string>
@@ -618,7 +624,7 @@ efeitos de fotos"</string>
   <string name="filter_scene_series">Reflexos</string>
   <string name="filter_scene_vivid">Vívido</string>
   <string name="filter_scene_warm">Sol</string>
-  <string name="filter_single_sky">Céu mágico</string>
+  <string name="filter_single_sky">Skyscaping</string>
   <string name="filter_sky_cloudy">Com nuvens</string>
   <string name="filter_sky_detect_forbidden_tips">Não foi possível detectar o céu</string>
   <string name="filter_sky_download_failed">"Não foi possível transferir o plugin. Verifique as suas definições de rede e tente novamente</string>
@@ -1072,6 +1078,7 @@ para personalizar a galeria"</string>
   <string name="projection_device_connection_failed">Não foi possível ligar ao projector</string>
   <string name="projection_local_mobile">Este telefone</string>
   <string name="projection_multi_title">Dispositivos</string>
+  <string name="projection_screen_project_in_screening">Está a utilizar o dispositivo para transmitir</string>
   <string name="projection_single_title">Transmitir para %s</string>
   <string name="projection_slide_exit">Parar apresentação</string>
   <string name="projection_slide_fail_cause_loading">Reiniciar a apresentação depois de carregar imagem</string>
@@ -1123,6 +1130,9 @@ para personalizar a galeria"</string>
   <string name="remove_from_secret_fail">Não foi possível remover dos álbuns ocultos</string>
   <string name="remove_from_secret_failed_with_reason">Não pode remover do álbum oculto. %1$s</string>
   <string name="remove_from_secret_successful">Removido do álbum oculto</string>
+  <string name="remove_hidden_status_success">%s removido do álbum oculto</string>
+  <string name="remove_hidden_status_tip">Este álbum vai ser mostrado com os outros os álbuns se remover dos ocultos</string>
+  <string name="remove_hidden_status_title">Mostrar</string>
   <string name="remove_to_album_title">Unir com</string>
   <string name="remove_to_other_album">Unir com uma pessoa diferente</string>
   <string name="removed_from_favorites_desc">Removido dos favoritos</string>
@@ -1274,7 +1284,10 @@ para personalizar a galeria"</string>
   <string name="share_public_url_text">Partilhei o álbum %1$s consigo. Veja-o em %2$s</string>
   <string name="share_with_family">Partilhar com a família</string>
   <string name="sharer_quota_fulfiled">Já partilhou este álbum com o limite máximo de pessoas</string>
-  <string name="show_hidden_album_title">Mostrar álbuns ocultos</string>
+  <string name="show_cloud_albumlist_summary">Gerir os álbuns que sincronizou com a Xiaomi Cloud</string>
+  <string name="show_cloud_albumlist_title">Gerir álbuns sincronizados</string>
+  <string name="show_hidden_album_summary">Ver e gerir álbuns ocultos</string>
+  <string name="show_hidden_album_title">Ver álbuns ocultos</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Movido com sucesso. Vá a outros álbuns para ver</string>
   <string name="show_in_other_albums_enable_toast_long_press_menu">Movido com sucesso. Vá a outros álbuns para ver</string>
   <string name="similar_keep_clear">Manter as melhores fotos</string>
