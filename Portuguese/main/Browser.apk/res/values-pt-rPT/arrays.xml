@@ -49,6 +49,7 @@
         <item>Tablet</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Visão em quadrados</item>
         <item>Visão vertical</item>
         <item>Visão horizontal</item>
     </string-array>

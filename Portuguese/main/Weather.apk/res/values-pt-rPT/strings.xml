@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_weather_setting">Acerca de Tempo</string>
+  <string name="about_weather_setting_feedback">Comentários</string>
+  <string name="abrupt_weather_settings_summary_type">Receber alertas sobre precipitação esperada, alterações na qualidade do ar e outras alterações significativas</string>
   <string name="act_find_city_hint">Introduzir localização</string>
   <string name="act_find_city_hot_attractions_title">Sites populares</string>
   <string name="act_find_city_hot_city_title">Cidades populares</string>
@@ -35,6 +38,8 @@
   <string name="ads_score_title"/>
   <string name="alert_detail_title">Detalhes do alerta</string>
   <string name="alert_warning">Alertas de tempo</string>
+  <string name="alert_weather_enable_settings_summary">Receber alertas oficiais de tempo</string>
+  <string name="alert_weather_enable_settings_title">Alertas de tempo</string>
   <string name="app_name">Tempo</string>
   <string name="aqi_data_source">Fornecido por Colorful Clouds</string>
   <string name="aqi_desc">Indíce de qualidade do ar</string>
@@ -85,13 +90,8 @@
   <string name="daily_forcast_no_stable_direction">Sem vento</string>
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
-  <string name="daily_forcast_temperature_connect"/>
-  <string name="daily_forcast_temperature_transfer">%2$s° / %1$s°</string>
-  <string name="daily_forcast_temperature_transfer_C">%2$s / %1$s℃</string>
-  <string name="daily_forcast_temperature_transfer_F">%2$s / %1$s℉</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s mais tarde</string>
   <string name="daily_forcast_whirl_wind">Furacão</string>
-  <string name="daily_forcast_wind_connect">%2$s %1$s</string>
   <string name="daily_forecast_add_city_add">Seguir</string>
   <string name="daily_forecast_add_city_message">Seguir o tempo em %1$s para uma previsão mais detalhada</string>
   <string name="daily_forecast_add_city_title">Seguir o tempo em %1$s</string>
@@ -106,6 +106,7 @@
   <string name="empty_view_net_unavailable">Não foi possível ligar à rede</string>
   <string name="empty_view_refresh">Tente novamente</string>
   <string name="eu_region_version_first_start_network_msg">Ao utilizar este produto, tem de concordar que a Xiaomi vai reunir, processar e utilizar os seus dados pessoais. Ao tocar em \"Concordar\", concorda com %1$s e %2$s da Xiaomi</string>
+  <string name="feedback">Reportar informações de tempo incorrectas</string>
   <string name="feedback_cloudy">Com nuvens</string>
   <string name="feedback_foggy">Nebuloso</string>
   <string name="feedback_haze">Neblina</string>
@@ -187,7 +188,7 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="more_details">Mais detalhes</string>
   <string name="network_not_available">Não é possível ligar à rede</string>
   <string name="network_unavailable">Não é possível ligar à rede</string>
-  <string name="night_not_disturb_settings_summary">Silenciar alertas entre as 23:00 e as 7:00</string>
+  <string name="night_not_disturb_settings_summary">Bloquear alertas entre as 23:00 e as 7:00</string>
   <string name="night_not_disturb_settings_title">Não incomodar à noite</string>
   <string name="no_data">Sem dados</string>
   <string name="no_network_btn">Tente novamente</string>
@@ -279,13 +280,11 @@ Toque no ecrã para adicionar ou repor cidade"</string>
   <string name="updated_a_moment_ago">Actualizado há momentos atrás</string>
   <string name="updating">A actualizar…</string>
   <string name="user_agreement">Termos de Utilização</string>
-  <string name="video_dialog_no_play"/>
-  <string name="video_dialog_play"/>
-  <string name="video_dialog_subtitle"/>
-  <string name="video_dialog_title"/>
   <string name="view_forecast_item_yesterday">Ontem</string>
   <string name="view_indexes_item_today">Hoje</string>
   <string name="view_indexes_item_tommorrow">Amanhã</string>
+  <string name="warning_weather_day_and_night_settings_summary">Receber resumos diários sobre a informação do tempo às 7:00 e 19:00</string>
+  <string name="warning_weather_day_and_night_settings_title">Resumos diários</string>
   <string name="weather_alert_channel_name">Alertas</string>
   <string name="weather_service_channel_name">Serviços em segundo plano</string>
   <string name="weather_alert">Alertas de tempo</string>

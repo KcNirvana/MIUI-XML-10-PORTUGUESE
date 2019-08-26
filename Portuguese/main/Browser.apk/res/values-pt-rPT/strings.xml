@@ -825,7 +825,7 @@ Sair desta página agora?"</string>
     <string name="paused_waiting_to_retry">A aguardar para repetir…</string>
     <string name="pay_failed_toast">Não foi possível concluir o pagamento</string>
     <string name="pay_success_toast">Pago com sucesso</string>
-    <string name="permission_notification">%s quer enviar notificações.</string>
+    <string name="permission_notification">enviar notificações</string>
     <string name="permission_notification_prompt">Pode restringir as notificações para este site nas definições.</string>
     <string name="play_pause_video">Reproduzir ou pausar vídeo</string>
     <string name="play_video">Reproduzir vídeo</string>
@@ -1007,7 +1007,7 @@ Sair desta página agora?"</string>
     <string name="same_folder_name_warning">Já existe um grupo com este nome</string>
     <string name="save_button_text">Guardar</string>
     <string name="save_dialog_title">Guardar</string>
-    <string name="save_file">Guardar %s</string>
+    <string name="save_file">"Guardar "</string>
     <string name="save_file_already_exist_alert_message">Um ficheiro com o mesmo nome já existe, substituir?</string>
     <string name="save_file_already_exist_alert_title">Substituir ficheiro?</string>
     <string name="save_form_data_confirm_message">Desligar este recurso pode afetar a utilização.</string>

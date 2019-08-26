@@ -161,7 +161,7 @@ Se ligar os dados móveis novamente, pode ser cobrado por dados adicionais"</ite
         <item quantity="one">%s hora até estar carregada</item>
     </plurals>
     <plurals name="pc_main_power_manager_minute">
-        <item quantity="other">%s minuto até estar carregada</item>
+        <item quantity="other">%s minutos até estar carregada</item>
         <item quantity="one">%s minuto até estar carregada</item>
     </plurals>
     <plurals name="notification_battery_consume_abnormal_summary">
