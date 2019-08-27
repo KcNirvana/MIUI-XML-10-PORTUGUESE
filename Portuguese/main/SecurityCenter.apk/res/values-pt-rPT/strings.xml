@@ -602,6 +602,7 @@
   <string name="cpu_usage_view_action_btn_text">Toque para ver</string>
   <string name="create_gamebooster_destop">Atalho criado no ecrã inicial com sucesso</string>
   <string name="create_shortcut">Criar um atalho no ecrã inicial para o Acelerador de jogos</string>
+  <string name="cta_HIPS_Perm_Location_Desc">obter localização precisa (baseada em GPS e rede)</string>
   <string name="cta_dialog_negative">Sair</string>
   <string name="cta_dialog_positive">Concordar</string>
   <string name="cta_dialog_title">Termos e Condições</string>

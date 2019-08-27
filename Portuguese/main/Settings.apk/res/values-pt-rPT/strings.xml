@@ -1994,6 +1994,8 @@ Para obter mais detalhes, contacte o administrador da sua organização"</string
   <string name="fsg_mistake_touch_summary">Em alguns casos, como jogos e vídeos de ecrã inteiro, os gestos têm que ser duplos para fazerem efeito</string>
   <string name="fsg_mistake_touch_title">Dupla verificação para gestos</string>
   <string name="full_screen_display">Modo ecrã inteiro</string>
+  <string name="full_screen_keyboard_optimization">Melhorar teclado</string>
+  <string name="full_screen_keyboard_settings">Definições de teclado em ecrã inteiro</string>
   <string name="full_transparent_smarrcover_title">Capa com janela transparente</string>
   <string name="fullbackup_data_summary">"Fazer cópias de segurança automática dos dados do dispositivo (como palavras-passe de Wi-Fi e registo de chamadas) e dos dados das aplicações (como as definições e os ficheiros armazenados pelas aplicações) remotamente.
 
@@ -2163,12 +2165,16 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="input_assistance">Assistência de introdução</string>
   <string name="input_hint_prefix">Introduzir %1$s</string>
   <string name="input_method">Teclado</string>
+  <string name="input_method_bottom_close">Desligado</string>
+  <string name="input_method_bottom_open">Ligado</string>
+  <string name="input_method_manage">Gerir teclados</string>
   <string name="input_method_selector">Selecção do método de entrada</string>
   <string name="input_method_selector_always_hide_title">Ocultar sempre</string>
   <string name="input_method_selector_always_show_title">Mostrar sempre</string>
   <string name="input_method_selector_show_automatically_title">Automático</string>
   <string name="input_method_settings">Definições</string>
   <string name="input_method_settings_button">Definições</string>
+  <string name="input_method_settings_text">Definições</string>
   <string name="input_methods_and_subtype_enabler_title">Escolher modos de entrada activos</string>
   <string name="input_methods_settings_label_format">Definições de %1$s</string>
   <string name="input_methods_settings_title">Entrada de texto</string>
@@ -2238,6 +2244,7 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="keyboard_layout_dialog_switch_hint">Para trocar, prima Control-Barra de espaços</string>
   <string name="keyboard_layout_dialog_title">Escolher disposição do teclado</string>
   <string name="keyboard_layout_picker_title">Disposição de teclado</string>
+  <string name="keyboard_mouse_touch">Teclado, rato e track pad</string>
   <string name="keyboard_settings_category">Métodos de entrada</string>
   <string name="keyboard_settings_title">Teclado Android</string>
   <string name="keyboard_shortcuts_helper">Atalhos de teclado</string>
@@ -3214,6 +3221,7 @@ Seleccione o seu sistema operativo:"</string>
 O OTG desliga-se automaticamente após 10 minutos de inactividade"</string>
   <string name="other_advanced_settings">Definições adicionais</string>
   <string name="other_device_info">Outros</string>
+  <string name="other_input_settings">Definições de teclado adicionais</string>
   <string name="other_personal_settings">Definições adicionais</string>
   <string name="other_relative">Outras</string>
   <string name="other_settings_sync_settings">Sincronização</string>
