@@ -2362,6 +2362,13 @@ Pode alterar esta definição mais tarde em Definições > Aplicações e notifi
   <string name="line_breaking_summary">Optimizar quebra da linha de parágrafo</string>
   <string name="line_breaking_title">Optimizar texto</string>
   <string name="link_speed_label">Velocidade do link:</string>
+  <string name="link_turbo_prompt">As estatísticas nesta página mostram apenas a quantidade de dados necessários para o aumento da velocidade de ligação do Wi-Fi</string>
+  <string name="link_turbo_settings_all_app_display_loading">Aguarde…</string>
+  <string name="link_turbo_settings_all_app_reach_max">Pode seleccionar até 15 aplicações</string>
+  <string name="link_turbo_usage_state_month">Este mês</string>
+  <string name="link_turbo_usage_state_month_total">Este mês</string>
+  <string name="link_turbo_usage_state_today">Hoje</string>
+  <string name="link_turbo_usage_state_today_total">Hoje</string>
   <string name="list_bg_header_text">Se restringir a ligação em segundo plano, as novas aplicações não vão conseguir ligar à Internet em segundo plano</string>
   <string name="list_empty_text">Vazio</string>
   <string name="loading">Aguarde…</string>
@@ -5632,6 +5639,13 @@ Toque no botão (+) para adicionar palavras"</string>
   <string name="wifi_ip_settings_menu_cancel">Cancelar</string>
   <string name="wifi_ip_settings_menu_save">Guardar</string>
   <string name="wifi_limit_optimizations_summary">Limitar bateria utilizada por Wi-Fi</string>
+  <string name="wifi_link_turbo">Utilizar dados móveis para aumentar velocidade</string>
+  <string name="wifi_link_turbo_app_settings_summary">Seleccionar as aplicações que vão utilizar esta funcionalidade</string>
+  <string name="wifi_link_turbo_app_settings_title">Seleccionar aplicações</string>
+  <string name="wifi_link_turbo_no_app">Sem aplicações</string>
+  <string name="wifi_link_turbo_off">Desligado</string>
+  <string name="wifi_link_turbo_on">Ligado</string>
+  <string name="wifi_link_turbo_summary">Aumentar a velocidade da ligação das aplicações seleccionadas utilizando dados móveis quando a ligação Wi-Fi for fraca</string>
   <string name="wifi_menu_advanced">Avançado</string>
   <string name="wifi_menu_connect">Ligar à rede</string>
   <string name="wifi_menu_forget">Esquecer rede</string>

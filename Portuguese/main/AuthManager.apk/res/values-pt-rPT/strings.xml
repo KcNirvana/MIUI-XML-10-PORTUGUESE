@@ -100,6 +100,17 @@
   <string name="location_warning">%1$s é um fornecedor de serviços de localização para este dispositivo. O acesso à localização pode ser modificado nas definições de localização</string>
   <string name="never_ask_again">Não perguntar novamente</string>
   <string name="ok">OK</string>
+  <string name="permgroupdesc_calendar">Aceder aos eventos do calendário</string>
+  <string name="permgroupdesc_calllog">Aceder e guardar itens no registo de chamadas</string>
+  <string name="permgroupdesc_camera">Tirar fotos e gravar vídeos</string>
+  <string name="permgroupdesc_contacts">Aceder a contactos</string>
+  <string name="permgroupdesc_location">Aceder à informação da localização</string>
+  <string name="permgroupdesc_microphone">Gravar áudio</string>
+  <string name="permgroupdesc_phone">Fazer chamadas e gerir conversas</string>
+  <string name="permgroupdesc_recognition">Aceder a dados de saúde e actividades</string>
+  <string name="permgroupdesc_sensors">Aceder a dados dos sensores de corpo</string>
+  <string name="permgroupdesc_sms">Ler ou enviar SMS</string>
+  <string name="permgroupdesc_storage">Aceder a fotos ou ficheiros no dispositivo</string>
   <string name="permgrouprequest_storage_isolated">Permitir que <b>%1$s</b> aceda a fotos e multimédia no seu dispositivo?</string>
   <string name="permission_description_summary_activity_recognition">Aplicações com esta permissão podem aceder às suas actividades físicas como caminhar, contagem de passos,etc.</string>
   <string name="permission_description_summary_calendar">Aplicações com esta permissão podem aceder ao seu calendário</string>

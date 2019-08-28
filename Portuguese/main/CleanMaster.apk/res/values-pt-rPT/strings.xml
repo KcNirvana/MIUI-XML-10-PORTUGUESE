@@ -279,6 +279,8 @@
   <string name="installed">Instalado</string>
   <string name="installing">A instalar</string>
   <string name="item_title_process_mode">Escolha uma acção</string>
+  <string name="junk_tag_RF_EmptyFolders">Pastas vazia</string>
+  <string name="junk_tag_RF_ImageThumbnails">Miniaturas da galeria</string>
   <string name="just_now">Agora mesmo</string>
   <string name="label_image_list_none">Nenhum</string>
   <string name="label_preserve_the_best_image">Guardar as fotos mais nítidas</string>

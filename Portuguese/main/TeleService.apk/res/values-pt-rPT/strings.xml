@@ -925,6 +925,7 @@ O telefone vai bloquear automaticamente após outra tentativa falhada"</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tipo de rede preferida</string>
   <string name="preferred_phone_account">Conta de chamadas preferida</string>
+  <string name="preferred_wificall_roaming_title">Preferências de roaming</string>
   <string name="preferred_wificall_title">Preferências da rede</string>
   <string name="privacy_policy_title">Política de Privacidade</string>
   <string name="private_num">Número privado</string>
