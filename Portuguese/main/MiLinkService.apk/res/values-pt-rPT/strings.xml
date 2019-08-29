@@ -30,7 +30,6 @@ Para mais questões, veja a ajuda"</string>
     <string name="help_page_text_05">Passo 1</string>
     <string name="help_page_text_06">"1. Utilizando o telefone Xiaomi para se ligar a uma Mi TV, pode estabelecer uma ligação sem ser necessário ambiente de rede
 2. Algumas Mi TVs ou outras marcas não suportam a transmissão de ecrã inteligente. É necessário ligar a sua TV ao seu telefone através da mesma rede sem fios"</string>
-    <string name="help_page_text_07">3. Algumas Mi TVs ou outras marcas não suportam a transmissão de ecrã inteligente. Se não existir uma rede sem fios ou se a TV e o telefone não se conseguirem ligar à mesma rede, é necessário ligar a funcionalidade Miracast</string>
     <string name="help_page_text_08">Passo 2</string>
     <string name="help_page_text_09">Toque no botão \"Transmitir\" na área de notificações. Ligue o Wi-Fi e o Bluetooth para uma ligação estável.</string>
     <string name="help_page_text_10">Se quiser transmitir da Galeria ou Vídeos, pode utilizar a função de transmissão nestas aplicações</string>
@@ -39,8 +38,7 @@ Para mais questões, veja a ajuda"</string>
     <string name="help_page_text_13">Não consegue ligar a um dispositivo externo?</string>
     <string name="help_page_text_14">"1. Transmissão de ecrã Mi TV: Actualize a aplicação Visualização sem fios para a versão mais recente
 2. Tente ligar o seu telefone à sua TV na mesma rede para aumentar a taxa de sucesso de ligação. Alguns routers podem não conseguir fornecer uma ligação estável o que pode resultar em interrupções do sinal
-3. Se está a utilizar uma Mi TV, ligar o Bluetooth pode melhorar a ligação 
-4. Se não houver redes Wi-Fi disponíveis, certifique-se que o dispositivo externo (p.e. TV) suporta a funcionalidade Miracast. Os nomes das funcionalidades de transmissão podem variar consoante a marca do seu dispositivo. Consulte as informações abaixo para saber mais sobre a funcionalidade Miracast em diferentes dispositivos"</string>
+3. Se está a utilizar uma Mi TV, ligar o Bluetooth pode melhorar a ligação"</string>
     <string name="help_page_text_15">Funcionalidade Miracast em diferentes dispositivos</string>
     <string name="help_page_text_16">TV Mi/Projector Mi</string>
     <string name="help_page_text_17">"Os telefones Xiaomi podem ligar-se directamente à maioria das Mi TVs com Bluetooth, em vez de ligar a funcionalidade Miracast.
@@ -82,6 +80,8 @@ Se necessitar de abrir a funcionalidade Miracast function, pode premir o botão 
     <string name="help_page_text_51">LeTV</string>
     <string name="help_page_text_52">Certifique-se que o seu ecrã suporta o protocolo Miracast. Nalguns modelos, pode seleccionar Definições > Rede > Vários ecrãs > Visualização sem fios</string>
     <string name="help_page_text_53">Apoio clientes LeTV: 10109000 (China)</string>
+    <string name="help_page_text_55">"Se não houver redes Wi-Fi disponíveis, certifique-se que o dispositivo externo (p.e. TV) suporta a funcionalidade Miracast. Os nomes das funcionalidades de transmissão podem variar consoante a marca do seu dispositivo. Consulte as informações abaixo para saber mais sobre a funcionalidade Miracast em diferentes dispositivos.
+4. Em caso de outros problemas, pode submeter as suas questões e sugestões através da aplicação Comentários"</string>
     <string name="help_page_text_end">Se a marca do seu dispositivo não estiver listada, contacte o fabricante para saber mais</string>
     <string name="small_window">Minimizar janela</string>
     <string name="console_guide_subtitle_small_window">Minimizar a janela para poder utilizar outras funcionalidades enquanto transmite</string>

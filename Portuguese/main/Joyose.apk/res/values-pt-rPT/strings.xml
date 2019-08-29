@@ -2,10 +2,10 @@
 <resources>
   <string name="action_settings">Definições</string>
   <string name="app_name">Contador de passos</string>
-  <string name="connect_wifi">Sem ligações Wi-Fi disponíveis</string>
+  <string name="connect_wifi">Não ligado ao Wi-Fi</string>
   <string name="joyose_name">Joyose</string>
   <string name="permstep_description">Permitir que a aplicação leia as informações dos passos do seu telefone</string>
-  <string name="permstep_label">ler passos</string>
+  <string name="permstep_label">aceder à leitura de passos</string>
   <string name="restart_details">Ligar ou desligar esta funcionalidade necessita dum reinício. Reiniciar agora?</string>
   <string name="restart_later">Mais tarde</string>
   <string name="restart_now">Reiniciar agora</string>
