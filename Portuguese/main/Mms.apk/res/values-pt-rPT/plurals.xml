@@ -77,4 +77,8 @@
         <item quantity="zero">Seleccionar itens</item>
         <item quantity="one">%d seleccionado</item>
     </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"%s mensagens | "</item>
+        <item quantity="one">"%s mensagem | "</item>
+    </plurals>
 </resources>

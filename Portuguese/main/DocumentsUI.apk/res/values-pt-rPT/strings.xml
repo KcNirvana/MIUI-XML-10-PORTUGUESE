@@ -21,11 +21,16 @@
   <string name="abc_toolbar_collapse_description">Fechar</string>
   <string name="allow">Permitir</string>
   <string name="app_label">Ficheiros</string>
+  <string name="authentication_required">Para ver esta pasta, inicie sessão em %1$s</string>
+  <string name="button_clear">Limpar</string>
+  <string name="button_compress">Comprimir</string>
   <string name="button_copy">Copiar</string>
   <string name="button_dismiss">Rejeitar</string>
   <string name="button_move">Mover</string>
   <string name="button_retry">Tentar novamente</string>
   <string name="button_select">Seleccionar</string>
+  <string name="button_show_provider">Mostrar no fornecedor</string>
+  <string name="cant_display_content">Não é possível mostrar conteúdo</string>
   <string name="clipboard_files_cannot_paste">Não é possível colar os ficheiros nesta localização</string>
   <string name="close">Fechar</string>
   <string name="copy_converted_warning_content">Estes ficheiros foram convertidos para outro formato: %1$s</string>
@@ -73,6 +78,7 @@
   <string name="move_preparing">A preparar para mover…</string>
   <string name="never_ask_again">Não perguntar novamente</string>
   <string name="no_results">Sem correspondências em %1$s</string>
+  <string name="not_sorted">Desordenado</string>
   <string name="notification_copy_files_converted_title">Alguns ficheiros foram convertidos</string>
   <string name="notification_touch_for_details">Toque para ver detalhes</string>
   <string name="open_external_dialog_request">Conceder a &lt;b&gt;^1&lt;/b&gt; acesso à pasta &lt;i&gt;^2&lt;/i&gt; em &lt;i&gt;^3&lt;/i&gt;?</string>

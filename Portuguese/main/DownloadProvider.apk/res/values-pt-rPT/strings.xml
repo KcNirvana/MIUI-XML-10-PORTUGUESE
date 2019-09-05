@@ -23,6 +23,8 @@
   <string name="dialog_insufficient_space_on_external">Sem espaço suficiente no armazenamento externo</string>
   <string name="dialog_not_show_again">Não mostrar novamente</string>
   <string name="dialog_tip_limit">Avisar quando for maior que %s</string>
+  <string name="dialog_tip_limit0">Avisar sempre</string>
+  <string name="dialog_tip_no_limit">Não avisar</string>
   <string name="download_apk_desktop_installing">A instalar</string>
   <string name="download_apk_desktop_pause">Em pausa</string>
   <string name="download_apk_desktop_pending">Pendente</string>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_firewall_setting">Lista de bloqueio</string>
+  <string name="action_get_otp">Obter código</string>
+  <string name="action_sign_in">Iniciar sessão</string>
+  <string name="action_sign_in_short">Iniciar sessão</string>
   <string name="activity_not_found">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
   <string name="activity_not_found_uri">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
   <string name="addBlackList">Bloquear</string>
@@ -26,6 +29,8 @@
   <string name="alert_dlg_ok_button">OK</string>
   <string name="app_label">Mensagens</string>
   <string name="app_name">Dispositivos</string>
+  <string name="area_code_hot">Popular</string>
+  <string name="area_code_title">Seleccionar código de país</string>
   <string name="attach_image">Imagens</string>
   <string name="attach_rcs_file">Ficheiro</string>
   <string name="attach_rcs_location">Localização</string>
@@ -53,7 +58,9 @@
   <string name="batch_deleting_progress_message">A eliminar…</string>
   <string name="bcc_label">"Bcc: "</string>
   <string name="block_messaging_entry_title">SMS bloqueadas</string>
+  <string name="block_number_message">Este número de telefone vai ser adicionado à lista de bloqueio. Todas as mensagens enviadas deste número vão ser bloqueadas</string>
   <string name="block_support_text">Fornecido por Antiy</string>
+  <string name="block_tag_message">Todas as mensagens enviadas de %s vão ser bloqueadas</string>
   <string name="bookmark">Favoritos</string>
   <string name="bookmark_confirm_delete_message">Remover mensagens seleccionadas dos favoritos?</string>
   <string name="bookmark_empty">Sem favoritos</string>
@@ -80,6 +87,7 @@
   <string name="change_duration_activity">Alterar duração</string>
   <string name="check_all">Seleccionar todas</string>
   <string name="class_0_message_activity">Mensagem de classe 0</string>
+  <string name="click_to_view">Toque para ver</string>
   <string name="close">Fechar</string>
   <string name="cloud_state_disabled">Ligue a sincronização com a Xiaomi Cloud para sincronizar mensagens</string>
   <string name="cloud_state_sync_finished">Sincronizado com a Xiaomi Cloud</string>
@@ -102,7 +110,7 @@
   <string name="confirm_export_dialog_description">As conversas anteriores com este contacto não vão mais ser mais ocultadas</string>
   <string name="confirm_export_dialog_title">Remover dos contactos privados</string>
   <string name="confirm_no_block_positive">Desbloquear</string>
-  <string name="confirm_no_block_title">Desbloquear números seleccionados? Vão ser adicionados às excepções mas os itens bloqueados previamente não vão aparecer nas Mensagens</string>
+  <string name="confirm_no_block_title">Para de bloquear estas mensagens? As mensagens bloqueadas anteriormente vão aparecer na caixa de entrada</string>
   <string name="confirm_rate_limit">Um grande número de mensagens multimédia está a ser enviado</string>
   <string name="confirm_restore_all_title">Restaurar todas as mensagens enviadas deste número?</string>
   <string name="confirm_restore_checkbox">Restaurar mensagens bloqueadas</string>
@@ -110,6 +118,7 @@
   <string name="confirm_restore_positive">Restaurar</string>
   <string name="confirm_restore_title">Restauro de mensagens</string>
   <string name="confirm_send_mms">Um dos seus destinatários inclui um endereço de email. Esta mensagem vai ser enviada como uma mensagem MMS, o que pode resultar em custos adicionais na sua operadora</string>
+  <string name="confirm_upload_sms">Enviar mensagens para melhorar a funcionalidade de lista de bloqueio</string>
   <string name="contact_not_exists">Esta pessoa não existe nos seus contactos"</string>
   <string name="context_menu_add_calendar">Adicionar ao calendário</string>
   <string name="context_menu_add_contact">Adicionar a contactos</string>
@@ -137,6 +146,7 @@
   <string name="copy_to_sdcard_success">Anexo guardado em %s</string>
   <string name="current_data_version">Versão de Mi Message</string>
   <string name="delete">Eliminar</string>
+  <string name="delete_block_conversation">Eliminar esta conversa</string>
   <string name="delete_bookmark">Remover dos favoritos</string>
   <string name="delete_message">Eliminar</string>
   <string name="delete_phrase">Eliminar resposta</string>
@@ -183,6 +193,11 @@
   <string name="english_subject_limit">40 caracteres</string>
   <string name="enter_edit_mode">Editar mensagens</string>
   <string name="error_code_label">"Código de erro: "</string>
+  <string name="error_field_required">Necessário</string>
+  <string name="error_incorrect_otp">Código incorrecto</string>
+  <string name="error_invalid_otp">Código inválido</string>
+  <string name="error_invalid_phone">Número de telefone inválido</string>
+  <string name="error_login">Não foi possível iniciar sessão</string>
   <string name="error_state">Estado inconsistente</string>
   <string name="error_state_text">"O estado das conversas e destinatários está inconsistente. Envie um relatório de erros para http://go/droidanizer "</string>
   <string name="error_timed_msg">Hora inválida</string>
@@ -224,6 +239,7 @@
   <string name="from_label">"De: "</string>
   <string name="from_pkg_name">Da aplicação:</string>
   <string name="group_already_kicked_hint">Não é possível enviar mensagens. Não é um membro deste grupo de conversa</string>
+  <string name="group_member_is_composing">A escrever…</string>
   <string name="group_message">Mensagem de grupo</string>
   <string name="group_message_title">Mensagens de grupo</string>
   <string name="group_not_exist_hint">Não é possível enviar mensagens de grupo. Este grupo foi eliminado</string>
@@ -259,6 +275,7 @@
   <string name="invalid_destination">Endereço de destino inválido</string>
   <string name="invalid_private_contact">Contacto inválido</string>
   <string name="invalid_recipient_message">Corrija os destinatários ou eles não vão receber a mensagem</string>
+  <string name="is_composing">A escrever…</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Disposição de diapositivos "</string>
   <string name="loading_all_messages">Aguarde…</string>
@@ -312,6 +329,12 @@
   <string name="messagelist_sender_self">Eu</string>
   <string name="messaging">Mensagens</string>
   <string name="mms">MMS</string>
+  <string name="mms_block_alert_message">Todas as MMS, excepto as mensagens enviadas de remetentes autorizados, vão ser bloqueadas</string>
+  <string name="mms_block_alert_ok">Bloquear</string>
+  <string name="mms_block_alert_title">Bloquear MMS</string>
+  <string name="mms_block_hint">"Este remetente não está nos seus contactos.
+Esta mensagem pode não ser solicitada"</string>
+  <string name="mms_block_hint_highlight">Bloquear MMS</string>
   <string name="more">Mais</string>
   <string name="move_down">Mover para baixo</string>
   <string name="move_up">Mover para cima</string>
@@ -387,7 +410,7 @@
   <string name="networking_allow_desc_without_mx">O Mi Message necessita de ligar à Internet para funcionar normalmente. Para reconhecer números desconhecidos, filtar spam, etc. o Mi Message necessita de utilizar as páginas amarelas. Permitir que as páginas amarelas possam ligar à Internet, obter informações de localização e ler os seus contactos?</string>
   <string name="networking_allow_title">Atenção</string>
   <string name="new_message">Nova mensagem</string>
-  <string name="new_message_arrived">Clique para ver</string>
+  <string name="new_message_arrived">Não lida</string>
   <string name="new_phrase">Adicionar resposta</string>
   <string name="new_phrase_hint">Introduzir nova resposta</string>
   <string name="no">Cancelar</string>
@@ -464,6 +487,7 @@
   <string name="pref_summary_notification_body_enabled">Mostrar mensagens no ecrã de bloqueio e na área de notificações</string>
   <string name="pref_summary_off_system_mms_priority">Utilizar aplicações de terceiros para enviar e receber MMS</string>
   <string name="pref_summary_on_system_mms_priority">Utilizar a aplicação Mensagens MIUI como predefinida para enviar e receber MMS</string>
+  <string name="pref_summary_privacy_authority">Clique nesta opção para autorizar ou revogar a sua autorização</string>
   <string name="pref_summary_send_delivery_reports">Enviar mensagem de confirmação de entrega ao remetente quando recebe uma mensagem multimédia</string>
   <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
   <string name="pref_switch_sdk_setting">Trocar fornecedor de SMS inteligentes</string>
@@ -482,7 +506,10 @@
   <string name="pref_title_mms_retrieval_during_national_roaming">Transferir conteúdos MMS em roaming nacional</string>
   <string name="pref_title_mms_retrieval_during_roaming">Transferir conteúdo MMS em roaming</string>
   <string name="pref_title_mms_validity_period">Período de validade de MMS</string>
+  <string name="pref_title_msg_blocked">Lista de bloqueio</string>
   <string name="pref_title_notification_body_enabled">Mensagens no ecrã de bloqueio</string>
+  <string name="pref_title_privacy_authority">Autorizações</string>
+  <string name="pref_title_privacy_policy_detail">Política de Privacidade</string>
   <string name="pref_title_ringtone_repeat">Sons de notificação</string>
   <string name="pref_title_ringtone_repeat_summary">Tocar um som de notificação quando uma mensagem é recebida enquanto o ecrã estiver desligado</string>
   <string name="pref_title_send_delivery_reports">Enviar mensagens de entrega</string>
@@ -621,6 +648,8 @@
   <string name="service_not_activated">Serviço não activo na rede</string>
   <string name="set">Definir</string>
   <string name="share_img">Partilhar</string>
+  <string name="shortcut_new_msg">Nova mensagem</string>
+  <string name="shortcut_setting">Definições</string>
   <string name="show_all_messages">Mostrar todas as mensagens</string>
   <string name="show_delivery_status">Mostrar o estado de entrega</string>
   <string name="show_sender">Mostrar informação do remetente</string>
@@ -688,6 +717,7 @@
   <string name="sub_sim_not_support_mms">Não é possível enviar MMS utilizando o SIM secundário</string>
   <string name="subject_hint">Assunto</string>
   <string name="subject_label">"Assunto: "</string>
+  <string name="success_login">Sessão iniciada com sucesso</string>
   <string name="switch_to_editor">Modo edição</string>
   <string name="switch_to_menu">Modo menu</string>
   <string name="text_in_popup_saved_to_clipboard">Copiado para a área de transferências</string>
@@ -707,6 +737,7 @@
   <string name="to_address_label">"Para: "</string>
   <string name="to_label">"Para "</string>
   <string name="to_send_wrapper">Vai ser enviada às %s</string>
+  <string name="toast_failed_to_close_priv_auth">Não foi possível revogar autorização. Verifique as suas definições de rede e tente novamente</string>
   <string name="toast_pending_hangup_msg">A mensagem vai ser entregue após terminar a chamada</string>
   <string name="today">Hoje</string>
   <string name="too_many_attachments">Existe um limite de %1$s anexos. Apenas o primeiro %2$s vai ser adicionado</string>
@@ -725,7 +756,7 @@ Tentativas efectuadas: %s"</string>
   <string name="undelivered_msg_dialog_title">Mensagem não entregue</string>
   <string name="undelivered_sms_dialog_body">Não foi possível enviar esta mensagem</string>
   <string name="unknown_num">Número desconhecido</string>
-  <string name="unknown_sender">Nova mensagem recebida</string>
+  <string name="unknown_sender">Desconhecido</string>
   <string name="unstick">Soltar</string>
   <string name="unstick_conversation">Soltar a conversa actual</string>
   <string name="unsticked_conversation">Já soltou a conversa actual</string>
@@ -753,4 +784,8 @@ Tentativas efectuadas: %s"</string>
   <string name="yellowpage_recommend_msg">Experimente as funcionalidades das mensagens MIUI</string>
   <string name="yes">OK</string>
   <string name="yesterday">Ontem</string>
+  <string name="you_have_new_message">Tem novas mensagens</string>
+  <string name="zero_sms_feedback_message">As mensagens reportadas são enviadas para os nossos servidores assim como os números de telefone associados. Estas mensagens apenas são utilizadas para melhorar a funcionalidade de lista de bloqueio</string>
+  <string name="zero_sms_feedback_success">Reportado com sucesso</string>
+  <string name="zero_sms_feedback_title">Reportar</string>
 </resources>
